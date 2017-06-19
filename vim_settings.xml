@@ -3,11 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" timestamp="1497865486807">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="35" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" timestamp="1497870424854">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Borders.cs" timestamp="1497869872208">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1497537295294">
         <mark key="[" line="0" column="0" />
@@ -55,17 +63,22 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1497866777454">
-        <mark key="'" line="116" column="35" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1497869599193">
+        <mark key="'" line="124" column="35" />
+        <mark key="[" line="77" column="83" />
+        <mark key="]" line="77" column="93" />
+        <mark key="." line="77" column="93" />
+        <mark key="^" line="77" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1497867078962">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="45" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="45" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1497867695982">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1497870151176">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PuzzlePiece.cs" timestamp="1497865376462">
         <mark key="'" line="48" column="54" />
@@ -131,28 +144,37 @@
       <jump line="109" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="116" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="127" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="26" column="39" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" />
+      <jump line="23" column="39" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Borders.cs" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
+      <jump line="40" column="11" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtZXJhYmxlLlppcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>positions.Zip</text>
+        <text>findParent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JlZW5zaG90VGFrZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIEluaXRQb3NpdGlvbiAoKQogICAgewogICAgICAgIGhvbWVQb3MgPSBuZXcgVmVjdG9yMyh0cmFuc2Zvcm0ucG9zaXRpb24ueCwgMC4wZiwgdHJhbnNmb3JtLnBvc2l0aW9uLnopOwogICAgICAgIHRyYW5zZm9ybS5wb3NpdGlvbiA9IGhvbWVQb3M7CiAgICAgICAgbGFzdFBvcyA9IGhvbWVQb3M7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGlmdFVwID0gbmV3IFZlY3RvcjMoMCwgQ2FtZXJhLm1haW4ucGl4ZWxIZWlnaHQgLyAxMCwgMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtZXJhYmxlLlppcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgb2Zmc2V0ID0gbmV3IFZlY3RvcjMoMTVmLCAwZiwgMTVmKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdAo=</text>
+        <text encoding="base64">ICAgICAgICBHZXRUYXJnZXRQaWVjZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -161,16 +183,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGRlY28gaW4gZGVjb3JhdGlvblByZWZhYnMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIENyZWF0ZURlY29yYXRpb24oZGVjbyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBHZXRDb21wb25lbnQ8RHJhZ0FuZERyb3A+KCkuaXNEZWF0dGFjaGVkID0gdHJ1ZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgZGVjbyBpbiBkZWNvcmF0aW9uUHJlZmFicykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkaXN0YW5jZSA9IFZlY3RvcjMuRGlzdGFuY2UodHJhbnNmb3JtLnJvb3QudHJhbnNmb3JtLnBvc2l0aW9uLCBDYW1lcmEubWFpbi50cmFuc2Zvcm0ucG9zaXRpb24pOwo=</text>
       </register>
     </registers>
     <search>
