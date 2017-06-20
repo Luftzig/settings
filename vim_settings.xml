@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" timestamp="1497887569334">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" timestamp="1497972579718">
         <mark key="'" line="58" column="96" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="92" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="85" column="27" />
+        <mark key="[" line="79" column="54" />
+        <mark key="]" line="79" column="66" />
+        <mark key="^" line="79" column="66" />
+        <mark key="." line="79" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Borders.cs" timestamp="1497869872208">
         <mark key="'" line="0" column="0" />
@@ -76,10 +76,10 @@
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1497876143718">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1497972175202">
         <mark key="'" line="68" column="8" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="68" column="54" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="54" column="4" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1497883434954">
@@ -183,44 +183,44 @@
       <jump line="56" column="96" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvdGhlci5nYW1lT2JqZWN0LkdldENvbXBvbmVudDxSZW5kZXJlcj4oKS5tYXRlcmlhbC5zaGFkZXIgPSBTaGFkZXIuRmluZCgiU3RhbmRhcmQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Vector3.up</text>
       </register>
       <register name="-" type="4">
-        <text>hoveredObject</text>
+        <text>Vector3.up</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY3JlZW5zaG90VGFrZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdGhlci5nYW1lT2JqZWN0LkdldENvbXBvbmVudDxSZW5kZXJlcj4oKS5tYXRlcmlhbC5zaGFkZXIgPSBTaGFkZXIuRmluZCgiU3RhbmRhcmQiKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBPbk1vdXNlT3ZlcigpCiAgICB7CiAgICAgICAgaWYgKElucHV0LkdldE1vdXNlQnV0dG9uRG93bigxKSAmJiB0cmFuc2Zvcm0ucm9vdC5HZXRDb21wb25lbnQ8UHV6emxlUGllY2U+KCkuaXNFZGl0b3JNb2RlKQogICAgICAgIHsKICAgICAgICAgICAgdHJhbnNmb3JtLnJvb3QuR2V0Q29tcG9uZW50PFB1enpsZVBpZWNlPigpLlJvdGF0ZSgpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVyZWRPYmplY3QuR2V0Q29tcG9uZW50PFJlbmRlcmVyPigpLm1hdGVyaWFsLnNoYWRlciA9IFNoYWRlci5GaW5kKCJVbmxpdC9UcmFuc3BhcmVudCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVyZWRPYmplY3QuR2V0Q29tcG9uZW50PFJlbmRlcmVyPigpLm1hdGVyaWFsLnNoYWRlciA9IFNoYWRlci5GaW5kKCJVbmxpdC9UcmFuc3BhcmVudCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG92ZXJlZE9iamVjdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG92ZXJlZE9iamVjdCA9IG51bGw7Cg==</text>
       </register>
     </registers>
     <search>
