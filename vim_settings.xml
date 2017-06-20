@@ -29,7 +29,8 @@
       <file name="/a.dummy" timestamp="1497520323357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceHex.cs" timestamp="1497864049565">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceHex.cs" timestamp="1497973650339">
+        <mark key="'" line="29" column="12" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -76,8 +77,8 @@
         <mark key="^" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1497972175202">
-        <mark key="'" line="68" column="8" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1497973668942">
+        <mark key="'" line="34" column="14" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="54" column="4" />
         <mark key="." line="19" column="0" />
@@ -89,10 +90,12 @@
         <mark key="." line="53" column="105" />
         <mark key="^" line="53" column="105" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PuzzlePiece.cs" timestamp="1497865376462">
-        <mark key="'" line="48" column="54" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="33" column="4" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PuzzlePiece.cs" timestamp="1497973981788">
+        <mark key="'" line="70" column="42" />
+        <mark key="[" line="199" column="8" />
+        <mark key="]" line="199" column="42" />
+        <mark key="." line="199" column="42" />
+        <mark key="^" line="199" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" timestamp="1497536741022">
         <mark key="'" line="171" column="8" />
@@ -181,10 +184,13 @@
       <jump line="59" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
       <jump line="65" column="11" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
       <jump line="56" column="96" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
+      <jump line="29" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceHex.cs" />
+      <jump line="34" column="14" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" />
+      <jump line="70" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PuzzlePiece.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Vector3.up</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlJlbW92aW5nIHRoaXMgb2NjdSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Vector3.up</text>
@@ -196,31 +202,31 @@
         <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBPbk1vdXNlT3ZlcigpCiAgICB7CiAgICAgICAgaWYgKElucHV0LkdldE1vdXNlQnV0dG9uRG93bigxKSAmJiB0cmFuc2Zvcm0ucm9vdC5HZXRDb21wb25lbnQ8UHV6emxlUGllY2U+KCkuaXNFZGl0b3JNb2RlKQogICAgICAgIHsKICAgICAgICAgICAgdHJhbnNmb3JtLnJvb3QuR2V0Q29tcG9uZW50PFB1enpsZVBpZWNlPigpLlJvdGF0ZSgpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlJlbW92aW5nIHRoaXMgb2NjdSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVyZWRPYmplY3QuR2V0Q29tcG9uZW50PFJlbmRlcmVyPigpLm1hdGVyaWFsLnNoYWRlciA9IFNoYWRlci5GaW5kKCJVbmxpdC9UcmFuc3BhcmVudCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdmVyZWRPYmplY3QuR2V0Q29tcG9uZW50PFJlbmRlcmVyPigpLm1hdGVyaWFsLnNoYWRlciA9IFNoYWRlci5GaW5kKCJVbmxpdC9UcmFuc3BhcmVudCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGhvdmVyZWRPYmplY3QgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG92ZXJlZE9iamVjdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG92ZXJlZE9iamVjdCAhPSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgaG92ZXJlZE9iamVjdC5HZXRDb21wb25lbnQ8UmVuZGVyZXI+KCkubWF0ZXJpYWwuc2hhZGVyID0gU2hhZGVyLkZpbmQoIlN0YW5kYXJkIik7CiAgICAgICAgfQo=</text>
       </register>
     </registers>
     <search>
