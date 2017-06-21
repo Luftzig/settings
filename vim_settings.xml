@@ -108,18 +108,24 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_06_21_Business_invoices.sql" timestamp="1498038279152">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/kuze/.gitignore" timestamp="1497785206525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/kuze_general_business_utils.php" timestamp="1498036148794">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/Projects/kuze/php/kuze_general_business_utils.php" timestamp="1498037616403">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="153" column="68" />
+        <mark key="]" line="153" column="68" />
+        <mark key="^" line="153" column="68" />
+        <mark key="." line="153" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/docker-compose.yml" timestamp="1492784969603">
         <mark key="[" line="28" column="17" />
@@ -215,12 +221,12 @@
         <mark key="^" line="25" column="41" />
         <mark key="." line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1498034851811">
-        <mark key="'" line="1959" column="24" />
-        <mark key="[" line="1960" column="106" />
-        <mark key="]" line="1960" column="128" />
-        <mark key="." line="1960" column="128" />
-        <mark key="^" line="1960" column="128" />
+      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1498038581269">
+        <mark key="'" line="1960" column="24" />
+        <mark key="[" line="1953" column="52" />
+        <mark key="]" line="1954" column="13" />
+        <mark key="." line="1954" column="13" />
+        <mark key="^" line="1954" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/kuze_utils.php" timestamp="1498033498892">
         <mark key="'" line="709" column="39" />
@@ -245,12 +251,12 @@
         <mark key="^" line="19" column="82" />
         <mark key="." line="19" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/angular/business_config.php" timestamp="1498034205404">
-        <mark key="'" line="2" column="41" />
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="40" />
-        <mark key="." line="80" column="113" />
-        <mark key="^" line="97" column="77" />
+      <file name="$USER_HOME$/Projects/kuze/php/angular/business_config.php" timestamp="1498038496423">
+        <mark key="'" line="84" column="40" />
+        <mark key="[" line="106" column="114" />
+        <mark key="]" line="106" column="132" />
+        <mark key="." line="106" column="132" />
+        <mark key="^" line="106" column="132" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1492685289704">
         <mark key="'" line="7" column="18" />
@@ -374,7 +380,7 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="65" column="31" />
       </file>
-      <file name="/dummy.sql" timestamp="1498036442507">
+      <file name="/dummy.sql" timestamp="1498037675591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/Dockerfile" timestamp="1491980582122">
@@ -511,8 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
-      <jump line="132" column="33" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
       <jump line="65" column="17" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
       <jump line="28" column="48" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/ShareGardenButton.cs" />
       <jump line="158" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
@@ -611,61 +615,62 @@
       <jump line="28" column="14" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="1959" column="24" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="140" column="0" filename="$USER_HOME$/Projects/kuze/php/kuze_general_business_utils.php" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/kuze/php/kuze_general_business_utils.php" />
+      <jump line="84" column="40" filename="$USER_HOME$/Projects/kuze/php/angular/business_config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>patur</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>business_config</text>
+        <text>invoice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwYXR1ciIgPT4gMiwK</text>
+        <text encoding="base64">CQkJCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQkJCQk8bGFiZWwgPD9waHAgZWNobyAkbGFiZWxBbGlnbjs/PiA8P3BocCBlY2hvICRsYWJlbENsYXNzOz8+IGZvcj0iZXhhbXBsZUlucHV0RW1haWwxIj7Xnteh16TXqCDXmNec16TXldefPC9sYWJlbD4KCQkJCQkJCTxkaXYgPD9waHAgZWNobyAkaW5wdXRDbGFzczs/Pj4KCQkJCQkJCQk8aW5wdXQgdHlwZT0idGV4dCIgcGF0dGVybj0iWzAtOV0qIiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJidXNpbmVzc19waG9uZV9udW1iZXIiIG5nLW1vZGVsPSJidXNpbmVzc1Byb3BlcnRpZXMuYnVzaW5lc3NfcGhvbmVfbnVtYmVyIiByZXF1aXJlZD0iIi8+CgkJCQkJCQk8L2Rpdj4KCQkJCQkJCTxkaXYgbmctc2hvdz0iYnVzaW5lc3NQcm9wZXJ0aWVzRm9ybS4kc3VibWl0dGVkICYmIGJ1c2luZXNzUHJvcGVydGllc0Zvcm0uYnVzaW5lc3NfcGhvbmVfbnVtYmVyLiRpbnZhbGlkIiA8P3BocCBlY2hvICRsYWJlbENsYXNzOz8+PiZuYnNwOzwvZGl2PgoJCQkJCQkJPGRpdiBuZy1zaG93PSJidXNpbmVzc1Byb3BlcnRpZXNGb3JtLiRzdWJtaXR0ZWQgJiYgYnVzaW5lc3NQcm9wZXJ0aWVzRm9ybS5idXNpbmVzc19waG9uZV9udW1iZXIuJGludmFsaWQiIDw/cGhwIGVjaG8gJGlucHV0Q2xhc3M7Pz4+CgkJCQkJCQkJPHNwYW4gY2xhc3M9InNwYW5Gb3JtVmFsaWRhdGlvbkVycm9yIiBuZy1zaG93PSJidXNpbmVzc1Byb3BlcnRpZXNGb3JtLiRzdWJtaXR0ZWQgJiYgYnVzaW5lc3NQcm9wZXJ0aWVzRm9ybS5idXNpbmVzc19waG9uZV9udW1iZXIuJGludmFsaWQiPnt7IGxhbmdmaWxlWydmb3JtX2ludmFsaWRfcGhvbmVfbnVtYmVyJ10gfX08L3NwYW4+CgkJCQkJCQk8L2Rpdj4KCQkJCQkJPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0aWMgJEJVU0lORVNTX1RZUEVTX1RPX05VTSA9IFsKICAgICJjb21wYW55X2x0ZCIgPT4gMCwKICAgICJtdXJzaGUiID0+IDEsCiAgICAicGF0dXIiID0+IDIsCiAgXTsKCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RG93bmdyYWRlIHRvIG15c3FsIDUuNiBiZWNhdXNlIDUuNyBkZWZhdWx0cyBhcmUgY2F1c2luZyBwcm9ibGVtcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzdGF0aWMgJEJVU0lORVNTX1RZUEVTX1RPX05VTSA9IFsKICAgICJjb21wYW55X2x0ZCIgPT4gMCwKICAgICJtdXJzaGUiID0+IDEsCiAgICAicGF0dXIiID0+IDIsCiAgXTsKCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RG93bmdyYWRlIHRvIG15c3FsIDUuNiBiZWNhdXNlIDUuNyBkZWZhdWx0cyBhcmUgY2F1c2luZyBwcm9ibGVtcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dEZWJ1Zwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wqLyoqL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>business_config</last-search>
+      <last-search>invoice</last-search>
       <last-offset />
-      <last-pattern>business_config</last-pattern>
+      <last-pattern>invoice</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deals_ta</entry>
         <entry>carrier_co</entry>
         <entry>target_user_li</entry>
         <entry>tags</entry>
@@ -685,6 +690,7 @@
         <entry>setParticipation</entry>
         <entry>updateBusinessConfig</entry>
         <entry>business_config</entry>
+        <entry>invoice</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
