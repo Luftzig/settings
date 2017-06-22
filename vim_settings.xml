@@ -20,12 +20,12 @@
       <file name="/Dummy.txt" timestamp="1498124644660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/ShapeData.cs" timestamp="1498133011561">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="23" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/ShapeData.cs" timestamp="1498141535677">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="46" column="45" />
+        <mark key="." line="46" column="45" />
+        <mark key="^" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/SavedImageToast.cs" timestamp="1497521665292">
         <mark key="[" line="17" column="9" />
@@ -71,11 +71,19 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498139916812">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
-        <mark key="^" line="198" column="42" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" timestamp="1498141711502">
+        <mark key="'" line="123" column="73" />
+        <mark key="[" line="127" column="67" />
+        <mark key="]" line="127" column="70" />
+        <mark key="^" line="127" column="70" />
+        <mark key="." line="127" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498141697914">
+        <mark key="'" line="123" column="8" />
+        <mark key="[" line="188" column="42" />
+        <mark key="]" line="188" column="41" />
+        <mark key="." line="188" column="41" />
+        <mark key="^" line="188" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1497867695982">
         <mark key="[" line="17" column="51" />
@@ -89,12 +97,12 @@
         <mark key="]" line="54" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1498132847469">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1498140789909">
         <mark key="'" line="45" column="40" />
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="46" column="75" />
-        <mark key="." line="46" column="75" />
-        <mark key="^" line="46" column="75" />
+        <mark key="[" line="75" column="65" />
+        <mark key="]" line="76" column="7" />
+        <mark key="." line="76" column="7" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/StageData.cs" timestamp="1498123623435">
         <mark key="'" line="9" column="14" />
@@ -214,58 +222,62 @@
       <jump line="28" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
-      <jump line="75" column="57" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
-      <jump line="123" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="158" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
-      <jump line="193" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="45" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
       <jump line="225" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="193" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="126" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="75" column="55" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="157" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
+      <jump line="123" column="73" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
+      <jump line="123" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>base.ToString();</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>base.ToString();</text>
       </register>
       <register name="/" type="4">
-        <text>Debug</text>
+        <text>Missing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb24gbmFtZTogIiArIG5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlY29PYmplY3QgPSBHZXREZWNvUHJlZmFiKGRlY28ubmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlY29PYmplY3QgPSBHZXREZWNvUHJlZmFiKGRlY28ubmFtZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgR2FtZU9iamVjdCAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBmb3JlYWNoIChEZWNvcmF0aW9uRGF0YSBkZWNvIGluIGRlY29yYXRpb25zKQogICAgICAgIHsKICAgICAgICAgICAgR2FtZU9iamVjdCAKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBHYW1lT2JqZWN0IGRlY28gPSBHZXREZWNvcmF0aW9uKHBpZWNlTmFtZSk7CiAgICAgICAgVmVjdG9yMyBvcmlnaW5hbFBvc2l0aW9uID0gZGVjby50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgZGVjby50cmFuc2Zvcm0ucG9zaXRpb24gPSBvcmlnaW5hbC50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgZGVjby50cmFuc2Zvcm0ubG9jYWxQb3NpdGlvbiA9IG9yaWdpbmFsUG9zaXRpb247CiAgICAgICAgZGVjby50cmFuc2Zvcm0ucGFyZW50ID0gcHV6emxlUGllY2UudHJhbnNmb3JtOwogICAgICAgIHJldHVybiBvcmlnaW5hbDs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgZGVjb3JhdGlvbiA9IG5hbWVQYXJ0cy5MZW5ndGggPiAyID8gbmFtZVBhcnRzWzJdIDogIk5vbmUiOwo=</text>
       </register>
     </registers>
     <search>
-      <last-search>Debug</last-search>
+      <last-search>Missing</last-search>
       <last-offset />
-      <last-pattern>Debug</last-pattern>
+      <last-pattern>Missing</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -275,6 +287,7 @@
         <entry>screenshotTaker</entry>
         <entry encoding="base64">XDxzY3JlZW5zaG90VGFrZXJcPg==</entry>
         <entry>Debug</entry>
+        <entry>Missing</entry>
       </history-search>
       <history-cmd />
       <history-expr />
