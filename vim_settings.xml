@@ -20,12 +20,12 @@
       <file name="/Dummy.txt" timestamp="1498124644660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/ShapeData.cs" timestamp="1498124153334">
-        <mark key="'" line="16" column="11" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/ShapeData.cs" timestamp="1498133011561">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/SavedImageToast.cs" timestamp="1497521665292">
         <mark key="[" line="17" column="9" />
@@ -71,12 +71,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498126964359">
-        <mark key="'" line="123" column="8" />
-        <mark key="[" line="107" column="28" />
-        <mark key="]" line="107" column="37" />
-        <mark key="." line="107" column="37" />
-        <mark key="^" line="107" column="37" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498133273180">
+        <mark key="[" line="230" column="51" />
+        <mark key="]" line="230" column="51" />
+        <mark key="." line="230" column="51" />
+        <mark key="^" line="230" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1497867695982">
         <mark key="[" line="17" column="51" />
@@ -90,12 +89,12 @@
         <mark key="]" line="54" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1498126588373">
-        <mark key="'" line="59" column="7" />
-        <mark key="[" line="59" column="46" />
-        <mark key="]" line="59" column="46" />
-        <mark key="." line="59" column="46" />
-        <mark key="^" line="66" column="44" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1498132847469">
+        <mark key="'" line="45" column="40" />
+        <mark key="[" line="45" column="45" />
+        <mark key="]" line="46" column="75" />
+        <mark key="." line="46" column="75" />
+        <mark key="^" line="46" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/StageData.cs" timestamp="1498123623435">
         <mark key="'" line="9" column="14" />
@@ -194,7 +193,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
       <jump line="81" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="22" column="11" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
-      <jump line="158" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="52" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
       <jump line="51" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
       <jump line="64" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
@@ -218,13 +216,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
       <jump line="75" column="57" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="123" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="158" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="193" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="45" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
+      <jump line="225" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>ToAngleAxis(deco.yRot, Vector3.up);</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ToAngleAxis(deco.yRot, Vector3.up);</text>
       </register>
       <register name="/" type="4">
         <text>Debug</text>
@@ -233,31 +235,31 @@
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb24gbmFtZTogIiArIG5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkludGVyc2VjdGlvbjogIiArIEhlbHBlcnMuUHJpbnRFbnVtZXJhYmxlKHVzZWRQaWVjZXMuSW50ZXJzZWN0KGRlY29yYXRpb25zLlNlbGVjdChkID0+IGQuYXR0YWNoZWRQaWVjZS5HZXRDb21wb25lbnRJblBhcmVudDxQdXp6bGVQaWVjZT4oKSkpLAogICAgICAgICAgICB4ID0+IHgubmFtZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlY29PYmplY3QgPSBHZXREZWNvUHJlZmFiKGRlY28ubmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRDb21wb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2FtZU9iamVjdCAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChEZWNvcmF0aW9uRGF0YSBkZWNvIGluIGRlY29yYXRpb25zKQogICAgICAgIHsKICAgICAgICAgICAgR2FtZU9iamVjdCAKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBHYW1lT2JqZWN0IGRlY28gPSBHZXREZWNvcmF0aW9uKHBpZWNlTmFtZSk7CiAgICAgICAgVmVjdG9yMyBvcmlnaW5hbFBvc2l0aW9uID0gZGVjby50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgZGVjby50cmFuc2Zvcm0ucG9zaXRpb24gPSBvcmlnaW5hbC50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgZGVjby50cmFuc2Zvcm0ubG9jYWxQb3NpdGlvbiA9IG9yaWdpbmFsUG9zaXRpb247CiAgICAgICAgZGVjby50cmFuc2Zvcm0ucGFyZW50ID0gcHV6emxlUGllY2UudHJhbnNmb3JtOwogICAgICAgIHJldHVybiBvcmlnaW5hbDs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgZGVjb3JhdGlvbiA9IG5hbWVQYXJ0cy5MZW5ndGggPiAyID8gbmFtZVBhcnRzWzJdIDogIk5vbmUiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3N0cmluZ1tdIHNoYXBlTmFtZXMgPSB1c2VkUGllY2VzLldoZXJlKHBpZWNlID0+IHBpZWNlLmlzUGxhY2VkKS5TZWxlY3QocGllY2UgPT4gcGllY2UubmFtZSkuVG9BcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkludGVyc2VjdGlvbjogIiArIEhlbHBlcnMuUHJpbnRFbnVtZXJhYmxlKHVzZWRQaWVjZXMuSW50ZXJzZWN0KGRlY29yYXRpb25zLlNlbGVjdChkID0+IGQuYXR0YWNoZWRQaWVjZS5HZXRDb21wb25lbnRJblBhcmVudDxQdXp6bGVQaWVjZT4oKSkpLAogICAgICAgICAgICB4ID0+IHgubmFtZSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb24gZnJlZSBuYW1lOiAiICsgbmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
