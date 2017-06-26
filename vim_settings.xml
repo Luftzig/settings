@@ -81,12 +81,12 @@
         <mark key="^" line="127" column="70" />
         <mark key="." line="127" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498469626727">
-        <mark key="'" line="225" column="45" />
-        <mark key="[" line="221" column="81" />
-        <mark key="]" line="221" column="94" />
-        <mark key="." line="221" column="94" />
-        <mark key="^" line="221" column="94" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498472779685">
+        <mark key="'" line="217" column="12" />
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="77" />
+        <mark key="." line="63" column="77" />
+        <mark key="^" line="63" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1498468673176">
         <mark key="[" line="20" column="83" />
@@ -135,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" />
       <jump line="25" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/ShareGardenButton.cs" />
       <jump line="15" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/ShareGardenButton.cs" />
       <jump line="50" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
@@ -235,13 +234,14 @@
       <jump line="158" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="193" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="225" column="45" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="224" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DecorationData</text>
+        <text>pieceNames</text>
       </register>
       <register name="-" type="4">
-        <text>DecorationData</text>
+        <text>pieceNames</text>
       </register>
       <register name="/" type="4">
         <text>Debug.Log</text>
@@ -250,31 +250,31 @@
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb24gbmFtZTogIiArIG5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0ZVBpZWNlOiAiICsgZGF0YSArICIgYXQgcG9zaXRpb24gIiArIHBvcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0ZVBpZWNlc0luUG9zaXRpb25zICIgKyBwaWVjZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8c3RyaW5nPiBwaWVjZU5hbWVzID0KICAgICAgICAgICAgICAgIGRlYwogICAgICAgICAgICAgICAgLlNlbGVjdE1hbnkoCiAgICAgICAgICAgICAgICAgICAgc2hhcGUgPT4gbmV3W10geyJfMCJ9LlNlbGVjdChhbmdsZSA9PiBzaGFwZSArIGFuZ2xlKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgLkNvbmNhdChuZXdbXSB7IlNpbmdsZV8wIn0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0ZVBpZWNlc1dpdGhvdXRQb3NpdGlvbnMgIiArIEhlbHBlcnMuUHJpbnRFbnVtZXJhYmxlKHNoYXBlcywgKHgpID0+IHguVG9TdHJpbmcoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0ZVBpZWNlOiAiICsgZGF0YSArICIgYXQgcG9zaXRpb24gIiArIHBvcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0ZVBpZWNlc0luUG9zaXRpb25zICIgKyBwaWVjZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0ZVBpZWNlc1dpdGhvdXRQb3NpdGlvbnMgIiArIEhlbHBlcnMuUHJpbnRFbnVtZXJhYmxlKHNoYXBlcywgKHgpID0+IHguVG9TdHJpbmcoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0aW5nIHBpZWNlICIgKyBkYXRhKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNyZWF0aW5nIHBpZWNlICIgKyBkYXRhKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
     </registers>
     <search>
