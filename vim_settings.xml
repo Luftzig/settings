@@ -81,12 +81,12 @@
         <mark key="^" line="127" column="70" />
         <mark key="." line="127" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498481101409">
-        <mark key="'" line="218" column="33" />
-        <mark key="[" line="212" column="11" />
-        <mark key="]" line="212" column="11" />
-        <mark key="." line="212" column="11" />
-        <mark key="^" line="212" column="17" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498482684222">
+        <mark key="'" line="212" column="35" />
+        <mark key="[" line="86" column="4" />
+        <mark key="]" line="86" column="9" />
+        <mark key="." line="86" column="9" />
+        <mark key="^" line="86" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1498468673176">
         <mark key="[" line="20" column="83" />
@@ -107,12 +107,11 @@
         <mark key="]" line="54" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1498140789909">
-        <mark key="'" line="45" column="40" />
-        <mark key="[" line="75" column="65" />
-        <mark key="]" line="76" column="7" />
-        <mark key="." line="76" column="7" />
-        <mark key="^" line="76" column="7" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" timestamp="1498482959124">
+        <mark key="'" line="71" column="36" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/StageData.cs" timestamp="1498123623435">
         <mark key="'" line="9" column="14" />
@@ -134,18 +133,15 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" timestamp="1498481334303">
         <mark key="'" line="56" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/LoadButton.cs" timestamp="1498481527462">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/LoadButton.cs" timestamp="1498482768182">
         <mark key="'" line="45" column="27" />
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="45" column="66" />
-        <mark key="." line="45" column="66" />
-        <mark key="^" line="45" column="66" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="84" />
+        <mark key="." line="46" column="84" />
+        <mark key="^" line="46" column="84" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="48" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/ShareGardenButton.cs" />
-      <jump line="158" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
-      <jump line="26" column="49" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/ShareGardenButton.cs" />
       <jump line="149" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
       <jump line="175" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
@@ -242,58 +238,62 @@
       <jump line="65" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/LoadButton.cs" />
       <jump line="44" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/LoadButton.cs" />
       <jump line="56" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
+      <jump line="228" column="49" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="213" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="45" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/LoadButton.cs" />
+      <jump line="71" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJEZWNvcmF0aW9ucyBmb3IgIiArIHNoYXBlLnNoYXBlICsgIjogIiArCiAgICAgICAgICAgICAgICAgICAgICBIZWxwZXJzLlByaW50RW51bWVyYWJsZShzaGFwZS5kZWNvcmF0aW9ucywgeCA9PiB4LlRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>Fo</text>
       </register>
       <register name="/" type="4">
-        <text>(Clone</text>
+        <text>deco</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZyhkZWNvUHJlZmFiLm5hbWUgKyAiIHJvdGF0aW9uIGJlZm9yZTogIiArIGRlY29PYmplY3QudHJhbnNmb3JtLnJvdGF0aW9uLmV1bGVyQW5nbGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJEZWNvcmF0aW9ucyBmb3IgIiArIHNoYXBlLnNoYXBlICsgIjogIiArCiAgICAgICAgICAgICAgICAgICAgICBIZWxwZXJzLlByaW50RW51bWVyYWJsZShzaGFwZS5kZWNvcmF0aW9ucywgeCA9PiB4LlRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBob3ZlcmVkT2JqZWN0ID0gbnVsbDsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LlRvTGlzdCgpCiAgICAgICAgICAgICAgICAuRm9yRWFjaChvID0+IG8udHJhbnNmb3JtLnBhcmVudCA9IHBhcmVudFB1enpsZVBpZWNlLnRyYW5zZm9ybSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb3JhdGlvbnMuVG9MaXN0KCkuRm9yRWFjaChvID0+IG8udHJhbnNmb3JtLnBhcmVudCA9IHBpZWNlLnRyYW5zZm9ybSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZyhkZWNvUHJlZmFiLm5hbWUgKyAiIHJvdGF0aW9uIGFmdGVyOiAiICsgZGVjb09iamVjdC50cmFuc2Zvcm0ucm90YXRpb24uZXVsZXJBbmdsZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZyhkZWNvUHJlZmFiLm5hbWUgKyAiIHJvdGF0aW9uIGJlZm9yZTogIiArIGRlY29PYmplY3QudHJhbnNmb3JtLnJvdGF0aW9uLmV1bGVyQW5nbGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChEZWNvcmF0aW9uRGF0YSBkZWNvIGluIGRlY29yYXRpb25zID8/IG5ldyBEZWNvcmF0aW9uRGF0YVtdIHt9KQogICAgICAgIHsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG9yaWdpbmFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlY29PYmplY3QudHJhbnNmb3JtLnJvdGF0aW9uID0gZGVjb1ByZWZhYi50cmFuc2Zvcm0ucm90YXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEFyZ3VtZW50RXhjZXB0aW9uKQogICAgICAgIHsKICAgICAgICAgICAgRGVidWcuTG9nKCJGYWlsZWQgdG8gY3JlYXRlIGRlY29yYXRpb24gZnJvbSAiICsgZGF0YS5uYW1lKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiUHJlZmFiICIgKyBkZWNvUHJlZmFiLm5hbWUgKyAiIHJvdGF0aW9uOiAiICsgZGVjb1ByZWZhYi50cmFuc2Zvcm0ucm90YXRpb24uZXVsZXJBbmdsZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkKICAgICAgICB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiSW5zdGFuY2UgIiArIGRlY29PYmplY3QubmFtZSArICJyb3RhdGlvbjogIiArIGRlY29PYmplY3QudHJhbnNmb3JtLnJvdGF0aW9uLmV1bGVyQW5nbGVzKTsK</text>
+      <register name="9" type="8">
+        <text>ata
+ata</text>
       </register>
       <register name=":" type="4">
-        <text>%s/(Clone//g</text>
+        <text encoding="base64">JzwsJz5zL2RlY28vZGF0YS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>(Clone</last-search>
+      <last-search>deco</last-search>
       <last-offset />
-      <last-pattern>(Clone</last-pattern>
-      <last-replace />
-      <last-substitute>(Clone</last-substitute>
+      <last-pattern>deco</last-pattern>
+      <last-replace>data</last-replace>
+      <last-substitute>deco</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -307,10 +307,12 @@
         <entry>Debug.Log</entry>
         <entry>\(Clone</entry>
         <entry>(Clone</entry>
+        <entry>deco</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(Clone//g</entry>
         <entry>%s/(Clone//g</entry>
+        <entry encoding="base64">JzwsJz5zL2RlY28vZGF0YS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
