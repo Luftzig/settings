@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -21,5 +22,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
 </keymap>
