@@ -127,12 +127,12 @@
         <mark key="." line="199" column="42" />
         <mark key="^" line="199" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" timestamp="1498657890016">
-        <mark key="'" line="161" column="8" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="176" column="48" />
-        <mark key="." line="174" column="0" />
-        <mark key="^" line="177" column="26" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" timestamp="1498661706101">
+        <mark key="'" line="132" column="36" />
+        <mark key="[" line="118" column="70" />
+        <mark key="]" line="118" column="70" />
+        <mark key="." line="118" column="70" />
+        <mark key="^" line="132" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" timestamp="1498572862525">
         <mark key="'" line="260" column="28" />
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceHex.cs" />
       <jump line="34" column="14" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" />
       <jump line="70" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PuzzlePiece.cs" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
@@ -246,13 +245,14 @@
       <jump line="30" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
       <jump line="161" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
+      <jump line="132" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/GardenScreenshot.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2F2ZVBhdGggPSBBcHBsaWNhdGlvbi5kYXRhUGF0aC5SZXBsYWNlKCIvY29tLm5hdGFseWNyZWF0ZXMuemVuZ2FyZGVuL0RhdGEiLCAiL0RvY3VtZW50cyIpICsgQ3JlYXRlRmlsZU5hbWUoKTsKICAgICAgICBEZWJ1Zy5Mb2coIlNhdmUgZmlsZSBsb2NhdGlvbiAiICsgc2F2ZVBhdGgpOwogICAgICAgIEZpbGUuQ29weShzY3JlZW5zaG90RmlsZW5hbWUsIHNhdmVQYXRoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>StuffForScreenshot</text>
       </register>
       <register name="-" type="4">
-        <text>FileUtil.CopyFileOrDirectory</text>
+        <text>StuffForScreenshot</text>
       </register>
       <register name="/" type="4">
         <text>Prefab:</text>
