@@ -20,12 +20,6 @@
       <file name="vim_settings.xml" timestamp="1498470093079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498665672206">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/ShapeData.cs" timestamp="1498570609670">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="9" column="40" />
@@ -249,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB6ZW5HYXJkZW5UZXh0LlNldEFjdGl2ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">QWRkIHN0b3JlcyBpY29ucyB0byBzY3JlZW5zaG90cyAtIHRha2UgSUkK</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -261,31 +255,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgdGV4dHVyZSA9IG5ldyBUZXh0dXJlMkQoU2NyZWVuLndpZHRoLCBTY3JlZW4uaGVpZ2h0LCBUZXh0dXJlRm9ybWF0LlJHQjI0LCBmYWxzZSk7CiAgICAgICAgdGV4dHVyZS5Mb2FkSW1hZ2UoRmlsZS5SZWFkQWxsQnl0ZXMoc2NyZWVuc2hvdEZpbGVuYW1lKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB6ZW5HYXJkZW5UZXh0LlNldEFjdGl2ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">QWRkIHN0b3JlcyBpY29ucyB0byBzY3JlZW5zaG90cyAtIHRha2UgSUkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB6ZW5HYXJkZW5UZXh0LlNldEFjdGl2ZShmYWxzZSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB6ZW5HYXJkZW5UZXh0LlNldEFjdGl2ZSh0cnVlKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IFVQUEVSOyBpKyspCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgc2F2ZVBhdGggPSBBcHBsaWNhdGlvbi5kYXRhUGF0aC5SZXBsYWNlKCIvY29tLm5hdGFseWNyZWF0ZXMuemVuZ2FyZGVuL0RhdGEiLCAiL0RvY3VtZW50cyIpICsgQ3JlYXRlRmlsZU5hbWUoKTsKICAgICAgICBEZWJ1Zy5Mb2coIlNhdmUgZmlsZSBsb2NhdGlvbiAiICsgc2F2ZVBhdGgpOwogICAgICAgIEZpbGUuQ29weShzY3JlZW5zaG90RmlsZW5hbWUsIHNhdmVQYXRoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgc2F2ZVBhdGggPSBBcHBsaWNhdGlvbi5kYXRhUGF0aC5SZXBsYWNlKCIvY29tLm5hdGFseWNyZWF0ZXMuemVuZ2FyZGVuL0RhdGEiLCAiL0RvY3VtZW50cyIpICsgQ3JlYXRlRmlsZU5hbWUoKTsKICAgICAgICBEZWJ1Zy5Mb2coIlNhdmUgZmlsZSBsb2NhdGlvbiAiICsgc2F2ZVBhdGgpOwogICAgICAgIEZpbGVVdGlsLkNvcHlGaWxlT3JEaXJlY3Rvcnkoc2NyZWVuc2hvdEZpbGVuYW1lLCBzYXZlUGF0aCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNpbmcgVW5pdHlFZGl0b3I7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2F2ZVBhdGggPSBBcHBsaWNhdGlvbi5kYXRhUGF0aC5SZXBsYWNlKCIvY29tLm5hdGFseWNyZWF0ZXMuemVuZ2FyZGVuL0RhdGEiLCAiL0RvY3VtZW50cyIpICsgQ3JlYXRlRmlsZU5hbWUoKTsKICAgICAgICBGaWxlVXRpbC5Db3B5RmlsZU9yRGlyZWN0b3J5KHNjcmVlbnNob3RGaWxlbmFtZSwgc2F2ZVBhdGgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlVXRpbC5Db3B5RmlsZU9yRGlyZWN0b3J5KHNjcmVlbnNob3RGaWxlbmFtZSwgQXBwbGljYXRpb24gKyBDcmVhdGVGaWxlTmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2F2ZVBhdGggPSBBcHBsaWNhdGlvbi5kYXRhUGF0aC5SZXBsYWNlKCIvY29tLm5hdGFseWNyZWF0ZXMuemVuZ2FyZGVuL0RhdGEiLCAiL0RvY3VtZW50cyIpICsgQ3JlYXRlRmlsZU5hbWUoKTsKICAgICAgICBGaWxlVXRpbC5Db3B5RmlsZU9yRGlyZWN0b3J5KHNjcmVlbnNob3RGaWxlbmFtZSwgc2F2ZVBhdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/(Clone//g</text>
