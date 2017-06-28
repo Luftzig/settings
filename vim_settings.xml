@@ -20,11 +20,11 @@
       <file name="vim_settings.xml" timestamp="1498470093079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498573623626">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1498638667379">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/ShapeData.cs" timestamp="1498570609670">
         <mark key="'" line="50" column="4" />
@@ -84,12 +84,12 @@
         <mark key="^" line="127" column="70" />
         <mark key="." line="127" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498572395654">
-        <mark key="'" line="43" column="53" />
-        <mark key="[" line="78" column="66" />
-        <mark key="]" line="78" column="66" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" timestamp="1498638377876">
+        <mark key="'" line="42" column="62" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="78" column="66" />
-        <mark key="." line="78" column="66" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1498571056681">
         <mark key="[" line="8" column="53" />
@@ -146,8 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
-      <jump line="99" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="63" column="33" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
       <jump line="74" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
@@ -235,7 +233,6 @@
       <jump line="40" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="53" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="189" column="55" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
-      <jump line="160" column="55" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="144" column="71" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="181" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
@@ -246,55 +243,58 @@
       <jump line="96" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
       <jump line="260" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
       <jump line="74" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/SaveButton.cs" />
+      <jump line="80" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="160" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
+      <jump line="42" column="62" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Regex.Replace(name, &quot;\\W*(\\(\\w+\\)?)*$&quot;, &quot;&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb25zIHdpdGggYmVoYXZpb3VyOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoZGVjb0xpc3QpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Regex.Replace(name, &quot;\\W*(\\(\\w+\\)?)*$&quot;, &quot;&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text>(Clone</text>
+        <text>Prefab:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb25zOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoZGVjb3JhdGlvbnMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb25zIHdpdGggYmVoYXZpb3VyOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoZGVjb0xpc3QpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb25zOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoZGVjb3JhdGlvbnMpKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlByZWZhYjogIiArIGRlY29QcmVmYWIpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coCiAgICAgICAgICAgICJDcmVhdGluZyBkZWNvcmF0aW9ucyBmb3I6ICIgKyBwYXJlbnQuZ2FtZU9iamVjdCArICI6ICIgKyBIZWxwZXJzLlByaW50RW51bWVyYWJsZShkZWNvcmF0aW9ucywgeCA9PiB4LlRvU3RyaW5nKCkpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coInBpZWNlcyBjb3VudDogIiArIHBpZWNlcy5MZW5ndGgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlNoYXBlcyBEYXRhOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoc2hhcGVzRGF0YSkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkxvYWRlZCBwaWVjZXM6ICIgKyBIZWxwZXJzLlByaW50RW51bWVyYWJsZShwdXp6bGVQaWVjZXMpKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRlY29yYXRpb25zOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoZGVjb3JhdGlvbnMpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coCiAgICAgICAgICAgICJDcmVhdGluZyBkZWNvcmF0aW9ucyBmb3I6ICIgKyBwYXJlbnQuZ2FtZU9iamVjdCArICI6ICIgKyBIZWxwZXJzLlByaW50RW51bWVyYWJsZShkZWNvcmF0aW9ucywgeCA9PiB4LlRvU3RyaW5nKCkpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coInBpZWNlcyBjb3VudDogIiArIHBpZWNlcy5MZW5ndGgpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFZGl0b3IuaU9TOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlNoYXBlcyBEYXRhOiAiICsgSGVscGVycy5QcmludEVudW1lcmFibGUoc2hhcGVzRGF0YSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/(Clone//g</text>
       </register>
     </registers>
     <search>
-      <last-search>(Clone</last-search>
+      <last-search>Prefab:</last-search>
       <last-offset />
-      <last-pattern>(Clone</last-pattern>
+      <last-pattern>Prefab:</last-pattern>
       <last-replace />
       <last-substitute>(Clone</last-substitute>
       <last-dir>1</last-dir>
@@ -316,6 +316,8 @@
         <entry>Deco</entry>
         <entry>&quot;Deco</entry>
         <entry>(Clone</entry>
+        <entry>Prefab&quot;</entry>
+        <entry>Prefab:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(Clone//g</entry>
