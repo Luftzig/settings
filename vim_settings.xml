@@ -76,6 +76,12 @@
         <mark key="." line="168" column="43" />
         <mark key="^" line="168" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_06_21_Business_invoices.sql" timestamp="1498395922974">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/AndroidGalleryImageSaver.cs" timestamp="1497519923388">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="15" column="0" />
@@ -108,6 +114,12 @@
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/config-js.php" timestamp="1498387204283">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="4" />
+        <mark key="." line="266" column="4" />
+        <mark key="^" line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/angular/business_config.php" timestamp="1498044504233">
         <mark key="'" line="84" column="40" />
@@ -182,10 +194,11 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="65" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" timestamp="1498725758652">
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
+      <file name="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" timestamp="1498727389148">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+        <mark key="." line="28" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1497973668942">
         <mark key="'" line="34" column="14" />
@@ -272,12 +285,11 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1498726778384">
-        <mark key="'" line="2917" column="66" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1498727277949">
+        <mark key="'" line="2915" column="34" />
+        <mark key="[" line="2915" column="78" />
+        <mark key="]" line="2915" column="78" />
+        <mark key="." line="2915" column="78" />
       </file>
       <file name="vim_settings.xml" timestamp="1498470093079">
         <mark key="[" line="0" column="0" />
@@ -353,8 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Decoration.cs" />
-      <jump line="223" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="2387" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
       <jump line="218" column="33" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/PieceGenerator.cs" />
       <jump line="39" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/GameEditor/LoadButton.cs" />
@@ -453,13 +463,15 @@
       <jump line="2904" column="38" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="2913" column="47" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="2916" column="66" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
+      <jump line="292" column="74" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
+      <jump line="2915" column="34" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>&quot;yPos&quot;: 0.20000000298023225</text>
@@ -471,7 +483,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSAK</text>
+        <text encoding="base64">bmFtZXNwYWNlIGFwaTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -524,10 +536,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGxpbmV0SW52b2ljZVxMaW5ldEludm9pY2UgYXMgTGluZXRJbnZvaWNlOwo=</text>
+        <text encoding="base64">ICAgIGt1emVfdXRpbHM6OmxvZ0RlYnVnKCJCdXNpbmVzcyBkZXRhaWxzID0gJHtidXNpbmVzc19kZXRhaWxzfSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiQnVzaW5lc3MgZGV0YWlsczogJGJ1c2luZXNzX2RldGFpbHMiKTsK</text>
+        <text encoding="base64">ICAkYnVzaW5lc3NfZGV0YWlscyA9IGt1emVfdXRpbHM6OmdldEJ1c2luZXNzRGV0YWlsKCRidXNpbmVzc19pZCwgKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -568,20 +580,21 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGludm9pY2U7Cg==</text>
+      <register name="5" type="4">
+        <text>business_name, company_number, business_address,&quot;
+   . &quot;business_city, business_zip_code, invoice_source_id, vat_rate, business_type&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBcYXBpXEludm9pY2VzOjpyZXF1ZXN0SW52b2ljZSgkKQo=</text>
+        <text encoding="base64">dXNlIGxpbmV0SW52b2ljZVxMaW5ldEludm9pY2UgYXMgTGluZXRJbnZvaWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiQnVzaW5lc3MgZGV0YWlsczogJGJ1c2luZXNzX2RldGFpbHMiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
