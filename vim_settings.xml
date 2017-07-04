@@ -89,9 +89,9 @@
         <mark key="^" line="642" column="22" />
         <mark key="." line="642" column="22" />
       </file>
-      <file name="/kuze_config.php" timestamp="1499153953643">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="69" />
+      <file name="/kuze_config.php" timestamp="1499156569859">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" timestamp="1498395729099">
         <mark key="'" line="113" column="37" />
@@ -103,25 +103,12 @@
       <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_enduser_app.js" timestamp="1498045366621">
         <mark key="'" line="1187" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_06_21_Business_invoices.sql" timestamp="1498744268397">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="6" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/kuze/php/api/invoices.php" timestamp="1498725747370">
         <mark key="'" line="95" column="4" />
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="115" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/kuze/php/kuze_general_business_utils.php" timestamp="1498052689298">
-        <mark key="'" line="129" column="24" />
-        <mark key="[" line="129" column="30" />
-        <mark key="]" line="129" column="30" />
-        <mark key="." line="129" column="30" />
-        <mark key="^" line="129" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/AndroidGalleryImageSaver.cs" timestamp="1497519923388">
         <mark key="'" line="31" column="0" />
@@ -154,11 +141,6 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/angular/business_event_card.php" timestamp="1498032963100">
-        <mark key="'" line="112" column="17" />
-        <mark key="[" line="112" column="157" />
-        <mark key="]" line="112" column="178" />
-      </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/elm-stuff/packages/rtfeldman/elm-css/8.1.0/src/Css.elm" timestamp="1497694656695">
         <mark key="'" line="4371" column="8" />
       </file>
@@ -169,13 +151,8 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" timestamp="1498668761069">
-        <mark key="'" line="49" column="28" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/kuze/php/kuze_const.php" timestamp="1498044815249">
-        <mark key="'" line="79" column="0" />
+        <mark key="'" line="75" column="0" />
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="34" />
         <mark key="." line="37" column="34" />
@@ -196,9 +173,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" timestamp="1499156459565">
-        <mark key="'" line="791" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1492685289704">
         <mark key="'" line="7" column="18" />
@@ -223,7 +197,7 @@
         <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
-        <mark key="^" line="1938" column="48" />
+        <mark key="^" line="1934" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" timestamp="1498141711502">
         <mark key="'" line="123" column="73" />
@@ -325,7 +299,7 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499155055104">
+      <file name="/Dummy.txt" timestamp="1499157753269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/CodeSection.elm" timestamp="1497799548443">
@@ -457,22 +431,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9pbnZvaWNlcwo=</text>
+        <text encoding="base64">ICAgICRpbnZvaWNlX3NvdXJjZV9pZD1rdXplX3V0aWxzOjpnZXRJbnZvaWNlU291cmNlSWQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/receipt</text>
+        <text>$invoice_source</text>
       </register>
       <register name="/" type="4">
         <text>Cliend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JEdMT0JBTFNbJ3NlcnZlcl9waHBfZXJyb3InXT0nL0FwcGxpY2F0aW9ucy9NQU1QL2xvZ3MvcGhwX2Vycm9yLmxvZyc7Cg==</text>
+        <text encoding="base64">JEdMT0JBTFNbJ2RiX3NlcnZlciddPSJkYiI7CiRHTE9CQUxTWydkYl9wb3J0J109MzMwNjsKJEdMT0JBTFNbJ2RiX3VzZXInXT0ia3V6ZSI7CiRHTE9CQUxTWydkYl9wYXNzd29yZCddPSJrdXplIjsKJEdMT0JBTFNbJ2RiX25hbWUnXT0iZGV2IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9pbnZvaWNlcwo=</text>
+        <text encoding="base64">ICAgICRpbnZvaWNlX3NvdXJjZV9pZD1rdXplX3V0aWxzOjpnZXRJbnZvaWNlU291cmNlSWQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiaW52b2ljZV9zb3VyY2U9JGludm9pY2Vfc291cmNlIik7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -525,10 +499,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZSAnYnVzaW5lc3MtYXBwLXYxMS5qcycKPz4K</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGt1emVfdXRpbHM6OmxvZ0RlYnVnKCJVc2VyIGVtYWlsOiAkZW1haWwiKTsK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IG9yaWdpbi9pbnZvaWNlcwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -570,19 +544,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghJGJ1c2luZXNzX2RldGFpbHNbJ2ludm9pY2Vfc3lzdGVtX2FjY291bnRfaWQnXSkgewogICAgICByZXR1cm4gIiI7CiAgICB9Cg==</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZSAnYnVzaW5lc3MtYXBwLXYxMS5qcycKPz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGt1emVfdXRpbHM6OmxvZ0RlYnVnKCJBY2NvdW50IGlkIGlzIG5vdyAiIC4gZ2V0dHlwZSgkaW52b2ljZV9kYXRhWydhY2NvdW50X2lkJ10pIC4gIiB2YWx1ZSAke2ludm9pY2VfZGF0YVsnYWNjb3VudF9pZCddfSIpOwo=</text>
+        <text encoding="base64">ICAgIGt1emVfdXRpbHM6OmxvZ0RlYnVnKCJVc2VyIGVtYWlsOiAkZW1haWwiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAga3V6ZV91dGlsczo6bG9nRGVidWcoIkxpbmV0IC9hcGkvY3JlYXRlL2FjY291bnQgcmVzdWx0OiAiIC4gJGludm9pY2VfcmVzdWx0Wydib2R5J11bJ2lkJ10pOwo=</text>
+        <text encoding="base64">ICAgIGlmICghJGJ1c2luZXNzX2RldGFpbHNbJ2ludm9pY2Vfc3lzdGVtX2FjY291bnRfaWQnXSkgewogICAgICByZXR1cm4gIiI7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
