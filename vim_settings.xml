@@ -180,11 +180,11 @@
         <mark key="." line="51" column="24" />
         <mark key="^" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1499171497300">
+      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1499171934836">
         <mark key="'" line="611" column="44" />
-        <mark key="[" line="3336" column="0" />
-        <mark key="]" line="3336" column="0" />
-        <mark key="." line="3336" column="0" />
+        <mark key="[" line="3350" column="0" />
+        <mark key="]" line="3350" column="0" />
+        <mark key="." line="3350" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/config-js.php" timestamp="1499169458210">
         <mark key="'" line="152" column="0" />
@@ -337,7 +337,7 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499169244186">
+      <file name="/Dummy.txt" timestamp="1499171939776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/CodeSection.elm" timestamp="1497799548443">
@@ -468,8 +468,8 @@
       <jump line="7" column="27" filename="$USER_HOME$/Projects/kuze/php/kuze_payment_utils.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpZiAoJGludm9pY2VfZ2VuZXJhdGVkICYmICRpbnZvaWNlX3NvdXJjZV9pZCA9PSAyKSB7Ci8vICAgICRpbnZvaWNlID0gTGluZXRJbnZvaWNlOjpyZXF1ZXN0SW52b2ljZSgkYnVzaW5lc3NfaWQsICRwYXltZW50X2Ftb3VudCk7Ci8vICAgIGt1emVfdXRpbHM6OmxvZ0RlYnVnKCJJbnZvaWNlIHJlc3VsdCA9ICIgLiBqc29uX2VuY29kZSgkaW52b2ljZSkpOwogIH0gZWxzZSB7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>ID</text>
@@ -478,13 +478,13 @@
         <text encoding="base64">XDxwYXltZW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiaW52b2ljZV9zb3VyY2VfaWQ9JGludm9pY2Vfc291cmNlX2lkIik7Cg==</text>
+        <text encoding="base64">ICAgICRpbnZvaWNlID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgZG9jdW1lbnRfdHlwZSBUSU5ZSU5UOwo=</text>
+        <text encoding="base64">ICBpZiAoJGludm9pY2VfZ2VuZXJhdGVkICYmICRpbnZvaWNlX3NvdXJjZV9pZCA9PSAyKSB7Ci8vICAgICRpbnZvaWNlID0gTGluZXRJbnZvaWNlOjpyZXF1ZXN0SW52b2ljZSgkYnVzaW5lc3NfaWQsICRwYXltZW50X2Ftb3VudCk7Ci8vICAgIGt1emVfdXRpbHM6OmxvZ0RlYnVnKCJJbnZvaWNlIHJlc3VsdCA9ICIgLiBqc29uX2VuY29kZSgkaW52b2ljZSkpOwogIH0gZWxzZSB7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiZG9jdW1lbnRfdHlwZT0kZG9jdW1lbnRfdHlwZSIpOwo=</text>
+        <text encoding="base64">ICAgICRpbnZvaWNlID0gbnVsbDsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -537,10 +537,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuZy1tb2RlbD0iaW52b2ljZV9nZW5lcmF0ZWQiIG5nLXRydWUtdmFsdWU9IjEiIG5nLWZhbHNlLXZhbHVlPSIwIgogICAgICAgICAgICAgbmctY2hlY2tlZD0iaW52b2ljZV9nZW5lcmF0ZWQgPT0gMSI+Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgZG9jdW1lbnRfdHlwZSBUSU5ZSU5UOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJEb2N1bWVudCBjaGFuZ2VkIHRvOiAiLCAkc2NvcGUuZG9jdW1lbnRfdHlwZSwgYXJndW1lbnRzKTsK</text>
+        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiZG9jdW1lbnRfdHlwZT0kZG9jdW1lbnRfdHlwZSIpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -582,25 +582,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgkc2NvcGUuZG9jdW1lbnRfdHlwZSAhPT0gMCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuZy1tb2RlbD0iaW52b2ljZV9nZW5lcmF0ZWQiIG5nLXRydWUtdmFsdWU9IjEiIG5nLWZhbHNlLXZhbHVlPSIwIgogICAgICAgICAgICAgbmctY2hlY2tlZD0iaW52b2ljZV9nZW5lcmF0ZWQgPT0gMSI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLmludm9pY2VfZ2VuZXJhdGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJEb2N1bWVudCBjaGFuZ2VkIHRvOiAiLCAkc2NvcGUuZG9jdW1lbnRfdHlwZSwgYXJndW1lbnRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmaWx0ZXJpbmcgZG9jczogIiwgZG9jLCBidXNpbmVzc0NvbmZpZy5idXNpbmVzc190eXBlLCBkb2MudXNlclR5cGVzLmluZGV4T2YoYnVzaW5lc3NDb25maWcuYnVzaW5lc3NfdHlwZSkpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgkc2NvcGUuZG9jdW1lbnRfdHlwZSAhPT0gMCkgewogICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>function updateBalance (isSourceWithVat) {
-    if (isSourceWithVat) {
-      $scope.balanceToPayNoVat = Number(($scope.balanceToPay / (1 + businessConfig.vat_rate)).toFixed(2));
-    } else {
-      $scope.balanceToPay = Number(($scope.balanceToPayNoVat * (1 + businessConfig.vat_rate)).toFixed(2));
-    }
-  };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJHNjb3BlLmludm9pY2VfZ2VuZXJhdGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmaWx0ZXJpbmcgZG9jczogIiwgZG9jLCBidXNpbmVzc0NvbmZpZy5idXNpbmVzc190eXBlLCBkb2MudXNlclR5cGVzLmluZGV4T2YoYnVzaW5lc3NDb25maWcuYnVzaW5lc3NfdHlwZSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
