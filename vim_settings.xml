@@ -34,12 +34,6 @@
       <file name="/a.dummy" timestamp="1498741252881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/phpold/kuze_utils.php" timestamp="1497784331390">
-        <mark key="'" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" timestamp="1497450852828">
-        <mark key="'" line="193" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" timestamp="1492791203674">
         <mark key="'" line="25" column="36" />
         <mark key="[" line="33" column="48" />
@@ -86,8 +80,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelCompleteOverlay/GardenScreenshot.cs" timestamp="1499258781647">
-        <mark key="'" line="143" column="8" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelCompleteOverlay/GardenScreenshot.cs" timestamp="1499260600397">
+        <mark key="'" line="143" column="65" />
+        <mark key="[" line="137" column="8" />
+        <mark key="]" line="137" column="8" />
+        <mark key="^" line="147" column="64" />
+        <mark key="." line="137" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" timestamp="1499170410613">
         <mark key="'" line="113" column="37" />
@@ -99,9 +97,6 @@
       <file name="$USER_HOME$/Projects/kuze/php/db_scripts/DB_Changes_v300.sql" timestamp="1499162835057">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="35" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_enduser_app.js" timestamp="1498045366621">
-        <mark key="'" line="1187" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_07_04_Business_invoices.sql" timestamp="1499168657271">
         <mark key="[" line="0" column="0" />
@@ -187,9 +182,6 @@
         <mark key="." line="39" column="47" />
         <mark key="^" line="39" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/elm-stuff/packages/rtfeldman/elm-css/8.1.0/src/Css.elm" timestamp="1497694656695">
-        <mark key="'" line="4371" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1497799291882">
         <mark key="'" line="94" column="10" />
         <mark key="[" line="2" column="7" />
@@ -222,9 +214,6 @@
         <mark key="]" line="73" column="8" />
         <mark key="." line="73" column="8" />
         <mark key="^" line="73" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/kuze/php/kuze_utils.php" timestamp="1498745681118">
-        <mark key="'" line="471" column="34" />
       </file>
       <file name="vim_settings.xml" timestamp="1498470093079">
         <mark key="[" line="0" column="0" />
@@ -294,9 +283,6 @@
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/StageData.cs" timestamp="1498123623435">
-        <mark key="'" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.model.ts" timestamp="1492787491819">
         <mark key="'" line="19" column="105" />
@@ -424,9 +410,6 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/kuze_login.php" timestamp="1497776244958">
-        <mark key="'" line="43" column="8" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1498387185354">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -541,14 +524,14 @@
       <jump line="4725" column="18" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="5272" column="19" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="123" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelCompleteOverlay/GardenScreenshot.cs" />
-      <jump line="143" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelCompleteOverlay/GardenScreenshot.cs" />
+      <jump line="143" column="65" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelCompleteOverlay/GardenScreenshot.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkdWNlKGZ1bmN0aW9uICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Object.</text>
       </register>
       <register name="-" type="4">
-        <text>Date()</text>
+        <text>Object.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidXNpbmVzc0NsaWVuZENhcmRQYXltZW50XD4=</text>
@@ -557,10 +540,10 @@
         <text>'bank_company_code', 'bank_branch_number', 'account_number'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkdWNlKGZ1bmN0aW9uICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JlZW5zaG90UHJldmlldy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmaWVsZHM6ICIsIGZpZWxkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVkdWNlKGZ1bmN0aW9uICk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -613,10 +596,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJwYXltZW50X21ldGhvZF9uYW1lID0gIiwgcC5wYXltZW50X21ldGhvZF9uYW1lLCAiIHNlbGVjdGVkIG1ldGhvZCA9ICIsIHBheW1lbnRNZXRob2QubWV0aG9kKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmaWVsZHM6ICIsIGZpZWxkcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJwYXltZW50X21ldGhvZF9uYW1lID0gIiwgcC5wYXltZW50X21ldGhvZF9uYW1lLCAiIHNlbGVjdGVkIG1ldGhvZCA9ICIsIHBheW1lbnRNZXRob2QubWV0aG9kKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -658,19 +641,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXltZW50TWV0aG9kOiAiLCBwYXltZW50TWV0aG9kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiUGF5bWVudHM6ICIsIHBheW1lbnRzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXltZW50TWV0aG9kOiAiLCBwYXltZW50TWV0aG9kKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nICgiUGF5bWVudCBtZXRob2Q6ICIsIHBheW1lbnRNZXRob2QpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiUGF5bWVudHM6ICIsIHBheW1lbnRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nICgiUGF5bWVudCBtZXRob2Q6ICIsIHBheW1lbnRNZXRob2QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGF5bWVudE1ldGhvZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
