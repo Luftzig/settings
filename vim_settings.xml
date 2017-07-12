@@ -86,12 +86,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" timestamp="1499853590310">
-        <mark key="'" line="120" column="4" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="117" column="110" />
+      <file name="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" timestamp="1499855931053">
+        <mark key="'" line="128" column="35" />
+        <mark key="[" line="167" column="10" />
+        <mark key="]" line="169" column="12" />
+        <mark key="." line="169" column="12" />
+        <mark key="^" line="169" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/db_scripts/DB_Changes_v300.sql" timestamp="1499162835057">
         <mark key="[" line="3" column="0" />
@@ -130,6 +130,12 @@
         <mark key="]" line="37" column="24" />
         <mark key="." line="37" column="24" />
         <mark key="^" line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/kuze/php/kuze_payment_utils.php" timestamp="1499855351637">
+        <mark key="[" line="109" column="62" />
+        <mark key="]" line="109" column="63" />
+        <mark key="^" line="109" column="63" />
+        <mark key="." line="109" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/mocha-given/package.json" timestamp="1490283218372">
         <mark key="'" line="10" column="18" />
@@ -171,8 +177,11 @@
         <mark key="." line="2271" column="80" />
         <mark key="^" line="2271" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/config-js.php" timestamp="1499175214438">
-        <mark key="[" line="72" column="20" />
+      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/config-js.php" timestamp="1499855658022">
+        <mark key="[" line="280" column="16" />
+        <mark key="]" line="280" column="16" />
+        <mark key="^" line="292" column="18" />
+        <mark key="." line="280" column="16" />
       </file>
       <file name="vim_settings.xml" timestamp="1498470093079">
         <mark key="[" line="0" column="0" />
@@ -184,11 +193,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" timestamp="1499853769954">
+      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" timestamp="1499855034909">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="2034" column="43" />
+        <mark key="]" line="2035" column="48" />
+        <mark key="." line="2035" column="48" />
+        <mark key="^" line="2035" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/angular/business_config.php" timestamp="1499852157222">
         <mark key="[" line="127" column="69" />
@@ -346,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3132" column="11" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="3133" column="24" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="3167" column="37" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="575" column="55" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
@@ -446,25 +455,26 @@
       <jump line="120" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
       <jump line="5787" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
+      <jump line="128" column="35" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>קבלה</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>קבלה</text>
       </register>
       <register name="/" type="4">
         <text>businessCliend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiLCBidXNpbmVzc190eXBlID0gJyIua3V6ZV9kYjo6ZXNjYXBlKCRhbmd1bGFyX2h0dHBfcGFyYW1zWydidXNpbmVzc190eXBlJ10pLiInIi4K</text>
+        <text encoding="base64">ICAgICAgICA8YiBuZy1zd2l0Y2gtd2hlbj0iMSI+16fXkdec15Q8L2I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9IiIgbmFtZT0iYnVzaW5lc3NfdHlwZSIgbmctbW9kZWw9ImJ1c2luZXNzUHJvcGVydGllcy5idXNpbmVzc190eXBlIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMCI+15fXkdeo15Qg15HXoiLXnjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIj7XoteV16HXpyDXnteV16jXqdeUPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjIiPtei15XXodenINek15jXldeoPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICB7e2RvY3VtZW50VHlwZXNbZG9jdW1lbnRfdHlwZS5yZWxhdGVzVG9dLm5hbWV9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQopOwoKSU5TRVJUIElOVE8gc3lzX2ludm9pY2Vfc291cmNlcwogIChpbnZvaWNlX3NvdXJjZV9pZCwgaW52b2ljZV9zb3VyY2UsIGRlc2NyaXB0aW9uKQogIFZBTFVFUyAoMiwgIkxJTkVUIiwgIiIpOwo+Pj4+Pj4+IFNhdmUgdXBkYXRlZCBidXNpbmVzcyBkYXRhIHRvIGRhdGFiYXNlCg==</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gbmctc3dpdGNoPSJkb2N1bWVudF90eXBlLnJlbGF0ZXNUbyI+PC9zcGFuPgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -517,10 +527,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCA4YjllZWFlZTE3M2FjN2Y1Nzc5NWE1ZTVmOGMyYmU3MDhlMTYyZjQ1CiMgICBpbnZvaWNlX3N5c3RlbV9hY2NvdW50X2lkIElOVAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZSAoJ2J1c2luZXNzLWFwcC12MTEuanMnKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9IiIgbmFtZT0iYnVzaW5lc3NfdHlwZSIgbmctbW9kZWw9ImJ1c2luZXNzUHJvcGVydGllcy5idXNpbmVzc190eXBlIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMCI+15fXkdeo15Qg15HXoiLXnjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIj7XoteV16HXpyDXnteV16jXqdeUPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjIiPtei15XXodenINek15jXldeoPC9vcHRpb24+CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -562,19 +572,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjYW5kaWRhdGVzOiAiLCBwYXltZW50cyk7Cg==</text>
+        <text encoding="base64">PT09PT09PQopOwoKSU5TRVJUIElOVE8gc3lzX2ludm9pY2Vfc291cmNlcwogIChpbnZvaWNlX3NvdXJjZV9pZCwgaW52b2ljZV9zb3VyY2UsIGRlc2NyaXB0aW9uKQogIFZBTFVFUyAoMiwgIkxJTkVUIiwgIiIpOwo+Pj4+Pj4+IFNhdmUgdXBkYXRlZCBidXNpbmVzcyBkYXRhIHRvIGRhdGFiYXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiVXBkYXRpbmcgc2NvcGU6ICIsIGZpZWxkLCAkc2NvcGVbZmllbGRdLCBwb3NzaWJsZU1hdGNoW2ZpZWxkXSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCA4YjllZWFlZTE3M2FjN2Y1Nzc5NWE1ZTVmOGMyYmU3MDhlMTYyZjQ1CiMgICBpbnZvaWNlX3N5c3RlbV9hY2NvdW50X2lkIElOVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZSAoJ2J1c2luZXNzLWFwcC12MTEuanMnKSA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmllbGRzLmZvckVhY2goZnVuY3Rpb24gKGZpZWxkKSB7CiAgICAgICAgY29uc29sZS5sb2coIlVwZGF0aW5nIHNjb3BlOiAiLCBmaWVsZCwgJHNjb3BlW2ZpZWxkXSwgcG9zc2libGVNYXRjaFtmaWVsZF0pOwogICAgICAgICRzY29wZVtmaWVsZF0gPSBwb3NzaWJsZU1hdGNoW2ZpZWxkXQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjYW5kaWRhdGVzOiAiLCBwYXltZW50cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJVcGRhdGUgY2FuZGlkYXRlcyIsIHBvc3NpYmxlTWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiVXBkYXRpbmcgc2NvcGU6ICIsIGZpZWxkLCAkc2NvcGVbZmllbGRdLCBwb3NzaWJsZU1hdGNoW2ZpZWxkXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
