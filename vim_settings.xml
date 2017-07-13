@@ -177,6 +177,12 @@
       <file name="vim_settings.xml" timestamp="1498470093079">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/purescript-tutorial/src/Euler1.purs" timestamp="1499937539849">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/kuze/site.conf" timestamp="1497783226999">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -295,6 +301,13 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="65" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/purescript-tutorial/test/Main.purs" timestamp="1499937642074">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="/dummy.sql" timestamp="1499175222411">
         <mark key="[" line="0" column="0" />
       </file>
@@ -346,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1892" column="22" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="727" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_business_utils-v11.js" />
       <jump line="48" column="2" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_business_utils-v11.js" />
       <jump line="738" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_business_utils-v11.js" />
@@ -446,13 +458,14 @@
       <jump line="2672" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="84" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment_details.php" />
       <jump line="4078" column="4" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
+      <jump line="5" column="7" filename="$USER_HOME$/Projects/purescript-tutorial/test/Main.purs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>log &quot;You should add some tests.&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>TINYINT</text>
+        <text>log &quot;You should add some tests.&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+Pj4=</text>
@@ -688,6 +701,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
