@@ -362,6 +362,12 @@
       <file name="$USER_HOME$/Projects/kuze/php/kuze_login.php" timestamp="1497776244958">
         <mark key="'" line="43" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/haskell-game/src/Main.hs" timestamp="1500026571047">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="57" />
+        <mark key="^" line="7" column="45" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1492339311193">
         <mark key="'" line="2669" column="0" />
         <mark key="[" line="0" column="0" />
@@ -474,10 +480,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>ErrorCallback</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>ErrorCallback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+Pj4=</text>
@@ -485,12 +491,11 @@
       <register name="0" type="2">
         <text encoding="base64">QUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgcmVsYXRlZF9kb2N1bWVudCBJTlRFR0VSOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>do
-  log &quot;Hello sailor!&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdoZXJlCiAgICAgICAgc2ltcGxlRXJyb3JDYWxsYmFjayBlIHMgPSBwdXRTdHJMbiAkIHVud29yZHMgW3Nob3cgZSwgc2hvdyBzXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRyb2wK</text>
+        <text encoding="base64">aW1wb3J0IFByZWx1ZGUK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -542,11 +547,12 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LS1tYWluIDo6IGZvcmFsbCBlLiBFZmYgKGNvbnNvbGUgOjogQ09OU09MRSB8IGUpIFVuaXQKbWFpbiA9IGRvCiAgYXNzZXJ0IChhbnN3ZXIgPT0gMjMzMTY4KQo=</text>
+      <register name="3" type="4">
+        <text>do
+  log &quot;Hello sailor!&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2wK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -588,16 +594,16 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LS1tYWluIDo6IGZvcmFsbCBlLiBFZmYgKGNvbnNvbGUgOjogQ09OU09MRSB8IGUpIFVuaXQKbWFpbiA9IGRvCiAgYXNzZXJ0IChhbnN3ZXIgPT0gMjMzMTY4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQp2YXIgbW9kYWxJbnN0YW5jZSA9ICR1aWJNb2RhbC5vcGVuKHsKYW5pbWF0aW9uOiBmYWxzZSwKdGVtcGxhdGVVcmw6ICRnVGVtcGxhdGVQcmVmaXggKyAnYnVzaW5lc3NfbW9kYWxfZXZlbnRfdHlwZV9jaGFuZ2VkLnBocCcsCmNvbnRyb2xsZXI6ICdldmVudFR5cGVDaGFuZ2VkUG9wdXBDb250cm9sbGVyJywKc2l6ZTogJ2wnLApyZXNvbHZlOiB7CmV2ZW50VHlwZVByb3BlcnRpZXM6IGZ1bmN0aW9uKCkgewpyZXR1cm4gJHNjb3BlLmV2ZW50VHlwZVByb3BlcnRpZXM7Cn0KfQp9KTsKCm1vZGFsSW5zdGFuY2UucmVzdWx0LnRoZW4oZnVuY3Rpb24oc2VsZWN0ZWRJdGVtKQp7CmxvZ0RlYnVnKHNlbGVjdGVkSXRlbSk7CiRzY29wZS5ldmVudFR5cGVQcm9wZXJ0aWVzLmV4dHJhRmllbGRzID0gc2VsZWN0ZWRJdGVtOwp9LCBmdW5jdGlvbigpIHsKbG9nRGVidWcoJ01vZGFsIGRpc21pc3NlZCBhdDogJyArIG5ldyBEYXRlKCkpOwp9KTsKfTsKPj4+Pj4+PiBkOGIxMDA0NDQ2NjViY2U5YjA3NzNmZjY4Y2JhMjUxZTgzMzFlNzZjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
