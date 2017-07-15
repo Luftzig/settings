@@ -362,11 +362,12 @@
       <file name="$USER_HOME$/Projects/kuze/php/kuze_login.php" timestamp="1497776244958">
         <mark key="'" line="43" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/haskell-game/src/Main.hs" timestamp="1500028098456">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-        <mark key="^" line="3" column="33" />
+      <file name="$USER_HOME$/Projects/haskell-game/src/Main.hs" timestamp="1500113502528">
+        <mark key="'" line="48" column="34" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="39" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1492339311193">
         <mark key="'" line="2669" column="0" />
@@ -377,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="727" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_business_utils-v11.js" />
       <jump line="48" column="2" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_business_utils-v11.js" />
       <jump line="738" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/kuze_business_utils-v11.js" />
       <jump line="4621" column="49" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
@@ -477,10 +477,11 @@
       <jump line="84" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment_details.php" />
       <jump line="4078" column="4" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="5" column="7" filename="$USER_HOME$/Projects/purescript-tutorial/test/Main.purs" />
+      <jump line="43" column="34" filename="$USER_HOME$/Projects/haskell-game/src/Main.hs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGsgdGhlbiByZXR1cm4gKCkgZWxzZSBsb29wIHdpbmRvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -492,10 +493,10 @@
         <text encoding="base64">QUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgcmVsYXRlZF9kb2N1bWVudCBJTlRFR0VSOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGsgdGhlbiByZXR1cm4gKCkgZWxzZSBsb29wIHdpbmRvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -548,10 +549,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtIDwtIEdMRlcuY3JlYXRlV2luZG93IHdpZHRoIGhlaWdodCB0aXRsZSBOb3RoaW5nIE5vdGhpbmcKICAgICAgICBjYXNlIG0gb2YKICAgICAgICAgICAgKEp1c3Qgd2luKSAtPiBkbwogICAgICAgICAgICAgICAgR0xGVy5tYWtlQ29udGV4dEN1cnJlbnQgbQogICAgICAgICAgICAgICAgZiB3aW4KICAgICAgICAgICAgICAgIEdMRlcuc2V0RXJyb3JDYWxsYmFjayAoSnVzdCBzaW1wbGVDYWxsYmFjaykKICAgICAgICAgICAgICAgIEdMRlcuZGVzdHJveVdpbmRvdyB3aW4KICAgICAgICAgICAgTm90aGluZyAtPiByZXR1cm4gKCkKICAgICAgICBHTEZXLnRlcm1pbmF0ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZXJlCiAgICAgICAgc2ltcGxlRXJyb3JDYWxsYmFjayBlIHMgPSBwdXRTdHJMbiAkIHVud29yZHMgW3Nob3cgZSwgc2hvdyBzXQo=</text>
+        <text encoding="base64">ICAgIGlmIGsgdGhlbiByZXR1cm4gKCkgZWxzZSBsb29wIHdpbmRvdwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -593,20 +594,20 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFByZWx1ZGUK</text>
+        <text encoding="base64">ICAgIGluCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>do
-  log &quot;Hello sailor!&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtIDwtIEdMRlcuY3JlYXRlV2luZG93IHdpZHRoIGhlaWdodCB0aXRsZSBOb3RoaW5nIE5vdGhpbmcKICAgICAgICBjYXNlIG0gb2YKICAgICAgICAgICAgKEp1c3Qgd2luKSAtPiBkbwogICAgICAgICAgICAgICAgR0xGVy5tYWtlQ29udGV4dEN1cnJlbnQgbQogICAgICAgICAgICAgICAgZiB3aW4KICAgICAgICAgICAgICAgIEdMRlcuc2V0RXJyb3JDYWxsYmFjayAoSnVzdCBzaW1wbGVDYWxsYmFjaykKICAgICAgICAgICAgICAgIEdMRlcuZGVzdHJveVdpbmRvdyB3aW4KICAgICAgICAgICAgTm90aGluZyAtPiByZXR1cm4gKCkKICAgICAgICBHTEZXLnRlcm1pbmF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRyb2wK</text>
+        <text encoding="base64">ICAgIHdoZXJlCiAgICAgICAgc2ltcGxlRXJyb3JDYWxsYmFjayBlIHMgPSBwdXRTdHJMbiAkIHVud29yZHMgW3Nob3cgZSwgc2hvdyBzXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1tYWluIDo6IGZvcmFsbCBlLiBFZmYgKGNvbnNvbGUgOjogQ09OU09MRSB8IGUpIFVuaXQKbWFpbiA9IGRvCiAgYXNzZXJ0IChhbnN3ZXIgPT0gMjMzMTY4KQo=</text>
+        <text encoding="base64">aW1wb3J0IFByZWx1ZGUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>do
+  log &quot;Hello sailor!&quot;</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
