@@ -226,6 +226,12 @@
         <mark key="^" line="0" column="9003" />
         <mark key="." line="0" column="9003" />
       </file>
+      <file name="/Python Console" timestamp="1500143874552">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1499162790640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -485,11 +491,11 @@
       <jump line="894" column="20" filename="/usr/lib/python3.5/unittest/mock.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>dir(</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>dir(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+Pj4=</text>
