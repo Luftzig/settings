@@ -130,12 +130,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500304091398">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500308151605">
         <mark key="'" line="55" column="32" />
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="45" />
-        <mark key="." line="77" column="45" />
-        <mark key="^" line="77" column="45" />
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="76" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_06_21_Business_invoices.sql" timestamp="1499850843109">
         <mark key="[" line="24" column="0" />
@@ -615,23 +615,23 @@
       <jump line="55" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Physics.Linecast(transform.position, t.transform.position)</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>Physics.Linecast(transform.position, t.transform.position)</text>
       </register>
       <register name="/" type="4">
         <text>payments\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkZveCBjb2xsaWRlZCB3aXRoOiAiICsgb3RoZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmlyc3RUYXJnZXQgPSBSYW5kb21DaG9pY2UodGFyZ2V0cy5XaGVyZSgKICAgICAgICAgICAgdCA9PiAhUGh5c2ljcy5MaW5lY2FzdCh0cmFuc2Zvcm0ucG9zaXRpb24sIHQudHJhbnNmb3JtLnBvc2l0aW9uKSkuVG9MaXN0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBPbkNvbGxpc2lvbkVudGVyKENvbGxpc2lvbiBvdGhlcikKICAgIHsKICAgICAgICBEZWJ1Zy5Mb2coIkZveCBjb2xsaWRlZCB3aXRoOiAiICsgb3RoZXIpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBPblRyaWdnZXJFbnRlcihDb2xsaWRlciBvdGhlcikKICAgIHsKICAgICAgICBEZWJ1Zy5Mb2coIkZveCB0cmlnZ2VyZWQgd2l0aDogIiArIG90aGVyKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -684,7 +684,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjbGFzcyBXYWxrVG93YXJkcyA6IEZveFN0YXRlCiAgICB7CiAgICAgICAgYW5pbWF0aW9uID0gQW5pbVN0YXRlLldhbGs7CiAgICAgICAgCiAgICAgICAgcHVibGljIG92ZXJyaWRlIEZveFN0YXRlIE5leHRTdGF0ZSgpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBvdmVycmlkZSBJRW51bWVyYXRvciBBY3QoKQogICAgICAgIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -729,19 +729,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaWQgPSBSYW5kb20uUmFuZ2UoMCwgdGFyZ2V0cy5Db3VudCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQgPSBSYW5kb20uUmFuZ2UoMCwgdGFyZ2V0cy5Db3VudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBbmltU3RhdGUgbmV4dEFjdGlvbiA9IGlkbGVBY3Rpb25zW1JhbmRvbS5SYW5nZSgwLCBpZGxlQWN0aW9ucy5MZW5ndGgpXTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdGFyZ2V0T25PdXJQbGFuZSA9IG5ldyBWZWN0b3IzKHRhcmdldC5wb3NpdGlvbi54LCB0cmFuc2Zvcm0ucG9zaXRpb24ueSwgdGFyZ2V0LnBvc2l0aW9uLnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
