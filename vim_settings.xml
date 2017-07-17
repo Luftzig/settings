@@ -130,12 +130,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500297514271">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="16" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500299402070">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="91" column="59" />
+        <mark key="]" line="91" column="76" />
+        <mark key="." line="91" column="76" />
+        <mark key="^" line="91" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_06_21_Business_invoices.sql" timestamp="1499850843109">
         <mark key="[" line="24" column="0" />
@@ -513,10 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1102" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="1101" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="912" column="7" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="871" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="826" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="644" column="4" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="627" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
@@ -613,25 +609,29 @@
       <jump line="85" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="49" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="80" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="72" column="7" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="47" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="76" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="88" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgIDEgICAgICAgIDIgICAgICAgMyAgICAgICAgICAgNCAgICAgICAgICAgNSAgICAgICAgNgo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>payments\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FuaW0uQ3Jvc3NGYWRlKCJGb3hfU2xlZXAiLCAwLjVmKTsK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFdhaXRGb3JTZWNvbmRzKDVmKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgIDEgICAgICAgIDIgICAgICAgMyAgICAgICAgICAgNCAgICAgICAgICAgNSAgICAgICAgNgo=</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLkxvZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltLkNyb3NzRmFkZSgiRm94X1Ryb3QiLCAwLjVmKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -684,10 +684,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FuaW0uQ3Jvc3NGYWRlKCJGb3hfU2xlZXAiLCAwLjVmKTsKICAgICAgICAvL2FuaW0uUGxheSgiRm94X0RlYXRoMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdGFydENvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltLlBsYXkoIkZveF9TbGVlcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBbmltU3RhdGUgbmV4dEFjdGlvbiA9IG5ldyBbXXtBbmltU3RhdGUuU25pZmYsIEFuaW1TdGF0ZS5TZWF0fVtSYW5kb20uUmFuZ2UoMCwgMSldOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -728,20 +728,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICA2CiwgICAgU2xlZXA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgIDEgICAgICAgIDIgICAgICAgMyAgICAgICAgICAgNCAgICAgICAgICAgNSAgICAgICAgNgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3guU2V0QWN0aXZlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmltLkNyb3NzRmFkZSgiRm94X1Ryb3QiLCAwLjVmKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2FuaW0uQ3Jvc3NGYWRlKCJGb3hfU2xlZXAiLCAwLjVmKTsKICAgICAgICAvL2FuaW0uUGxheSgiRm94X0RlYXRoMSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0YXJ0Q29yb3V0aW5lKFJ1bkZveFNlcXVlbmNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmltLlBsYXkoIkZveF9TbGVlcCIpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB0YXJnZXRzID0gbmV3IExpc3Q8VHJhbnNmb3JtPigpOwogICAgICAgIGZvcmVhY2ggKEZveENhblNlZSBnIGluIEZpbmRPYmplY3RzT2ZUeXBlPEZveENhblNlZT4oKSkKICAgICAgICB7CiAgICAgICAgICAgIHRhcmdldHMuQWRkKGcudHJhbnNmb3JtKTsKICAgICAgICB9Cgo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICA2CiwgICAgU2xlZXA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
