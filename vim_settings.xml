@@ -130,12 +130,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500299402070">
-        <mark key="'" line="88" column="8" />
-        <mark key="[" line="91" column="59" />
-        <mark key="]" line="91" column="76" />
-        <mark key="." line="91" column="76" />
-        <mark key="^" line="91" column="76" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500300846347">
+        <mark key="'" line="74" column="22" />
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="50" column="48" />
+        <mark key="." line="50" column="48" />
+        <mark key="^" line="50" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/db_scripts/2017_06_21_Business_invoices.sql" timestamp="1499850843109">
         <mark key="[" line="24" column="0" />
@@ -513,12 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="644" column="4" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="627" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="626" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="570" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="569" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="568" column="6" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="5861" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
       <jump line="5860" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
@@ -601,7 +595,6 @@
       <jump line="213" column="12" filename="$USER_HOME$/Projects/kuze/php/kuze_payment_utils.php" />
       <jump line="235" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="167" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
-      <jump line="33" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="59" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="10" column="81" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
@@ -611,15 +604,22 @@
       <jump line="80" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="72" column="7" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="47" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="76" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="88" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="73" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="33" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="112" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="51" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="75" column="22" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="101" column="10" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="76" column="54" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="74" column="22" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>target.position</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>target.position</text>
       </register>
       <register name="/" type="4">
         <text>payments\/</text>
@@ -628,10 +628,10 @@
         <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFdhaXRGb3JTZWNvbmRzKDVmKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlLkxvZwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdGFyZ2V0T25PdXJQbGFuZSA9IG5ldyBWZWN0b3IzKHRhcmdldC5wb3NpdGlvbi54LCB0cmFuc2Zvcm0ucG9zaXRpb24ueSwgdGFyZ2V0LnBvc2l0aW9uLnkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkxvb2tpbmcgYXQgY2FtZXJhIGF0OiAiICsgY2FtZXJhLnRyYW5zZm9ybS5wb3NpdGlvbik7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -684,10 +684,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdGFydENvCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zb2xlLkxvZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBbmltU3RhdGUgbmV4dEFjdGlvbiA9IG5ldyBbXXtBbmltU3RhdGUuU25pZmYsIEFuaW1TdGF0ZS5TZWF0fVtSYW5kb20uUmFuZ2UoMCwgMSldOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -729,19 +729,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgIDEgICAgICAgIDIgICAgICAgMyAgICAgICAgICAgNCAgICAgICAgICAgNSAgICAgICAgNgo=</text>
+        <text encoding="base64">ICAgICAgICBTdGFydENvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltLkNyb3NzRmFkZSgiRm94X1Ryb3QiLCAwLjVmKTsK</text>
+        <text encoding="base64">ICAgICAgICBBbmltU3RhdGUgbmV4dEFjdGlvbiA9IG5ldyBbXXtBbmltU3RhdGUuU25pZmYsIEFuaW1TdGF0ZS5TZWF0fVtSYW5kb20uUmFuZ2UoMCwgMSldOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FuaW0uQ3Jvc3NGYWRlKCJGb3hfU2xlZXAiLCAwLjVmKTsKICAgICAgICAvL2FuaW0uUGxheSgiRm94X0RlYXRoMSIpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICAgICAgIDAgICAgICAgIDEgICAgICAgIDIgICAgICAgMyAgICAgICAgICAgNCAgICAgICAgICAgNSAgICAgICAgNgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltLlBsYXkoIkZveF9TbGVlcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmltLkNyb3NzRmFkZSgiRm94X1Ryb3QiLCAwLjVmKTsK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICA2CiwgICAgU2xlZXA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL2FuaW0uQ3Jvc3NGYWRlKCJGb3hfU2xlZXAiLCAwLjVmKTsKICAgICAgICAvL2FuaW0uUGxheSgiRm94X0RlYXRoMSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
