@@ -33,12 +33,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" timestamp="1500485497829">
-        <mark key="'" line="89" column="35" />
-        <mark key="[" line="853" column="55" />
-        <mark key="]" line="853" column="57" />
-        <mark key="." line="853" column="57" />
-        <mark key="^" line="853" column="57" />
+      <file name="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" timestamp="1500486989342">
+        <mark key="'" line="683" column="39" />
+        <mark key="[" line="859" column="0" />
+        <mark key="]" line="859" column="0" />
+        <mark key="." line="859" column="0" />
+        <mark key="^" line="859" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/mocha-given/index.d.ts" timestamp="1490284104781">
         <mark key="'" line="1" column="0" />
@@ -427,6 +427,11 @@
         <mark key="." line="101" column="23" />
         <mark key="^" line="101" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/oe-cloud/common/mixins/idempotent-mixin.js" timestamp="1500486308853">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/appreciate-client/appreciate-client.ts" timestamp="1492789578918">
         <mark key="'" line="82" column="20" />
         <mark key="[" line="65" column="41" />
@@ -471,8 +476,11 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500484540464">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1500487065365">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/SavedImageToast.cs" timestamp="1497521665292">
         <mark key="[" line="17" column="9" />
@@ -537,16 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6142" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="6139" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="5870" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="5820" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="3156" column="46" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
-      <jump line="2271" column="80" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
-      <jump line="120" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
-      <jump line="5787" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="128" column="35" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
       <jump line="169" column="25" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
       <jump line="171" column="58" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
       <jump line="138" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
@@ -637,25 +635,35 @@
       <jump line="361" column="14" filename="$USER_HOME$/Projects/oe-cloud/test/bootstrap.js" />
       <jump line="132" column="41" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
       <jump line="89" column="35" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="852" column="0" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="978" column="13" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="299" column="11" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="320" column="11" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="341" column="11" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="372" column="11" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="794" column="13" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="975" column="13" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="308" column="0" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
+      <jump line="683" column="39" filename="$USER_HOME$/Projects/oe-cloud/test/idempotent-mixin-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>err</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJHb3QgdG8gZXJyb3IiLCBlcnJvcikK</text>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text>errors[0].</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ZGVsZXRlIGFsbCA=</text>
+        <text>updateAttribute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIRVJFIEJFIERSQUdPTlM6ICIsIGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBpUHV0KCcvJyArIHBsdXJhbE1vZGVsTmFtZSArICcvJyArIHJlcy5pZCwgcmVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIRVJFIEJFIERSQUdPTlM6ICIsIGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJHb3QgdG8gZXJyb3IiLCBlcnJvcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIRVJFIEJFIERSQUdPTlM6ICIsIGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJTZXJ2ZXIgcmVzcG9uc2UiLCByZXMpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -708,10 +716,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIlRlc3QgZXJyb3I6ICIsIGVycikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiVGhyb3dpbmcgZXJyb3IiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJUZXN0IGVycm9yOiAiLCBlcnIpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -753,28 +761,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIZXJlIGJlIGxvZ2luIGNvZGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXBpUHV0KCcvJyArIHBsdXJhbE1vZGVsTmFtZSArICcvJyArIHJlcy5pZCwgcmVzKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJpbiBjaGVja0lkZW1wb3RlbmN5ICIsIGN0eCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRlbWFpbCA9IGt1emVfZGI6OnNlbGVjdDEoIlNFTEVDVCIpa3V6ZV91dGlsczo6Z2V0U2Vzc2lvbkJ1c2luZXNzVXNlcklEKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIRVJFIEJFIERSQUdPTlM6ICIsIGVycik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJIRVJFIEJFIERSQUdPTlM6ICIsIGVycik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiLCBidXNpbmVzc19lbWFpbCA9ICciIC4ga3V6ZV9kYjo6ZXNjYXBlKCRlbWFpbCkgLiAiJyIgLgo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ZGVsZXRlIGFsbCA=</last-search>
+      <last-search>updateAttribute</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ZGVsZXRlIGFsbCA=</last-pattern>
+      <last-pattern>updateAttribute</last-pattern>
       <last-replace>&quot;yPos&quot;: 0.1</last-replace>
       <last-substitute>&quot;yPos&quot;: 0.20000000298023225</last-substitute>
       <last-dir>1</last-dir>
@@ -782,8 +790,6 @@
     </search>
     <history>
       <history-search>
-        <entry>escape</entry>
-        <entry>console.log</entry>
         <entry>business_config\/set</entry>
         <entry>businessCliend</entry>
         <entry>payments</entry>
@@ -802,6 +808,8 @@
         <entry>business_config</entry>
         <entry>checkIdempo</entry>
         <entry encoding="base64">ZGVsZXRlIGFsbCA=</entry>
+        <entry>parallel</entry>
+        <entry>updateAttribute</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvJ107Lw==</entry>
