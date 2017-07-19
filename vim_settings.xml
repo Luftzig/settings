@@ -143,12 +143,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500457794461">
-        <mark key="'" line="55" column="32" />
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="60" column="38" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="60" column="38" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500460150494">
+        <mark key="'" line="61" column="45" />
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+        <mark key="^" line="64" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/api/invoices.php" timestamp="1498725747370">
         <mark key="'" line="95" column="4" />
@@ -522,13 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4000" column="14" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="3947" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="1972" column="3" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="6142" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="6139" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="5870" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="5820" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="3156" column="46" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
@@ -622,25 +615,32 @@
       <jump line="3305" column="36" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="3306" column="20" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="75" column="4" filename="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" />
+      <jump line="86" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="77" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="93" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="87" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="61" column="45" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LldoZXJlKAogICAgICAgICAgICAgICAgdCA9PiAhSGFzT2JzdGFjbGVzKHQpKS5Ub0xpc3QoKQ==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>bank_acct</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>business_config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkiY3Z2IiA9PiBbJ3ZhbHVlJz0+JzAwMCddLAoJCSJ2YWxpZF9tb250aCIgPT4gWyd2YWx1ZSc9PicwMSddLAoJCSJ2YWxpZF95ZWFyIiA9PiBbJ3ZhbHVlJz0+JzE5J10sCg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkxvb2tpbmcgYXQgY2FtZXJhIik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LldoZXJlKAogICAgICAgICAgICAgICAgdCA9PiAhSGFzT2JzdGFjbGVzKHQpKS5Ub0xpc3QoKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRvbmUgdHVybmluZyBub3cgc2VhdGluZyIpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LldoZXJlKAogICAgICAgICAgICB0ID0+ICFIYXNPYnN0YWNsZXModCkpLlRvTGlzdCgp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkxvb2tpbmcgYXQgY2FtZXJhIik7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -693,10 +693,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRlbWFpbCA9IGt1emVfZGI6OnNlbGVjdDEoIlNFTEVDVCIpa3V6ZV91dGlsczo6Z2V0U2Vzc2lvbkJ1c2luZXNzVXNlcklEKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNhbGxpbmcgbG9vayBhdCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -738,22 +738,22 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiLCBidXNpbmVzc19lbWFpbCA9ICciIC4ga3V6ZV9kYjo6ZXNjYXBlKCRlbWFpbCkgLiAiJyIgLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCIgbmctc2hvdz0iYnVzaW5lc3NQcm9wZXJ0aWVzLmludm9pY2Vfc291cmNlX2lkID09IDIiPgogICAgICAgICAgICAgIDxsYWJlbCA8P3BocCBlY2hvICRsYWJlbEFsaWduOyA/PiA8P3BocCBlY2hvICRsYWJlbENsYXNzOyA/PiBmb3I9ImJ1c2luZXNzX2FkZHJlc3MiPteT15XXkCLXnCDXl9eR16jXlCDXnNee16nXnNeV15cg15fXqdeR15XXoNeZ15XXqjwvbGFiZWw+CiAgICAgICAgICAgICAgPGRpdiA8P3BocCBlY2hvICRpbnB1dENsYXNzOyA/Pj4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJidXNpbmVzc19hZGRyZXNzIgogICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJidXNpbmVzc1Byb3BlcnRpZXMuYnVzaW5lc3NfYWRkcmVzcyIvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgbmctc2hvdz0iYnVzaW5lc3NQcm9wZXJ0aWVzRm9ybS4kc3VibWl0dGVkICYmIGJ1c2luZXNzUHJvcGVydGllc0Zvcm0uYnVzaW5lc3NfdHlwZS4kaW52YWxpZCIgPD9waHAgZWNobyAkbGFiZWxDbGFzczsgPz4+CiAgICAgICAgICAgICAgICAmbmJzcDsKICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgIG5nLXNob3c9ImJ1c2luZXNzUHJvcGVydGllc0Zvcm0uJHN1Ym1pdHRlZCAmJiBidXNpbmVzc1Byb3BlcnRpZXNGb3JtLmJ1c2luZXNzX3R5cGUuJGludmFsaWQiIDw/cGhwIGVjaG8gJGlucHV0Q2xhc3M7ID8+PgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNwYW5Gb3JtVmFsaWRhdGlvbkVycm9yIgogICAgICAgICAgICAgICAgICAgICAgbmctc2hvdz0iYnVzaW5lc3NQcm9wZXJ0aWVzRm9ybS4kc3VibWl0dGVkICYmIGJ1c2luZXNzUHJvcGVydGllc0Zvcm0uYnVzaW5lc3NfdHlwZS4kaW52YWxpZCI+e3sgbGFuZ2ZpbGVbJ2Zvcm1faW52YWxpZF9idXNpbmVzc190eXBlJ10gfX08L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBrdXplX3V0aWxzOjpsb2dEZWJ1ZygiUmVxdWVzdCBkZXRhaWxzOiAiIC4ganNvbl9lbmNvZGUoJGFuZ3VsYXJfaHR0cF9wYXJhbXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkFuZ2xlIHRvIHRhcmdldDogIiArIGFuZ2xlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJhZGRyZXNzIiA9PiAkYnVzaW5lc3NfZGV0YWlsc1snYnVzaW5lc3NfYWRkcmVzcyddLAovLyAgICAgICAgImNpdHkiID0+ICRidXNpbmVzc19kZXRhaWxzWydidXNpbmVzc19jaXR5J10sCi8vICAgICAgICAiemlwIiA9PiAkYnVzaW5lc3NfZGV0YWlsc1snYnVzaW5lc3NfemlwX2NvZGUnXSAhPSBudWxsID8gJGJ1c2luZXNzX2RldGFpbHNbImJ1c2luZXNzX3ppcF9jb2RlIl0gOiAiIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJBbmdsZSB0byB0YXJnZXQ6ICIgKyBhbmdsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;yPos&quot;: 0.20000000298023225/&quot;yPos&quot;: 0.1/</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -789,7 +789,6 @@
         <entry>business_config</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzsvJ107Lw==</entry>
         <entry>s/, /\r/g</entry>
         <entry>s/, /,\r/g</entry>
         <entry>Reg</entry>
@@ -809,6 +808,7 @@
         <entry encoding="base64">JzwsJz5zLyIiLyInJyIv</entry>
         <entry encoding="base64">JzwsJz5zLywvJywv</entry>
         <entry encoding="base64">JzwsJz5zLycvLw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
