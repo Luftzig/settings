@@ -143,12 +143,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500467327958">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="127" column="9" />
-        <mark key="]" line="127" column="8" />
-        <mark key="." line="127" column="8" />
-        <mark key="^" line="127" column="8" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500468336392">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="83" column="45" />
+        <mark key="]" line="84" column="32" />
+        <mark key="." line="84" column="32" />
+        <mark key="^" line="84" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/api/invoices.php" timestamp="1498725747370">
         <mark key="'" line="95" column="4" />
@@ -620,16 +620,16 @@
       <jump line="39" column="52" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
       <jump line="60" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="61" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="52" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="61" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>AppendAction</text>
       </register>
       <register name="/" type="4">
         <text>business_config</text>
@@ -638,10 +638,10 @@
         <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJZaWVsZCBmcm9tIHR1cm4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUoTG9va0F0Q2FtZXJhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUVudW1lcmF0b3IgTG9va0F0Q2FtZXJhKCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -694,10 +694,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2FtZXJhID0gRmluZE9iamVjdE9mVHlwZTxDYW1lcmE+KCk7CiAgICAgICAgRGVidWcuTG9nKCJMb29raW5nIGF0IGNhbWVyYSIpOwogICAgICAgIHZhciB0dXJuaW5nID0gVHVyblVudGlsRmFjaW5nVGFyZ2V0KGNhbWVyYS50cmFuc2Zvcm0pOwogICAgICAgIHdoaWxlICh0dXJuaW5nLk1vdmVOZXh0KCkpIHlpZWxkIHJldHVybiB0dXJuaW5nLkN1cnJlbnQ7CiAgICAgICAgRGVidWcuTG9nKCJTZWF0Iik7CiAgICAgICAgeWllbGQgcmV0dXJuIFN0YXJ0Q29yb3V0aW5lKEhlbHBlcnMuQWN0aW9uVG9FbnVtZXJhdG9yKCgpID0+IENoYW5nZVN0YXRlKEFuaW1TdGF0ZS5TZWF0KSkpOwogICAgICAgIERlYnVnLkxvZygiV2FpdCIpOwogICAgICAgIHlpZWxkIHJldHVybiBuZXcgV2FpdEZvclNlY29uZHMoM2YpOwogICAgICAgIERlYnVnLkxvZygiQmFjayB0byByYW5kb20gd2FsayIpOwogICAgICAgIHlpZWxkIHJldHVybiBTdGFydENvcm91dGluZShSdW5Gb3hTZXF1ZW5jZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZUFuZFRhcmdldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9wQWxsQ29yb3V0aW5lcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdGFydENvcm91dGluZShSdW5Gb3hTZXF1ZW5jZSgpKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -739,19 +739,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGVBbmRUYXJnZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZUFuZFRhcmdldCA9IFR1cGxlLkNyZWF0ZShzdGF0ZSwgdGFyZ2V0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZQo=</text>
+        <text encoding="base64">ICAgIFR1cGxlPEFuaW1TdGF0ZSwgVmVjdG9yMz4gQ2hhbmdlU3RhdGUoQW5pbVN0YXRlIHN0YXRlKQogICAgewogICAgICAgIHJldHVybiBDaGFuZ2VTdGF0ZShzdGF0ZSwgc3RhdGVBbmRUYXJnZXQuSXRlbTIpOwogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWN0aW9uc1dpdGhCYWNrVG9PcmlnaW5hbFNlcXVlbmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJUdXJuaW5nIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQW5pbVN0YXRlIGN1cnJlbnRTdGF0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
