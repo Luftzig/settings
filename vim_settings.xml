@@ -143,12 +143,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500460150494">
-        <mark key="'" line="61" column="45" />
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="64" column="40" />
-        <mark key="." line="64" column="40" />
-        <mark key="^" line="64" column="40" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" timestamp="1500461465687">
+        <mark key="'" line="62" column="46" />
+        <mark key="[" line="64" column="50" />
+        <mark key="]" line="64" column="48" />
+        <mark key="." line="64" column="48" />
+        <mark key="^" line="64" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/api/invoices.php" timestamp="1498725747370">
         <mark key="'" line="95" column="4" />
@@ -484,11 +484,12 @@
         <mark key="." line="191" column="20" />
         <mark key="^" line="191" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1498571056681">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="53" />
-        <mark key="^" line="8" column="53" />
-        <mark key="." line="8" column="53" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1500461489477">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="39" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1492339698148">
         <mark key="'" line="21" column="0" />
@@ -522,10 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5870" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="5820" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
-      <jump line="3156" column="46" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
-      <jump line="2271" column="80" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="120" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
       <jump line="5787" column="8" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
@@ -622,13 +619,17 @@
       <jump line="87" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="61" column="45" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="8" column="53" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
+      <jump line="62" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
+      <jump line="39" column="52" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>business_config</text>
@@ -637,10 +638,10 @@
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkxvb2tpbmcgYXQgY2FtZXJhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkRvbmUgdHVybmluZyBub3cgc2VhdGluZyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkxvb2tpbmcgYXQgY2FtZXJhIik7Cg==</text>
+        <text encoding="base64">cHVibGljIGFic3RyYWN0IGNsYXNzIENvcm91dGluZVByb21pc2UgOiBNb25vQmVoYXZpb3VyCnsKICAgIHByb3RlY3RlZCB2b2lkIENvcm91dGluZUFuZFRoZW48VFJlc3VsdD4oSUVudW1lcmF0b3Igc2VxdWVuY2UsIEZ1bmM8dm9pZCwgVFJlc3VsdD4gdGhlbikKICAgIHsKCiAgICB9Cn0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -693,10 +694,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkNhbGxpbmcgbG9vayBhdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDaGFuZ2VTdGF0ZShBbmltU3RhdGUuU2VhdCk7CiAgICAgICAgRGVidWcuTG9nKCJZaWVsZGluZyB3YWl0Iik7CiAgICAgICAgeWllbGQgcmV0dXJuIG5ldyBXYWl0Rm9yU2Vjb25kcygzZik7CiAgICAgICAgRGVidWcuTG9nKCJyZXN0YXJ0aW5nIHNlcXVlbmNlIik7CiAgICAgICAgeWllbGQgcmV0dXJuIFN0YXJ0Q29yb3V0aW5lKFJ1bkZveFNlcXVlbmNlKCkpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -744,13 +745,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIkFuZ2xlIHRvIHRhcmdldDogIiArIGFuZ2xlKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSUVudW1lcmF0b3IgQXBwZW5kRnVuYyhJRW51KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJBbmdsZSB0byB0YXJnZXQ6ICIgKyBhbmdsZSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSUVudW1lcmF0b3IgQXBwZW5kQWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
