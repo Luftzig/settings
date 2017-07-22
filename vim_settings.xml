@@ -422,12 +422,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1500719049554">
-        <mark key="'" line="8" column="7" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="30" column="15" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1500720507783">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="8" />
+        <mark key="." line="39" column="8" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1492339698148">
         <mark key="'" line="21" column="0" />
@@ -610,8 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="995" column="11" filename="/usr/lib/python3.5/unittest/mock.py" />
-      <jump line="894" column="20" filename="/usr/lib/python3.5/unittest/mock.py" />
       <jump line="13" column="5" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment.php" />
       <jump line="83" column="4" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment_details.php" />
       <jump line="190" column="25" filename="$USER_HOME$/Projects/kuze/php/angular/business_modal_client_payment_details.php" />
@@ -710,22 +708,24 @@
       <jump line="47" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" />
       <jump line="15" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" />
       <jump line="8" column="7" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="42" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="10" column="7" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Debug</text>
       </register>
-      <register name="0" type="4">
-        <text>[&quot;Noto Sans&quot;, &quot;Georgia&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLCBuYXZCYXJFbGVtZW50IG1vZGVsIE1vdmVtZW50IFtdICJNb3ZlbWVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUy5taXgK</text>
+        <text encoding="base64">ICAgICAgLCBuYXZCYXJFbGVtZW50IG1vZGVsIENvZGUgW10gIkNvZGUiCiAgICAgICwgbmF2QmFyRWxlbWVudCBtb2RlbCBNb3ZlbWVudCBbXSAiTW92ZW1lbnQiCiAgICAgICwgbmF2QmFyRWxlbWVudCBtb2RlbCBUaG91Z2h0IFtdICJUaG91Z2h0Igo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -781,10 +781,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29tbW9uID0gZm91bmRhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">b2xkVmlldyBtb2RlbCA9CiAgICBkaXYgWyBmdWxsd2lkdGgsIHBhZ2VCYWNrZ3JvdW5kIF0KICAgICAgICBbIGRpdiBbIHBhZ2VNYXJnaW5zIF0KICAgICAgICAgICAgWyBvbGRIZWFkZXIgbW9kZWwKICAgICAgICAgICAgLCBuYXZCYXIgbW9kZWwKICAgICAgICAgICAgLCBtYWluQm9keSBtb2RlbAogICAgICAgICAgICAsIHBhZ2VGb290ZXIgbW9kZWwKICAgICAgICAgICAgXQogICAgICAgIF0KCgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -826,19 +826,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBFbGVtZW50LmltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgUy5taXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRWxlbWVudC5zY3JlZW4gWyBFbGVtZW50LnRleHQgIkZvb3RlciIgXQo=</text>
+        <text encoding="base64">Y29tbW9uID0gZm91bmRhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmFzZSA6IFMuU3R5bGVTaGVldAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpdiBbIGZ1bGx3aWR0aCwgcGFnZUJhY2tncm91bmQgXQogICAgICAgIFsgZGl2IFsgcGFnZU1hcmdpbnMgXQogICAgICAgICAgICBbIGhlYWRlciBtb2RlbAogICAgICAgICAgICAsIG5hdkJhciBtb2RlbAogICAgICAgICAgICAsIG1haW5Cb2R5IG1vZGVsCiAgICAgICAgICAgICwgcGFnZUZvb3RlciBtb2RlbAogICAgICAgICAgICBdCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICBFbGVtZW50LmltYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
