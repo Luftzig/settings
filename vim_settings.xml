@@ -549,12 +549,12 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" timestamp="1500983778868">
+      <file name="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" timestamp="1500985602969">
         <mark key="'" line="98" column="42" />
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="89" column="46" />
-        <mark key="^" line="89" column="46" />
+        <mark key="[" line="108" column="120" />
+        <mark key="]" line="108" column="127" />
+        <mark key="." line="108" column="127" />
+        <mark key="^" line="108" column="127" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1500468462564">
         <mark key="'" line="0" column="0" />
@@ -707,23 +707,23 @@
       <jump line="98" column="42" filename="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a9ITmmPbqroEfNub9uxHTNebQquRpMNZ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChpc3NldCgkc3RhcnRfaW52b2ljZSkpIHsKICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0LCBzZWxmOjp1cGRhdGVMYXN0RG9jTnVtKCRsaW5ldF9hY2NvdW50LCBzZWxmOjokbGluZXREb2NUeXBlc1snaW52b2ljZSddLCAkc3RhcnRfaW52b2ljZSkpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>RENAME</text>
+        <text>receipt</text>
       </register>
       <register name="/" type="4">
         <text>receipt_invoice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIiwgc3RhcnRfaW52b2ljZV9udW1iZXIgPSAnIi5rdXplX2RiOjplc2NhcGUoJGFuZ3VsYXJfaHR0cF9wYXJhbXNbJ3N0YXJ0X2ludm9pY2VfbnVtYmVyJ10pLiInIi4K</text>
+        <text encoding="base64">ICAgIGlmIChpc3NldCgkc3RhcnRfaW52b2ljZSkpIHsKICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0LCBzZWxmOjp1cGRhdGVMYXN0RG9jTnVtKCRsaW5ldF9hY2NvdW50LCBzZWxmOjokbGluZXREb2NUeXBlc1snaW52b2ljZSddLCAkc3RhcnRfaW52b2ljZSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkc3RhcnRfaW52b2ljZSA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX251bWJlciddOwogICRzdGFydF9yZWNlaXB0ID0gJGFuZ3VsYXJfaHR0cF9wYXJhbXNbJ3N0YXJ0X3JlY2VpcHRfbnVtYmVyJ107CiAgJHN0YXJ0X2ludm9pY2VfcmVjZWlwdCA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX3JlY2VpcHRfbnVtYmVyJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAKdXNlIFxQc3JcSHR0cFxNZXNzYWdlXFNlcnZlclJlcXVlc3RJbnRlcmZhY2UgYXMgUmVxdWVzdDsK</text>
+        <text encoding="base64">ICAgIGlmIChpc3NldCgkKSkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -775,15 +775,11 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>ALTER TABLE kz_businesses
-  ADD (
-  start_receipt_number INTEGER,
-  start_receipt_invoice_number INTEGER
-  );</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkCg==</text>
+        <text encoding="base64">ICAkc3RhcnRfaW52b2ljZSA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX251bWJlciddOwogICRzdGFydF9yZWNlaXB0ID0gJGFuZ3VsYXJfaHR0cF9wYXJhbXNbJ3N0YXJ0X3JlY2VpcHRfbnVtYmVyJ107CiAgJHN0YXJ0X2ludm9pY2VfcmVjZWlwdCA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX3JlY2VpcHRfbnVtYmVyJ107Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -825,19 +821,23 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIGt6X3VzZXJfcGF5bWVudHMgQUREIGV4dGVybmFsX2RvY3VtZW50X2lkIFZBUkNIQVIoNjQpOwoKQUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgZG9jdW1lbnRfdXJsIFZBUkNIQVIoMjU2KTsK</text>
+        <text encoding="base64">PD9waHAKdXNlIFxQc3JcSHR0cFxNZXNzYWdlXFNlcnZlclJlcXVlc3RJbnRlcmZhY2UgYXMgUmVxdWVzdDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAga3V6ZV91dGlsczo6bG9nRGVidWcoIlMzIE9iamVjdCBVUkw6ICIgLiAkcmVzdWx0WydPYmplY3RVUkwnXSk7Cg==</text>
+      <register name="6" type="4">
+        <text>ALTER TABLE kz_businesses
+  ADD (
+  start_receipt_number INTEGER,
+  start_receipt_invoice_number INTEGER
+  );</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAga3V6ZV91dGlsczo6bG9nRGVidWcoIlMzIHVyaTogIiAuICRyZXN1bHQtPnRvQXJyYXkoKVsnQG1ldGFkYXRhJ11bJ2VmZmVjdGl2ZVVyaSddKTsK</text>
+        <text encoding="base64">ICAkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyMGQwYWZjNWY2NDExMGRhNDFjNzM4YmYzZjk1OGJmMjIwOTZhN2IxCg==</text>
+        <text encoding="base64">CkFMVEVSIFRBQkxFIGt6X3VzZXJfcGF5bWVudHMgQUREIGV4dGVybmFsX2RvY3VtZW50X2lkIFZBUkNIQVIoNjQpOwoKQUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgZG9jdW1lbnRfdXJsIFZBUkNIQVIoMjU2KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICAgIDx0ZD57eyBmcGF5bWVudC5pbnZvaWNlX2RhdGUgfX08L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+e3sgZnBheW1lbnQucGF5bWVudF9tZXRob2RfbmFtZV90eHQgfX08L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gbmctc2hvdz0iZnBheW1lbnQucGF5bWVudF9hbW91bnQ+MCI+e3sgZnBheW1lbnQucGF5bWVudF9hbW91bnQgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gbmctc2hvdz0iZnBheW1lbnQucGF5bWVudF9hbW91bnQ8MCI+e3sgZnBheW1lbnQucGF5bWVudF9wYXltZW50X2Ftb3VudF9taW51c190eHQgfX0tPC9zcGFuPgogICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgPCEtLSA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5nLW1vZGVsPSJmcGF5bWVudC5pbnZvaWNlX2dlbmVyYXRlZCIgbmctdHJ1ZS12YWx1ZT0iMSIgbmctZmFsc2UtdmFsdWU9IjAiIG5nLWNoYW5nZT0iaW52b2ljZUdlbmVyYXRlQ2hlY2tib3goZnBheW1lbnQpOyI+IC0tPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIG5nLXNob3c9ImZwYXltZW50Lmludm9pY2VfZ2VuZXJhdGVkPT0xIj48aSBjbGFzcz0iZmEgZmEtY2hlY2siIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+IHt7IGZwYXltZW50Lmludm9pY2VfbnVtYmVyfX0KICAgICAgICAgICAgICAgICAgICA8IS0tIDxzcGFuIGlubGluZS1lZGl0PSJmcGF5bWVudC5pbnZvaWNlX251bWJlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubGluZS1lZGl0LWNhbGxiYWNrPSJpbnZvaWNlTnVtYmVyQ2hhbmdlZChuZXdWYWx1ZSxmcGF5bWVudCkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmxpbmUtZWRpdC1wbGFjZWhvbGRlcj0iMCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubGluZS1lZGl0LWJ0bi1lZGl0PSIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmxpbmUtZWRpdC1vbi1ibHVyPSJzYXZlIiBpbmxpbmUtZWRpdC1vbi1jbGljaz48L3NwYW4+IC0tPgogICAgICAgICAgICAgICAgICA8L3RkPgo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAga3V6ZV91dGlsczo6bG9nRGVidWcoIlMzIE9iamVjdCBVUkw6ICIgLiAkcmVzdWx0WydPYmplY3RVUkwnXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JlY2VpcHRfaW52b2ljZS9pbnZvaWNlX3JlY2VpcHQvZw==</text>
