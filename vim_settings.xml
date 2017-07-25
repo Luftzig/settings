@@ -216,12 +216,12 @@
         <mark key="." line="37" column="24" />
         <mark key="^" line="37" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/kuze_payment_utils.php" timestamp="1500969920968">
+      <file name="$USER_HOME$/Projects/kuze/php/kuze_payment_utils.php" timestamp="1500986089518">
         <mark key="'" line="255" column="36" />
-        <mark key="[" line="116" column="51" />
-        <mark key="]" line="116" column="51" />
-        <mark key="." line="116" column="51" />
-        <mark key="^" line="116" column="37" />
+        <mark key="[" line="742" column="76" />
+        <mark key="]" line="742" column="76" />
+        <mark key="." line="742" column="76" />
+        <mark key="^" line="743" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/mocha-given/package.json" timestamp="1490283218372">
         <mark key="'" line="10" column="18" />
@@ -281,12 +281,12 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1500983446467">
-        <mark key="'" line="2598" column="55" />
-        <mark key="[" line="2599" column="46" />
-        <mark key="]" line="2599" column="101" />
-        <mark key="." line="2599" column="101" />
-        <mark key="^" line="2599" column="101" />
+      <file name="$USER_HOME$/Projects/kuze/php/api/api_admin.php" timestamp="1500986874259">
+        <mark key="'" line="1602" column="43" />
+        <mark key="[" line="1614" column="52" />
+        <mark key="]" line="1614" column="52" />
+        <mark key="." line="1614" column="52" />
+        <mark key="^" line="1614" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/config-js.php" timestamp="1499864219642">
         <mark key="'" line="152" column="0" />
@@ -317,8 +317,8 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" timestamp="1500970941969">
-        <mark key="'" line="1970" column="29" />
+      <file name="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" timestamp="1500985716921">
+        <mark key="'" line="2014" column="17" />
         <mark key="[" line="2005" column="97" />
         <mark key="]" line="2005" column="97" />
         <mark key="." line="2005" column="97" />
@@ -508,8 +508,8 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500971390092">
-        <mark key="[" line="0" column="40" />
+      <file name="/Dummy.txt" timestamp="1500985623767">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="40" />
@@ -605,9 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2273" column="40" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
-      <jump line="3305" column="36" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
-      <jump line="3306" column="20" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="86" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="77" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="93" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
@@ -705,25 +702,28 @@
       <jump line="2595" column="55" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="88" column="25" filename="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" />
       <jump line="98" column="42" filename="$USER_HOME$/Projects/kuze/php/api/linetInvoice.php" />
+      <jump line="2014" column="17" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
+      <jump line="2598" column="79" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
+      <jump line="1602" column="43" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChpc3NldCgkc3RhcnRfaW52b2ljZSkpIHsKICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0LCBzZWxmOjp1cGRhdGVMYXN0RG9jTnVtKCRsaW5ldF9hY2NvdW50LCBzZWxmOjokbGluZXREb2NUeXBlc1snaW52b2ljZSddLCAkc3RhcnRfaW52b2ljZSkpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGt1emVfcmV0dmFsLT52YWx1ZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>receipt</text>
+        <text encoding="base64">JGt1emVfcmV0dmFsLT52YWx1ZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>receipt_invoice</text>
+        <text>nextinvoice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChpc3NldCgkc3RhcnRfaW52b2ljZSkpIHsKICAgICAgYXJyYXlfcHVzaCgkcmVzdWx0LCBzZWxmOjp1cGRhdGVMYXN0RG9jTnVtKCRsaW5ldF9hY2NvdW50LCBzZWxmOjokbGluZXREb2NUeXBlc1snaW52b2ljZSddLCAkc3RhcnRfaW52b2ljZSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICJyZWNlaXB0X251bSIgICAgID0+IGt1emVfcGF5bWVudF91dGlsczo6Z2V0X25leHRfZG9jdW1lbnRfbnVtYmVyKCRidXNpbmVzc19pZCwgJGJ1c2luZXNzX3VzZXJfaWQsICRHTE9CQUxTWydkb2N1bWVudF90eXBlcyddWydyZWNlaXB0J10pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkbmV4dF9pbnZvaWNlID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpc3NldCgkKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -779,7 +779,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkc3RhcnRfaW52b2ljZSA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX251bWJlciddOwogICRzdGFydF9yZWNlaXB0ID0gJGFuZ3VsYXJfaHR0cF9wYXJhbXNbJ3N0YXJ0X3JlY2VpcHRfbnVtYmVyJ107CiAgJHN0YXJ0X2ludm9pY2VfcmVjZWlwdCA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX3JlY2VpcHRfbnVtYmVyJ107Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc3NldCgkKSkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -821,32 +821,32 @@
         </keys>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAkc3RhcnRfaW52b2ljZSA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX251bWJlciddOwogICRzdGFydF9yZWNlaXB0ID0gJGFuZ3VsYXJfaHR0cF9wYXJhbXNbJ3N0YXJ0X3JlY2VpcHRfbnVtYmVyJ107CiAgJHN0YXJ0X2ludm9pY2VfcmVjZWlwdCA9ICRhbmd1bGFyX2h0dHBfcGFyYW1zWydzdGFydF9pbnZvaWNlX3JlY2VpcHRfbnVtYmVyJ107Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">PD9waHAKdXNlIFxQc3JcSHR0cFxNZXNzYWdlXFNlcnZlclJlcXVlc3RJbnRlcmZhY2UgYXMgUmVxdWVzdDsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>ALTER TABLE kz_businesses
   ADD (
   start_receipt_number INTEGER,
   start_receipt_invoice_number INTEGER
   );</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAkCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIGt6X3VzZXJfcGF5bWVudHMgQUREIGV4dGVybmFsX2RvY3VtZW50X2lkIFZBUkNIQVIoNjQpOwoKQUxURVIgVEFCTEUga3pfdXNlcl9wYXltZW50cyBBREQgZG9jdW1lbnRfdXJsIFZBUkNIQVIoMjU2KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAga3V6ZV91dGlsczo6bG9nRGVidWcoIlMzIE9iamVjdCBVUkw6ICIgLiAkcmVzdWx0WydPYmplY3RVUkwnXSk7Cg==</text>
+        <text encoding="base64">ICAkCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JlY2VpcHRfaW52b2ljZS9pbnZvaWNlX3JlY2VpcHQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>receipt_invoice</last-search>
+      <last-search>nextinvoice</last-search>
       <last-offset />
-      <last-pattern>receipt_invoice</last-pattern>
+      <last-pattern>nextinvoice</last-pattern>
       <last-replace>invoice_receipt</last-replace>
       <last-substitute>receipt_invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -854,7 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>business_config</entry>
         <entry encoding="base64">ZGVsZXRlIGFsbCA=</entry>
         <entry>parallel</entry>
         <entry>updateAttribute</entry>
@@ -874,6 +873,7 @@
         <entry>business_config\/set</entry>
         <entry>invoice</entry>
         <entry>receipt_invoice</entry>
+        <entry>nextinvoice</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xFLykv</entry>
