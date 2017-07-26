@@ -590,6 +590,13 @@
         <mark key="^" line="208" column="1" />
         <mark key="." line="208" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501057133846">
+        <mark key="'" line="1828" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1846" column="0" />
+        <mark key="^" line="1846" column="0" />
+        <mark key="." line="1846" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1492685876216">
         <mark key="'" line="452" column="0" />
         <mark key="[" line="517" column="35" />
@@ -605,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="8" column="53" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
       <jump line="62" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
@@ -705,6 +711,7 @@
       <jump line="1602" column="43" filename="$USER_HOME$/Projects/kuze/php/api/api_admin.php" />
       <jump line="1389" column="25" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
       <jump line="1417" column="2" filename="$USER_HOME$/Projects/kuze/php/public/js/angular/business-app-v11.php" />
+      <jump line="1828" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -714,7 +721,7 @@
         <text>{1: 'invoice_num'}</text>
       </register>
       <register name="/" type="4">
-        <text>nextinvoice</text>
+        <text>&quot;type&quot;: 7</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJyZWNlaXB0X251bSIgICAgID0+IGt1emVfcGF5bWVudF91dGlsczo6Z2V0X25leHRfZG9jdW1lbnRfbnVtYmVyKCRidXNpbmVzc19pZCwgJGJ1c2luZXNzX3VzZXJfaWQsICRHTE9CQUxTWydkb2N1bWVudF90eXBlcyddWydyZWNlaXB0J10pLAo=</text>
@@ -840,9 +847,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nextinvoice</last-search>
+      <last-search>&quot;type&quot;: 7</last-search>
       <last-offset />
-      <last-pattern>nextinvoice</last-pattern>
+      <last-pattern>&quot;type&quot;: 7</last-pattern>
       <last-replace>invoice_receipt</last-replace>
       <last-substitute>receipt_invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +857,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ZGVsZXRlIGFsbCA=</entry>
         <entry>parallel</entry>
         <entry>updateAttribute</entry>
         <entry>ctx</entry>
@@ -870,6 +876,7 @@
         <entry>invoice</entry>
         <entry>receipt_invoice</entry>
         <entry>nextinvoice</entry>
+        <entry>&quot;type&quot;: 7</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xFLykv</entry>
