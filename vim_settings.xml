@@ -148,12 +148,12 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" timestamp="1501148573798">
-        <mark key="'" line="7" column="28" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" timestamp="1501166506098">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" timestamp="1500732315562">
         <mark key="'" line="98" column="24" />
@@ -433,12 +433,12 @@
         <mark key="." line="35" column="56" />
         <mark key="^" line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1501160535967">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="11" column="84" />
-        <mark key="." line="72" column="43" />
-        <mark key="^" line="72" column="43" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1501166232755">
+        <mark key="'" line="6" column="58" />
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/aws_credentials" timestamp="1500812674139">
         <mark key="[" line="2" column="0" />
@@ -487,11 +487,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1501165399917">
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="11" />
-        <mark key="." line="40" column="11" />
-        <mark key="^" line="40" column="11" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1501166948637">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="28" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/oe-cloud/node_modules/loopback-datasource-juggler/lib/dao.js" timestamp="1500488488908">
         <mark key="'" line="3465" column="19" />
@@ -640,11 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="61" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="85" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="113" column="44" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="82" column="69" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="87" column="117" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="142" column="39" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="75" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
@@ -740,13 +736,18 @@
       <jump line="34" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/GoogleStore.cs" />
       <jump line="7" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
       <jump line="43" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="6" column="58" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="31" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="4" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="4" column="30" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>videoAd</text>
       </register>
       <register name="-" type="4">
-        <text>RequestRewardVideo</text>
+        <text>videoAd</text>
       </register>
       <register name="/" type="4">
         <text>Linet</text>
@@ -755,10 +756,10 @@
         <text encoding="base64">ICAgICAgICAjZWxpZiBVTklUWV9BTkRST0lECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgUmVsb2FkQWQob2JqZWN0IHNlbmRlciwgRXZlbnRBcmdzIGUpCiAgICAgICAgewogICAgICAgICAgICBMb2FkQWQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -811,7 +812,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVnaXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -856,19 +857,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
