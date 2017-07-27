@@ -35,13 +35,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" timestamp="1500911588594">
-        <mark key="'" line="160" column="26" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" timestamp="1501160460850">
         <mark key="'" line="51" column="8" />
         <mark key="[" line="61" column="0" />
@@ -532,12 +525,11 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1501171216676">
-        <mark key="'" line="132" column="46" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="132" column="111" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1501173026000">
+        <mark key="'" line="85" column="12" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1500484405618">
         <mark key="[" line="0" column="0" />
@@ -565,7 +557,7 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501172651918">
+      <file name="/Dummy.txt" timestamp="1501173026990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideo.cs" timestamp="1501165109939">
@@ -642,9 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
-      <jump line="37" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
-      <jump line="39" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
       <jump line="50" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
       <jump line="28" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
@@ -732,7 +721,6 @@
       <jump line="30" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
       <jump line="29" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
       <jump line="137" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="36" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="199" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
@@ -742,25 +730,29 @@
       <jump line="154" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="105" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="132" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="115" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="33" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="85" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWQuRGVzdHJveQo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlNob3dUdXRvcmlhbCIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Opening</text>
       </register>
       <register name="/" type="4">
-        <text>Tutorial</text>
+        <text>Show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlkZW9BZC5PbkFkT3BlbmluZyArPSAoc2VuZGVyLCBhcmdzKSA9PiBEZWJ1Zy5Mb2coIk9uQWRPcGVuaW5nIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWQuRGVzdHJveQo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlNob3dUdXRvcmlhbCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWQuRGVzdHJveQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -813,10 +805,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlkZW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvQWQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbXBvbmVudE1vZGVsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlkZW8K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -858,16 +850,16 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbXBvbmVudE1vZGVsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgUmVsb2FkQWQob2JqZWN0IHNlbmRlciwgRXZlbnRBcmdzIGUpCiAgICAgICAgewogICAgICAgICAgICBMb2FkQWQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgUmVsb2FkQWQob2JqZWN0IHNlbmRlciwgRXZlbnRBcmdzIGUpCiAgICAgICAgewogICAgICAgICAgICBMb2FkQWQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -877,9 +869,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Tutorial</last-search>
+      <last-search>Show</last-search>
       <last-offset />
-      <last-pattern>Tutorial</last-pattern>
+      <last-pattern>Show</last-pattern>
       <last-replace>&quot;yPos&quot;: 0.1</last-replace>
       <last-substitute>&quot;yPos&quot;: 0.20000000298023225</last-substitute>
       <last-dir>1</last-dir>
@@ -887,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>business_config\/set</entry>
         <entry>businessCliend</entry>
         <entry>payments</entry>
         <entry>\/payment</entry>
@@ -907,6 +898,7 @@
         <entry>Debug</entry>
         <entry>MoveCamera</entry>
         <entry>Tutorial</entry>
+        <entry>Show</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /\r/g</entry>
