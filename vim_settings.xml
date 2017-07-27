@@ -533,8 +533,8 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1501169849329">
-        <mark key="'" line="199" column="12" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1501171216676">
+        <mark key="'" line="132" column="46" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
@@ -641,10 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="26" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" />
-      <jump line="41" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" />
       <jump line="19" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
       <jump line="37" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
       <jump line="39" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
@@ -704,7 +700,6 @@
       <jump line="26" column="17" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="107" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
-      <jump line="105" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="35" column="17" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="146" column="45" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="186" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
@@ -741,6 +736,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="199" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="37" column="41" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="316" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="154" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="105" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="132" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -750,7 +750,7 @@
         <text>Opening</text>
       </register>
       <register name="/" type="4">
-        <text>MoveCamera</text>
+        <text>Tutorial</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmlkZW9BZC5PbkFkT3BlbmluZyArPSAoc2VuZGVyLCBhcmdzKSA9PiBEZWJ1Zy5Mb2coIk9uQWRPcGVuaW5nIik7Cg==</text>
@@ -876,9 +876,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MoveCamera</last-search>
+      <last-search>Tutorial</last-search>
       <last-offset />
-      <last-pattern>MoveCamera</last-pattern>
+      <last-pattern>Tutorial</last-pattern>
       <last-replace>&quot;yPos&quot;: 0.1</last-replace>
       <last-substitute>&quot;yPos&quot;: 0.20000000298023225</last-substitute>
       <last-dir>1</last-dir>
@@ -886,7 +886,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
         <entry>business_config\/set</entry>
         <entry>businessCliend</entry>
         <entry>payments</entry>
@@ -906,6 +905,7 @@
         <entry>foxSpeed</entry>
         <entry>Debug</entry>
         <entry>MoveCamera</entry>
+        <entry>Tutorial</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /\r/g</entry>
