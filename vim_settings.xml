@@ -42,12 +42,12 @@
         <mark key="." line="28" column="11" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" timestamp="1500554621421">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="55" column="45" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-        <mark key="^" line="55" column="51" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" timestamp="1501159610525">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="27" column="50" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/ExitToast.cs" timestamp="1497532567374">
         <mark key="'" line="40" column="0" />
@@ -194,12 +194,12 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" timestamp="1500553388956">
-        <mark key="'" line="25" column="46" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="39" column="16" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" timestamp="1501159463224">
+        <mark key="'" line="27" column="46" />
+        <mark key="[" line="17" column="77" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/DataService.cs" timestamp="1501074376969">
         <mark key="'" line="31" column="26" />
@@ -433,7 +433,8 @@
         <mark key="." line="35" column="56" />
         <mark key="^" line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1501148539768">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1501159400543">
+        <mark key="'" line="43" column="31" />
         <mark key="[" line="68" column="9" />
         <mark key="]" line="72" column="43" />
         <mark key="." line="72" column="43" />
@@ -632,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="61" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
       <jump line="85" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
@@ -732,13 +732,14 @@
       <jump line="44" column="30" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/GoogleStore.cs" />
       <jump line="34" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/GoogleStore.cs" />
       <jump line="7" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
+      <jump line="43" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ProductKey3Hints</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ProductKey3Hints</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>Linet</text>
@@ -747,10 +748,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHVyY2hhc2VQcm9jZXNzaW5nUmVzdWx0LkNvbXBsZXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0b3JlQ29udHJvbGxlciAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBzdG9yZUNvbnRyb2xsZXIucHJvZHVjdHMuV2l0aElEKFByb2R1Y3RLZXkzSGludHMpOwogICAgICAgICAgICAgICAgaWYgKHByb2R1Y3QgIT0gbnVsbCAmJiBwcm9kdWN0LmF2YWlsYWJsZVRvUHVyY2hhc2UpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc3RvcmVDb250cm9sbGVyLkluaXRpYXRlUHVyY2hhc2UocHJvZHVjdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -803,10 +804,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -848,19 +849,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0b3JlQ29udHJvbGxlciAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBzdG9yZUNvbnRyb2xsZXIucHJvZHVjdHMuV2l0aElEKFByb2R1Y3RLZXkzSGludHMpOwogICAgICAgICAgICAgICAgaWYgKHByb2R1Y3QgIT0gbnVsbCAmJiBwcm9kdWN0LmF2YWlsYWJsZVRvUHVyY2hhc2UpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc3RvcmVDb250cm9sbGVyLkluaXRpYXRlUHVyY2hhc2UocHJvZHVjdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFB1cmNoYXNlUHJvY2Vzc2luZ1Jlc3VsdC5Db21wbGV0ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
