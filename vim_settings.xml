@@ -487,6 +487,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1501165399917">
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/oe-cloud/node_modules/loopback-datasource-juggler/lib/dao.js" timestamp="1500488488908">
         <mark key="'" line="3465" column="19" />
         <mark key="[" line="3769" column="28" />
@@ -559,11 +565,12 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501149296651">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1501163432511" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideo.cs" timestamp="1501165109939">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1492678325641">
         <mark key="'" line="4983" column="0" />
@@ -735,23 +742,23 @@
       <jump line="43" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.zenkittygames.zengarden.10hints</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>RequestRewardVideo</text>
       </register>
       <register name="/" type="4">
         <text>Linet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHVyY2hhc2VQcm9jZXNzaW5nUmVzdWx0LkNvbXBsZXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAjZWxpZiBVTklUWV9BTkRST0lECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVcGRhdGVIaW50c1RleHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdFVwZGF0ZVRpbWUgPSBoaW50U3lzdGVtLmxhc3RVcGRhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -804,10 +811,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVnaXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -849,19 +856,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0b3JlQ29udHJvbGxlciAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBzdG9yZUNvbnRyb2xsZXIucHJvZHVjdHMuV2l0aElEKFByb2R1Y3RLZXkzSGludHMpOwogICAgICAgICAgICAgICAgaWYgKHByb2R1Y3QgIT0gbnVsbCAmJiBwcm9kdWN0LmF2YWlsYWJsZVRvUHVyY2hhc2UpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc3RvcmVDb250cm9sbGVyLkluaXRpYXRlUHVyY2hhc2UocHJvZHVjdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
