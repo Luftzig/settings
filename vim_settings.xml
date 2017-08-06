@@ -356,6 +356,12 @@
         <mark key="." line="859" column="0" />
         <mark key="^" line="859" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardVideoButton.cs" timestamp="1502021583075">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1492339311193">
         <mark key="'" line="2669" column="0" />
         <mark key="[" line="0" column="0" />
@@ -496,11 +502,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1501515361511">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1502021574882">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/IGameEvents.cs" timestamp="1501584459942">
         <mark key="[" line="9" column="36" />
@@ -572,7 +579,7 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502020844235">
+      <file name="/Dummy.txt" timestamp="1502020874427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
@@ -647,13 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4898" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="4905" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="4919" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="4926" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="4941" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="4964" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="4970" column="55" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="4977" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="5066" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="5088" column="48" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
@@ -747,25 +747,32 @@
       <jump line="94" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="67" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="75" column="5" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="65" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="22" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="52" column="48" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SXRlbXNTdG9yZS5JbnN0YW5jZSA9PSBudWxsIHx8IA==</text>
+        <text>InParent</text>
       </register>
       <register name="/" type="4">
-        <text>levelNum&quot;: 10</text>
+        <text encoding="base64">XDxwYXJlbnRNZW51XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlN0b3JlIGluc3RhbmNlOiAiICsgSXRlbXNTdG9yZS5JbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBsYWIKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -818,10 +825,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lT2JqZWN0IG1lbnU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -866,25 +873,25 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxhYmVsID0gR2V0Q29tcG9uZW50SW5DaGlsZHJlbjxUZXh0PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwudGV4dCA9IEltbW9ydGFsTWFuYWdlci5JbnN0YW5jZS5zdG9yZVByaWNlcy5UcnlHZXRWYWx1ZShHZXRQcm9kdWN0S2V5KHByb2R1Y3QpLCBvdXQgbGFiZWxUZXh0KQogICAgICAgICAgICAgICAgPyBsYWJlbFRleHQKICAgICAgICAgICAgICAgIDogIk4vQSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgR2FtZU9iamVjdCBwYXJlbnRNZW51Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGxhYmVsVGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBsYWIKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>levelNum&quot;: 10</last-search>
+      <last-search encoding="base64">XDxwYXJlbnRNZW51XD4=</last-search>
       <last-offset />
-      <last-pattern>levelNum&quot;: 10</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJlbnRNZW51XD4=</last-pattern>
       <last-replace />
       <last-substitute>_[1-2]\?[0-9]0</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +899,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cliend</entry>
         <entry>Cliend</entry>
         <entry encoding="base64">XDxwYXltZW55RGV0YWlsc01vZGFsQ29udHJvbGxlclw+</entry>
         <entry>users\/payments\/</entry>
@@ -912,6 +918,7 @@
         <entry>_[1-2]?[0-9]0</entry>
         <entry>_[1-2]\?[0-9]0</entry>
         <entry>levelNum&quot;: 10</entry>
+        <entry encoding="base64">XDxwYXJlbnRNZW51XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /,\r/g</entry>
