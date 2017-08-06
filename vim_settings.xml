@@ -490,12 +490,11 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" timestamp="1501588107438">
-        <mark key="'" line="102" column="44" />
-        <mark key="[" line="83" column="9" />
-        <mark key="]" line="84" column="29" />
-        <mark key="." line="84" column="29" />
-        <mark key="^" line="84" column="29" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" timestamp="1502011660467">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1501515361511">
         <mark key="[" line="14" column="6" />
@@ -570,7 +569,7 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502008225406">
+      <file name="/Dummy.txt" timestamp="1502012018335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
@@ -645,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Fox/Fox.cs" />
-      <jump line="40" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="81" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="102" column="44" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="141" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" />
@@ -745,10 +742,12 @@
       <jump line="26" column="11" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Editor/SequenceTest.cs" />
       <jump line="13" column="71" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Editor/SequenceTest.cs" />
       <jump line="29" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" />
+      <jump line="36" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dGb3JtYXQoIkFjdGl2YXRpbmcgdHV0b3JpYWwgezB9IGZyb20gb2JqZWN0czogezF9IiwKICAgICAgICAgICAgRW51bS5HZXROYW1lKHR5cGVvZihUdXRvcmlhbFR5cGUpLCB0dXRvcmlhbFR5cGUpLAogICAgICAgICAgICBIZWxwZXJzLlByaW50RW51bWVyYWJsZSh0dXRvcmlhbHMsIHggPT4geC5uYW1lKQogICAgICAgICAgICApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Exactly</text>
@@ -760,10 +759,10 @@
         <text encoding="base64">ICAgICAgICB2YXIgc2VxdWVuY2UgPSBIZWxwZXJzLlNlcXVlbmNlKF9pbm5lciwgSGVscGVycy5BY3Rpb25Ub0VudW1lcmF0b3IodGhlbikpOwogICAgICAgIHJldHVybiBuZXcgU2VxdWVuY2Uoc2VxdWVuY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dGb3JtYXQoIkFjdGl2YXRpbmcgdHV0b3JpYWwgezB9IGZyb20gb2JqZWN0czogezF9IiwKICAgICAgICAgICAgRW51bS5HZXROYW1lKHR5cGVvZihUdXRvcmlhbFR5cGUpLCB0dXRvcmlhbFR5cGUpLAogICAgICAgICAgICBIZWxwZXJzLlByaW50RW51bWVyYWJsZSh0dXRvcmlhbHMsIHggPT4geC5uYW1lKQogICAgICAgICAgICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -816,10 +815,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIFNlcXVlbmNlVGVzdC5jc1NpbXBsZVBhc3NlcygpIHsKCQkvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCgl9CgoJLy8gQSBVbml0eVRlc3QgYmVoYXZlcyBsaWtlIGEgY29yb3V0aW5lIGluIFBsYXlNb2RlCgkvLyBhbmQgYWxsb3dzIHlvdSB0byB5aWVsZCBudWxsIHRvIHNraXAgYSBmcmFtZSBpbiBFZGl0TW9kZQoJW1VuaXR5VGVzdF0KCXB1YmxpYyBJRW51bWVyYXRvciBTZXF1ZW5jZVRlc3QuY3NXaXRoRW51bWVyYXRvclBhc3NlcygpIHsKCQkvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCgkJLy8geWllbGQgdG8gc2tpcCBhIGZyYW1lCgkJeWllbGQgcmV0dXJuIG51bGw7Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHR1dG9yaWFsVHlwZSkKICAgICAgICB7CiAgICAgICAgICAgICAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgVHV0b3JpYWxUeXBlLlRha2VTY3JlZW5zaG90OgogICAgICAgICAgICAgICAgICAgIERlYWN0aXZlQWxsKCk7CiAgICAgICAgICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUoU2NyZWVuc2hvdFR1dG9yaWFsKCkpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBUdXRvcmlhbFR5cGUuTmV4dExldmVsOgogICAgICAgICAgICAgICAgICAgIERlYWN0aXZlQWxsKCk7CiAgICAgICAgICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUoTmV4dExldmVsVHV0b3JpYWwoKSk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -861,19 +860,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgRW5jYXBzdWxhdGVJRW51bWVyYXRvcigpCiAgICB7CiAgICAgICAgdmFyIGVudW1lcmF0b3IgPSBNYWtlRW51bWVyYXRvckZyb20oMSwgMiwgMyk7CiAgICAgICAgdmFyIHNlcXVlbmNlID0gU2VxdWVuY2UuRnJvbShlbnVtZXJhdG9yKTsKICAgIH0KCglwcml2YXRlIHZvaWQgQXNzZXJ0SUVudW1lcmF0b3JFcXVhbChJRW51bWVyYWJsZSB0bykKICAgIHsKICAgIH0KCgogICAgcHJpdmF0ZSBJRW51bWVyYWJsZSBUb0NvbGxlY3Rpb24oSUVudW1lcmF0b3Igc2VxdWVuY2UpCiAgICB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG5ldyBTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0KCk7CiAgICAgICAgd2hpbGUgKHNlcXVlbmNlLk1vdmVOZXh0KCkpCiAgICAgICAgewogICAgICAgICAgICByZXN1bHQuQWRkKHNlcXVlbmNlLkN1cnJlbnQpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0IGFzIElFbnVtZXJhYmxlOwogICAgfQoKICAgIHByaXZhdGUgSUVudW1lcmF0b3IgTWFrZUVudW1lcmF0b3JGcm9tKHBhcmFtcyBvYmplY3RbXSB5aWVsZHMpCiAgICB7CiAgICAgICAgZm9yZWFjaCAodmFyIHlpZWxkIGluIHlpZWxkcykKICAgICAgICB7CiAgICAgICAgICAgIHlpZWxkIHJldHVybiB5aWVsZDsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuVGhhdChzZXF1ZW5jZSwgSXMuRXF1YWxUbyhuZXdbXSB7MSwgMiwgM30pLkFzQ29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIFNlcXVlbmNlVGVzdC5jc1NpbXBsZVBhc3NlcygpIHsKCQkvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCgl9CgoJLy8gQSBVbml0eVRlc3QgYmVoYXZlcyBsaWtlIGEgY29yb3V0aW5lIGluIFBsYXlNb2RlCgkvLyBhbmQgYWxsb3dzIHlvdSB0byB5aWVsZCBudWxsIHRvIHNraXAgYSBmcmFtZSBpbiBFZGl0TW9kZQoJW1VuaXR5VGVzdF0KCXB1YmxpYyBJRW51bWVyYXRvciBTZXF1ZW5jZVRlc3QuY3NXaXRoRW51bWVyYXRvclBhc3NlcygpIHsKCQkvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCgkJLy8geWllbGQgdG8gc2tpcCBhIGZyYW1lCgkJeWllbGQgcmV0dXJuIG51bGw7Cgl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgRW5jYXBzdWxhdGVJRW51bWVyYXRvcigpCiAgICB7CiAgICAgICAgdmFyIGVudW1lcmF0b3IgPSBNYWtlRW51bWVyYXRvckZyb20oMSwgMiwgMyk7CiAgICAgICAgdmFyIHNlcXVlbmNlID0gU2VxdWVuY2UuRnJvbShlbnVtZXJhdG9yKTsKICAgIH0KCglwcml2YXRlIHZvaWQgQXNzZXJ0SUVudW1lcmF0b3JFcXVhbChJRW51bWVyYWJsZSB0bykKICAgIHsKICAgIH0KCgogICAgcHJpdmF0ZSBJRW51bWVyYWJsZSBUb0NvbGxlY3Rpb24oSUVudW1lcmF0b3Igc2VxdWVuY2UpCiAgICB7CiAgICAgICAgdmFyIHJlc3VsdCA9IG5ldyBTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0KCk7CiAgICAgICAgd2hpbGUgKHNlcXVlbmNlLk1vdmVOZXh0KCkpCiAgICAgICAgewogICAgICAgICAgICByZXN1bHQuQWRkKHNlcXVlbmNlLkN1cnJlbnQpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcmVzdWx0IGFzIElFbnVtZXJhYmxlOwogICAgfQoKICAgIHByaXZhdGUgSUVudW1lcmF0b3IgTWFrZUVudW1lcmF0b3JGcm9tKHBhcmFtcyBvYmplY3RbXSB5aWVsZHMpCiAgICB7CiAgICAgICAgZm9yZWFjaCAodmFyIHlpZWxkIGluIHlpZWxkcykKICAgICAgICB7CiAgICAgICAgICAgIHlpZWxkIHJldHVybiB5aWVsZDsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
