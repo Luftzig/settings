@@ -556,12 +556,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1502030759430">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="188" column="47" />
-        <mark key="]" line="188" column="52" />
-        <mark key="." line="188" column="52" />
-        <mark key="^" line="188" column="52" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1502095535215">
+        <mark key="'" line="344" column="19" />
+        <mark key="[" line="383" column="0" />
+        <mark key="]" line="383" column="12" />
+        <mark key="." line="383" column="12" />
+        <mark key="^" line="383" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501057133846">
         <mark key="'" line="1828" column="0" />
@@ -662,15 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1086" column="48" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1115" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1151" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1264" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1300" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1322" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1456" column="39" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1478" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="1500" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="1681" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="1740" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="1875" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
@@ -751,7 +742,6 @@
       <jump line="51" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="96" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="130" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="370" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="34" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="38" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
@@ -762,10 +752,20 @@
       <jump line="60" column="53" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/MainMenu/MenuOverlay.cs" />
       <jump line="8" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsMenu.cs" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintButton.cs" />
+      <jump line="188" column="52" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="39" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="132" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="136" column="56" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="140" column="34" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="324" column="30" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="331" column="34" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="336" column="34" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="344" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Fade();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Fade();</text>
@@ -780,7 +780,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTaG93VHV0b3JpYWwoKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -833,10 +833,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRlRXZlbnRzLkV4ZWN1dGU8SUdhbWVFdmVudHM+KEdhbWUuSW5zdGFuY2UuZ2FtZU9iamVjdCwgbnVsbCwgKGhhbmRsZXIsIGRhdGEpID0+IGhhbmRsZXIuTWVudUNsb3NlZChtZW51KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2hvd1R1dG9yaWFsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -878,19 +878,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChwdXp6bGVDb21wbGV0ZSAmJiBjYW1lcmFNb3ZlbWVudC5jYW1lcmFJblBsYWNlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKChjYW1lcmFNb3ZlbWVudC5jYW1lcmFNb3ZlZCB8fCBjYW1lcmFNb3ZlbWVudC5jYW1lcmFSb3RhdGVkKSAmJgogICAgICAgICAgICAgICAgVHV0b3JpYWwuSW5zdGFuY2UuYWN0aXZlVHV0b3JpYWwgPT0gVHV0b3JpYWwuVHV0b3JpYWxUeXBlLkN1dFNjZW5lKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBUdXRvcmlhbC5JbnN0YW5jZS5TdG9wVHV0b3JpYWwoKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBFeGVjdXRlRXZlbnRzLkV4ZWN1dGU8SUdhbWVFdmVudHM+KEdhbWUuSW5zdGFuY2UuZ2FtZU9iamVjdCwgbnVsbCwgKGhhbmRsZXIsIGRhdGEpID0+IGhhbmRsZXIuTWVudUNsb3NlZChtZW51KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJTdG9wcGluZyB0dXRvcmlhbCB7MH0gd2hpbGUgezF9IGlzIG9wZW4iLCBUdXRvcmlhbC5JbnN0YW5jZS5hY3RpdmVUdXRvcmlhbCwgbWVudSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hvd1R1dG9yaWFsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlN0b3BwaW5nIGFsbCB0dXRvcmlhbHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChwdXp6bGVDb21wbGV0ZSAmJiBjYW1lcmFNb3ZlbWVudC5jYW1lcmFJblBsYWNlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKChjYW1lcmFNb3ZlbWVudC5jYW1lcmFNb3ZlZCB8fCBjYW1lcmFNb3ZlbWVudC5jYW1lcmFSb3RhdGVkKSAmJgogICAgICAgICAgICAgICAgVHV0b3JpYWwuSW5zdGFuY2UuYWN0aXZlVHV0b3JpYWwgPT0gVHV0b3JpYWwuVHV0b3JpYWxUeXBlLkN1dFNjZW5lKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBUdXRvcmlhbC5JbnN0YW5jZS5TdG9wVHV0b3JpYWwoKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJTdG9wcGluZyB0dXRvcmlhbCB7MH0gd2hpbGUgezF9IGlzIG9wZW4iLCBUdXRvcmlhbC5JbnN0YW5jZS5hY3RpdmVUdXRvcmlhbCwgbWVudSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dGb3JtYXQoIk1lbnUgb3BlbmVkIGV2ZW50IHswfSIsIG1lbnUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coIlN0b3BwaW5nIGFsbCB0dXRvcmlhbHMiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
