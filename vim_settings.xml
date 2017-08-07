@@ -489,6 +489,12 @@
         <mark key="." line="78" column="116" />
         <mark key="^" line="78" column="116" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/LevelLabel.cs" timestamp="1502102346134">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/purescript-tutorial/src/Euler1.purs" timestamp="1499937539849">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="21" />
@@ -561,12 +567,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1502101059020">
-        <mark key="'" line="134" column="12" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1502102331382">
+        <mark key="'" line="388" column="21" />
         <mark key="[" line="193" column="0" />
         <mark key="]" line="197" column="9" />
         <mark key="." line="193" column="0" />
-        <mark key="^" line="336" column="9" />
+        <mark key="^" line="37" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501057133846">
         <mark key="'" line="1828" column="0" />
@@ -667,8 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1934" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
-      <jump line="2069" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="2098" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="2239" column="39" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
       <jump line="2268" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/levels.json" />
@@ -767,13 +771,15 @@
       <jump line="49" column="33" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="12" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardVideoButton.cs" />
       <jump line="65" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="193" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="388" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbmV4dExldmVsOwogICAgICAgIGlmIChOZXh0TGV2ZWxBdmFpbGFibGUob3V0IG5leHRMZXZlbCkpCiAgICAgICAgewogICAgICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PlayerPrefs.GetInt(&quot;LevelToPlay&quot;, 0) + 1;</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>PlayerPrefs.GetInt(&quot;LevelToPlay&quot;, 0) + 1;</text>
       </register>
       <register name="/" type="4">
         <text>Tutorial</text>
@@ -782,10 +788,10 @@
         <text encoding="base64">ICAgIHZvaWQgVXBkYXRlKCkKICAgIHsKICAgICAgICBpZiAoSW5wdXQuR2V0S2V5RG93bihLZXlDb2RlLkVzY2FwZSkpCiAgICAgICAgewogICAgICAgICAgICBtZW51T3ZlcmxheS5DbG9zZU1lbnUoKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbmV4dExldmVsOwogICAgICAgIGlmIChOZXh0TGV2ZWxBdmFpbGFibGUob3V0IG5leHRMZXZlbCkpCiAgICAgICAgewogICAgICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbmV4dExldmVsOwogICAgICAgIGlmIChOZXh0TGV2ZWxBdmFpbGFibGUob3V0IG5leHRMZXZlbCkpCiAgICAgICAgewogICAgICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbmV4dExldmVsOwogICAgICAgIGlmIChOZXh0TGV2ZWxBdmFpbGFibGUob3V0IG5leHRMZXZlbCkpCiAgICAgICAgewogICAgICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -838,10 +844,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTmV4dExldmVsQXZhaWxhYmxlKG91dCBuZXh0TGV2ZWwpKQogICAgICAgIHsKICAgICAgICAgICAgUGxheWVyUHJlZnMuU2V0SW50KFBsYXllclByZWZzS2V5cy5MZXZlbFRvUGxheSwgbmV4dExldmVsKTsgLy8gVE9ETyBkaXNhYmxlCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCBOZXh0TGV2ZWxBdmFpbGFibGUob3V0IGludCBuZXh0TGV2ZWwpCiAgICB7CiAgICAgICAgaW50IGN1ckxldmVsID0gUGxheWVyUHJlZnMuR2V0SW50KFBsYXllclByZWZzS2V5cy5MZXZlbFRvUGxheSk7CiAgICAgICAgaWYoY3VyTGV2ZWwgPCBGaW5kT2JqZWN0T2ZUeXBlPEltbW9ydGFsTWFuYWdlcj4oKS5udW1MZXZlbHMtMSkKICAgICAgICB7CiAgICAgICAgICAgIG5leHRMZXZlbCA9IGN1ckxldmVsICsgMTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIG5leHRMZXZlbCA9IGN1ckxldmVsOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbmV4dExldmVsOwogICAgICAgIGlmIChOZXh0TGV2ZWxBdmFpbGFibGUob3V0IG5leHRMZXZlbCkpCiAgICAgICAgewogICAgICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUKICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -883,16 +889,16 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0Q29tcG9uZW50SW5QYXJlbnQ8RmFkZWFibGU+KCkuR29CYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCBOZXh0TGV2ZWxBdmFpbGFibGUob3V0IGludCBuZXh0TGV2ZWwpCiAgICB7CiAgICAgICAgaW50IGN1ckxldmVsID0gUGxheWVyUHJlZnMuR2V0SW50KFBsYXllclByZWZzS2V5cy5MZXZlbFRvUGxheSk7CiAgICAgICAgaWYoY3VyTGV2ZWwgPCBGaW5kT2JqZWN0T2ZUeXBlPEltbW9ydGFsTWFuYWdlcj4oKS5udW1MZXZlbHMtMSkKICAgICAgICB7CiAgICAgICAgICAgIG5leHRMZXZlbCA9IGN1ckxldmVsICsgMTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIG5leHRMZXZlbCA9IGN1ckxldmVsOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJQcmVmcy5TZXRJbnQoUGxheWVyUHJlZnNLZXlzLkxldmVsVG9QbGF5LCBuZXh0TGV2ZWwpOyAvLyBUT0RPIGRpc2FibGUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgR2V0Q29tcG9uZW50SW5QYXJlbnQ8RmFkZWFibGU+KCkuR29CYWNrKCk7Cg==</text>
