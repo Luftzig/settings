@@ -220,10 +220,11 @@
         <mark key="^" line="38" column="56" />
         <mark key="." line="38" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" timestamp="1502184860139">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" timestamp="1502186966554">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+        <mark key="^" line="42" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.model.ts" timestamp="1492787491819">
         <mark key="'" line="19" column="105" />
@@ -799,11 +800,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaS5wb3NpdGlvbi5ub3JtYWw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogX1RpbnQ=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICogX1RpbnQ=</text>
       </register>
       <register name="/" type="4">
         <text>Tutorial</text>
@@ -812,10 +813,10 @@
         <text encoding="base64">ICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUodHJhbnNmb3JtLnJvb3QucG9zaXRpb24sIGFib3ZlUm9vdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaS5wb3NpdGlvbi5ub3JtYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ0IHV2Z3JhYiAgIDogVEVYQ09PUkQxOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgZGlzdGFuY2UgPSBzcXJ0KGkucG9zaXRpb24ueCAqIGkucG9zaXRpb24ueCArIGkucG9zaXRpb24ueiAqIGkucG9zaXRpb24ueik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG5vcm1hbCA9IG5vcm1hbGl6ZShEZWNvZGVWaWV3Tm9ybWFsU3RlcmVvKGkucG9zaXRpb24pKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -868,10 +869,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgby51diA9IG5vcm1hbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgby5wb3NpdGlvbi55ICs9IHNpbihwb3NpdGlvbi54ICogcG9zaXRpb24ueikgKiBfQ29zVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG5vcm1hbCA9IERlY29kZVZpZXdOb3JtYWxTdGVyZW8oaS5wb3NpdGlvbik7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -912,21 +913,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>float4 position : SV_POSITION,
-                    float3 localPosition : TEXCOORD0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG5vcm1hbDogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQyIHV2X3NjYWxlZCA9IGkudXYueHkgLyBtaW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaS5wb3NpdGlvbi5ub3JtYWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVXBncmFkZSBOT1RFOiByZXBsYWNlZCAnbXVsKFVOSVRZX01BVFJJWF9NVlAsKiknIHdpdGggJ1VuaXR5T2JqZWN0VG9DbGlwUG9zKCopJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgZGlzdGFuY2UgPSBzcXJ0KGkucG9zaXRpb24ueCAqIGkucG9zaXRpb24ueCArIGkucG9zaXRpb24ueiAqIGkucG9zaXRpb24ueik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVGFncyB7ICJSZW5kZXJUeXBlIiA9ICJPcGFxdWUiIH0KICAgICAgQ0dQUk9HUkFNCiAgICAgICNwcmFnbWEgc3VyZmFjZSBzdXJmIExhbWJlcnQgdmVydGV4OnZlcnQKICAgICAgc3RydWN0IElucHV0IHsKICAgICAgICAgIGZsb2F0MiB1dl9NYWluVGV4OwogICAgICB9OwogICAgICBmbG9hdCBfQW1vdW50OwoKICAgICAgdm9pZCB2ZXJ0IChpbm91dCBhcHBkYXRhX2Z1bGwgdikgewogICAgICAgICAgdi52ZXJ0ZXgueHl6ICs9IF9TaW5UaW1lICogMC4xOwogICAgICB9CgogICAgICBzYW1wbGVyMkQgX01haW5UZXg7CiAgICAgIGZpeGVkNCBfQ29sb3I7CgogICAgICB2b2lkIHN1cmYgKElucHV0IElOLCBpbm91dCBTdXJmYWNlT3V0cHV0IG8pIHsKICAgICAgICBmaXhlZDQgYyA9IHRleDJEIChfTWFpblRleCwgSU4udXZfTWFpblRleCkgKiBfQ29sb3I7CiAgICAgICAgby5BbGJlZG8gPSBjLnJnYjsKICAgICAgfQogICAgICBFTkRDRwogICAgfQogICAgRmFsbGJhY2sgIkRpZmZ1c2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
