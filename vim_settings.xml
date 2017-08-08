@@ -141,6 +141,12 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" timestamp="1502191318844">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="11" />
+        <mark key="." line="89" column="11" />
+        <mark key="^" line="89" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e25fe0b-98f3-46a4-9336-01e7aed49277/console.sql" timestamp="1501072137999">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="50" />
@@ -220,11 +226,12 @@
         <mark key="^" line="38" column="56" />
         <mark key="." line="38" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" timestamp="1502186966554">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="24" />
-        <mark key="." line="43" column="24" />
-        <mark key="^" line="42" column="76" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" timestamp="1502191219244">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="50" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.model.ts" timestamp="1492787491819">
         <mark key="'" line="19" column="105" />
@@ -698,10 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
-      <jump line="15" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
-      <jump line="74" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
       <jump line="110" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
       <jump line="27" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
@@ -798,25 +801,29 @@
       <jump line="14" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
+      <jump line="51" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
+      <jump line="36" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
+      <jump line="41" column="66" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
+      <jump line="45" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICogX1RpbnQ=</text>
+        <text encoding="base64">Ly8vLy8vCQkJ</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogX1RpbnQ=</text>
+        <text encoding="base64">Ly8vLy8vCQkJ</text>
       </register>
       <register name="/" type="4">
         <text>Tutorial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUodHJhbnNmb3JtLnJvb3QucG9zaXRpb24sIGFib3ZlUm9vdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfQ29sb3IgKCJDb2xvciIsIENvbG9yKSA9ICgxLCAxLCAxLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ0IHV2Z3JhYiAgIDogVEVYQ09PUkQxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgby5wb3NpdGlvbiA9IFVuaXR5T2JqZWN0VG9DbGlwUG9zKGkucG9zaXRpb24pOwogICAgICAgICAgICBvLnBvc2l0aW9uLnkgKz0gc2ludXNvaWQoZmxvYXQyKF9UaW1lLnksIF9UaW1lLnkpICsgby5wb3NpdGlvbi54eiwgZmxvYXQyKC0xLCAtMSksIGZsb2F0MigxLCAxKSwgZmxvYXQyKDIsIDIpKTsKICAgICAgICAgICAgby5ub3JtYWwgPSBpLm5vcm1hbDsKICAgICAgICAgICAgby51dmdyYWIgPSBDb21wdXRlR3JhYlNjcmVlblBvcyhpLnBvc2l0aW9uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG5vcm1hbCA9IG5vcm1hbGl6ZShEZWNvZGVWaWV3Tm9ybWFsU3RlcmVvKGkucG9zaXRpb24pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG9iamVjdFBvcyA9IG11bCh1bml0eV9PYmplY3RUb1dvcmxkLCBoYWxmNCgwLCAwLCAwLCAxKSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -869,10 +876,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgby51diA9IG5vcm1hbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG9iamVjdFBvcyA9IG11bCh1bml0eV9PYmplY3RUb1dvcmxkLCBoYWxmNCgwLCAwLCAwLCAxKSk7CiAgICAgICAgICAgIG8ucG9zaXRpb24gPSBVbml0eU9iamVjdFRvQ2xpcFBvcyhpLnBvc2l0aW9uKTsKICAgICAgICAgICAgby5wb3NpdGlvbi55ICs9IHNpbnVzb2lkKGZsb2F0MihfVGltZS55LCBfVGltZS55KSArIG8ucG9zaXRpb24ueHosIGZsb2F0MigtMSwgLTEpLCBmbG9hdDIoMSwgMSksIGZsb2F0MigyLCAyKSk7CiAgICAgICAgICAgIG8ubm9ybWFsID0gaS5ub3JtYWw7CiAgICAgICAgICAgIG8udXZncmFiID0gQ29tcHV0ZUdyYWJTY3JlZW5Qb3MoaS5wb3NpdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG5vcm1hbCA9IERlY29kZVZpZXdOb3JtYWxTdGVyZW8oaS5wb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgby52ZXJ0ZXggPSBpLnZlcnRleDsKICAgICAgICAgICAgby5ub3JtYWwgPSBpLm5vcm1hbDsKICAgICAgICAgICAgby51diA9IGkudGV4Y29vcmQ7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -914,19 +921,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG5vcm1hbDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ0IHV2Z3JhYiAgIDogVEVYQ09PUkQxOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQyIHV2X3NjYWxlZCA9IGkudXYueHkgLyBtaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdHJ1Y3QgVmVydEluIHsKICAgICAgICAgICAgZmxvYXQ0IHBvc2l0aW9uIDogUE9TSVRJT047CiAgICAgICAgICAgIGZsb2F0MiB1diAgICAgICA6IFRFWENPT1JEMDsKICAgICAgICAgICAgZmxvYXQ0IG5vcm1hbCAgIDogTk9STUFMOwogICAgICAgIH07Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaS5wb3NpdGlvbi5ub3JtYWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgZGlzdGFuY2UgPSBzcXJ0KGkucG9zaXRpb24ueCAqIGkucG9zaXRpb24ueCArIGkucG9zaXRpb24ueiAqIGkucG9zaXRpb24ueik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdDQgX1RpbnQ7CiAgICAgICAgc2FtcGxlcjJEIF9HcmFiVGV4dHVyZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
