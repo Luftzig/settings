@@ -220,11 +220,11 @@
         <mark key="^" line="38" column="56" />
         <mark key="." line="38" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" timestamp="1502118054356">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="5" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" timestamp="1502121082325">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+        <mark key="^" line="29" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.model.ts" timestamp="1492787491819">
         <mark key="'" line="19" column="105" />
@@ -623,8 +623,8 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502114769478">
-        <mark key="[" line="0" column="60" />
+      <file name="/Dummy.txt" timestamp="1502119792952">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="73" />
         <mark key="^" line="0" column="73" />
         <mark key="." line="0" column="73" />
@@ -801,10 +801,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.rgb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.rgb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Tutorial</text>
@@ -813,10 +813,11 @@
         <text encoding="base64">ICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUodHJhbnNmb3JtLnJvb3QucG9zaXRpb24sIGFib3ZlUm9vdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVByb3BlcnRpZXMKCXsKCX0KCVN1YlNoYWRlcgoJewoJCS8vIE5vIGN1bGxpbmcgb3IgZGVwdGgKCQlDdWxsIE9mZiBaV3JpdGUgT2ZmIFpUZXN0IEFsd2F5cwoKCQlQYXNzCgkJewoJCQlDR1BST0dSQU0KCQkJI3ByYWdtYSB2ZXJ0ZXggdmVydAoJCQkjcHJhZ21hIGZyYWdtZW50IGZyYWcKCgkJCSNpbmNsdWRlICJVbml0eUNHLmNnaW5jIgoKCQkJc3RydWN0IGFwcGRhdGEKCQkJewoJCQkJZmxvYXQ0IHZlcnRleCA6IFBPU0lUSU9OOwoJCQkJZmxvYXQyIHV2IDogVEVYQ09PUkQwOwoJCQl9OwoKCQkJc3RydWN0IHYyZgoJCQl7CgkJCQlmbG9hdDIgdXYgOiBURVhDT09SRDA7CgkJCQlmbG9hdDQgdmVydGV4IDogU1ZfUE9TSVRJT047CgkJCX07CgoJCQl2MmYgdmVydCAoYXBwZGF0YSB2KQoJCQl7CgkJCQl2MmYgbzsKCQkJCW8udmVydGV4ID0gVW5pdHlPYmplY3RUb0NsaXBQb3Modi52ZXJ0ZXgpOwoJCQkJby51diA9IHYudXY7CgkJCQlvLnZlcnRleC55ICo9IF9TaW5UaW1lOwoJCQkJcmV0dXJuIG87CgkJCX0KCgkJCWZpeGVkNCBmcmFnICh2MmYgaSkgOiBTVl9UYXJnZXQKCQkJewoJCQkJcmV0dXJuIGkuY29sb3I7CgkJCX0KCQkJRU5EQ0cKCQl9Cgl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgby5wb3NpdGlvbi55ICs9IHNpbihwb3NpdGlvbi54ICogcG9zaXRpb24ueikgKiBfQ29zVGltZTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">U2hhZGVyICJaZW5HYXJkZW4vV2F0ZXJFZmZlY3QiCnsKCVByb3BlcnRpZXMKCXsKCX0KCVN1YlNoYWRlcgoJewoJCS8vIE5vIGN1bGxpbmcgb3IgZGVwdGgKCQlDdWxsIE9mZiBaV3JpdGUgT2ZmIFpUZXN0IEFsd2F5cwoKCQlQYXNzCgkJewoJCQlDR1BST0dSQU0KCQkJI3ByYWdtYSB2ZXJ0ZXggdmVydAoJCQkjcHJhZ21hIGZyYWdtZW50IGZyYWcKCgkJCSNpbmNsdWRlICJVbml0eUNHLmNnaW5jIgoKCQkJc3RydWN0IGFwcGRhdGEKCQkJewoJCQkJZmxvYXQ0IHZlcnRleCA6IFBPU0lUSU9OOwoJCQkJZmxvYXQyIHV2IDogVEVYQ09PUkQwOwoJCQl9OwoKCQkJc3RydWN0IHYyZgoJCQl7CgkJCQlmbG9hdDIgdXYgOiBURVhDT09SRDA7CgkJCQlmbG9hdDQgdmVydGV4IDogU1ZfUE9TSVRJT047CgkJCX07CgoJCQl2MmYgdmVydCAoYXBwZGF0YSB2KQoJCQl7CgkJCQl2MmYgbzsKCQkJCW8udmVydGV4ID0gVW5pdHlPYmplY3RUb0NsaXBQb3Modi52ZXJ0ZXgpOwoJCQkJby51diA9IHYudXY7CgkJCQlvLnZlcnRleC55ICo9IF9TaW5UaW1lOwoJCQkJcmV0dXJuIG87CgkJCX0KCgkJCWZpeGVkNCBmcmFnICh2MmYgaSkgOiBTVl9UYXJnZXQKCQkJewoJCQkJcmV0dXJuIGkuY29sb3I7CgkJCX0KCQkJRU5EQ0cKCQl9Cgl9Cn0K</text>
+      <register name="2" type="4">
+        <text>float4 position : SV_POSITION,
+                    float3 localPosition : TEXCOORD0</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -869,7 +870,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCW8udmVydGV4LnkgKj0gZGlzdGFuY2UoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -914,19 +915,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJc2FtcGxlcjJEIF9NYWluVGV4Owo=</text>
+        <text encoding="base64">Ly8gVXBncmFkZSBOT1RFOiByZXBsYWNlZCAnbXVsKFVOSVRZX01BVFJJWF9NVlAsKiknIHdpdGggJ1VuaXR5T2JqZWN0VG9DbGlwUG9zKCopJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgVGFncyB7ICJSZW5kZXJUeXBlIiA9ICJPcGFxdWUiIH0KICAgICAgQ0dQUk9HUkFNCiAgICAgICNwcmFnbWEgc3VyZmFjZSBzdXJmIExhbWJlcnQgdmVydGV4OnZlcnQKICAgICAgc3RydWN0IElucHV0IHsKICAgICAgICAgIGZsb2F0MiB1dl9NYWluVGV4OwogICAgICB9OwogICAgICBmbG9hdCBfQW1vdW50OwoKICAgICAgdm9pZCB2ZXJ0IChpbm91dCBhcHBkYXRhX2Z1bGwgdikgewogICAgICAgICAgdi52ZXJ0ZXgueHl6ICs9IF9TaW5UaW1lICogMC4xOwogICAgICB9CgogICAgICBzYW1wbGVyMkQgX01haW5UZXg7CiAgICAgIGZpeGVkNCBfQ29sb3I7CgogICAgICB2b2lkIHN1cmYgKElucHV0IElOLCBpbm91dCBTdXJmYWNlT3V0cHV0IG8pIHsKICAgICAgICBmaXhlZDQgYyA9IHRleDJEIChfTWFpblRleCwgSU4udXZfTWFpblRleCkgKiBfQ29sb3I7CiAgICAgICAgby5BbGJlZG8gPSBjLnJnYjsKICAgICAgfQogICAgICBFTkRDRwogICAgfQogICAgRmFsbGJhY2sgIkRpZmZ1c2UiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJc2FtcGxlcjJEIF9NYWluVGV4Owo=</text>
+        <text encoding="base64">ICAgICAgX01haW5UZXggKCJUZXh0dXJlIiwgMkQpID0gIndoaXRlIiB7fQogICAgICBfQ29sb3IgKCJDb2xvciIsIENvbG9yKSA9ICgxLCAxLCAxLCAxKQogICAgICBfQW1vdW50ICgiRXh0cnVzaW9uIEFtb3VudCIsIFJhbmdlKC0wLjAwMDEsMC4wMDAxKSkgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVByb3BlcnRpZXMKCXsKCX0KCVN1YlNoYWRlcgoJewoJCS8vIE5vIGN1bGxpbmcgb3IgZGVwdGgKCQlDdWxsIE9mZiBaV3JpdGUgT2ZmIFpUZXN0IEFsd2F5cwoKCQlQYXNzCgkJewoJCQlDR1BST0dSQU0KCQkJI3ByYWdtYSB2ZXJ0ZXggdmVydAoJCQkjcHJhZ21hIGZyYWdtZW50IGZyYWcKCgkJCSNpbmNsdWRlICJVbml0eUNHLmNnaW5jIgoKCQkJc3RydWN0IGFwcGRhdGEKCQkJewoJCQkJZmxvYXQ0IHZlcnRleCA6IFBPU0lUSU9OOwoJCQkJZmxvYXQyIHV2IDogVEVYQ09PUkQwOwoJCQl9OwoKCQkJc3RydWN0IHYyZgoJCQl7CgkJCQlmbG9hdDIgdXYgOiBURVhDT09SRDA7CgkJCQlmbG9hdDQgdmVydGV4IDogU1ZfUE9TSVRJT047CgkJCX07CgoJCQl2MmYgdmVydCAoYXBwZGF0YSB2KQoJCQl7CgkJCQl2MmYgbzsKCQkJCW8udmVydGV4ID0gVW5pdHlPYmplY3RUb0NsaXBQb3Modi52ZXJ0ZXgpOwoJCQkJby51diA9IHYudXY7CgkJCQlvLnZlcnRleC55ICo9IF9TaW5UaW1lOwoJCQkJcmV0dXJuIG87CgkJCX0KCgkJCWZpeGVkNCBmcmFnICh2MmYgaSkgOiBTVl9UYXJnZXQKCQkJewoJCQkJcmV0dXJuIGkuY29sb3I7CgkJCX0KCQkJRU5EQ0cKCQl9Cgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZml4ZWQ0IGZyYWcgKHYyZiBpKSA6IFNWX1RhcmdldAoJCQl7CgkJCQlyZXR1cm4gaS52ZXJ0ZXg7CgkJCX0K</text>
+        <text encoding="base64">U2hhZGVyICJaZW5HYXJkZW4vV2F0ZXJFZmZlY3QiCnsKCVByb3BlcnRpZXMKCXsKCX0KCVN1YlNoYWRlcgoJewoJCS8vIE5vIGN1bGxpbmcgb3IgZGVwdGgKCQlDdWxsIE9mZiBaV3JpdGUgT2ZmIFpUZXN0IEFsd2F5cwoKCQlQYXNzCgkJewoJCQlDR1BST0dSQU0KCQkJI3ByYWdtYSB2ZXJ0ZXggdmVydAoJCQkjcHJhZ21hIGZyYWdtZW50IGZyYWcKCgkJCSNpbmNsdWRlICJVbml0eUNHLmNnaW5jIgoKCQkJc3RydWN0IGFwcGRhdGEKCQkJewoJCQkJZmxvYXQ0IHZlcnRleCA6IFBPU0lUSU9OOwoJCQkJZmxvYXQyIHV2IDogVEVYQ09PUkQwOwoJCQl9OwoKCQkJc3RydWN0IHYyZgoJCQl7CgkJCQlmbG9hdDIgdXYgOiBURVhDT09SRDA7CgkJCQlmbG9hdDQgdmVydGV4IDogU1ZfUE9TSVRJT047CgkJCX07CgoJCQl2MmYgdmVydCAoYXBwZGF0YSB2KQoJCQl7CgkJCQl2MmYgbzsKCQkJCW8udmVydGV4ID0gVW5pdHlPYmplY3RUb0NsaXBQb3Modi52ZXJ0ZXgpOwoJCQkJby51diA9IHYudXY7CgkJCQlvLnZlcnRleC55ICo9IF9TaW5UaW1lOwoJCQkJcmV0dXJuIG87CgkJCX0KCgkJCWZpeGVkNCBmcmFnICh2MmYgaSkgOiBTVl9UYXJnZXQKCQkJewoJCQkJcmV0dXJuIGkuY29sb3I7CgkJCX0KCQkJRU5EQ0cKCQl9Cgl9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
