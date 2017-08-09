@@ -535,10 +535,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" timestamp="1501858317571">
-        <mark key="'" line="29" column="43" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" timestamp="1502289320735">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="55" column="4" />
         <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/site.conf" timestamp="1497783226999">
@@ -706,9 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="218" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
@@ -806,10 +803,13 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sIE1vdmVOZXh0KCkKICAgIHsKICAgICAgICByZXR1cm4gX2lubmVyLk1vdmVOZXh0KCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgUmVzZXQoKQogICAgewogICAgICAgIF9pbm5lci5SZXNldCgpOwogICAgfQoKICAgIG9iamVjdCBJRW51bWVyYXRvci5DdXJyZW50CiAgICB7CiAgICAgICAgZ2V0IHsgcmV0dXJuIF9pbm5lci5DdXJyZW50OyB9CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -818,7 +818,7 @@
         <text>normalD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWZsb2F0MyBsaWdodERpcmVjdGlvbiA9IG5vcm1hbGl6ZShfV29ybGRTcGFjZUxpZ2h0UG9zMC54eXopOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sIE1vdmVOZXh0KCkKICAgIHsKICAgICAgICByZXR1cm4gX2lubmVyLk1vdmVOZXh0KCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgUmVzZXQoKQogICAgewogICAgICAgIF9pbm5lci5SZXNldCgpOwogICAgfQoKICAgIG9iamVjdCBJRW51bWVyYXRvci5DdXJyZW50CiAgICB7CiAgICAgICAgZ2V0IHsgcmV0dXJuIF9pbm5lci5DdXJyZW50OyB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIGxpZ2h0RGlyZWN0aW9uID0gCg==</text>
