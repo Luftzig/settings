@@ -141,11 +141,12 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" timestamp="1502191318844">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="11" />
-        <mark key="." line="89" column="11" />
-        <mark key="^" line="89" column="11" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" timestamp="1502275108115">
+        <mark key="'" line="95" column="12" />
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="72" column="50" />
+        <mark key="." line="72" column="50" />
+        <mark key="^" line="72" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e25fe0b-98f3-46a4-9336-01e7aed49277/console.sql" timestamp="1501072137999">
         <mark key="[" line="0" column="47" />
@@ -705,12 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
-      <jump line="27" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
-      <jump line="85" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
-      <jump line="49" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
-      <jump line="81" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="237" column="7" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/ImmortalManager.cs" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
@@ -805,25 +800,31 @@
       <jump line="36" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="41" column="66" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="45" column="46" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
+      <jump line="83" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" />
+      <jump line="154" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" />
+      <jump line="70" column="14" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" />
+      <jump line="129" column="22" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" />
+      <jump line="81" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" />
+      <jump line="95" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/LowPolyWaves2.shader" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8vLy8vCQkJ</text>
+        <text>ObjectToWorld</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8vLy8vCQkJ</text>
+        <text>ObjectToWorld</text>
       </register>
       <register name="/" type="4">
-        <text>Tutorial</text>
+        <text>center</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfQ29sb3IgKCJDb2xvciIsIENvbG9yKSA9ICgxLCAxLCAxLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgby5wb3NpdGlvbiA9IFVuaXR5T2JqZWN0VG9DbGlwUG9zKGkucG9zaXRpb24pOwogICAgICAgICAgICBvLnBvc2l0aW9uLnkgKz0gc2ludXNvaWQoZmxvYXQyKF9UaW1lLnksIF9UaW1lLnkpICsgby5wb3NpdGlvbi54eiwgZmxvYXQyKC0xLCAtMSksIGZsb2F0MigxLCAxKSwgZmxvYXQyKDIsIDIpKTsKICAgICAgICAgICAgby5ub3JtYWwgPSBpLm5vcm1hbDsKICAgICAgICAgICAgby51dmdyYWIgPSBDb21wdXRlR3JhYlNjcmVlblBvcyhpLnBvc2l0aW9uKTsK</text>
+        <text encoding="base64">CQkJCiAgICAgICAgICAgIFttYXh2ZXJ0ZXhjb3VudCgzKV0KCQkJdm9pZCBnZW9tKHRyaWFuZ2xlIHYyZyBJTlszXSwgaW5vdXQgVHJpYW5nbGVTdHJlYW08ZzJmPiB0cmlTdHJlYW0pCgkJCXsKCgkJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG9iamVjdFBvcyA9IG11bCh1bml0eV9PYmplY3RUb1dvcmxkLCBoYWxmNCgwLCAwLCAwLCAxKSk7Cg==</text>
+        <text encoding="base64">CQkJCXRyaVN0cmVhbS5BcHBlbmQoT1VUKTsKCgkJCQlPVVQucG9zID0gVW5pdHlPYmplY3RUb0NsaXBQb3MoSU5bMV0ucG9zKTsKCQkJCU9VVC5ub3JtID0gdm47CgkJCQlPVVQudXYgPSBJTlsxXS51djsKCQkJCU9VVC5kaWZmdXNlQ29sb3IgPSBhbWJpZW50TGlnaHRpbmcgKyBkaWZmdXNlUmVmbGVjdGlvbjsKCQkJCU9VVC5zcGVjdWxhckNvbG9yID0gc3BlY3VsYXJSZWZsZWN0aW9uOwoJCQkJdHJpU3RyZWFtLkFwcGVuZChPVVQpOwoKCQkJCU9VVC5wb3MgPSBVbml0eU9iamVjdFRvQ2xpcFBvcyhJTlsyXS5wb3MpOwoJCQkJT1VULm5vcm0gPSB2bjsKCQkJCU9VVC51diA9IElOWzJdLnV2OwoJCQkJT1VULmRpZmZ1c2VDb2xvciA9IGFtYmllbnRMaWdodGluZyArIGRpZmZ1c2VSZWZsZWN0aW9uOwoJCQkJT1VULnNwZWN1bGFyQ29sb3IgPSBzcGVjdWxhclJlZmxlY3Rpb247CgkJCQl0cmlTdHJlYW0uQXBwZW5kKE9VVCk7CgkJCSAgICBmbG9hdDMgc3BlY3VsYXJDb2xvcjsKCQkJICAgIGZsb2F0MyBkaWZmdXNlQ29sb3I7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -876,10 +877,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG9iamVjdFBvcyA9IG11bCh1bml0eV9PYmplY3RUb1dvcmxkLCBoYWxmNCgwLCAwLCAwLCAxKSk7CiAgICAgICAgICAgIG8ucG9zaXRpb24gPSBVbml0eU9iamVjdFRvQ2xpcFBvcyhpLnBvc2l0aW9uKTsKICAgICAgICAgICAgby5wb3NpdGlvbi55ICs9IHNpbnVzb2lkKGZsb2F0MihfVGltZS55LCBfVGltZS55KSArIG8ucG9zaXRpb24ueHosIGZsb2F0MigtMSwgLTEpLCBmbG9hdDIoMSwgMSksIGZsb2F0MigyLCAyKSk7CiAgICAgICAgICAgIG8ubm9ybWFsID0gaS5ub3JtYWw7CiAgICAgICAgICAgIG8udXZncmFiID0gQ29tcHV0ZUdyYWJTY3JlZW5Qb3MoaS5wb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">CQkJCWcyZiBPVVQ7CgkJCQlPVVQucG9zID0gVW5pdHlPYmplY3RUb0NsaXBQb3MoSU5bMF0ucG9zKTsKCQkJCU9VVC5ub3JtID0gdm47CgkJCQlPVVQudXYgPSBJTlswXS51djsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgby52ZXJ0ZXggPSBpLnZlcnRleDsKICAgICAgICAgICAgby5ub3JtYWwgPSBpLm5vcm1hbDsKICAgICAgICAgICAgby51diA9IGkudGV4Y29vcmQ7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CQkJCWZsb2F0MyB2MCA9IElOWzBdLnBvcy54eXo7CgkJCQlmbG9hdDMgdjEgPSBJTlsxXS5wb3MueHl6OwoJCQkJZmxvYXQzIHYyID0gSU5bMl0ucG9zLnh5ejsKCgkJCQlmbG9hdDMgY2VudGVyUG9zID0gKHYwICsgdjEgKyB2MikgLyAzLjA7CgoJCQkJZmxvYXQzIHZuID0gbm9ybWFsaXplKGNyb3NzKHYxIC0gdjAsIHYyIC0gdjApKTs=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -921,28 +922,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ0IHV2Z3JhYiAgIDogVEVYQ09PUkQxOwo=</text>
+        <text encoding="base64">CQkJCWZsb2F0MyB2MCA9IElOWzBdLnBvcy54eXo7CgkJCQlmbG9hdDMgdjEgPSBJTlsxXS5wb3MueHl6OwoJCQkJZmxvYXQzIHYyID0gSU5bMl0ucG9zLnh5ejsKCgkJCQlmbG9hdDMgY2VudGVyUG9zID0gKHYwICsgdjEgKyB2MikgLyAzLjA7CgoJCQkJZmxvYXQzIHZuID0gbm9ybWFsaXplKGNyb3NzKHYxIC0gdjAsIHYyIC0gdjApKTsKCQkJCQoJCQkJZmxvYXQ0eDQgbW9kZWxNYXRyaXggPSB1bml0eV9PYmplY3RUb1dvcmxkOwoJCQkJZmxvYXQ0eDQgbW9kZWxNYXRyaXhJbnZlcnNlID0gdW5pdHlfV29ybGRUb09iamVjdDsKCgkJCQlmbG9hdDMgbm9ybWFsRGlyZWN0aW9uID0gbm9ybWFsaXplKAoJCQkJCW11bChmbG9hdDQodm4sIDAuMCksIG1vZGVsTWF0cml4SW52ZXJzZSkueHl6KTsKCQkJCWZsb2F0MyB2aWV3RGlyZWN0aW9uID0gbm9ybWFsaXplKF9Xb3JsZFNwYWNlQ2FtZXJhUG9zCgkJCQkJLSBtdWwobW9kZWxNYXRyaXgsIGZsb2F0NChjZW50ZXJQb3MsIDAuMCkpLnh5eik7CgkJCQlmbG9hdDMgbGlnaHREaXJlY3Rpb24gPSBub3JtYWxpemUoX1dvcmxkU3BhY2VMaWdodFBvczAueHl6KTsKCQkJCWZsb2F0IGF0dGVudWF0aW9uID0gMS4wOwoKCQkJCWZsb2F0MyBhbWJpZW50TGlnaHRpbmcgPQoJCQkJCVVOSVRZX0xJR0hUTU9ERUxfQU1CSUVOVC5yZ2IgKiBfQ29sb3IucmdiOwoKCQkJCWZsb2F0MyBkaWZmdXNlUmVmbGVjdGlvbiA9CgkJCQkJYXR0ZW51YXRpb24gKiBfTGlnaHRDb2xvcjAucmdiICogX0NvbG9yLnJnYgoJCQkJCSogbWF4KDAuMCwgZG90KG5vcm1hbERpcmVjdGlvbiwgbGlnaHREaXJlY3Rpb24pKTsKCgkJCQlmbG9hdDMgc3BlY3VsYXJSZWZsZWN0aW9uOwoJCQkJaWYgKGRvdChub3JtYWxEaXJlY3Rpb24sIGxpZ2h0RGlyZWN0aW9uKSA8IDAuMCkKCQkJCXsKCQkJCQlzcGVjdWxhclJlZmxlY3Rpb24gPSBmbG9hdDMoMC4wLCAwLjAsIDAuMCk7CgkJCQl9CgkJCQllbHNlCgkJCQl7CgkJCQkJc3BlY3VsYXJSZWZsZWN0aW9uID0gYXR0ZW51YXRpb24gKiBfTGlnaHRDb2xvcjAucmdiCgkJCQkJCSogX1NwZWNDb2xvci5yZ2IgKiBwb3cobWF4KDAuMCwgZG90KAoJCQkJCQkJcmVmbGVjdCgtbGlnaHREaXJlY3Rpb24sIG5vcm1hbERpcmVjdGlvbiksCgkJCQkJCQl2aWV3RGlyZWN0aW9uKSksIF9TaGluaW5lc3MpOwoJCQkJfQoKCQkJCWcyZiBPVVQ7CgkJCQlPVVQucG9zID0gVW5pdHlPYmplY3RUb0NsaXBQb3MoSU5bMF0ucG9zKTsKCQkJCU9VVC5ub3JtID0gdm47CgkJCQlPVVQudXYgPSBJTlswXS51djsKCQkJCU9VVC5kaWZmdXNlQ29sb3IgPSBhbWJpZW50TGlnaHRpbmcgKyBkaWZmdXNlUmVmbGVjdGlvbjsKCQkJCU9VVC5zcGVjdWxhckNvbG9yID0gc3BlY3VsYXJSZWZsZWN0aW9uOwoJCQkJdHJpU3RyZWFtLkFwcGVuZChPVVQpOwoKCQkJCU9VVC5wb3MgPSBVbml0eU9iamVjdFRvQ2xpcFBvcyhJTlsxXS5wb3MpOwoJCQkJT1VULm5vcm0gPSB2bjsKCQkJCU9VVC51diA9IElOWzFdLnV2OwoJCQkJT1VULmRpZmZ1c2VDb2xvciA9IGFtYmllbnRMaWdodGluZyArIGRpZmZ1c2VSZWZsZWN0aW9uOwoJCQkJT1VULnNwZWN1bGFyQ29sb3IgPSBzcGVjdWxhclJlZmxlY3Rpb247CgkJCQl0cmlTdHJlYW0uQXBwZW5kKE9VVCk7CgoJCQkJT1VULnBvcyA9IFVuaXR5T2JqZWN0VG9DbGlwUG9zKElOWzJdLnBvcyk7CgkJCQlPVVQubm9ybSA9IHZuOwoJCQkJT1VULnV2ID0gSU5bMl0udXY7CgkJCQlPVVQuZGlmZnVzZUNvbG9yID0gYW1iaWVudExpZ2h0aW5nICsgZGlmZnVzZVJlZmxlY3Rpb247CgkJCQlPVVQuc3BlY3VsYXJDb2xvciA9IHNwZWN1bGFyUmVmbGVjdGlvbjsKCQkJCXRyaVN0cmVhbS5BcHBlbmQoT1VUKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJ1Y3QgVmVydEluIHsKICAgICAgICAgICAgZmxvYXQ0IHBvc2l0aW9uIDogUE9TSVRJT047CiAgICAgICAgICAgIGZsb2F0MiB1diAgICAgICA6IFRFWENPT1JEMDsKICAgICAgICAgICAgZmxvYXQ0IG5vcm1hbCAgIDogTk9STUFMOwogICAgICAgIH07Cgo=</text>
+        <text encoding="base64">CQkJI3ByYWdtYSBnZW9tZXRyeSBnZW9tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgby5wb3NpdGlvbiA9IFVuaXR5T2JqZWN0VG9DbGlwUG9zKGkucG9zaXRpb24pOwogICAgICAgICAgICBvLnBvc2l0aW9uLnkgKz0gc2ludXNvaWQoZmxvYXQyKF9UaW1lLnksIF9UaW1lLnkpICsgby5wb3NpdGlvbi54eiwgZmxvYXQyKC0xLCAtMSksIGZsb2F0MigxLCAxKSwgZmxvYXQyKDIsIDIpKTsKICAgICAgICAgICAgby5ub3JtYWwgPSBpLm5vcm1hbDsKICAgICAgICAgICAgby51dmdyYWIgPSBDb21wdXRlR3JhYlNjcmVlblBvcyhpLnBvc2l0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdDQgX1RpbnQ7CiAgICAgICAgc2FtcGxlcjJEIF9HcmFiVGV4dHVyZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG9iamVjdFBvcyA9IG11bCh1bml0eV9PYmplY3RUb1dvcmxkLCBoYWxmNCgwLCAwLCAwLCAxKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIG9iamVjdFBvcyA9IG11bCh1bml0eV9PYmplY3RUb1dvcmxkLCBoYWxmNCgwLCAwLCAwLCAxKSk7CiAgICAgICAgICAgIG8ucG9zaXRpb24gPSBVbml0eU9iamVjdFRvQ2xpcFBvcyhpLnBvc2l0aW9uKTsKICAgICAgICAgICAgby5wb3NpdGlvbi55ICs9IHNpbnVzb2lkKGZsb2F0MihfVGltZS55LCBfVGltZS55KSArIG8ucG9zaXRpb24ueHosIGZsb2F0MigtMSwgLTEpLCBmbG9hdDIoMSwgMSksIGZsb2F0MigyLCAyKSk7CiAgICAgICAgICAgIG8ubm9ybWFsID0gaS5ub3JtYWw7CiAgICAgICAgICAgIG8udXZncmFiID0gQ29tcHV0ZUdyYWJTY3JlZW5Qb3MoaS5wb3NpdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Tutorial</last-search>
+      <last-search>center</last-search>
       <last-offset />
-      <last-pattern>Tutorial</last-pattern>
+      <last-pattern>center</last-pattern>
       <last-replace />
       <last-substitute>_[1-2]\?[0-9]0</last-substitute>
       <last-dir>1</last-dir>
@@ -950,7 +951,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cliend</entry>
         <entry encoding="base64">XDxwYXltZW55RGV0YWlsc01vZGFsQ29udHJvbGxlclw+</entry>
         <entry>users\/payments\/</entry>
         <entry>business\/set</entry>
@@ -970,6 +970,7 @@
         <entry>levelNum&quot;: 10</entry>
         <entry encoding="base64">XDxwYXJlbnRNZW51XD4=</entry>
         <entry>Tutorial</entry>
+        <entry>center</entry>
       </history-search>
       <history-cmd>
         <entry>s/, /,\r/g</entry>
