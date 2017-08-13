@@ -30,8 +30,8 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" timestamp="1501677327972">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" timestamp="1502621820698">
+        <mark key="'" line="71" column="24" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="100" />
         <mark key="." line="219" column="57" />
@@ -602,11 +602,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Coroutine.cs" timestamp="1502617067869">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Coroutine.cs" timestamp="1502622626039">
+        <mark key="'" line="44" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="85" />
-        <mark key="." line="2" column="85" />
-        <mark key="^" line="2" column="85" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="42" column="53" />
+        <mark key="." line="42" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1502103148649">
         <mark key="'" line="193" column="8" />
@@ -714,10 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
-      <jump line="5" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
-      <jump line="96" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="29" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Tutorial.cs" />
       <jump line="346" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="350" column="62" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
@@ -814,22 +811,26 @@
       <jump line="52" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
       <jump line="63" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
       <jump line="19" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
+      <jump line="71" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" />
+      <jump line="23" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Coroutine.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Coroutine.cs" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Coroutine.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKgogICAgICovCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnM7CnVzaW5nIFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljOwoKLy8vIDxzdW1tYXJ5PgovLy8gQW4gYXR0ZW1wdCB0byBmdXJ0aGVyIGVuY2Fwc3VsYXRlIENvcm91dGluZXMgaW4gVW5pdHkgYnkgZGVzZ2luaW5nIHRoZW0gYXMgU3RyZWFtcwovLy8gPC9zdW1tYXJ5PgpwdWJsaWMgYWJzdHJhY3QgY2xhc3MgQ29yb3V0aW5lPFRFdmVudD4KewogICAgcHJvdGVjdGVkIGJvb2wgX3N0b3BwZWQgPSBmYWxzZTsKCiAgICBwdWJsaWMgVW5pdHlFbmdpbmUuQ29yb3V0aW5lIFN0YXJ0KFVuaXR5RW5naW5lLk1vbm9CZWhhdmlvdXIgbW9ub0JlaGF2aW91cikKICAgIHsKICAgICAgICByZXR1cm4gbW9ub0JlaGF2aW91ci5TdGFydENvcm91dGluZShBc0VudW1lcmF0b3IoKSk7CiAgICB9CgogICAgcHVibGljIGFic3RyYWN0IElFbnVtZXJhdG9yPFRFdmVudD4gQXNFbnVtZXJhdG9yKCk7Cn0KCnB1YmxpYyBjbGFzcyBUaW1lQ29yb3V0aW5lIDogQ29yb3V0aW5lPGZsb2F0Pgp7CiAgICBwdWJsaWMgb3ZlcnJpZGUgSUVudW1lcmF0b3I8ZmxvYXQ+IEFzRW51bWVyYXRvcigpCiAgICB7CiAgICAgICAgd2hpbGUgKCFfc3RvcHBlZCkKICAgICAgICAgICAgeWllbGQgcmV0dXJuIFVuaXR5RW5naW5lLlRpbWUudGltZTsKICAgIH0KfQoKcHVibGljIGNsYXNzIFNlbGVjdENvcm91dGluZTxUSW5wdXQsIFRPdXRwdXQ+IDogQ29yb3V0aW5lPFRPdXRwdXQ+CnsKICAgIHByb3RlY3RlZCBGdW5jPFRJbnB1dCwgVE91dHB1dD4gX2Y7CiAgICBwcm90ZWN0ZWQgQ29yb3V0aW5lPFRJbnB1dD4gX3NvdXJjZTsKICAgIHB1YmxpYyBTZWxlY3RDb3JvdXRpbmUoQ29yb3V0aW5lPFRJbnB1dD4gc291cmNlLCBGdW5jPFRJbnB1dCwgVE91dHB1dD4gZikKICAgIHsKICAgICAgICBfZiA9IGY7CiAgICAgICAgX3NvdXJjZSA9IHNvdXJjZTsKICAgIH0KICAgIAogICAgcHVibGljIG92ZXJyaWRlIElFbnVtZXJhdG9yPFRPdXRwdXQ+IEFzRW51bWVyYXRvcigpCiAgICB7CiAgICAgICAgdmFyIHNvdXJjZUVudW1lcmF0b3IgPSBfc291cmNlLkFzRW51bWVyYXRvcigpOwogICAgICAgIHdoaWxlICghX3N0b3BwZWQgJiYgc291cmNlRW51bWVyYXRvci5Nb3ZlTmV4dCgpKQogICAgICAgICAgICB5aWVsZCByZXR1cm4gX2Yoc291cmNlRW51bWVyYXRvci5DdXJyZW50KTsKICAgIH0KfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text>source.</text>
       </register>
       <register name="/" type="4">
         <text>normalD</text>
       </register>
-      <register name="0" type="4">
-        <text>compound_sin(v.vertex.x, float4(1, 2.3, 3.3, 5.6), float4(0.1, 1.5, 0.4, -1) * _Time.x)</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -885,10 +886,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBwb3dlcihmbG9hdDMgeCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -930,19 +931,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml4ZWQzIGNvbG9yIDogQ09MT1IwOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2aXJ0dWFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBvLmNvbG9yID0gZmxvYXQ0KGR4ICogMC41ICsgMC41LCAxKTsK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICB3aGlsZSAoIV9zdG9wcGVkKQogICAgICAgICAgICB5aWVsZCByZXR1cm4gVW5pdHlFbmdpbmUuVGltZS50aW1lOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIGR6ID0gZmxvYXQzKGJpdGFuZ2VudC54LCBuZXdfeSh2LnZlcnRleCArIGZsb2F0NChiaXRhbmdlbnQsIDApKSwgYml0YW5nZW50LnopOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIENvcm91dGluZTxUPiBEbzxUPihGdW5jPFRFdmVudCwgVD4gZikKICAgIHsKICAgICAgICByZXR1cm4gbmV3IENvcm91dGluZTxUPigpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQzIGR4ID0gZmxvYXQzKHYudGFuZ2VudC54LCBuZXdfeSh2LnZlcnRleCArIHYudGFuZ2VudCksIHYudGFuZ2VudC56KTsK</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X3Bvcy55ICs9IG5ld195KG5ld19wb3MpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlY3VyaXR5LkNyeXB0b2dyYXBoeTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
