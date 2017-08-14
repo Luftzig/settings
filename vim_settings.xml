@@ -422,12 +422,12 @@
         <mark key="^" line="59" column="115" />
         <mark key="." line="59" column="115" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" timestamp="1502720920245">
-        <mark key="'" line="133" column="50" />
-        <mark key="[" line="133" column="48" />
-        <mark key="]" line="133" column="50" />
-        <mark key="." line="133" column="50" />
-        <mark key="^" line="133" column="50" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" timestamp="1502724976058">
+        <mark key="'" line="134" column="8" />
+        <mark key="[" line="141" column="37" />
+        <mark key="]" line="141" column="38" />
+        <mark key="^" line="141" column="38" />
+        <mark key="." line="141" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -686,12 +686,11 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1502291091468">
-        <mark key="'" line="57" column="44" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" timestamp="1502721611389">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="57" column="69" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1492339698148">
         <mark key="'" line="21" column="0" />
@@ -722,9 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="52" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
-      <jump line="39" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="132" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="136" column="56" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="140" column="34" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
@@ -814,7 +810,6 @@
       <jump line="28" column="14" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="103" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="105" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="134" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="190" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="131" column="4" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
@@ -822,25 +817,29 @@
       <jump line="68" column="73" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="201" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="133" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
+      <jump line="62" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
+      <jump line="106" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
+      <jump line="134" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ScreenshotCam</text>
+        <text>forward</text>
       </register>
       <register name="-" type="4">
-        <text>ScreenshotCam</text>
+        <text>forward</text>
       </register>
       <register name="/" type="4">
         <text>FindObject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQW5kVGhlbigoKSA9PiBuZXcgV2FpdEZvclNlY29uZHMoNWYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2FtZXJhID0gR2FtZU9iamVjdC5GaW5kKCJTY3JlZW5zaG90Q2FtIikudHJhbnNmb3JtLnBvc2l0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJMb29raW5nIGF0IHswfTsgY2FtZXJhIGF0IHsxfSIsIGhlYWQucG9zaXRpb24sIGNhbWVyYSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dGb3JtYXQoIkFuZ2xlIGJldHdlZW4gZm94IHswfSBhbmQgdGFyZ2V0IHsxfSBpcyB7Mn0iLCB0cmFuc2Zvcm0uZm9yd2FyZCwgdGFyZ2V0LCBhbmdsZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBoZWFkLlJvdGF0ZShWZWN0b3IzLnVwLCAxMCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -893,10 +892,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2cK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2FtZXJhID0gR2FtZU9iamVjdC5GaW5kKCJJc29Nb2RlQ2FtZXJhIikudHJhbnNmb3JtLnBvc2l0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYW5nbGUgPSBBbmdsZVRvVGFyZ2V0KEdldENvbXBvbmVudDxDYW1lcmE+KCkudHJhbnNmb3JtLnBvc2l0aW9uKSA+IDVmOwogICAgICAgIHdoaWxlIChhbmdsZSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChhbmdsZSA+IDApIGhlYWQuTAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQW4K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -938,19 +937,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFdhaXRGb3JTZWNvbmRzKDAuNWYpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVscGVycy5BY3Rpb25Ub0VudW1lcmF0b3IoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBIZWxwZXJzLlNlcXVlbmNlKFR1cm5VbnRpbEZhY2luZ1RhcmdldChiZWhhdmlvdXJBbmRUYXJnZXQudGFyZ2V0KSwKICAgICAgICAgICAgICAgICAgICBIZWxwZXJzLkFjdGlvblRvRW51bWVyYXRvcigoKSA9PiBDaGFuZ2VTdGF0ZShBbmltU3RhdGUuU2VhdCkpLAogICAgICAgICAgICAgICAgICAgIEhlbHBlcnMuRnVuY1RvRW51bWVyYXRvcigoKSA9PiBuZXcgV2FpdEZvclNlY29uZHMoNWYpKSwKICAgICAgICAgICAgICAgICAgICBIZWxwZXJzLkFjdGlvblRvRW51bWVyYXRvcigKICAgICAgICAgICAgICAgICAgICAgICAgKCkgPT4gYmVoYXZpb3VyQW5kVGFyZ2V0ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGb3hTdGF0ZShGb3hCZWhhdmlvdXIuV2Fsa1RvRWxlbWVudCwgUmFuZG9tQ2hvaWNlKHRhcmdldHMpLnBvc2l0aW9uKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFdhaXRGb3JTZWNvbmRzKDAuMWYpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3lzdGVtLklPYnNlcnZhYmxlPGJvb2w+IF9vYnNlcnZhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
