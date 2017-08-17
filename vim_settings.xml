@@ -653,11 +653,11 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502964379391">
+      <file name="/Dummy.txt" timestamp="1502967910523">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideo.cs" timestamp="1501165109939">
         <mark key="[" line="4" column="30" />
@@ -685,8 +685,8 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" timestamp="1502966158394">
-        <mark key="'" line="27" column="8" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" timestamp="1502967168237">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="428" column="65" />
         <mark key="]" line="429" column="24" />
         <mark key="." line="429" column="24" />
@@ -734,7 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="27" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="35" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
@@ -823,7 +822,6 @@
       <jump line="430" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="227" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="443" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="42" column="54" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="80" column="110" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="157" column="95" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
@@ -834,25 +832,27 @@
       <jump line="154" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="97" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalVariables.cs" />
       <jump line="27" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
+      <jump line="429" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VmVjdG9yCg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>\cfall</text>
+        <text>Slope</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0uU2V0Qm9vbCgiU2xlZXAiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0uU2V0Qm9vbCgiU2xlZXAiLCB0cnVlKTsK</text>
+        <text encoding="base64">VmVjdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0uU2V0Qm9vbCgiU2xlZXAiLCB0cnVlKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -905,10 +905,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltLlNldEJvb2woIkZhbGwiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsbAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmltLlNldEJvb2woIkZhbGwiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -950,28 +950,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYWwuRmFsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hbC5TdGFuZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmltYWwuRmFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hbC5TdGFuZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cfall</last-search>
+      <last-search>Slope</last-search>
       <last-offset />
-      <last-pattern>\cfall</last-pattern>
+      <last-pattern>Slope</last-pattern>
       <last-replace />
       <last-substitute>_[1-2]\?[0-9]0</last-substitute>
       <last-dir>1</last-dir>
@@ -979,7 +979,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Show</entry>
         <entry>mod</entry>
         <entry>levelNum&quot;: 26</entry>
         <entry>name</entry>
@@ -999,6 +998,7 @@
         <entry>animState</entry>
         <entry>fall</entry>
         <entry>\cfall</entry>
+        <entry>Slope</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLyAuICIsIi8=</entry>
