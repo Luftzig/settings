@@ -429,6 +429,12 @@
         <mark key="." line="75" column="41" />
         <mark key="^" line="75" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1502978553494">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="25" />
@@ -734,9 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
-      <jump line="35" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/WaterEffect.shader" />
@@ -834,13 +837,16 @@
       <jump line="27" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="429" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
+      <jump line="79" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VmVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Map</text>
       </register>
       <register name="/" type="4">
         <text>Slope</text>
@@ -849,10 +855,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0uU2V0Qm9vbCgiU2xlZXAiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VmVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0uU2V0Qm9vbCgiU2xlZXAiLCB0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -908,7 +914,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltLlNldEJvb2woIkZhbGwiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -950,19 +956,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFsbAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBwcm90ZWN0ZWQgZGVsZWdhdGUgdm9pZCBFbnRlclN0YXRlKCk7CgogICAgICAgIHByb3RlY3RlZCBkZWxlZ2F0ZSB2b2lkIEV4aXRTdGF0ZSgpOwoKICAgICAgICBwcm90ZWN0ZWQgZGVsZWdhdGUgdm9pZCBTdGF0ZVVwZGF0ZSgpOwoKICAgICAgICBwcm90ZWN0ZWQgZGVsZWdhdGUgQW5pbWFsQmVoYXZpb3VyIE5leHRTdGF0ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYWwuRmFsbAo=</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgZGVsZWdhdGUgdm9pZCBFbnRlclN0YXRlKCk7CgogICAgICAgIHByb3RlY3RlZCBkZWxlZ2F0ZSB2b2lkIEV4aXRTdGF0ZSgpOwoKICAgICAgICBwcm90ZWN0ZWQgZGVsZWdhdGUgdm9pZCBTdGF0ZVVwZGF0ZSgpOwoKICAgICAgICBwcm90ZWN0ZWQgZGVsZWdhdGUgQW5pbWFsQmVoYXZpb3VyIE5leHRTdGF0ZSgpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hbC5TdGFuZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3VycmVudEJlaGF2aW91ciA9IE5leHRTdGF0ZShDdXJyZW50QmVoYXZpb3VyKTsKICAgICAgICAgICAgc3dpdGNoIChDdXJyZW50QmVoYXZpb3VyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjYXNlIEFuaW1hbEJlaGF2aW91ci5Nb3ZlVG93YXJkOgogICAgICAgICAgICAgICAgICAgIE1vdmVUb3dhcmRzKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIEFuaW1hbEJlaGF2aW91ci5JbnRlcmFjdFdpdGhQbGF5ZXI6CiAgICAgICAgICAgICAgICAgICAgSW50ZXJhY3RXaXRoUGxheWVyKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIEFuaW1hbEJlaGF2aW91ci5JbnRlcmFjdFdpdGhEcmluazoKICAgICAgICAgICAgICAgICAgICBJbnRlcmFjdFdpdGhEcmluaygpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBBbmltYWxCZWhhdmlvdXIuSW50ZXJhY3RXaXRoU2hhZGU6CiAgICAgICAgICAgICAgICAgICAgSW50ZXJhY3RXaXRoU2hhZGUoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQW5pbWFsQmVoYXZpb3VyLkNpcmNsZVRhcmdldDoKICAgICAgICAgICAgICAgICAgICBDaXJjbGVUYXJnZXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQW5pbWFsQmVoYXZpb3VyLlNsZWVwOgogICAgICAgICAgICAgICAgICAgIFNsZWVwKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE91dE9mUmFuZ2VFeGNlcHRpb24oKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
