@@ -428,12 +428,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503223832497">
-        <mark key="'" line="147" column="50" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="9" column="47" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503226398489">
+        <mark key="'" line="234" column="19" />
+        <mark key="[" line="229" column="87" />
+        <mark key="]" line="229" column="87" />
+        <mark key="^" line="229" column="87" />
+        <mark key="." line="229" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -655,7 +655,7 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503223882354">
+      <file name="/Dummy.txt" timestamp="1503223918337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -737,11 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="44" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
-      <jump line="355" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
-      <jump line="95" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
-      <jump line="341" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
       <jump line="47" column="17" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
       <jump line="45" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
       <jump line="44" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Shaders/Pond.shader" />
@@ -834,16 +829,21 @@
       <jump line="75" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="148" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="147" column="50" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="189" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="205" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="144" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="147" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="71" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="198" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="218" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="232" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJObyBoaXQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
         <text>Raycast</text>
@@ -852,10 +852,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBBbmltYWxCZWhhdmlvdXIuSW50ZXJhY3RXaXRoUGxheWVyLCBuZXcgU3RhdGUKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEVudGVyID0gKCkgPT4ge30sCiAgICAgICAgICAgICAgICAgICAgICAgIEV4aXQgPSAoKSA9PiB7fSwKICAgICAgICAgICAgICAgICAgICAgICAgTmV4dCA9ICgpID0+IEFuaW1hbEJlaGF2aW91ci5Nb3ZlVG93YXJkLAogICAgICAgICAgICAgICAgICAgICAgICBVcGRhdGUgPSAoKSA9PiB7fQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJObyBoaXQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiUmVhY2hlZCB0YXJnZXQgd2l0aG91dCBoaXR0aW5nIHJheWNhc3QiKTsK</text>
+      <register name="2" type="4">
+        <text>foreach (var VARIABLE in COLLECTION)
+            {
+                
+            }</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -908,10 +911,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJObyBoaXQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiUmVhY2hlZCB0YXJnZXQgd2l0aG91dCBoaXR0aW5nIHJheWNhc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -953,19 +956,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Zvcm1hdCgiSGl0IGFuIG9ic3RhY2xlIHswfSBhdCBkaXN0YW5jZTogezF9IiwgaGl0LnRyYW5zZm9ybS5uYW1lLCBoaXQuZGlzdGFuY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Zvcm1hdCgiRGlzdGFuY2UgZnJvbSB0YXJnZXQgezB9OiB7MX0iLCBoaXQudHJhbnNmb3JtLm5hbWUsIGhpdC5kaXN0YW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChNZXNoQ29sbGlkZXIgbWVzaENvbGxpZGVyIGluIEdldENvbXBvbmVudHNJbkNoaWxkcmVuPE1lc2hDb2xsaWRlcj4oKSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChtZXNoQ29sbGlkZXIuZ2FtZU9iamVjdC5HZXRDb21wb25lbnQ8PigpKQogICAgICAgICAgICBtZXNoQ29sbGlkZXIuZW5hYmxlZCA9IGZhbHNlOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjdGlvblRhcmdldC5wb3NpdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyBmb3hQaXZvdCA9IHRyYW5zZm9ybS5GaW5kKCJQaXZvdENoZXN0IikucG9zaXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmF5Y2FzdEhpdCBoaXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhc1JheUNhc3RIaXQgPSBQaHlzaWNzLlJheWNhc3QodHJhbnNmb3JtLnBvc2l0aW9uLAogICAgICAgICAgICAgICAgKEFjdGlvblRhcmdldC5wb3NpdGlvbikgLSAodHJhbnNmb3JtLnBvc2l0aW9uKSwKICAgICAgICAgICAgICAgIG91dCBoaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJObyBoaXQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1019,10 +1022,10 @@
         <entry encoding="base64">JzwsJz5zLywvJywv</entry>
         <entry encoding="base64">JzwsJz5zLycvLw==</entry>
         <entry>%s/_[1-2]\?[0-9]0//</entry>
-        <entry>W</entry>
         <entry>reg</entry>
         <entry>buf</entry>
         <entry>registers</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
