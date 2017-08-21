@@ -435,12 +435,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503328950524">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="269" column="18" />
-        <mark key="]" line="269" column="34" />
-        <mark key="." line="269" column="34" />
-        <mark key="^" line="269" column="34" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503330057443">
+        <mark key="'" line="346" column="26" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="16" />
+        <mark key="." line="267" column="16" />
+        <mark key="^" line="388" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -676,7 +676,7 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503328280740">
+      <file name="/Dummy.txt" timestamp="1503330315293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -758,8 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="443" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="42" column="54" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="80" column="110" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="157" column="95" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
@@ -858,13 +856,15 @@
       <jump line="40" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/StateMachine/StateMachine.cs" />
       <jump line="106" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="58" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="256" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="346" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJSYXljYXN0IGhpdCB3aXRoIHswfSIsIGhpdC50cmFuc2Zvcm0ubmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Debug.LogFo</text>
@@ -873,10 +873,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKCJTdGFuZCIsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJSYXljYXN0IGhpdCB3aXRoIHswfSIsIGhpdC50cmFuc2Zvcm0ubmFtZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTG9va2luZyBmb3IgYSBieXBhc3MiKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -929,10 +929,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhpdHMuQW55KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -974,19 +974,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWNhc3RIaXQgaGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">UGh5c2ljcy5SYXljYXN0KCwgb3V0IGhpdCkKICAgICAgICAgICAgICAgICAgICAgICAmJiBoaXQuZGlzdGFuY2UgPCBWZWN0b3IzLkRpc3RhbmNlKHRyYW5zZm9ybS5wb3NpdGlvbiwgYmxvY2tlZFBvc2l0aW9uKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhpdHMuQW55KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVzTWFwW0N1cnJlbnRTdGF0ZV0uRXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50cy5JbnNlcnQoMCwgQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWNhc3RIaXQgaGl0Owo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50cy5JbnNlcnQoMCwgQW5pbWFsRXZlbnQuUGxheWVyQ2xpY2tlZCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">UGh5c2ljcy5SYXljYXN0KCwgb3V0IGhpdCkKICAgICAgICAgICAgICAgICAgICAgICAmJiBoaXQuZGlzdGFuY2UgPCBWZWN0b3IzLkRpc3RhbmNlKHRyYW5zZm9ybS5wb3NpdGlvbiwgYmxvY2tlZFBvc2l0aW9uKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
