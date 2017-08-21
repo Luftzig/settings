@@ -435,12 +435,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503328097337">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503328950524">
         <mark key="'" line="58" column="12" />
-        <mark key="[" line="362" column="64" />
-        <mark key="]" line="362" column="64" />
-        <mark key="." line="362" column="64" />
-        <mark key="^" line="362" column="64" />
+        <mark key="[" line="269" column="18" />
+        <mark key="]" line="269" column="34" />
+        <mark key="." line="269" column="34" />
+        <mark key="^" line="269" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -860,11 +860,11 @@
       <jump line="58" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVzTWFwW0N1cnJlbnRTdGF0ZV0uRXhpdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>null;</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>null;</text>
       </register>
       <register name="/" type="4">
         <text>Debug.LogFo</text>
@@ -873,10 +873,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKCJTdGFuZCIsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVzTWFwW0N1cnJlbnRTdGF0ZV0uRXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50cy5JbnNlcnQoMCwgQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -929,10 +929,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50cy5JbnNlcnQoMCwgQW5pbWFsRXZlbnQuUGxheWVyQ2xpY2tlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhpdHMuQW55KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -974,19 +974,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWNhc3RIaXQgaGl0Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3VycmVudEJlaGF2aW91ciA9IEluaXRpYWxCZWhhdmlvdXI7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">UGh5c2ljcy5SYXljYXN0KCwgb3V0IGhpdCkKICAgICAgICAgICAgICAgICAgICAgICAmJiBoaXQuZGlzdGFuY2UgPCBWZWN0b3IzLkRpc3RhbmNlKHRyYW5zZm9ybS5wb3NpdGlvbiwgYmxvY2tlZFBvc2l0aW9uKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVzTWFwW0N1cnJlbnRTdGF0ZV0uRXhpdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVzTWFwW0luaXRpYWxCZWhhdmlvdXJdLkVudGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50cy5JbnNlcnQoMCwgQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50cy5JbnNlcnQoMCwgQW5pbWFsRXZlbnQuUGxheWVyQ2xpY2tlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
