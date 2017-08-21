@@ -428,12 +428,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503310912917">
-        <mark key="'" line="222" column="32" />
-        <mark key="[" line="239" column="80" />
-        <mark key="]" line="239" column="80" />
-        <mark key="." line="239" column="80" />
-        <mark key="^" line="215" column="72" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503313590473">
+        <mark key="'" line="135" column="37" />
+        <mark key="[" line="225" column="17" />
+        <mark key="]" line="226" column="19" />
+        <mark key="." line="226" column="19" />
+        <mark key="^" line="226" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -741,10 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="142" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="56" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="209" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="144" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="339" column="61" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="127" column="54" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
@@ -776,7 +772,6 @@
       <jump line="429" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="79" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="62" column="94" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="8" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
@@ -816,7 +811,6 @@
       <jump line="233" column="44" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="242" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="241" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="26" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="249" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="203" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="292" column="52" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -841,13 +835,19 @@
       <jump line="59" column="47" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="154" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="222" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="267" column="57" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="26" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="126" column="66" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="17" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="134" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="14" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 0.5f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, 0.5f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>DrawL</text>
@@ -856,10 +856,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKCJTdGFuZCIsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc3RhbmNlID0gVmVjdG9yMy5EaXN0YW5jZSh0cmFuc2Zvcm0ucG9zaXRpb24sIEFjdGlvblRhcmdldC5wb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhlIHVubnVtYmVyZWQgb25lcyBhcmUgbm90IHVzZWQgeWV0IGJ1dCB3ZSBzaG91bGQgcmVmYWN0b3IgdG8gdXNlIHRoZW0KICAgICAgICAgICAgU3RhbmQsCiAgICAgICAgICAgIFNlYXQsCiAgICAgICAgICAgIExheURvd24sCiAgICAgICAgICAgIFNsZWVwLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoY3VycmVudFRhcmdldCAhPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gJiYgQ2hlY2tSYXlUb1RhcmdldChvdXQgaGl0LCBjdXJyZW50VGFyZ2V0KSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIC8vIEJ5cGFzcyBpcyBibG9ja2VkIHRvbyEgRmluZCBhbm90aGVyCi8vICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTG9va2luZyBmb3IgYSBieXBhc3MgYmVjdWFzZSBvbGQgYnlwYXNzIGlzIG5vIGdvb2QiKTsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIFZlY3RvcjMuTGVycChjdXJyZW50VGFyZ2V0LCBGaW5kQnlwYXNzKGN1cnJlbnRUYXJnZXQsIGhpdC5kaXN0YW5jZSksIFRpbWUuZGVsdGFUaW1lICogNCk7Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -912,10 +912,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRHJpbmsgPSA3LAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -957,19 +957,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTWFsYmVyc0FuaW1hdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc3RhbmNlID0gVmVjdG9yMy5EaXN0YW5jZSh0cmFuc2Zvcm0ucG9zaXRpb24sIEFjdGlvblRhcmdldC5wb3NpdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgbmV3VHVybmluZyA9IGRpcmVjdGlvbi56IDwgMDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoY3VycmVudFRhcmdldCAhPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gJiYgQ2hlY2tSYXlUb1RhcmdldChvdXQgaGl0LCBjdXJyZW50VGFyZ2V0KSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIC8vIEJ5cGFzcyBpcyBibG9ja2VkIHRvbyEgRmluZCBhbm90aGVyCi8vICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTG9va2luZyBmb3IgYSBieXBhc3MgYmVjdWFzZSBvbGQgYnlwYXNzIGlzIG5vIGdvb2QiKTsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIFZlY3RvcjMuTGVycChjdXJyZW50VGFyZ2V0LCBGaW5kQnlwYXNzKGN1cnJlbnRUYXJnZXQsIGhpdC5kaXN0YW5jZSksIFRpbWUuZGVsdGFUaW1lICogNCk7Ci8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lT2JqZWN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgTWFsYmVyc0FuaW1hdGlvbnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
