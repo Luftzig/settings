@@ -428,12 +428,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503313590473">
-        <mark key="'" line="135" column="37" />
-        <mark key="[" line="225" column="17" />
-        <mark key="]" line="226" column="19" />
-        <mark key="." line="226" column="19" />
-        <mark key="^" line="226" column="19" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503317704850">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="245" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -741,7 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="339" column="61" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="127" column="54" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
       <jump line="126" column="22" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
@@ -841,25 +839,26 @@
       <jump line="17" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="134" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="14" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="226" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQW5pbWFsQmVoYXZpb3VyLkNpcmNsZVRhcmdldCwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>DrawL</text>
+        <text>Debug.LogFo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKCJTdGFuZCIsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhlIHVubnVtYmVyZWQgb25lcyBhcmUgbm90IHVzZWQgeWV0IGJ1dCB3ZSBzaG91bGQgcmVmYWN0b3IgdG8gdXNlIHRoZW0KICAgICAgICAgICAgU3RhbmQsCiAgICAgICAgICAgIFNlYXQsCiAgICAgICAgICAgIExheURvd24sCiAgICAgICAgICAgIFNsZWVwLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQW5pbWFsQmVoYXZpb3VyLkNpcmNsZVRhcmdldCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -912,10 +911,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJUcmFuc2Zvcm0gZGlzdGFuY2UgdG8gdGFyZ2V0OiB7MH0iLCBkaXN0YW5jZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJpbmsgPSA3LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhlIHVubnVtYmVyZWQgb25lcyBhcmUgbm90IHVzZWQgeWV0IGJ1dCB3ZSBzaG91bGQgcmVmYWN0b3IgdG8gdXNlIHRoZW0KICAgICAgICAgICAgU3RhbmQsCiAgICAgICAgICAgIFNlYXQsCiAgICAgICAgICAgIExheURvd24sCiAgICAgICAgICAgIFNsZWVwLAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -957,28 +956,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc3RhbmNlID0gVmVjdG9yMy5EaXN0YW5jZSh0cmFuc2Zvcm0ucG9zaXRpb24sIEFjdGlvblRhcmdldC5wb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoY3VycmVudFRhcmdldCAhPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gJiYgQ2hlY2tSYXlUb1RhcmdldChvdXQgaGl0LCBjdXJyZW50VGFyZ2V0KSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIC8vIEJ5cGFzcyBpcyBibG9ja2VkIHRvbyEgRmluZCBhbm90aGVyCi8vICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTG9va2luZyBmb3IgYSBieXBhc3MgYmVjdWFzZSBvbGQgYnlwYXNzIGlzIG5vIGdvb2QiKTsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIFZlY3RvcjMuTGVycChjdXJyZW50VGFyZ2V0LCBGaW5kQnlwYXNzKGN1cnJlbnRUYXJnZXQsIGhpdC5kaXN0YW5jZSksIFRpbWUuZGVsdGFUaW1lICogNCk7Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRHJpbmsgPSA3LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc3RhbmNlID0gVmVjdG9yMy5EaXN0YW5jZSh0cmFuc2Zvcm0ucG9zaXRpb24sIEFjdGlvblRhcmdldC5wb3NpdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgTWFsYmVyc0FuaW1hdGlvbnM7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoY3VycmVudFRhcmdldCAhPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gJiYgQ2hlY2tSYXlUb1RhcmdldChvdXQgaGl0LCBjdXJyZW50VGFyZ2V0KSkKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIC8vIEJ5cGFzcyBpcyBibG9ja2VkIHRvbyEgRmluZCBhbm90aGVyCi8vICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTG9va2luZyBmb3IgYSBieXBhc3MgYmVjdWFzZSBvbGQgYnlwYXNzIGlzIG5vIGdvb2QiKTsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIFZlY3RvcjMuTGVycChjdXJyZW50VGFyZ2V0LCBGaW5kQnlwYXNzKGN1cnJlbnRUYXJnZXQsIGhpdC5kaXN0YW5jZSksIFRpbWUuZGVsdGFUaW1lICogNCk7Ci8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DrawL</last-search>
+      <last-search>Debug.LogFo</last-search>
       <last-offset />
-      <last-pattern>DrawL</last-pattern>
+      <last-pattern>Debug.LogFo</last-pattern>
       <last-replace />
       <last-substitute>_[1-2]\?[0-9]0</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +985,6 @@
     </search>
     <history>
       <history-search>
-        <entry>levelNum&quot;: 10</entry>
         <entry encoding="base64">XDxwYXJlbnRNZW51XD4=</entry>
         <entry>Tutorial</entry>
         <entry>center</entry>
@@ -1006,6 +1004,7 @@
         <entry>DrawLine</entry>
         <entry>DrawRay</entry>
         <entry>DrawL</entry>
+        <entry>Debug.LogFo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLyAuICIsIi8=</entry>
