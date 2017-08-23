@@ -129,6 +129,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" timestamp="1503492105066">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/AndroidGalleryImageSaver.cs" timestamp="1497519923388">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="15" column="0" />
@@ -161,12 +167,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/BuyHintsButton.cs" timestamp="1502096222284">
-        <mark key="'" line="40" column="33" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" timestamp="1500732315562">
         <mark key="'" line="98" column="24" />
@@ -342,12 +342,6 @@
         <mark key="]" line="53" column="81" />
         <mark key="." line="53" column="81" />
         <mark key="^" line="53" column="81" />
-      </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DragAndDrop.cs" timestamp="1502113901994">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/UI/MainMenu/MenuOverlay.cs" timestamp="1502031049579">
         <mark key="'" line="60" column="53" />
@@ -540,12 +534,6 @@
         <mark key="." line="35" column="56" />
         <mark key="^" line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/StreamingAssets/stages.json" timestamp="1501598888465">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4663" column="15" />
-        <mark key="]" line="4663" column="17" />
-        <mark key="." line="4663" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1502097118240">
         <mark key="'" line="50" column="33" />
         <mark key="[" line="77" column="198" />
@@ -571,12 +559,6 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Sequence.cs" timestamp="1502291032277">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/kuze/site.conf" timestamp="1497783226999">
         <mark key="'" line="0" column="0" />
@@ -639,12 +621,6 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Coroutine.cs" timestamp="1502634753856">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1503325329757">
         <mark key="'" line="59" column="47" />
         <mark key="[" line="61" column="47" />
@@ -676,7 +652,7 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503489234744">
+      <file name="/Dummy.txt" timestamp="1503489264776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -860,11 +836,11 @@
       <jump line="346" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChoaXRzLkFueSgpKSBEZWJ1Zy5Mb2dGb3JtYXQoIkFsdGVybmF0aXZlIHBhdGggaGl0IHdpdGggezB9IiwgaGl0cy5GaXJzdCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>new Random()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new Random()</text>
       </register>
       <register name="/" type="4">
         <text>Debug.LogFo</text>
@@ -873,10 +849,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKCJTdGFuZCIsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChoaXRzLkFueSgpKSBEZWJ1Zy5Mb2dGb3JtYXQoIkFsdGVybmF0aXZlIHBhdGggaGl0IHdpdGggezB9IiwgaGl0cy5GaXJzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Zvcm1hdCgiUmF5Y2FzdCBoaXQgd2l0aCB7MH0iLCBoaXQudHJhbnNmb3JtLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -929,10 +905,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJSYXljYXN0IGhpdCB3aXRoIHswfSIsIGhpdC50cmFuc2Zvcm0ubmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiTG9va2luZyBmb3IgYSBieXBhc3MiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -974,19 +950,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIEdhbWUKewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChoaXRzLkFueSgpKSBEZWJ1Zy5Mb2dGb3JtYXQoIkFsdGVybmF0aXZlIHBhdGggaGl0IHdpdGggezB9IiwgaGl0cy5GaXJzdCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhpdHMuQW55KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Zvcm1hdCgiUmF5Y2FzdCBoaXQgd2l0aCB7MH0iLCBoaXQudHJhbnNmb3JtLm5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJSYXljYXN0IGhpdCB3aXRoIHswfSIsIGhpdC50cmFuc2Zvcm0ubmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
