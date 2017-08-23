@@ -129,11 +129,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" timestamp="1503494285777">
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="30" />
-        <mark key="." line="32" column="30" />
-        <mark key="^" line="32" column="30" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" timestamp="1503495798324">
+        <mark key="'" line="4" column="40" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/AndroidGalleryImageSaver.cs" timestamp="1497519923388">
         <mark key="'" line="31" column="0" />
@@ -621,12 +622,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1503493782386">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="217" column="121" />
-        <mark key="]" line="218" column="60" />
-        <mark key="^" line="218" column="60" />
-        <mark key="." line="218" column="60" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1503495674870">
+        <mark key="'" line="215" column="31" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="34" />
+        <mark key="^" line="217" column="34" />
+        <mark key="." line="217" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501057133846">
         <mark key="'" line="1828" column="0" />
@@ -652,7 +653,7 @@
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" timestamp="1501682888609">
         <mark key="'" line="48" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503489264776">
+      <file name="/Dummy.txt" timestamp="1503496072015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -734,9 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="95" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="159" column="34" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="195" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="209" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="211" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="154" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
@@ -834,14 +832,16 @@
       <jump line="346" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="61" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="47" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" />
+      <jump line="215" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="40" column="22" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" />
+      <jump line="4" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>_loca
-_loca</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBBY3RpdmF0ZSgpCiAgICB7CiAgICAgICAgSXNBY3RpdmUgPSB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_initialPosition</text>
+        <text>, IGameEvents</text>
       </register>
       <register name="/" type="4">
         <text>GameEve</text>
@@ -849,12 +849,11 @@ _loca</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBFeGVjdXRlRXZlbnRzLkV4ZWN1dGU8SUdhbWVFdmVudHM+KGdhbWVPYmplY3QsIG51bGwsIChoYW5kbGVyLCBkYXRhKSA9PiBoYW5kbGVyLkxldmVsQ29tcGxldGVkKCkpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>_loca
-_loca</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBBY3RpdmF0ZSgpCiAgICB7CiAgICAgICAgSXNBY3RpdmUgPSB0cnVlOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyBfaW5pdGlhbFBvc2l0aW9uOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBMZXZlbENvbXBsZXRlZCgpCiAgICB7CiAgICAgICAgQWN0aXZhdGUoKTsKICAgIH0KCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -907,10 +906,10 @@ _loca</text>
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfaW5pdGlhbFBvc2l0aW9uID0gbmV3IFZlY3RvcjModHJhbnNmb3JtLnBvc2l0aW9uLngsIHRyYW5zZm9ybS5wb3NpdGlvbi55LCB0cmFuc2Zvcm0ucG9zaXRpb24ueik7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBVaUJ1dHRvbkNsaWNrZWQoVUlCdXR0b24gYnV0dG9uKQogICAgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIE1lbnVPcGVuZWQoR2FtZU9iamVjdCBtZW51KQogICAgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIE1lbnVDbG9zZWQoR2FtZU9iamVjdCBtZW51KQogICAgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIEN1dHNjZW5lU3RhcnRlZCgpCiAgICB7CiAgICB9CgogICAgcHVibGljIHZvaWQgQ3V0c2NlbmVJbnRlcmFjdGVkKCkKICAgIHsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBMZXZlbFJlYWR5KCkKICAgIHsKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICBnZXQgeyByZXR1cm4gX2lzQWN0aXZlOyB9CiAgICAgICAgc2V0CiAgICAgICAgewogICAgICAgICAgICBfaXNBY3RpdmUgPSB2YWx1ZTsKICAgICAgICAgICAgQWN0aXZhdGUoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgRXhlY3V0ZUV2ZW50cy5FeGVjdXRlPElHYW1lRXZlbnRzPihwdXp6bGVQaWVjZS5nYW1lT2JqZWN0LCBudWxsLAogICAgICAgICAgICAgICAgKGhhbmRsZXIsIGRhdGEpID0+IGhhbmRsZXIuTGV2ZWxDb21wbGV0ZWQoKSk7</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -951,8 +950,9 @@ _loca</text>
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfaW5pdGlhbFBvc2l0aW9uID0gbmV3IFZlY3RvcjModHJhbnNmb3JtLnBvc2l0aW9uLngsIHRyYW5zZm9ybS5wb3NpdGlvbi55LCB0cmFuc2Zvcm0ucG9zaXRpb24ueik7Cg==</text>
+      <register name="5" type="8">
+        <text>_loca
+_loca</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMyBfaW5pdGlhbFBvc2l0aW9uOwo=</text>
@@ -961,10 +961,10 @@ _loca</text>
         <text encoding="base64">ICAgICAgICBfaW5pdGlhbFBvc2l0aW9uID0gbmV3IFZlY3RvcjModHJhbnNmb3JtLnBvc2l0aW9uLngsIHRyYW5zZm9ybS5wb3NpdGlvbi55LCB0cmFuc2Zvcm0ucG9zaXRpb24ueik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICBnZXQgeyByZXR1cm4gX2lzQWN0aXZlOyB9CiAgICAgICAgc2V0CiAgICAgICAgewogICAgICAgICAgICBfaXNBY3RpdmUgPSB2YWx1ZTsKICAgICAgICAgICAgQWN0aXZhdGUoKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgU3lzdGVtLk5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfaW5pdGlhbFBvc2l0aW9uID0gbmV3IFZlY3RvcjModHJhbnNmb3JtLnBvc2l0aW9uLngsIHRyYW5zZm9ybS5wb3NpdGlvbi55LCB0cmFuc2Zvcm0ucG9zaXRpb24ueik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
