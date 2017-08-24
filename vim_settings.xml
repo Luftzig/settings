@@ -424,12 +424,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503502301953">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503570637738">
         <mark key="'" line="373" column="8" />
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
-        <mark key="^" line="228" column="11" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="233" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -631,11 +631,11 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503500461444">
+      <file name="/Dummy.txt" timestamp="1503570671269">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideo.cs" timestamp="1501165109939">
         <mark key="[" line="4" column="30" />
@@ -816,7 +816,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlTWFjaGluZS5QdXNoRXZlbnQoQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Db2xsaXNpb25TdGF5KENvbGxpc2lvbiBvdGhlcikKICAgICAgICB7CiAgICAgICAgICAgIEF2b2lkQ29sbGlzaW9uVGFyZ2V0KG90aGVyKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>obstacleDirection</text>
@@ -828,10 +828,10 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTdGF0ZU1hY2hpbmUuUHVzaEV2ZW50KEFuaW1hbEV2ZW50LkNvbGxpc2lvbik7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgb25QbGFuZSAqIDI7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlTWFjaGluZS5QdXNoRXZlbnQoQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Db2xsaXNpb25TdGF5KENvbGxpc2lvbiBvdGhlcikKICAgICAgICB7CiAgICAgICAgICAgIEF2b2lkQ29sbGlzaW9uVGFyZ2V0KG90aGVyKTsKICAgICAgICB9Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgb25QbGFuZSAqIDI7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -884,10 +884,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmVUYXJnZXQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlTWFjaGluZS5QdXNoRXZlbnQoQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLgo=</text>
+        <text encoding="base64">SW1wcm92ZSBvYnN0YWNsZSBhdm9pZGFuY2UgYnkgZ2V0dGluZyBhbGwgaGl0cyBhbmQgZmlsdGVyLgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -929,19 +929,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlTWFjaGluZS5QdXNoRXZlbnQoQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBBY3RpdmF0ZSgpCiAgICB7CiAgICAgICAgSXNBY3RpdmUgPSB0cnVlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmVUYXJnZXQgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBMZXZlbENvbXBsZXRlZCgpCiAgICB7CiAgICAgICAgQWN0aXZhdGUoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBVaUJ1dHRvbkNsaWNrZWQoVUlCdXR0b24gYnV0dG9uKQogICAgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIE1lbnVPcGVuZWQoR2FtZU9iamVjdCBtZW51KQogICAgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIE1lbnVDbG9zZWQoR2FtZU9iamVjdCBtZW51KQogICAgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIEN1dHNjZW5lU3RhcnRlZCgpCiAgICB7CiAgICB9CgogICAgcHVibGljIHZvaWQgQ3V0c2NlbmVJbnRlcmFjdGVkKCkKICAgIHsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBMZXZlbFJlYWR5KCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
