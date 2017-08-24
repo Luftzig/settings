@@ -424,12 +424,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503585267090">
-        <mark key="'" line="373" column="8" />
-        <mark key="[" line="233" column="63" />
-        <mark key="]" line="233" column="63" />
-        <mark key="." line="233" column="63" />
-        <mark key="^" line="233" column="63" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503597918894">
+        <mark key="'" line="335" column="0" />
+        <mark key="[" line="412" column="64" />
+        <mark key="]" line="412" column="93" />
+        <mark key="." line="412" column="93" />
+        <mark key="^" line="412" column="93" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -713,14 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="31" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="154" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="97" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalVariables.cs" />
-      <jump line="27" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="429" column="24" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="79" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="62" column="94" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="8" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
       <jump line="61" column="77" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
@@ -737,7 +729,6 @@
       <jump line="415" column="59" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="426" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
       <jump line="141" column="30" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="67" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="9" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="145" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="75" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -813,25 +804,34 @@
       <jump line="40" column="22" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" />
       <jump line="4" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" />
       <jump line="373" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="48" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="49" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="67" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="193" column="71" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="221" column="33" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="325" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="327" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="329" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="335" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICBWZWN0b3IzIGxvY2FsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>animalDirection</text>
       </register>
       <register name="/" type="4">
         <text>GameEve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Zvcm1hdCgiQ29sbGlkZWQgd2l0aCBBbmltYWxUYXJnZXQgezB9Iiwgb3RoZXIudHJhbnNmb3JtLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyBkaXJlY3Rpb25Ub1RhcmdldCA9IE1vdmVUYXJnZXQgLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgIFZlY3RvcjMgYW5pbWFsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Zvcm1hdCgiQ29sbGlkZWQgd2l0aCBBbmltYWxUYXJnZXQgezB9Iiwgb3RoZXIudHJhbnNmb3JtLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICBWZWN0b3IzIGxvY2FsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJDb2xsaWRlZCB3aXRoIE5vbmUgVGFyZ2V0IHswfSIsIG90aGVyLnRyYW5zZm9ybS5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBNb3ZlVGFyZ2V0IC0gdHJhbnNmb3JtLnBvc2l0aW9uOwogICAgICAgICAgICAgICAgVmVjdG9yMyBhbmltYWxEaXJlY3Rpb24gPSB0cmFuc2Zvcm0uSW52ZXJzZVRyYW5zZm9ybURpcmVjdGlvbihkaXJlY3Rpb25Ub1RhcmdldCkubm9ybWFsaXplZDsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -884,10 +884,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmbG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Db2xsaXNpb25TdGF5KENvbGxpc2lvbiBvdGhlcikKICAgICAgICB7CiAgICAgICAgICAgIEF2b2lkQ29sbGlzaW9uVGFyZ2V0KG90aGVyKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -928,17 +928,17 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgb25QbGFuZSAqIDI7CiAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0YXNoZWRBY3Rpb25UYXJnZXQgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHN0YXNoZWQgPSBTdGFzaGVkQWN0aW9uVGFyZ2V0OwogICAgICAgICAgICAgICAgU3Rhc2hlZEFjdGlvblRhcmdldCA9IG51bGw7CiAgICAgICAgICAgICAgICByZXR1cm4gc3Rhc2hlZDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlTWFjaGluZS5QdXNoRXZlbnQoQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXZvaWRDb2xsaXNpb25UYXJnZXQoQ29sbGlzaW9uIG90aGVyKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICB2YXIgdGFuZ2VudCA9IFZlY3RvcjMuQ3Jvc3Mob25QbGFuZSwgVmVjdG9yMy51cCk7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgdGFuZ2VudCAqIDEuNWY7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW1wcm92ZSBvYnN0YWNsZSBhdm9pZGFuY2UgYnkgZ2V0dGluZyBhbGwgaGl0cyBhbmQgZmlsdGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXZvaWRDb2xsaXNpb25UYXJnZXQoQ29sbGlzaW9uIG90aGVyKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICB2YXIgdGFuZ2VudCA9IFZlY3RvcjMuQ3Jvc3Mob25QbGFuZSwgVmVjdG9yMy51cCk7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgdGFuZ2VudCAqIDEuNWY7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlTWFjaGluZS5QdXNoRXZlbnQoQW5pbWFsRXZlbnQuQ29sbGlzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Db2xsaXNpb25TdGF5KENvbGxpc2lvbiBvdGhlcikKICAgICAgICB7CiAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
