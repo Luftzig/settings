@@ -424,12 +424,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503597918894">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503599223953">
         <mark key="'" line="335" column="0" />
-        <mark key="[" line="412" column="64" />
-        <mark key="]" line="412" column="93" />
-        <mark key="." line="412" column="93" />
-        <mark key="^" line="412" column="93" />
+        <mark key="[" line="413" column="94" />
+        <mark key="]" line="413" column="120" />
+        <mark key="." line="413" column="120" />
+        <mark key="^" line="413" column="120" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -631,7 +631,7 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503577557448">
+      <file name="/Dummy.txt" timestamp="1503599450026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
@@ -815,11 +815,11 @@
       <jump line="335" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICBWZWN0b3IzIGxvY2FsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localDirection</text>
       </register>
       <register name="-" type="4">
-        <text>animalDirection</text>
+        <text>localDirection</text>
       </register>
       <register name="/" type="4">
         <text>GameEve</text>
