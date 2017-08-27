@@ -424,12 +424,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="122" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503599223953">
-        <mark key="'" line="335" column="0" />
-        <mark key="[" line="413" column="94" />
-        <mark key="]" line="413" column="120" />
-        <mark key="." line="413" column="120" />
-        <mark key="^" line="413" column="120" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1503823217832">
+        <mark key="'" line="412" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="270" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/python-ast-exp/Parse.py" timestamp="1500147758220">
         <mark key="[" line="23" column="12" />
@@ -713,10 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="94" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="8" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers.cs" />
-      <jump line="61" column="77" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="73" column="33" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="74" column="11" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="54" column="55" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="97" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -792,7 +788,6 @@
       <jump line="35" column="53" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/StateMachine/StateMachine.cs" />
       <jump line="34" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/StateMachine/StateMachine.cs" />
       <jump line="176" column="49" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="195" column="83" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="40" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/StateMachine/StateMachine.cs" />
       <jump line="106" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="58" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -813,25 +808,30 @@
       <jump line="327" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="329" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="335" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="415" column="76" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="195" column="30" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="339" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="271" column="66" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="413" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localDirection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBEZWJ1Z1N0YXRlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>localDirection</text>
+        <text>0.2f</text>
       </register>
       <register name="/" type="4">
-        <text>GameEve</text>
+        <text>red</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyBkaXJlY3Rpb25Ub1RhcmdldCA9IE1vdmVUYXJnZXQgLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgIFZlY3RvcjMgYW5pbWFsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICBWZWN0b3IzIGxvY2FsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBEZWJ1Z1N0YXRlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBNb3ZlVGFyZ2V0IC0gdHJhbnNmb3JtLnBvc2l0aW9uOwogICAgICAgICAgICAgICAgVmVjdG9yMyBhbmltYWxEaXJlY3Rpb24gPSB0cmFuc2Zvcm0uSW52ZXJzZVRyYW5zZm9ybURpcmVjdGlvbihkaXJlY3Rpb25Ub1RhcmdldCkubm9ybWFsaXplZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkRyYXdSYXkodHJhbnNmb3JtLnBvc2l0aW9uLCB0YW5nZW50LCBDb2xvci55ZWxsb3csIDAuMmYpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -884,10 +884,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2NhbE9ic3RhY2xlRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24ob2JzdGFjbGVEaXJlY3Rpb24pLm5vcm1hbGl6ZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgbG9jYWxEaXJlY3Rpb24gPSB0cmFuc2Zvcm0uSW52ZXJzZVRyYW5zZm9ybURpcmVjdGlvbihkaXJlY3Rpb25Ub1RhcmdldCkubm9ybWFsaXplZDsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -929,28 +929,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0YXNoZWRBY3Rpb25UYXJnZXQgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHN0YXNoZWQgPSBTdGFzaGVkQWN0aW9uVGFyZ2V0OwogICAgICAgICAgICAgICAgU3Rhc2hlZEFjdGlvblRhcmdldCA9IG51bGw7CiAgICAgICAgICAgICAgICByZXR1cm4gc3Rhc2hlZDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBBY3Rpb25UYXJnZXQucG9zaXRpb24gLSB0cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICBWZWN0b3IzIGxvY2FsRGlyZWN0aW9uID0gdHJhbnNmb3JtLkludmVyc2VUcmFuc2Zvcm1EaXJlY3Rpb24oZGlyZWN0aW9uVG9UYXJnZXQpLm5vcm1hbGl6ZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXZvaWRDb2xsaXNpb25UYXJnZXQoQ29sbGlzaW9uIG90aGVyKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICB2YXIgdGFuZ2VudCA9IFZlY3RvcjMuQ3Jvc3Mob25QbGFuZSwgVmVjdG9yMy51cCk7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgdGFuZ2VudCAqIDEuNWY7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlY3RvcjMgZGlyZWN0aW9uVG9UYXJnZXQgPSBNb3ZlVGFyZ2V0IC0gdHJhbnNmb3JtLnBvc2l0aW9uOwogICAgICAgICAgICAgICAgVmVjdG9yMyBhbmltYWxEaXJlY3Rpb24gPSB0cmFuc2Zvcm0uSW52ZXJzZVRyYW5zZm9ybURpcmVjdGlvbihkaXJlY3Rpb25Ub1RhcmdldCkubm9ybWFsaXplZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXZvaWRDb2xsaXNpb25UYXJnZXQoQ29sbGlzaW9uIG90aGVyKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFRhcmdldD4oKSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgb2JzdGFjbGVEaXJlY3Rpb24gPSB0cmFuc2Zvcm0ucG9zaXRpb24gLSBvdGhlci50cmFuc2Zvcm0ucG9zaXRpb247CiAgICAgICAgICAgICAgICB2YXIgb25QbGFuZSA9IFZlY3RvcjMuUHJvamVjdE9uUGxhbmUob2JzdGFjbGVEaXJlY3Rpb24sIFZlY3RvcjMudXApLm5vcm1hbGl6ZWQ7CiAgICAgICAgICAgICAgICB2YXIgdGFuZ2VudCA9IFZlY3RvcjMuQ3Jvc3Mob25QbGFuZSwgVmVjdG9yMy51cCk7CiAgICAgICAgICAgICAgICBNb3ZlVGFyZ2V0ID0gdHJhbnNmb3JtLnBvc2l0aW9uICsgdGFuZ2VudCAqIDEuNWY7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Db2xsaXNpb25TdGF5KENvbGxpc2lvbiBvdGhlcikKICAgICAgICB7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0YXNoZWRBY3Rpb25UYXJnZXQgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHN0YXNoZWQgPSBTdGFzaGVkQWN0aW9uVGFyZ2V0OwogICAgICAgICAgICAgICAgU3Rhc2hlZEFjdGlvblRhcmdldCA9IG51bGw7CiAgICAgICAgICAgICAgICByZXR1cm4gc3Rhc2hlZDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GameEve</last-search>
+      <last-search>red</last-search>
       <last-offset />
-      <last-pattern>GameEve</last-pattern>
+      <last-pattern>red</last-pattern>
       <last-replace />
       <last-substitute>_[1-2]\?[0-9]0</last-substitute>
       <last-dir>1</last-dir>
@@ -958,7 +958,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tutorial</entry>
         <entry>center</entry>
         <entry>normalD</entry>
         <entry>Look</entry>
@@ -978,6 +977,7 @@
         <entry>DrawL</entry>
         <entry>Debug.LogFo</entry>
         <entry>GameEve</entry>
+        <entry>red</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkLyAuICIsIi8=</entry>
