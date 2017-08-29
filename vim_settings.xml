@@ -234,6 +234,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="39" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/cat-racing-elm/db.json" timestamp="1503996287321">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="52" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/DataService.cs" timestamp="1498473617414">
         <mark key="'" line="16" column="24" />
         <mark key="[" line="38" column="54" />
@@ -650,10 +656,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" timestamp="1503750505832">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" timestamp="1503998243452">
+        <mark key="'" line="108" column="76" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="108" column="73" />
+        <mark key="." line="104" column="68" />
+        <mark key="^" line="104" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1500295412028">
         <mark key="'" line="179" column="32" />
@@ -768,16 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="49" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="34" column="45" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="66" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Fox/Fox.cs" />
-      <jump line="68" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="113" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="415" column="59" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="426" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Malbers Animations/Common/Scripts/Animal/AnimalMovement.cs" />
-      <jump line="141" column="30" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="9" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="145" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="75" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="148" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -867,31 +865,36 @@
       <jump line="53" column="19" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
       <jump line="2" column="75" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
       <jump line="64" column="25" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
-      <jump line="67" column="33" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="9" column="24" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="45" column="24" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="67" column="34" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="97" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="106" column="62" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="108" column="76" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlIDogTWVzc2FnZSAtPiBNb2RlbCAtPiAoTW9kZWwsIENtZCBNZXNzYWdlKQp1cGRhdGUgbXNnIG1vZGVsID0KICBjYXNlIG1zZyBvZgogICAgQ2hhbmdlTmFtZSBuZXdOYW1lIC0+IG5vQ21kIHsgbW9kZWwgfCBjYXQgPSBtYXBTdGF0ZWZ1bCAoc2V0TmFtZSBuZXdOYW1lKSBtb2RlbC5jYXQgfQoKICAgIFNhdmVDaGFuZ2VzIGNhdCAtPiAoe21vZGVsIHwgY2F0ID0gdXBkYXRlU3RhdGUgV2FpdGluZyBtb2RlbC5jYXR9LCBzZW5kVXBkYXRlUmVxdWVzdCBjYXQpCgogICAgVXBkYXRlUmVzcG9uc2UgKEVyciBlcnJvcikgLT4gbm9DbWQge21vZGVsIHwgY2F0ID0gRmFpbGVkIGVycm9yIDx8IGdldFZhbHVlIG1vZGVsLmNhdCB9CgogICAgVXBkYXRlUmVzcG9uc2UgKE9rIG5ld0NhdCkgLT4gbm9DbWQgeyBtb2RlbCB8IGNhdCA9IFN1Y2NlZWRlZCBuZXdDYXQgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>CatBreed</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>GameEve</text>
       </register>
-      <register name="0" type="4">
-        <text>Bobtail
-              | Cornish
-              | Siamese
-              | Ragdoll
-              | Persian
-              | Mixed</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXBkYXRlIDogTWVzc2FnZSAtPiBNb2RlbCAtPiAoTW9kZWwsIENtZCBNZXNzYWdlKQp1cGRhdGUgbXNnIG1vZGVsID0KICBjYXNlIG1zZyBvZgogICAgQ2hhbmdlTmFtZSBuZXdOYW1lIC0+IG5vQ21kIHsgbW9kZWwgfCBjYXQgPSBtYXBTdGF0ZWZ1bCAoc2V0TmFtZSBuZXdOYW1lKSBtb2RlbC5jYXQgfQoKICAgIFNhdmVDaGFuZ2VzIGNhdCAtPiAobW9kZWwsIHNlbmRVcGRhdGVSZXF1ZXN0IGNhdCkKCiAgICBVcGRhdGVSZXNwb25zZSAoRXJyIGVycm9yKSAtPiBub0NtZCB7bW9kZWwgfCBjYXQgPSBGYWlsZWQgZXJyb3IgPHwgZ2V0VmFsdWUgbW9kZWwuY2F0IH0KCiAgICBVcGRhdGVSZXNwb25zZSAoT2sgbmV3Q2F0KSAtPiBub0NtZCB7IG1vZGVsIHwgY2F0ID0gU3VjY2VlZGVkIG5ld0NhdCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHwgQ2hhbmdlQnJlZWQgQ2F0QnJlZWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -944,10 +947,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENoYW5nZUJyZWVkIG5ld0JyZWVkIC0+IG5vQ21kIHsgbW9kZWwgfCBjYXQgPSBzZXRCcmVlZCBuZXdCcmVlZCBtb2RlbC5jYXQgfQo=</text>
+        <text encoding="base64">ICAgICwgc3RhdGUgOiBDYXRTdGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBDYXRCcmVlZCA9IEJvYnRhaWwKICAgICAgICAgICAgICB8IENvcm5pc2gKICAgICAgICAgICAgICB8IFNpYW1lc2UKICAgICAgICAgICAgICB8IFJhZ2RvbGwKICAgICAgICAgICAgICB8IFBlcnNpYW4KICAgICAgICAgICAgICB8IE1peGVkCgo=</text>
+        <text encoding="base64">ICAgICwgc3RhdGUgOiBDYXRTdGF0ZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -989,19 +992,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgYnJlZWQgOiBDYXRCcmVlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnNldEJyZWVkIDogQ2F0QnJlZWQgLT4gQ2F0IC0+IENhdApzZXRCcmVlZCBicmVlZCBjYXQgPSB7IGNhdCB8IGJyZWVkID0gYnJlZWQgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAsIGRpdiBbXQogICAgICAgICAgICBbIGxhYmVsIFtdIFt0ZXh0ICJCcmVlZCJdCiAgICAgICAgICAgICwgc2VsZWN0IFtvbklucHV0IF0KICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ZW5jb2RlTWF5YmUgOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnJlZWRPcHRpb25zID0KICAgIExpc3QubWFwIGJyZWVkT3B0aW9uCiAgICAgICAgWyBCb2J0YWlsCiAgICAgICAgLCBDb3JuaXNoCiAgICAgICAgLCBTaWFtZXNlCiAgICAgICAgLCBSYWdkb2xsCiAgICAgICAgLCBQZXJzaWFuCiAgICAgICAgLCBNaXhlZAogICAgICAgIF0KICAgICAgICAKYnJlZWRPcHRpb24gOiBDYXRCcmVlZCAtPiBIdG1sLkh0bWwgTWVzc2FnZQpicmVlZE9wdGlvbiBicmVlZCA9CiAgICBvcHRpb24KICAgICAgICBbIHZhbHVlIDx8IHRvU3RyaW5nIGJyZWVkIF0KICAgICAgICBbIHRleHQgPHwgdG9TdHJpbmcgYnJlZWQgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIHwgQ2hhbmdlQnJlZWQgQ2F0QnJlZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1121,6 +1124,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
