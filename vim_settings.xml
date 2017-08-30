@@ -656,12 +656,11 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" timestamp="1504001090044">
-        <mark key="'" line="108" column="76" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="104" column="68" />
-        <mark key="^" line="104" column="68" />
+      <file name="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" timestamp="1504114717942">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1500295412028">
         <mark key="'" line="179" column="32" />
@@ -776,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="75" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="148" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -876,10 +874,11 @@
       <jump line="106" column="62" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
       <jump line="108" column="76" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="68" column="12" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXBkYXRlU3RhdGUgOiAoYSAtPiBTdGF0ZWZ1bCBhKSAtPiBTdGF0ZWZ1bCBhIC0+IFN0YXRlZnVsIGEKdXBkYXRlU3RhdGUgbmV3U3RhdGUgc3RhdGVmdWwgPQogICAgY2FzZSBzdGF0ZWZ1bCBvZgogICAgICAgIE5vdENoYW5nZWQgdiAtPiBuZXdTdGF0ZSB2CiAgICAgICAgQ2hhbmdlZCB2IC0+IG5ld1N0YXRlIHYKICAgICAgICBXYWl0aW5nIHYgLT4gbmV3U3RhdGUgdgogICAgICAgIEZhaWxlZCBlcnJvciB2IC0+ICBuZXdTdGF0ZSB2CiAgICAgICAgU3VjY2VlZGVkIHYgLT4gbmV3U3RhdGUgdgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>model</text>
@@ -891,10 +890,10 @@
         <text encoding="base64">dXBkYXRlIDogTWVzc2FnZSAtPiBNb2RlbCAtPiAoTW9kZWwsIENtZCBNZXNzYWdlKQp1cGRhdGUgbXNnIG1vZGVsID0KICBjYXNlIG1zZyBvZgogICAgQ2hhbmdlTmFtZSBuZXdOYW1lIC0+IG5vQ21kIHsgbW9kZWwgfCBjYXQgPSBtYXBTdGF0ZWZ1bCAoc2V0TmFtZSBuZXdOYW1lKSBtb2RlbC5jYXQgfQoKICAgIFNhdmVDaGFuZ2VzIGNhdCAtPiAobW9kZWwsIHNlbmRVcGRhdGVSZXF1ZXN0IGNhdCkKCiAgICBVcGRhdGVSZXNwb25zZSAoRXJyIGVycm9yKSAtPiBub0NtZCB7bW9kZWwgfCBjYXQgPSBGYWlsZWQgZXJyb3IgPHwgZ2V0VmFsdWUgbW9kZWwuY2F0IH0KCiAgICBVcGRhdGVSZXNwb25zZSAoT2sgbmV3Q2F0KSAtPiBub0NtZCB7IG1vZGVsIHwgY2F0ID0gU3VjY2VlZGVkIG5ld0NhdCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Zm9ybSA6IExpc3QgKEh0bWwuQXR0cmlidXRlKSAtPiBMaXN0IChIdG1sLkh0bWwgbXNnKSAtPiBIdG1sLkh0bWwgbXNnCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -947,10 +946,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICwgc3RhdGUgOiBDYXRTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICwgc3RhdGUgOiBDYXRTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -992,19 +991,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICwgc3RhdGUgOiBDYXRTdGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICwgc3RhdGUgOiBDYXRTdGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5jb2RlTWF5YmUgOiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHwgQ2hhbmdlQnJlZWQgQ2F0QnJlZWQK</text>
+        <text encoding="base64">ZW5jb2RlTWF5YmUgOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
