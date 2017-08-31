@@ -217,6 +217,12 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/BuyLevelsManager.cs" timestamp="1504183146953">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" timestamp="1500553388956">
         <mark key="'" line="25" column="46" />
         <mark key="[" line="7" column="0" />
@@ -951,7 +957,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx8IHRleHQgIlRoaW5neSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -963,10 +969,10 @@
         <text encoding="base64">dXBkYXRlIDogTWVzc2FnZSAtPiBNb2RlbCAtPiAoTW9kZWwsIENtZCBNZXNzYWdlKQp1cGRhdGUgbXNnIG1vZGVsID0KICBjYXNlIG1zZyBvZgogICAgQ2hhbmdlTmFtZSBuZXdOYW1lIC0+IG5vQ21kIHsgbW9kZWwgfCBjYXQgPSBtYXBTdGF0ZWZ1bCAoc2V0TmFtZSBuZXdOYW1lKSBtb2RlbC5jYXQgfQoKICAgIFNhdmVDaGFuZ2VzIGNhdCAtPiAobW9kZWwsIHNlbmRVcGRhdGVSZXF1ZXN0IGNhdCkKCiAgICBVcGRhdGVSZXNwb25zZSAoRXJyIGVycm9yKSAtPiBub0NtZCB7bW9kZWwgfCBjYXQgPSBGYWlsZWQgZXJyb3IgPHwgZ2V0VmFsdWUgbW9kZWwuY2F0IH0KCiAgICBVcGRhdGVSZXNwb25zZSAoT2sgbmV3Q2F0KSAtPiBub0NtZCB7IG1vZGVsIHwgY2F0ID0gU3VjY2VlZGVkIG5ld0NhdCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx8IHRleHQgIlRoaW5neSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGFyZWEKICAgICAgeyBzdGFydCA9ICgwLCAwKQogICAgICAsIHdpZHRoID0gMQogICAgICAsIGhlaWdodCA9IDEKICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDx8IHRleHQgIlRoaW5neSIK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1018,11 +1024,11 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGFyZWEKICAgICAgeyBzdGFydCA9ICgwLCAwKQogICAgICAsIHdpZHRoID0gMQogICAgICAsIGhlaWdodCA9IDEKICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1064,19 +1070,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBBY3Rpb24gPSBSZXNldAoKdXBkYXRlIDogQWN0aW9uIC0+IE1vZGVsIC0+IE1vZGVsCnVwZGF0ZSBhY3Rpb24gbW9kZWwgPQogIGNhc2UgYWN0aW9uIG9mCiAgICBSZXNldCAtPiBtb2RlbAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bWFpbiA6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">dHlwZSBBY3Rpb24gPSBSZXNldAoKdXBkYXRlIDogQWN0aW9uIC0+IE1vZGVsIC0+IE1vZGVsCnVwZGF0ZSBhY3Rpb24gbW9kZWwgPQogIGNhc2UgYWN0aW9uIG9mCiAgICBSZXNldCAtPiBtb2RlbAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bWFpbiA6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9ybSA6IExpc3QgKEh0bWwuQXR0cmlidXRlKSAtPiBMaXN0IChIdG1sLkh0bWwgbXNnKSAtPiBIdG1sLkh0bWwgbXNnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
