@@ -224,12 +224,12 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/BuyLevelsManager.cs" timestamp="1504193259929">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="30" column="63" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/BuyLevelsManager.cs" timestamp="1504194799722">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="30" />
+        <mark key="^" line="41" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/GameOverlay/HintSystem.cs" timestamp="1500553388956">
         <mark key="'" line="25" column="46" />
@@ -975,11 +975,11 @@
       <jump line="30" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/BuyLevelsManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmdJbWFnZSA9IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>LoadingImage</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>ItemsS</text>
@@ -988,10 +988,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2FkaW5nSW1hZ2UgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmdJbWFnZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2ltYWdlTG9hZGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmdJbWFnZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1047,7 +1047,7 @@
         <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmdJbWFnZSA9IHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmdJbWFnZSA9IHRydWU7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1089,19 +1089,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmdJbWFnZSA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gV2hlbiBjYWxsaW5nIFNldFBhY2thZ2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJDdXJyZW50IHBhY2thZ2U6IHswfSwgb3duZWQ/IHswfSwgcGFpZD8gezB9Iik7CiAgICAgICAgICAgIHZhciBwcmljZVN0cmluZyA9IElBUC5JdGVtc1N0b3JlLkluc3RhbmNlLkdldFBhY2thZ2VQcmljZShfcGFja2FnZURhdGEucHJvZHVjdElkRm9yU3RvcmUpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gV2hlbiBjYWxsaW5nIFNldFBhY2thZ2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltYWdlVXJsID0gTGV2ZWxMb2FkZXIuSW5zdGFuY2UuR2V0UGFja2FnZVVybChfcGFja2FnZURhdGEuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJDdXJyZW50IHBhY2thZ2U6IHswfSwgb3duZWQ/IHswfSwgcGFpZD8gezB9Iik7CiAgICAgICAgICAgIHZhciBwcmljZVN0cmluZyA9IElBUC5JdGVtc1N0b3JlLkluc3RhbmNlLkdldFBhY2thZ2VQcmljZShfcGFja2FnZURhdGEucHJvZHVjdElkRm9yU3RvcmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
