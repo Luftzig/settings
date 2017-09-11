@@ -616,11 +616,11 @@
         <mark key="." line="35" column="56" />
         <mark key="^" line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1505138015413">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" timestamp="1505139080100">
+        <mark key="'" line="134" column="38" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/StateMachine/StateMachine.cs" timestamp="1503324581546">
         <mark key="'" line="40" column="29" />
@@ -871,10 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="32" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="267" column="57" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="26" column="15" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
-      <jump line="126" column="66" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="17" column="25" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="134" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="14" column="37" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
@@ -963,7 +959,6 @@
       <jump line="77" column="52" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/BuyLevelsManager.cs" />
       <jump line="305" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" />
       <jump line="72" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/LevelsMenu/LevelsMenuManager.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="211" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
@@ -971,25 +966,30 @@
       <jump line="39" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="221" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="125" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="137" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="139" column="20" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
+      <jump line="141" column="38" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/IAP/ItemsStore.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhbmRhcmRQdXJjaGFzaW5nTW9kdWxlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVDb250cm9sbGVyLgo=</text>
       </register>
       <register name="-" type="4">
         <text>package</text>
       </register>
       <register name="/" type="4">
-        <text>Continu</text>
+        <text>OnIni</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1cmNoYXNpbmdNb2R1bGUgPSBTdGFuZGFyZFB1cmNoYXNpbmdNb2R1bGUuSW5zdGFuY2UoKTsKICAgICAgICAgICAgQ29uZmlndXJhdGlvbkJ1aWxkZXIgYnVpbGRlciA9IENvbmZpZ3VyYXRpb25CdWlsZGVyLkluc3RhbmNlKHB1cmNoYXNpbmdNb2R1bGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhbmRhcmRQdXJjaGFzaW5nTW9kdWxlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVDb250cm9sbGVyLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdHlQdXJjaGFzaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1042,10 +1042,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Db25maWd1cmU8SUFwcGxlQ29uZmlndXJhdGlvbj4oKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUkVNT1ZFIQogICAgICAgICAgICBJdGVtc1N0b3JlLkluc3RhbmNlLkNhbmNlbFBhY2thZ2VQdXJjaGFzZShMZXZlbExvYWRlci5JbnN0YW5jZS5HZXRQYWNrYWdlKHBhY2thZ2UpLnByb2R1Y3RJZEZvclN0b3JlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBSZXN0b3JlCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1087,28 +1087,28 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUkVNT1ZFIQovLyAgICAgICAgICAgIEl0ZW1zU3RvcmUuSW5zdGFuY2UuQ2FuY2VsUGFja2FnZVB1cmNoYXNlKExldmVsTG9hZGVyLkluc3RhbmNlLkdldFBhY2thZ2UocGFja2FnZSkucHJvZHVjdElkRm9yU3RvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhbmRhcmRQdXJjaGFzaW5nTW9kdWxlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUkVNT1ZFIQovLyAgICAgICAgICAgIEl0ZW1zU3RvcmUuSW5zdGFuY2UuQ2FuY2VsUGFja2FnZVB1cmNoYXNlKExldmVsTG9hZGVyLkluc3RhbmNlLkdldFBhY2thZ2UocGFja2FnZSkucHJvZHVjdElkRm9yU3RvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW5pdHlQdXJjaGFzaW5nLgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KGtleSwgaWdub3JlKSA9PiBJbml0aWFsaXplU3RvcmUoX3BhY2thZ2VzKSwKICAgICAgICAgICAgICAgIChrZXksIGlnbm9yZSkgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2dFcnJvcigiRmFpbGVkIHRvIGNvbnN1bWUgIiArIHN0b3JlSWQpOwogICAgICAgICAgICAgICAgICAgIEluaXRpYWxpemVTdG9yZShfcGFja2FnZXMpOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Db25maWd1cmU8SUFwcGxlQ29uZmlndXJhdGlvbj4oKS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUkVNT1ZFIQogICAgICAgICAgICBJdGVtc1N0b3JlLkluc3RhbmNlLkNhbmNlbFBhY2thZ2VQdXJjaGFzZShMZXZlbExvYWRlci5JbnN0YW5jZS5HZXRQYWNrYWdlKHBhY2thZ2UpLnByb2R1Y3RJZEZvclN0b3JlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbRGVwcmVjYXRlZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUkVNT1ZFIQovLyAgICAgICAgICAgIEl0ZW1zU3RvcmUuSW5zdGFuY2UuQ2FuY2VsUGFja2FnZVB1cmNoYXNlKExldmVsTG9hZGVyLkluc3RhbmNlLkdldFBhY2thZ2UocGFja2FnZSkucHJvZHVjdElkRm9yU3RvcmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Continu</last-search>
+      <last-search>OnIni</last-search>
       <last-offset />
-      <last-pattern>Continu</last-pattern>
+      <last-pattern>OnIni</last-pattern>
       <last-replace />
       <last-substitute>_[1-2]\?[0-9]0</last-substitute>
       <last-dir>1</last-dir>
@@ -1116,7 +1116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tired</entry>
         <entry>animState</entry>
         <entry>fall</entry>
         <entry>\cfall</entry>
@@ -1136,6 +1135,7 @@
         <entry>ItemsS</entry>
         <entry>continu</entry>
         <entry>Continu</entry>
+        <entry>OnIni</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xFLykv</entry>
