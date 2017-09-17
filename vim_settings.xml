@@ -683,12 +683,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1505645089619">
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1505646673119">
         <mark key="'" line="110" column="0" />
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="76" column="67" />
-        <mark key="^" line="76" column="67" />
+        <mark key="[" line="89" column="39" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="51" />
+        <mark key="^" line="89" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/IGameEvents.cs" timestamp="1502030348973">
         <mark key="[" line="15" column="30" />
@@ -996,10 +996,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>rewardedVideo</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>rewardedVideo</text>
       </register>
       <register name="/" type="4">
         <text>IsR</text>
@@ -1244,6 +1244,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
