@@ -44,12 +44,12 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/AdMobRewardedVideo.cs" timestamp="1505654793517">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="122" column="16" />
-        <mark key="]" line="122" column="16" />
-        <mark key="^" line="122" column="16" />
-        <mark key="." line="122" column="16" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/AdMobRewardedVideo.cs" timestamp="1505657109568">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="123" column="41" />
+        <mark key="]" line="123" column="49" />
+        <mark key="^" line="123" column="49" />
+        <mark key="." line="123" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CameraMovement.cs" timestamp="1502621820698">
         <mark key="'" line="71" column="24" />
@@ -702,12 +702,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1505655107609">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="67" column="13" />
-        <mark key="." line="67" column="13" />
-        <mark key="^" line="67" column="13" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" timestamp="1505656814518">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="67" column="54" />
+        <mark key="]" line="67" column="54" />
+        <mark key="." line="67" column="54" />
+        <mark key="^" line="38" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/IGameEvents.cs" timestamp="1502030348973">
         <mark key="[" line="15" column="30" />
@@ -912,7 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="21" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="346" column="26" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
       <jump line="61" column="23" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="47" column="8" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/CandleEffect.cs" />
@@ -1012,13 +1011,14 @@
       <jump line="94" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/AdMobRewardedVideo.cs" />
       <jump line="51" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/GameUI/BuyHintsMenu/RewardedVideoManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_callbacks</text>
+        <text>&quot;&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>_callbacks</text>
+        <text>&quot;&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>IsR</text>
@@ -1027,10 +1027,10 @@
         <text encoding="base64">QWN0aW9uPHN0cmluZywgb2JqZWN0PiBvblJld2FyZGVkLCBBY3Rpb248c3RyaW5nLCBzdHJpbmc+IG9uTG9hZEZhaWxlZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZhbGxCYWNrID0gbmV3IEFjdGlvbjxzdHJpbmcsIHN0cmluZz4oKHNvdXJjZSwgbWVzc2FnZSkgPT4KICAgICAgICAgICAgewogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiQ2FsbGluZyBmaXJzdCBiYWNrZW5kIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1083,10 +1083,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYWNrZW5kcy5Nb3ZlTmV4dCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGlmIChiYWNrZW5kcy5DdXJyZW50ICE9IG51bGwpIGJhY2tlbmRzLkN1cnJlbnQuU2hvd0FkKGNsZWFuT25TdWNjZXNzLCBmYWxsQmFjayk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nKCJDYWxsaW5nIG9yaWdpbmFsIGZhaWxlZCBjYWxsYmFjayIpOwogICAgICAgICAgICAgICAgICAgIG9uTG9hZEZhaWxlZChzb3VyY2UsIG1lc3NhZ2UpOwogICAgICAgICAgICAgICAgICAgIGJhY2tlbmRzLkRpc3Bvc2UoKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWNrZW5kcy5DdXJyZW50LlNob3dBZChjbGVhbk9uU3VjY2VzcywgR2V0RmFsbGJhY2soYmFja2VuZHMsIGNsZWFuT25TdWNjZXNzLCBvbkxvYWRGYWlsZWQpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1128,19 +1128,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWN0aW9uPHN0cmluZywgc3RyaW5nPiBmYWxsQmFjayA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2coIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NhbGxiYWNrcy5SZWdpc3RlcigiIiwgY2xlYW5PblN1Y2Nlc3MsIGZhbGxCYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCIiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IENhbGxiYWNrRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdCwgc3RyaW5nPiBfY2FsbGJhY2tzID0KICAgICAgICAgICAgbmV3IENhbGxiYWNrRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdCwgc3RyaW5nPigpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZhbGxCYWNrID0gbmV3IEFjdGlvbjxzdHJpbmcsIHN0cmluZz4oKHNvdXJjZSwgbWVzc2FnZSkgPT4KICAgICAgICAgICAgewogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsZWFuT25TdWNjZXNzID0gbmV3IEFjdGlvbjxzdHJpbmcsIG9iamVjdD4oKHNvdXJjZSwgaWdub3JlKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2coIkNhbGxpbmcgb25SZXdhcmRlZCBjYWxsYmFjayIpOwogICAgICAgICAgICAgICAgSGludFN5c3RlbS5JbnN0YW5jZS5BZGRIaW50cygxKTsKICAgICAgICAgICAgICAgIEZpcmViYXNlQW5hbHl0aWNzLkxvZ0V2ZW50KEV2ZW50Q29uc3RhbnRzLlJld2FyZGVkVmlkZW9TZWVuKTsKICAgICAgICAgICAgICAgIG9uUmV3YXJkZWQoc291cmNlLCBpZ25vcmUpOwogICAgICAgICAgICAgICAgYmFja2VuZHMuRGlzcG9zZSgpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NhbGxiYWNrcyA9IGNhbGxiYWNrczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYWNrZW5kcy5Nb3ZlTmV4dCgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGlmIChiYWNrZW5kcy5DdXJyZW50ICE9IG51bGwpIGJhY2tlbmRzLkN1cnJlbnQuU2hvd0FkKGNsZWFuT25TdWNjZXNzLCBmYWxsQmFjayk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgRGVidWcuTG9nKCJDYWxsaW5nIG9yaWdpbmFsIGZhaWxlZCBjYWxsYmFjayIpOwogICAgICAgICAgICAgICAgICAgIG9uTG9hZEZhaWxlZChzb3VyY2UsIG1lc3NhZ2UpOwogICAgICAgICAgICAgICAgICAgIGJhY2tlbmRzLkRpc3Bvc2UoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
