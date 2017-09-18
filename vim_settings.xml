@@ -49,11 +49,11 @@
         <mark key="." line="37" column="100" />
         <mark key="^" line="37" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1505747798927">
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1505747836654">
         <mark key="[" line="49" column="5" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
-        <mark key="^" line="42" column="35" />
+        <mark key="]" line="54" column="27" />
+        <mark key="." line="54" column="27" />
+        <mark key="^" line="54" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505724213461">
         <mark key="'" line="10" column="47" />
@@ -68,12 +68,12 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" timestamp="1505747426754">
-        <mark key="'" line="4" column="68" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" timestamp="1505748555944">
+        <mark key="'" line="40" column="11" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="20" column="67" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/models.ts" timestamp="1505745182905">
         <mark key="[" line="11" column="8" />
@@ -119,6 +119,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/models.ts" timestamp="1505748146016">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="47" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
@@ -148,16 +154,16 @@
       <jump line="46" column="5" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/client/src/Model.elm" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/client/src/View.elm" />
       <jump line="42" column="14" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
+      <jump line="28" column="50" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
+      <jump line="38" column="11" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-            cost: number,
-            revenue: number
-        }</text>
+        <text encoding="base64">UGxhbkxpbmVzUmVzcG9uc2UsIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiBBcHByZWNpYXRlQ3JlYXRlZFVwZGF0ZWQ=</text>
+        <text encoding="base64">UGxhbkxpbmVzUmVzcG9uc2UsIA==</text>
       </register>
       <register name="/" type="4">
         <text>externalId</text>
@@ -165,35 +171,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAsIGV4dGVybmFsSWQ6ICAgICAgICAgICAgIE1heWJlIEludAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gc2FmZUdldChhdHRycGF0aCk6IG51bWJlciB7CiAgICBfLmdldAp9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gc2FmZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>{
             cost: number,
             revenue: number
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBtYW51YWwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHtQbGFuTGluZX0gZnJvbSAnLi4vLi4vcGlwZWxpbmUvbW9kZWxzJwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYWlseV9idWRnZXQ6IHBsLmF0dHJpYnV0ZXMuZGFpbHlfYnVkZ2V0LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKHJlc3VsdCA9PiB0b0xvY2FsUGxhbkxpbmVzKHJlc3VsdCkpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBkYWlseV9idWRnZXQ6IHBsLmF0dHJpYnV0ZXMuZGFpbHlfYnVkZ2V0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
