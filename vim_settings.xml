@@ -29,10 +29,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/models.ts" timestamp="1505726489185">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/models.ts" timestamp="1505727185329">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" timestamp="1505724263851">
@@ -52,18 +52,18 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" timestamp="1505726764690">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-        <mark key="^" line="22" column="94" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" timestamp="1505728316643">
+        <mark key="'" line="25" column="26" />
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1505725892846">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="1" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1505727128399">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="20" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -80,40 +80,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIFByb21pc2VMaWtlPEFwcHJlY2lhdGVDYW1wYWlnbltdPg==</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIFByb21pc2VMaWtlPEFwcHJlY2lhdGVDYW1wYWlnbltdPg==</text>
+        <text>string</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlkOiBudW1iZXIsCiAgICB1dWlkOiBzdHJpbmcsCiAgICBuYW1lOiBzdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoYzogQXBwcmVjaWF0ZUNhbXBhaWduW10pID0+IGMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNsaWVudC5nZXRDYW1wYWlnbnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gQ2FtcGFpZ25TdGF0dXMgewogICAgRFJBRlQgPSAxLAogICAgUEVORElORyA9IDIsCiAgICBMSVZFID0gMywKICAgIE9VVERBVEVEID0gNCwKICAgIFBBVVNFRCA9IDUsCiAgICBSRUpFQ1RFRCA9IDYsCiAgICBTWVNURU1fU1RPUCA9IDcKfQoK</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcGlWMkNsaWVudH0gZnJvbSAnLi4vYXBpLWNsaWVudC9hcGktdjIvY2xpZW50Jwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGV4dGVybmFsSWRzID0gZXh0ZXJuYWxDYW1wYWlnbnMubWFwKGMgPT4gYy5pZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxDYW1wYWlnbn0gZnJvbSAnLi4vYXBpLWNsaWVudC9pbnRlcm5hbC1hcGkvbW9kZWxzJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IFtsaXZlQ2FtcGFpZ25zLCBvdGhlclN0YXR1c0NhbXBhaWduc10gPSBfLnBhcnRpdGlvbihleHRlcm5hbENhbXBhaWducywgYyA9PiBjLnN0YXR1cyA9PT0gQ2FtcGFpZ25TdGF0dXMuTElWRSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbnRlcm5hbEFwaUNsaWVudH0gZnJvbSAnLi4vYXBpLWNsaWVudC9pbnRlcm5hbC1hcGkvY2xpZW50Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHtDYW1wYWlnbn0gZnJvbSAnLi4vLi4vY2FtcGFpZ25zLXZpZXcvY2FtcGFpZ24ubW9kZWwnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgUmVzb3VyY2VUeXBlcyA9ICdzdGF0cycKICAgIHwgJ2NhbXBhaWducycKZXhwb3J0IHR5cGUgU3ViUmVzb3VyY2VUeXBlcyA9ICdidWRnZXRfbGluZXMnCiAgICB8ICdidWRnZXRfbGluZXNfc3RhdHMnCmV4cG9ydCB0eXBlIFJlc291cmNlSUQgPSBzdHJpbmcK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2xpZW50LmxvZ2luKCkKICAgICAgICAgICAgICAgICAgICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2coJ0xvZ2dlZCBpbicpKQogICAgICAgICAgICAgICAgICAgICAgICAudGhlbigoKSA9PiBjbGllbnQuZ2V0Q2FtcGFpZ25zKCkp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
