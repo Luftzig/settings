@@ -3,23 +3,80 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505723586585">
-        <mark key="'" line="11" column="47" />
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="63" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="23" column="70" />
+      <file name="/Dummy.txt" timestamp="1505724932893">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505724213461">
+        <mark key="'" line="10" column="47" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rules-engine/IRule.ts" timestamp="1505724145408">
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/ApiClient.ts" timestamp="1505724071413">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" timestamp="1505724263851">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" timestamp="1505724839055">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
     </filemarks>
     <jumps>
       <jump line="11" column="47" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
+      <jump line="31" column="53" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
+      <jump line="22" column="24" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
+      <jump line="24" column="38" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
+      <jump line="10" column="47" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIG5vaW5zcGVjdGlvbiBUc0xpbnQ6bm8tbGl0ZXJhbC1zdHJpbmcK</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>Thenable</text>
+        <text>literal-</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gcnVuVXBkYXRlKCkgewogICAgLy8gbm9pbnNwZWN0aW9uIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3NpbicK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxCdWRnZXRMaW5lfSBmcm9tICcuLi9hcGktY2xpZW50L2ludGVybmFsLWFwaS9tb2RlbHMnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHtDYW1wYWlnbn0gZnJvbSAnLi4vY2FtcGFpZ25zLXZpZXcvY2FtcGFpZ24ubW9kZWwnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxDYW1wYWlnbn0gZnJvbSAnLi9pbnRlcm5hbC1hcGkvbW9kZWxzJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxCdWRnZXRMaW5lfSBmcm9tICcuL2ludGVybmFsLWFwaS9tb2RlbHMnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxCdWRnZXRMaW5lU3RhdHN9IGZyb20gJy4vaW50ZXJuYWwtYXBpL21vZGVscycK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxCdWRnZXRMaW5lfSBmcm9tICcuLi9hcGktY2xpZW50L2ludGVybmFsLWFwaS9tb2RlbHMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Thenable</text>
+        <text>literal-</text>
       </register>
     </registers>
     <search>
@@ -30,6 +87,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
