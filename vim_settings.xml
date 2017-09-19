@@ -774,10 +774,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1505825035363">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1505829014195">
+        <mark key="[" line="210" column="35" />
+        <mark key="]" line="210" column="35" />
+        <mark key="." line="210" column="35" />
+        <mark key="^" line="210" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501057133846">
         <mark key="'" line="1828" column="0" />
@@ -809,7 +810,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505825468168">
+      <file name="/Dummy.txt" timestamp="1505829269871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
@@ -1017,11 +1018,11 @@
       <jump line="237" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gVE9ETyBSZXR1cm4gbG9jawo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>IsR</text>
@@ -1030,10 +1031,10 @@
         <text>LevelLoader.Instance.CurrentLevelNum() == LevelLoader.Instance.NumLevels(LevelLoader.Instance.CurrentPackageName())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETyBSZXR1cm4gbG9jawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBSZXR1cm4gbG9jawo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1086,10 +1087,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETyBSZXR1cm4gbG9jawovLyNkZWZpbmUgTEVWRUxTX0xPQ0tFRAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB2b2lkIFN0YXJ0KCkKICAgIHsKLy8gICAgICAgIGlmIChMZXZlbExvYWRlci5JbnN0YW5jZS5DdXJyZW50TGV2ZWxOdW0oKSA9PSBMZXZlbExvYWRlci5JbnN0YW5jZS5OdW1MZXZlbHMoTGV2ZWxMb2FkZXIuSW5zdGFuY2UuQ3VycmVudFBhY2thZ2VOYW1lKCkpKQovLyAgICAgICAgewovLyAgICAgICAgICAgIGdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsKLy8gICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gVE9ETyBSZXR1cm4gbG9jawovLyNkZWZpbmUgTEVWRUxTX0xPQ0tFRAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -1131,19 +1132,19 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTY2VuZU1hbmFnZXIuTG9hZFNjZW5lKFNjZW5lTWFuYWdlci5HZXRBY3RpdmVTY2VuZSgpLmJ1aWxkSW5kZXgpOwo=</text>
+        <text encoding="base64">CiAgICB2b2lkIFN0YXJ0KCkKICAgIHsKLy8gICAgICAgIGlmIChMZXZlbExvYWRlci5JbnN0YW5jZS5DdXJyZW50TGV2ZWxOdW0oKSA9PSBMZXZlbExvYWRlci5JbnN0YW5jZS5OdW1MZXZlbHMoTGV2ZWxMb2FkZXIuSW5zdGFuY2UuQ3VycmVudFBhY2thZ2VOYW1lKCkpKQovLyAgICAgICAgewovLyAgICAgICAgICAgIGdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsKLy8gICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFuYWx5dGljcy5Mb2dFdmVudChFdmVudENvbnN0YW50cy5OZXh0TGV2ZWwsIG5ldyBQYXJhbWV0ZXJbXQogICAgICAgIHsKICAgICAgICAgICAgbmV3IFBhcmFtZXRlcihFdmVudENvbnN0YW50cy5GaWVsZHMuTGV2ZWxOdW1iZXIsIExldmVsTG9hZGVyLkluc3RhbmNlLkN1cnJlbnRMZXZlbE51bSgpKQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTY2VuZU1hbmFnZXIuTG9hZFNjZW5lKFNjZW5lTWFuYWdlci5HZXRBY3RpdmVTY2VuZSgpLmJ1aWxkSW5kZXgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUFuYWx5dGljcy5Mb2dFdmVudChFdmVudENvbnN0YW50cy5OZXh0TGV2ZWwsIG5ldyBQYXJhbWV0ZXJbXQogICAgICAgIHsKICAgICAgICAgICAgbmV3IFBhcmFtZXRlcihFdmVudENvbnN0YW50cy5GaWVsZHMuTGV2ZWxOdW1iZXIsIExldmVsTG9hZGVyLkluc3RhbmNlLkN1cnJlbnRMZXZlbE51bSgpKQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoSXNMYXN0TGV2ZWwoKSkKICAgICAgICB7CiAgICAgICAgICAgIE9wZW5QYWNrYWdlcygpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoSXNMYXN0TGV2ZWwoKSkKICAgICAgICB7CiAgICAgICAgICAgIE9wZW5QYWNrYWdlcygpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
