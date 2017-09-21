@@ -57,12 +57,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" timestamp="1505989114413">
-        <mark key="'" line="325" column="23" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="276" column="3" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" timestamp="1505990126209">
+        <mark key="'" line="244" column="20" />
+        <mark key="[" line="284" column="23" />
+        <mark key="]" line="284" column="36" />
+        <mark key="." line="284" column="36" />
+        <mark key="^" line="284" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Entities/EntitiesDefs.elm" timestamp="1505988751043">
         <mark key="[" line="8" column="0" />
@@ -226,17 +226,26 @@
       <jump line="201" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="30" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="338" column="4" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="328" column="23" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="12" column="33" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="240" column="20" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="280" column="23" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="214" column="12" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="328" column="48" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="149" column="22" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="330" column="24" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="332" column="19" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="218" column="25" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="244" column="20" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBhcyBNZXNzYWdlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>GamePosition</text>
       </register>
       <register name="-" type="4">
-        <text>Helpers.</text>
+        <text>GamePosition</text>
       </register>
       <register name="/" type="4">
-        <text>externalId</text>
+        <text>fromRelati</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAsIGV4dGVybmFsSWQ6ICAgICAgICAgICAgIE1heWJlIEludAo=</text>
@@ -273,19 +282,22 @@
       </register>
     </registers>
     <search>
-      <last-search>externalId</last-search>
+      <last-search>fromRelati</last-search>
       <last-offset />
-      <last-pattern>externalId</last-pattern>
+      <last-pattern>fromRelati</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>externalId</entry>
+        <entry>fromRelati</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
