@@ -19,6 +19,9 @@
         <mark key="^" line="29" column="86" />
         <mark key="." line="29" column="86" />
       </file>
+      <file name="$USER_HOME$/Projects/Spirits-elm/elm-stuff/packages/elm-community/linear-algebra/1.2.2/src/Math/Vector3.elm" timestamp="1506001788626">
+        <mark key="'" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" timestamp="1505745591343">
         <mark key="'" line="58" column="10" />
         <mark key="[" line="59" column="0" />
@@ -57,12 +60,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" timestamp="1506000839637">
-        <mark key="'" line="129" column="17" />
-        <mark key="[" line="268" column="12" />
-        <mark key="]" line="268" column="17" />
-        <mark key="." line="268" column="17" />
-        <mark key="^" line="268" column="17" />
+      <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" timestamp="1506001992406">
+        <mark key="'" line="11" column="40" />
+        <mark key="[" line="169" column="27" />
+        <mark key="]" line="169" column="28" />
+        <mark key="." line="169" column="28" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Entities/EntitiesDefs.elm" timestamp="1505988751043">
         <mark key="[" line="8" column="0" />
@@ -241,62 +244,76 @@
       <jump line="265" column="35" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="263" column="36" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="127" column="6" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="267" column="30" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="268" column="29" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="117" column="5" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="119" column="32" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="261" column="13" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="129" column="17" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="128" column="17" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="276" column="15" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="124" column="15" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="141" column="9" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="136" column="11" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="10" column="7" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="85" column="26" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="142" column="7" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="129" column="17" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="274" column="8" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Spirits-elm/elm-stuff/packages/elm-community/linear-algebra/1.2.2/src/Math/Vector3.elm" />
+      <jump line="266" column="23" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="262" column="41" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="96" column="25" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="267" column="30" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="169" column="34" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="11" column="40" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ player | position = Possessing position }</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>{ player | position = Possessing position }</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>updateWo</text>
+        <text>scale</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YmVoYXZpb3Ig</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0CiAgICAgICAgICAgICAgICBucGNCZWhhdmlvciA6IE5QQyAtPiBHYW1lUG9zaXRpb24KICAgICAgICAgICAgICAgIG5wY0JlaGF2aW9yIChOUEMgbnBjKSA9CiAgICAgICAgICAgICAgICAgICAgbnBjLmJlaGF2aW9yIChOUEMgbnBjKSBtb2RlbAogICAgICAgICAgICBpbgo=</text>
+        <text encoding="base64">ICAgIGNhc2UgcGxheWVyLnBvc2l0aW9uIG9mCiAgICAgICAgRmxvYXRpbmcgY3VycmVudFBvc2l0aW9uIC0+CiAgICAgICAgICAgIHsgcGxheWVyIHwgcG9zaXRpb24gPSBtb3ZlVG93YXJkcyBtb2RlbC5tb3ZlVGFyZ2V0IGN1cnJlbnRQb3NpdGlvbiB0aW1lRGVsdGEgfD4gRmxvYXRpbmcgfQoKICAgICAgICBQb3NzZXNzaW5nIF8gLT4KICAgICAgICAgICAgcGxheWVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgp0eXBlIGFsaWFzIE5QQ0Vudmlyb25tZW50IGEgPQogICAgeyBhCiAgICAgICAgfCB3b3JsZCA6IExpc3QgUmVuZGVyYWJsZQogICAgICAgICwgbnBjcyA6IExpc3QgTlBDCiAgICAgICAgLCBwbGF5ZXIgOiBQbGF5ZXIKICAgICAgICAsIHRpbWUgOiBUaW1lCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW92ZVRvd2FyZHMgOiBNYXliZSBhIC0+IEdhbWVQb3NpdGlvbiAtPiBUaW1lIC0+IEdhbWVQb3NpdGlvbgptb3ZlVG93YXJkcyB0YXJnZXQgY3VycmVudFBvc2l0aW9uIHRpbWVEZWx0YSBwbGF5ZXIgPQogICAgY2FzZSB0YXJnZXQgb2YKICAgICAgICBOb3RoaW5nIC0+CiAgICAgICAgICAgIGNhc2UgcGxheWVyLnBvc2l0aW9uIG9mCiAgICAgICAgICAgICAgRmxvYXRpbmcgY3VycmVudCAtPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIHBsYXllci5wb3NpdGlvbgoKICAgICAgICBKdXN0IHsgdGFyZ2V0IH0gLT4KICAgICAgICAgICAgcGxheWVyLnBvc2l0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBHYW1lRWxlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBhcyBNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuVmlldyBhcyBWaWV3CmltcG9ydCBTcGlyaXRzLlVwZGF0ZSBhcyBVcGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBleHBvc2luZyAoTXNnKC4uKSkK</text>
+        <text encoding="base64">ICAgIGxldCAKICAgICAgbW92ZVRvVGFyZ2V0IHRhcmdldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBleHBvc2luZyAoTXNnKENsaWNrKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updateWo</last-search>
+      <last-search>scale</last-search>
       <last-offset />
-      <last-pattern>updateWo</last-pattern>
+      <last-pattern>scale</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -305,6 +322,7 @@
         <entry>externalId</entry>
         <entry>fromRelati</entry>
         <entry>updateWo</entry>
+        <entry>scale</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -321,6 +339,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
