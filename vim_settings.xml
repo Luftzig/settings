@@ -43,19 +43,19 @@
         <mark key="^" line="59" column="42" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1505747187267">
-        <mark key="'" line="42" column="14" />
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="41" />
-        <mark key="^" line="45" column="54" />
-        <mark key="." line="46" column="41" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1506252977360">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="53" column="52" />
+        <mark key="]" line="53" column="61" />
+        <mark key="^" line="53" column="61" />
+        <mark key="." line="53" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505724213461">
-        <mark key="'" line="10" column="47" />
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="67" />
-        <mark key="^" line="22" column="67" />
-        <mark key="." line="22" column="67" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1506252497807">
+        <mark key="'" line="59" column="46" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="31" column="89" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/output.json" timestamp="1506162763800">
         <mark key="'" line="0" column="591046" />
@@ -130,6 +130,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" timestamp="1506252613056">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="54" column="70" />
+        <mark key="]" line="54" column="70" />
+        <mark key="^" line="54" column="70" />
+        <mark key="." line="54" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/internal-api/client.ts" timestamp="1505737408875">
         <mark key="'" line="26" column="1" />
         <mark key="[" line="151" column="1" />
@@ -158,12 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="7" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="274" column="8" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/Spirits-elm/elm-stuff/packages/elm-community/linear-algebra/1.2.2/src/Math/Vector3.elm" />
-      <jump line="266" column="23" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="262" column="41" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="267" column="30" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="169" column="28" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="162" column="25" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="248" column="21" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
@@ -258,46 +259,56 @@
       <jump line="134" column="51" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
       <jump line="136" column="4" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
+      <jump line="69" column="40" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" />
+      <jump line="27" column="12" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" />
+      <jump line="56" column="16" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
+      <jump line="26" column="12" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" />
+      <jump line="60" column="46" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
+      <jump line="47" column="25" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKCmZyb20gZnVuY3kuY29sbHMgaW1wb3J0IHByb2plY3QKCgpkZWYgcmVhZF9qc29uKGZpbGVfbmFtZSk6CiAgICB3aXRoIG9wZW4oZmlsZV9uYW1lKSBhcyBkYXRhX2ZpbGU6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZChkYXRhX2ZpbGUpCgoKdHJlbGxvX2RhdGEgPSByZWFkX2pzb24oJ3RyZWxsb19ndGQuanNvbicpCgp0cmVsbG9fbGlzdHMgPSBbcHJvamVjdChsLCBbJ2lkJywgJ25hbWUnXSkgZm9yIGwgaW4gdHJlbGxvX2RhdGFbJ2xpc3RzJ11dCgppbml0aWFsX3Rhc2tfaWQgPSAxMjAwMDAwMDEKaW5pdGlhbF9yZW1pbmRlcl9pZCA9IDgwMDAwMDAxCmluaXRpYWxfbm90ZV9pZCA9IDE2MDAwMDAwMQppbml0aWFsX2xpc3RfaWQgPSAzMTk3NTQ0NDkKdXNlcl9pZCA9IDMyNTQzNDUyCgoKZGVmIHRvX3J0bV90YXNrKGNhcmQsIGxpc3RzX2luZGV4LCB0YXNrX2lkKToKICAgIHJldHVybiB7CiAgICAgICAgJ2NvbXBsZXRlZCc6IGNhcmRbJ2Nsb3NlZCddLAogICAgICAgICdjcmVhdGVkX2F0JzogY2FyZFsnZGF0ZUxhc3RBY3Rpdml0eSddLAogICAgICAgICdjcmVhdGVkX2J5X2lkJzogdXNlcl9pZCwKICAgICAgICAnZHVlX2RhdGUnOiBjYXJkWydkdWUnXSwKICAgICAgICAnaWQnOiB0YXNrX2lkLAogICAgICAgICdsaXN0X2lkJzogbGlzdHNfaW5kZXhbY2FyZFsnaWRMaXN0J11dWydpZCddLAogICAgICAgICdyZXZpc2lvbic6IDEsCiAgICAgICAgJ3N0YXJyZWQnOiBGYWxzZSwKICAgICAgICAndGl0bGUnOiBjYXJkWyduYW1lJ10sCiAgICAgICAgJ3R5cGUnOiAndGFzaycKICAgIH0KCgpkZWYgdG9fcnRtX25vdGUoY2FyZCwgdGFza19pZCwgbm90ZV9pZCk6CiAgICByZXR1cm4gKHsKICAgICAgICAgICAgICAgICdjb250ZW50JzogY2FyZFsnZGVzYyddLAogICAgICAgICAgICAgICAgJ2lkJzogbm90ZV9pZCwKICAgICAgICAgICAgICAgICdyZXZpc2lvbic6IDEsCiAgICAgICAgICAgICAgICAndGFza19pZCc6IHRhc2tfaWQsCiAgICAgICAgICAgICAgICAndHlwZSc6ICdub3RlJwogICAgICAgICAgICB9LCBub3RlX2lkICsgMSkgaWYgY2FyZFsnZGVzYyddICE9ICcnIGVsc2UgKE5vbmUsIG5vdGVfaWQpCgoKZGVmIHRvX3J0bV9yZW1pbmRlcihjYXJkLCB0YXNrX2lkLCByZW1pbmRlcl9pZCk6CiAgICByZXR1cm4gKHsKICAgICAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTctMDktMjNUMDk6NTc6NDMuMTgyWiIsCiAgICAgICAgICAgICAgICAidXBkYXRlZF9hdCI6ICIyMDE3LTA5LTIzVDA5OjU3OjQzLjE4MloiLAogICAgICAgICAgICAgICAgJ2RhdGUnOiBjYXJkWydkdWUnXSwKICAgICAgICAgICAgICAgICdpZCc6IHJlbWluZGVyX2lkLAogICAgICAgICAgICAgICAgJ3JldmlzaW9uJzogMSwKICAgICAgICAgICAgICAgICd0YXNrX2lkJzogdGFza19pZCwKICAgICAgICAgICAgICAgICd0eXBlJzogJ3JlbWluZGVyJwogICAgICAgICAgICB9LCByZW1pbmRlcl9pZCArIDEpIGlmIGNhcmRbJ2R1ZSddIGlzIG5vdCBOb25lIGVsc2UgKE5vbmUsIHJlbWluZGVyX2lkKQoKCmRlZiBjb252ZXJ0X2NhcmQoY2FyZCwgbGlzdHNfaW5kZXgsIHRhc2tfaWQsIG5vdGVfaWQsIHJlbWluZGVyX2lkKToKICAgIHRhc2sgPSB0b19ydG1fdGFzayhjYXJkLCBsaXN0c19pbmRleCwgdGFza19pZCkKICAgIG5vdGUsIG5ld19ub3RlX2lkID0gdG9fcnRtX25vdGUoY2FyZCwgdGFza19pZCwgbm90ZV9pZCkKICAgIHJlbWluZGVyLCBuZXdfcmVtaW5kZXJfaWQgPSB0b19ydG1fcmVtaW5kZXIoY2FyZCwgdGFza19pZCwgcmVtaW5kZXJfaWQpCiAgICByZXR1cm4gewogICAgICAgICd0YXNrJzogdGFzaywKICAgICAgICAnbm90ZSc6IG5vdGUsCiAgICAgICAgJ3JlbWluZGVyJzogcmVtaW5kZXIsCiAgICAgICAgJ3Rhc2tfaWQnOiB0YXNrX2lkICsgMSwKICAgICAgICAnbm90ZV9pZCc6IG5ld19ub3RlX2lkLAogICAgICAgICdyZW1pbmRlcl9pZCc6IG5ld19yZW1pbmRlcl9pZAogICAgfQoKCmRlZiBjb252ZXJ0X2NhcmRzKGNhcmRzLCBsaXN0c19pbmRleCwgaW5pdF90YXNrX2lkLCBpbml0X25vdGVfaWQsIGluaXRfcmVtaW5kZXJfaWQpOgogICAgYWNjdW11bGF0b3IgPSB7CiAgICAgICAgJ3Rhc2tzJzogW10sCiAgICAgICAgJ3JlbWluZGVycyc6IFtdLAogICAgICAgICdub3Rlcyc6IFtdLAogICAgICAgICd0YXNrX2lkJzogaW5pdF90YXNrX2lkLAogICAgICAgICdub3RlX2lkJzogaW5pdF9ub3RlX2lkLAogICAgICAgICdyZW1pbmRlcl9pZCc6IGluaXRfcmVtaW5kZXJfaWQKICAgIH0KICAgIGZvciBjYXJkIGluIGNhcmRzOgogICAgICAgIGNvbnZlcnRfcmVzdWx0ID0gY29udmVydF9jYXJkKGNhcmQsIGxpc3RzX2luZGV4LCBhY2N1bXVsYXRvclsndGFza19pZCddLCBhY2N1bXVsYXRvclsnbm90ZV9pZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjY3VtdWxhdG9yWydyZW1pbmRlcl9pZCddKQogICAgICAgIGFjY3VtdWxhdG9yWyd0YXNrcyddLmFwcGVuZChjb252ZXJ0X3Jlc3VsdFsndGFzayddKQogICAgICAgIGFjY3VtdWxhdG9yWydyZW1pbmRlcnMnXS5hcHBlbmQoY29udmVydF9yZXN1bHRbJ3JlbWluZGVyJ10pIGlmIGNvbnZlcnRfcmVzdWx0WydyZW1pbmRlciddIGlzIG5vdCBOb25lIGVsc2UgTm9uZQogICAgICAgIGFjY3VtdWxhdG9yWydub3RlcyddLmFwcGVuZChjb252ZXJ0X3Jlc3VsdFsnbm90ZSddKSBpZiBjb252ZXJ0X3Jlc3VsdFsnbm90ZSddIGlzIG5vdCBOb25lIGVsc2UgTm9uZQogICAgICAgIGFjY3VtdWxhdG9yWyd0YXNrX2lkJ10gPSBjb252ZXJ0X3Jlc3VsdFsndGFza19pZCddCiAgICAgICAgYWNjdW11bGF0b3JbJ25vdGVfaWQnXSA9IGNvbnZlcnRfcmVzdWx0Wydub3RlX2lkJ10KICAgICAgICBhY2N1bXVsYXRvclsncmVtaW5kZXJfaWQnXSA9IGNvbnZlcnRfcmVzdWx0WydyZW1pbmRlcl9pZCddCiAgICByZXR1cm4gYWNjdW11bGF0b3IKCgpkZWYgY29udmVydF9saXN0KGxzdCwgbGlzdF9pZCk6CiAgICByZXR1cm4gewogICAgICAgICdpZCc6IGxpc3RfaWQsCiAgICAgICAgInRpdGxlIjogbHN0WyduYW1lJ10sCiAgICAgICAgIm93bmVyX3R5cGUiOiAidXNlciIsCiAgICAgICAgJ293bmVyX2lkJzogdXNlcl9pZCwKICAgICAgICAibGlzdF90eXBlIjogImluYm94IiBpZiBsc3RbJ25hbWUnXS5sb3dlcigpID09ICdpbmJveCcgZWxzZSAnbGlzdCcsCiAgICAgICAgInB1YmxpYyI6IEZhbHNlLAogICAgICAgICJyZXZpc2lvbiI6IDEsCiAgICAgICAgImNyZWF0ZWRfYXQiOiAiMjAxNy0wOS0yM1QwOTo1Njo0NS43MTBaIiwKICAgICAgICAidHlwZSI6ICJsaXN0IgogICAgfQoKCmRlZiBjb252ZXJ0X2xpc3RzKGxpc3RzLCBpbml0aWFsX2lkKToKICAgIHJldHVybiB7bHN0WydpZCddOiBjb252ZXJ0X2xpc3QobHN0LCBsaXN0X2lkKSBmb3IgbGlzdF9pZCwgbHN0IGluIGVudW1lcmF0ZShsaXN0cywgaW5pdGlhbF9pZCl9CgoKZGVmIHdyaXRlX3Jlc3VsdChkYXRhLCBmaWxlX25hbWUpOgogICAgd2l0aCBvcGVuKGZpbGVfbmFtZSwgJ3cnKSBhcyBvdXRfZmlsZToKICAgICAgICBqc29uLmR1bXAoewogICAgICAgICAgICAnZXhwb3J0ZWQnOiBkYXRhWydleHBvcnRlZCddLAogICAgICAgICAgICAndXNlcic6IGRhdGFbJ3VzZXInXSwKICAgICAgICAgICAgJ2RhdGEnOiB7CiAgICAgICAgICAgICAgICAidGFza3MiOiBkYXRhWyd0YXNrcyddLAogICAgICAgICAgICAgICAgIm5vdGVzIjogZGF0YVsnbm90ZXMnXSwKICAgICAgICAgICAgICAgICJyZW1pbmRlcnMiOiBkYXRhWydyZW1pbmRlcnMnXSwKICAgICAgICAgICAgICAgICJsaXN0cyI6IGRhdGFbJ2xpc3RzJ10sCiAgICAgICAgICAgICAgICAic3VidGFza3MiOiBbXSwKICAgICAgICAgICAgICAgICJ0YXNrX3Bvc2l0aW9ucyI6IFtdLAogICAgICAgICAgICAgICAgInN1YnRhc2tfcG9zaXRpb25zIjogW10KICAgICAgICAgICAgfQogICAgICAgIH0sIG91dF9maWxlKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBpbl9kYXRhID0gcmVhZF9qc29uKCd0cmVsbG9fZ3RkLmpzb24nKQogICAgbGlzdHNfaW5kZXhlZCA9IGNvbnZlcnRfbGlzdHMoaW5fZGF0YVsnbGlzdHMnXSwgaW5pdGlhbF9saXN0X2lkKQogICAgb3V0X2RhdGEgPSBjb252ZXJ0X2NhcmRzKGluX2RhdGFbJ2NhcmRzJ10sIGxpc3RzX2luZGV4ZWQsIGluaXRpYWxfdGFza19pZCwgaW5pdGlhbF9ub3RlX2lkLCBpbml0aWFsX3JlbWluZGVyX2lkKQogICAgb3V0X2RhdGFbJ2xpc3RzJ10gPSBsaXN0KGxpc3RzX2luZGV4ZWQudmFsdWVzKCkpCiAgICBvdXRfZGF0YVsnZXhwb3J0ZWQnXSA9IGRhdGV0aW1lLm5vdygpLmlzb2Zvcm1hdCgpCiAgICBvdXRfZGF0YVsndXNlciddID0gdXNlcl9pZAogICAgd3JpdGVfcmVzdWx0KG91dF9kYXRhLCAnb3V0cHV0Lmpzb24nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>PlanStats</text>
       </register>
       <register name="-" type="4">
-        <text>calendar</text>
+        <text>PlanStats</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMTk3NTQ0NTBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE3LTA5LTIzVDA5OjU3OjQzLjE4MloiLAogICAgICAgICJ1cGRhdGVkX2F0IjogIjIwMTctMDktMjNUMDk6NTc6NDMuMTgyWiIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzQ2FtcGFpZ25zJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndGFncyc6ICcsJy5qb2luKG1hcChsYW1iZGEgbGFiZWw6IGxhYmVsWyduYW1lJ10sIGNhcmRbJ2xhYmVscyddKSksCg==</text>
+        <text encoding="base64">ICAgIFN0YXRzOiBhbnkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE3LTA5LTIzVDA5OjU2OjQ1LjcxMFoiLAo=</text>
+      <register name="2" type="8">
+        <text>2
+2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAib3duZXJfaWQiOiA3NzUxNDI2MSwK</text>
+      <register name="3" type="8">
+        <text>1
+1</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiOiAzMTk3NTQ0NDksCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzQ2FtcGFpZ25zJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvY2Vzc0NhbXBhaWduJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtQbGFuTGluZX0gZnJvbSAnLi9tb2RlbHMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxCdWRnZXRMaW5lfSBmcm9tICcuLi9hcGktY2xpZW50L2ludGVybmFsLWFwaS9tb2RlbHMnCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="8">
+        <text>Budget
+Budget</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0YXNrcycK</text>
+      <register name="9" type="8">
+        <text>Budget
+Budget</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -351,6 +362,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
