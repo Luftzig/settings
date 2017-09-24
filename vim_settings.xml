@@ -43,7 +43,7 @@
         <mark key="^" line="59" column="42" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1506252977360">
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1506253959479">
         <mark key="'" line="47" column="25" />
         <mark key="[" line="53" column="52" />
         <mark key="]" line="53" column="61" />
@@ -59,6 +59,9 @@
       </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/output.json" timestamp="1506162763800">
         <mark key="'" line="0" column="591046" />
+      </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506254449278">
+        <mark key="[" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" timestamp="1505988945675">
         <mark key="[" line="7" column="0" />
@@ -113,12 +116,11 @@
         <mark key="." line="37" column="100" />
         <mark key="^" line="37" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" timestamp="1505748555944">
-        <mark key="'" line="40" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" timestamp="1506254425364">
+        <mark key="'" line="18" column="46" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Entities/Helpers.elm" timestamp="1505988761144">
         <mark key="[" line="0" column="0" />
@@ -163,9 +165,14 @@
         <mark key="." line="138" column="27" />
         <mark key="^" line="138" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/models.ts" timestamp="1506254435212">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="28" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="162" column="25" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="248" column="21" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="263" column="29" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
@@ -265,13 +272,14 @@
       <jump line="26" column="12" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.spec.ts" />
       <jump line="60" column="46" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" />
       <jump line="47" column="25" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
+      <jump line="18" column="46" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PlanStats</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>PlanStats</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMTk3NTQ0NTBcPg==</text>
@@ -280,35 +288,33 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzQ2FtcGFpZ25zJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSYXcgcGxhbiBsaW5lJywgcGwpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSYXcgcGxhbiBsaW5lJywgcGwpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFN0YXRzOiBhbnkK</text>
       </register>
-      <register name="2" type="8">
+      <register name="7" type="8">
         <text>2
 2</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>1
 1</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwcm9jZXNzQ2FtcGFpZ25zJywgYXJndW1lbnRzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvY2Vzc0NhbXBhaWduJywgYXJndW1lbnRzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtQbGFuTGluZX0gZnJvbSAnLi9tb2RlbHMnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHByZWNpYXRlSW50ZXJuYWxCdWRnZXRMaW5lfSBmcm9tICcuLi9hcGktY2xpZW50L2ludGVybmFsLWFwaS9tb2RlbHMnCg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>Budget
-Budget</text>
-      </register>
-      <register name="9" type="8">
-        <text>Budget
-Budget</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
