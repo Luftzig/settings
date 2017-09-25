@@ -53,12 +53,12 @@
         <mark key="^" line="59" column="42" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1506351853769">
-        <mark key="'" line="60" column="19" />
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="42" />
-        <mark key="^" line="24" column="42" />
-        <mark key="." line="24" column="42" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1506354162114">
+        <mark key="'" line="75" column="30" />
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1506260228814">
         <mark key="'" line="37" column="29" />
@@ -220,8 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="11" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="236" column="20" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="294" column="28" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="132" column="5" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
@@ -320,13 +318,15 @@
       <jump line="25" column="37" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
       <jump line="60" column="19" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
       <jump line="47" column="69" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
+      <jump line="75" column="30" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMTk3NTQ0NTBcPg==</text>
@@ -335,31 +335,31 @@
         <text>toUpdateCampaignPlanLinesRequest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQVBJIFRva2VuOicsIGFwaVRva2VuKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHRhc2tXcmFwcGVyKCkgewogICAgICAgIGlmIChjYW5jZWxlZCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtuZXcgRGF0ZSgpfSAtIE5vdCBydW5uaW5nIGNhbmNlbGVkIHRhc2tgKQogICAgICAgICAgICByZXR1cm4KICAgICAgICB9CiAgICAgICAgY29uc29sZS5sb2coYCR7bmV3IERhdGUoKX0gLSBSdW5uaW5nIHRhc2tgKQogICAgICAgIHRhc2soKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coYCR7bmV3IERhdGUoKX0gLSBDb21wbGV0ZWQgdGFza2ApCiAgICAgICAgfSkuY2F0Y2goCiAgICAgICAgICAgIGUgPT4gY29uc29sZS5sb2coJ1Rhc2sgZXhlY3V0aW9uIGZhaWxlZDogJywgZSkKICAgICAgICApCiAgICAgICAgc2NoZWR1bGVGbigpLnRoZW4obmV4dFRpbWUgPT4gewogICAgICAgICAgICBpZiAobmV4dFRpbWUgPiAwICYmICFjYW5jZWxlZCkgewogICAgICAgICAgICAgICAgc2V0VGltZW91dCh0YXNrV3JhcHBlciwgbmV4dFRpbWUpCiAgICAgICAgICAgIH0KICAgICAgICB9KS5jYXRjaChlID0+IGNvbnNvbGUubG9nKG5ldyBEYXRlKCksICdSZXNjaGVkdWxpbmcgc3RvcHBlZCcpKQogICAgfQoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRhc2tXcmFwcGVyID0gdGFza1dyYXBwZXIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgcXVldWU6IE9ic2VydmFibGU8UHJvbWlzZTxhbnk+Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQVBJIFRva2VuOicsIGFwaVRva2VuKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHRhc2tXcmFwcGVyKCkgewogICAgICAgIGlmIChjYW5jZWxlZCkgewogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtuZXcgRGF0ZSgpfSAtIE5vdCBydW5uaW5nIGNhbmNlbGVkIHRhc2tgKQogICAgICAgICAgICByZXR1cm4KICAgICAgICB9CiAgICAgICAgY29uc29sZS5sb2coYCR7bmV3IERhdGUoKX0gLSBSdW5uaW5nIHRhc2tgKQogICAgICAgIHRhc2soKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coYCR7bmV3IERhdGUoKX0gLSBDb21wbGV0ZWQgdGFza2ApCiAgICAgICAgfSkuY2F0Y2goCiAgICAgICAgICAgIGUgPT4gY29uc29sZS5sb2coJ1Rhc2sgZXhlY3V0aW9uIGZhaWxlZDogJywgZSkKICAgICAgICApCiAgICAgICAgc2NoZWR1bGVGbigpLnRoZW4obmV4dFRpbWUgPT4gewogICAgICAgICAgICBpZiAobmV4dFRpbWUgPiAwICYmICFjYW5jZWxlZCkgewogICAgICAgICAgICAgICAgc2V0VGltZW91dCh0YXNrV3JhcHBlciwgbmV4dFRpbWUpCiAgICAgICAgICAgIH0KICAgICAgICB9KS5jYXRjaChlID0+IGNvbnNvbGUubG9nKG5ldyBEYXRlKCksICdSZXNjaGVkdWxpbmcgc3RvcHBlZCcpKQogICAgfQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQodGFza1dyYXBwZXIsIHNjaGVkdWxlRm4oKSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRhc2tXcmFwcGVyID0gdGFza1dyYXBwZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlczoge30sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdEZWJ1ZzogcGF0Y2ggZGF0YTogJywgcmVzdWx0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
