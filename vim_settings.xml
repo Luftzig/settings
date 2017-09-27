@@ -72,11 +72,11 @@
         <mark key="." line="7" column="65" />
         <mark key="^" line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.ts" timestamp="1506520843242">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.ts" timestamp="1506522599398">
+        <mark key="[" line="17" column="92" />
+        <mark key="]" line="17" column="94" />
+        <mark key="." line="17" column="94" />
+        <mark key="^" line="17" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506256222618">
         <mark key="[" line="6" column="27" />
@@ -129,12 +129,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.spec.ts" timestamp="1506518000375">
-        <mark key="'" line="45" column="61" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.spec.ts" timestamp="1506522515799">
+        <mark key="'" line="28" column="73" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" timestamp="1506262067086">
         <mark key="'" line="47" column="69" />
@@ -178,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="33" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="205" column="34" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="406" column="4" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="305" column="103" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
@@ -278,46 +277,48 @@
       <jump line="53" column="49" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.spec.ts" />
       <jump line="4" column="28" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.spec.ts" />
       <jump line="45" column="61" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.spec.ts" />
+      <jump line="28" column="73" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>then(done).</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>then(done).</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzMTk3NTQ0NTBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJjaGFpLWFzLXByb21pc2VkIjogIl43LjEuMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0V4ZWN1dGluZyBldmVudCcsIG5vdywgbGltaXRzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKQo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHRpbWVzOiBudW1iZXIsIHdpbmRvd01zOiBudW1iZXIpIHsKICAgICAgICB0aGlzLnRpbWVzID0gdGltZXMKICAgICAgICB0aGlzLndpbmRvd01zID0gd2luZG93TXMKICAgICAgICB0aGlzLmV2ZW50cyA9IFtdCiAgICB9CiAgICAKICAgIHB1c2goZTogRGF0ZSkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlZmVyID0gQmx1ZWJpcmQuZGVmZXIoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFJhdGVMaW1pdHMgewogICAgcHJpdmF0ZSBxdWV1ZTogU3ViamVjdDwoKSA9PiBQcm9taXNlTGlrZTxhbnk+PgoKICAgIGNvbnN0cnVjdG9yKHRpbWVzOiBudW1iZXIsIHdpbmRvd01zOiBudW1iZXIpIHsKICAgICAgICB0aGlzLnF1ZXVlID0gbmV3IFN1YmplY3QoKQogICAgICAgIHRoaXMucXVldWUuY29uY2F0TWFwKGZuID0+IE9ic2VydmFibGUub2YoZm4pLmRlbGF5KHdpbmRvd01zIC8gdGltZXMpKQogICAgICAgICAgICAuZmxhdE1hcChmbiA9PiBPYnNlcnZhYmxlLmZyb21Qcm9taXNlKGZuKCkpKQogICAgICAgICAgICAuc3Vic2NyaWJlKCkKICAgIH0KCiAgICBwdWJsaWMgcHVzaDxUUmVzdWx0PihmbjogKCkgPT4gUHJvbWlzZUxpa2U8VFJlc3VsdD4pOiBQcm9taXNlTGlrZTxUUmVzdWx0PiB7CiAgICAgICAgY29uc3QgZGVmZXIgPSBCbHVlYmlyZC5kZWZlcigpCiAgICAgICAgdGhpcy5xdWV1ZS5uZXh0KCgpID0+IGZuKCkudGhlbihkZWZlci5yZXNvbHZlLCBkZWZlci5yZWplY3QpKQogICAgICAgIHJldHVybiBkZWZlci5wcm9taXNlCiAgICB9Cn0KCg==</text>
+      <register name="5" type="4">
+        <text>import {Observable, Subject} from '@reactivex/rxjs'
+import Bluebird = require('bluebird')</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByb21pc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHF1ZXVlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtwcm9taXNlLCBldmVudHNdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cXVldWUuY29uY2F0TWFwKGZuID0+IE9ic2VydmFibGUub2YoZm4pLmRlbGF5KGxpbWl0KSkKICAgIC5mbGF0TWFwKGZuID0+IE9ic2VydmFibGUuZnJvbVByb21pc2UoZm4oKSkpCg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
