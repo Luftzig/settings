@@ -61,12 +61,12 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1506604613996">
-        <mark key="'" line="82" column="18" />
-        <mark key="[" line="54" column="40" />
-        <mark key="]" line="54" column="53" />
-        <mark key="^" line="54" column="53" />
-        <mark key="." line="54" column="53" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1506605706547">
+        <mark key="'" line="54" column="55" />
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="64" />
+        <mark key="^" line="54" column="64" />
+        <mark key="." line="54" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" timestamp="1505988945675">
         <mark key="[" line="7" column="0" />
@@ -95,20 +95,27 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" timestamp="1506603544949">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2040" column="62" />
-        <mark key="]" line="2041" column="25" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" timestamp="1506606202905">
+        <mark key="'" line="11630" column="51" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="17" />
         <mark key="^" line="2041" column="25" />
-        <mark key="." line="2041" column="25" />
+        <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" timestamp="1506603967602">
-        <mark key="'" line="111" column="16" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/LevelDataHandler.cs" timestamp="1506605639969">
+        <mark key="'" line="207" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/Data/LevelData.cs" timestamp="1506598641849">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" timestamp="1506605613330">
+        <mark key="'" line="120" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/Data/LevelData.cs" timestamp="1506605732642">
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="58" />
+        <mark key="." line="31" column="58" />
+        <mark key="^" line="31" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/Data/Levels.cs" timestamp="1506605644751">
+        <mark key="'" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/docker-compose.yml" timestamp="1505738283704">
         <mark key="[" line="5" column="17" />
@@ -200,12 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="8" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" />
-      <jump line="58" column="10" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" />
-      <jump line="10" column="17" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/client/src/Model.elm" />
-      <jump line="46" column="5" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/client/src/Model.elm" />
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/client/src/View.elm" />
-      <jump line="42" column="14" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
       <jump line="28" column="50" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
       <jump line="38" column="11" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/conversions.ts" />
@@ -290,7 +291,6 @@
       <jump line="10852" column="34" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="11075" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="11336" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
-      <jump line="11630" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="12002" column="39" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="12374" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Plugins/UnityPurchasing/script/IAPButton.cs" />
@@ -300,13 +300,20 @@
       <jump line="11" column="6" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" />
       <jump line="111" column="16" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" />
       <jump line="77" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="120" column="64" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" />
+      <jump line="102" column="41" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/LevelDataHandler.cs" />
+      <jump line="119" column="18" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/LevelDataHandler.cs" />
+      <jump line="207" column="42" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/LevelDataHandler.cs" />
+      <jump line="12" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/Data/Levels.cs" />
+      <jump line="54" column="55" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="11630" column="51" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PrintEnumerable</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>PrintEnumerable</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>animals</text>
@@ -374,6 +381,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
