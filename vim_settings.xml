@@ -33,6 +33,9 @@
         <mark key="^" line="45" column="54" />
         <mark key="." line="46" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1506597025437">
+        <mark key="'" line="22" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1505747836654">
         <mark key="[" line="49" column="5" />
         <mark key="]" line="54" column="27" />
@@ -51,6 +54,13 @@
         <mark key="]" line="4" column="64" />
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1506598555245">
+        <mark key="'" line="54" column="77" />
+        <mark key="[" line="34" column="60" />
+        <mark key="]" line="34" column="60" />
+        <mark key="^" line="34" column="59" />
+        <mark key="." line="54" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" timestamp="1505988945675">
         <mark key="[" line="7" column="0" />
@@ -81,6 +91,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1505746866814">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/Data/LevelData.cs" timestamp="1506598641849">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/docker-compose.yml" timestamp="1505738283704">
         <mark key="[" line="5" column="17" />
@@ -227,13 +242,17 @@
       <jump line="30" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="338" column="4" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="328" column="23" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="22" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="49" column="56" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="55" column="77" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="34" column="60" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBhcyBNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Helpers.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>externalId</text>
@@ -242,31 +261,31 @@
         <text encoding="base64">ICAsIGV4dGVybmFsSWQ6ICAgICAgICAgICAgIE1heWJlIEludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBhcyBNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuVmlldyBhcyBWaWV3CmltcG9ydCBTcGlyaXRzLlVwZGF0ZSBhcyBVcGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmFuZG9tQW5pbWFsID0gSGVscGVycy5SYW5kb20uUmFuZG9tQ2hvaWNlKGFsbEFuaW1hbHMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBleHBvc2luZyAoTXNnKC4uKSkK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWxsQW5pbWFscyA9IFJlc291cmNlcy5Mb2FkQWxsPEdhbWVPYmplY3Q+KCJBbmltYWxzLyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBleHBvc2luZyAoTXNnKENsaWNrKSkK</text>
+        <text encoding="base64">ICAgICAgICBhbmltYWxzID0gSW5zdGFudGlhdGVBbmltYWxzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFRpbWUgZXhwb3NpbmcgKFRpbWUpCmltcG9ydCBLZXlib2FyZCBleHBvc2luZyAoS2V5Q29kZSkKaW1wb3J0IE1vdXNlIGV4cG9zaW5nIChQb3NpdGlvbikKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFRpbWUgZXhwb3NpbmcgKFRpbWUpCmltcG9ydCBLZXlib2FyZCBleHBvc2luZyAoS2V5Q29kZSkKaW1wb3J0IE1vdXNlIGV4cG9zaW5nIChQb3NpdGlvbikKCgp0eXBlIE1zZwogICAgPSBJbml0aWFsaXplCiAgICB8IFN0YXJ0CiAgICB8IFBhdXNlCiAgICB8IFN0b3AKICAgIHwgVGljayBUaW1lCiAgICB8IEtleUNoYW5nZSBCb29sIEtleUNvZGUKICAgIHwgQ2xpY2sgUG9zaXRpb24KICAgIHwgU29tZXRoaW5nIFBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWxsQW5pbWFscyA9IFJlc291cmNlcy5Mb2FkQWxsPEdhbWVPYmplY3Q+KCJBbmltYWxzLyIpOwogICAgICAgIHZhciByYW5kb21BbmltYWwgPSBIZWxwZXJzLlJhbmRvbS5SYW5kb21DaG9pY2UoYWxsQW5pbWFscyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTW9kZWwgZXhwb3NpbmcgKE1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvbG9yCmltcG9ydCBFbGVtZW50IGV4cG9zaW5nICh0b0h0bWwpCmltcG9ydCBHYW1lLlR3b0QgYXMgR2FtZQppbXBvcnQgR2FtZS5Ud29ELlJlbmRlciBleHBvc2luZyAoUmVuZGVyYWJsZSkKaW1wb3J0IEh0bWwgZXhwb3NpbmcgKEh0bWwsIGRpdiwgaDEsIHRleHQpCmltcG9ydCBIdG1sLkF0dHJpYnV0ZXMgZXhwb3NpbmcgKHN0eWxlKQppbXBvcnQgSHRtbC5FdmVudHMgYXMgRXZlbnRzCmltcG9ydCBKc29uLkRlY29kZSBhcyBEZWNvZGUKaW1wb3J0IExpc3QKaW1wb3J0IE1vdXNlIGV4cG9zaW5nIChQb3NpdGlvbikKaW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBleHBvc2luZyAoTXNnKENsaWNrKSkKaW1wb3J0IFNwaXJpdHMuTW9kZWwgZXhwb3NpbmcgKE1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbG9yCmltcG9ydCBFbGVtZW50IGV4cG9zaW5nICh0b0h0bWwpCmltcG9ydCBHYW1lLlR3b0QgYXMgR2FtZQppbXBvcnQgR2FtZS5Ud29ELlJlbmRlciBleHBvc2luZyAoUmVuZGVyYWJsZSkKaW1wb3J0IEh0bWwgZXhwb3NpbmcgKEh0bWwsIGRpdiwgaDEsIHRleHQpCmltcG9ydCBIdG1sLkF0dHJpYnV0ZXMgZXhwb3NpbmcgKHN0eWxlKQppbXBvcnQgSHRtbC5FdmVudHMgYXMgRXZlbnRzCmltcG9ydCBKc29uLkRlY29kZSBhcyBEZWNvZGUKaW1wb3J0IExpc3QKaW1wb3J0IE1vdXNlIGV4cG9zaW5nIChQb3NpdGlvbikKaW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBleHBvc2luZyAoTXNnKENsaWNrKSkKaW1wb3J0IFNwaXJpdHMuTW9kZWwgZXhwb3NpbmcgKE1vZGVsKQoKCnZpZXcgOiBNb2RlbCAtPiBIdG1sIE1zZwp2aWV3IG1vZGVsID0KICAgIGxldAogICAgICAgIHNjcmVlblNpemUgPQogICAgICAgICAgICAoIG1vZGVsLnZpZXcud2lkdGgsIG1vZGVsLnZpZXcuaGVpZ2h0ICkKICAgIGluCiAgICAgICAgZGl2CiAgICAgICAgICAgIFsgc3R5bGUKICAgICAgICAgICAgICAgIFsgInBhZGRpbmciID0+ICIzMHB4IgogICAgICAgICAgICAgICAgLCAibWFyZ2luLWxlZnQiID0+ICJhdXRvIgogICAgICAgICAgICAgICAgLCAibWFyZ2luLXJpZ2h0IiA9PiAiYXV0byIKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgXQogICAgICAgICAgICBbIGgxCiAgICAgICAgICAgICAgICBbXQogICAgICAgICAgICAgICAgWyB0ZXh0ICJTcGlyaXRzIiBdCiAgICAgICAgICAgICwgR2FtZS5yZW5kZXJXaXRoT3B0aW9ucwogICAgICAgICAgICAgICAgWyBFdmVudHMub24gImNsaWNrIiByZWxhdGl2ZURlY29kZXIgXQogICAgICAgICAgICAgICAgeyB0aW1lID0gbW9kZWwudGltZQogICAgICAgICAgICAgICAgLCBzaXplID0gc2NyZWVuU2l6ZQogICAgICAgICAgICAgICAgLCBjYW1lcmEgPSBtb2RlbC5jYW1lcmEKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICA8fAogICAgICAgICAgICAgICAgcmVuZGVyIG1vZGVsCiAgICAgICAgICAgICwgZGl2IFtdIFt0ZXh0IDx8IHRvU3RyaW5nIG1vZGVsLm1vdmVUYXJnZXQgXQogICAgICAgICAgICBdCgoKcmVsYXRpdmVEZWNvZGVyIDogRGVjb2RlLkRlY29kZXIgTXNnCnJlbGF0aXZlRGVjb2RlciA9CiAgICBsZXQKICAgICAgICByZWxhdGl2ZSA6IFN0cmluZyAtPiBTdHJpbmcgLT4gRGVjb2RlLkRlY29kZXIgSW50CiAgICAgICAgcmVsYXRpdmUgcGFnZVByb3AgdGFyZ2V0UHJvcCA9CiAgICAgICAgICAgIERlY29kZS5tYXAyICgtKQogICAgICAgICAgICAgICAgKERlY29kZS5hdCBbIHBhZ2VQcm9wIF0gRGVjb2RlLmludCkKICAgICAgICAgICAgICAgIChEZWNvZGUuYXQgWyAidGFyZ2V0IiwgdGFyZ2V0UHJvcCBdIERlY29kZS5pbnQpCgogICAgICAgIHhSZWxhdGl2ZSA9CiAgICAgICAgICAgIHJlbGF0aXZlICJwYWdlWCIgIm9mZnNldExlZnQiCgogICAgICAgIHlSZWxhdGl2ZSA9CiAgICAgICAgICAgIHJlbGF0aXZlICJwYWdlWSIgIm9mZnNldFRvcCIKICAgIGluCiAgICAgICAgRGVjb2RlLm1hcCBDbGljayA8fCBEZWNvZGUubWFwMiBNb3VzZS5Qb3NpdGlvbiB4UmVsYXRpdmUgeVJlbGF0aXZlCgoKcmVuZGVyIDogTW9kZWwgLT4gTGlzdCBSZW5kZXJhYmxlCnJlbmRlciBtb2RlbCA9CiAgICBtb2RlbC53b3JsZAogICAgICAgICsrIChMaXN0Lm1hcCByZW5kZXJOUEMgbW9kZWwubnBjcykKICAgICAgICArKyBbIHJlbmRlclBsYXllciBtb2RlbC5wbGF5ZXIgXQoKCig9PikgOiBhIC0+IGIgLT4gKCBhLCBiICkKKD0+KSBhIGIgPQogICAgKCBhLCBiICkK</text>
+        <text encoding="base64">aW1wb3J0IFNwaXJpdHMuTWVzc2FnZSBhcyBNZXNzYWdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -286,6 +305,8 @@
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
