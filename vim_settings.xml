@@ -96,11 +96,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/nimoy/tests/nimoy/integration/test_where_block.py" timestamp="1506798551346">
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="29" />
-        <mark key="." line="59" column="29" />
-        <mark key="^" line="59" column="29" />
+      <file name="$USER_HOME$/Projects/nimoy/tests/nimoy/integration/test_where_block.py" timestamp="1506798703547">
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="21" />
+        <mark key="." line="51" column="21" />
+        <mark key="^" line="51" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/convert.py" timestamp="1506162915121">
         <mark key="'" line="0" column="0" />
@@ -128,6 +128,12 @@
         <mark key="]" line="66" column="1" />
         <mark key="." line="35" column="32" />
         <mark key="^" line="63" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/nimoy/nimoy/ast_tools/ast_metadata.py" timestamp="1506799719674">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/src/Game/TwoD/Mouse.elm" timestamp="1506786998193">
         <mark key="[" line="35" column="0" />
@@ -202,6 +208,13 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="31" column="89" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/nimoy/nimoy/ast_tools/feature_blocks.py" timestamp="1506800129176">
+        <mark key="'" line="134" column="22" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="42" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rate-limiting/rate-limiting.ts" timestamp="1506527622776">
         <mark key="'" line="0" column="0" />
@@ -300,9 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="30" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
-      <jump line="133" column="51" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
       <jump line="105" column="4" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
       <jump line="132" column="57" filename="$USER_HOME$/Projects/trello_to_rtm/convert.py" />
       <jump line="6597" column="19" filename="$USER_HOME$/Projects/trello_to_rtm/output.json" />
@@ -400,49 +410,50 @@
       <jump line="19" column="43" filename="$USER_HOME$/Projects/elm-2d-game/src/Game/TwoD/Camera.elm" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/elm-2d-game/tests/Tests.elm" />
       <jump line="73" column="15" filename="$USER_HOME$/Projects/nimoy/tests/nimoy/ast_tools/test_feature_blocks.py" />
+      <jump line="43" column="33" filename="$USER_HOME$/Projects/nimoy/nimoy/ast_tools/feature_blocks.py" />
+      <jump line="35" column="35" filename="$USER_HOME$/Projects/nimoy/nimoy/ast_tools/feature_blocks.py" />
+      <jump line="134" column="22" filename="$USER_HOME$/Projects/nimoy/nimoy/ast_tools/feature_blocks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>value.</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjX2NvbnRlbnRzID0gIiIiZnJvbSBuaW1veS5zcGVjaWZpY2F0aW9uIGltcG9ydCBTcGVjaWZpY2F0aW9uCiAgICAgICAgCmNsYXNzIEppbWJvYlNwZWMoU3BlY2lmaWNhdGlvbik6CiAgICAKICAgIGRlZiB0ZXN0KHNlbGYpOgogICAgICAgIHdpdGggZ2l2ZW46CiAgICAgICAgICAgIGEgPSB2YWx1ZV9vZl9hCiAgICAgICAgICAgIAogICAgICAgIHdpdGggZXhwZWN0OgogICAgICAgICAgICAoYSAlIDIpID09IDAKICAgICAgICAKICAgICAgICB3aXRoIHdoZXJlOgogICAgICAgICAgICB2YWx1ZV9vZl9hID0gWzJdCiAgICAgICAgIiIiCgogICAgICAgIHJlc3VsdCA9IHNlbGYuX3J1bl9zcGVjX2NvbnRlbnRzKHNwZWNfY29udGVudHMpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHJlc3VsdC53YXNTdWNjZXNzZnVsKCkpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQudGVzdHNSdW4sIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzID0gYXNzaWdubWVudF9leHByZXNzaW9uLnZhbHVlLmFyZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="8">
+        <text>value.
+value.</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X21hdHJpY19mb3JtXwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJpYWJsZV9uYW1lID0gYXNzaWdubWVudF9leHByZXNzaW9uLnRhcmdldHNbMF0uaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiX3ZhbHVlc1swXSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfcmVnaXN0ZXJfY2FsbGFibGUoc2VsZiwgYXNzaWdubWVudF9leHByZXNzaW9uKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm4gPSBsYW1iZGE6IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXNzaWdubWVudF9leHByZXNzaW9uLnZhbHVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEdhbWUuVHdvRC5Nb3VzZSBleHBvc2luZyAocmVsYXRpdmVDbGlja1Bvc2l0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbAo=</text>
       </register>
-      <register name="7" type="8">
-        <text>(
-(
-(
-(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzcGVjCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">KCAxMDAsIDEwMCApLCAKKCAxMDAsIDEwMCApLCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">KCAxMDAsIDEwMCApLCAKKCAxMDAsIDEwMCApLCAKKCAxMDAsIDEwMCApLCAKKCAxMDAsIDEwMCApLCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21hdHJpY19mb3JtXwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
