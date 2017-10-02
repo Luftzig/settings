@@ -42,12 +42,8 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-2d-game/tests/Tests.elm" timestamp="1506788145150">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="16" />
-        <mark key="^" line="14" column="97" />
+      <file name="$USER_HOME$/Projects/elm-2d-game/tests/Tests.elm" timestamp="1506934891168">
+        <mark key="^" line="9" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1506260228814">
         <mark key="'" line="37" column="29" />
@@ -140,12 +136,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-2d-game/src/Game/TwoD/Camera.elm" timestamp="1506787730916">
+      <file name="$USER_HOME$/Projects/elm-2d-game/src/Game/TwoD/Camera.elm" timestamp="1506934838348">
         <mark key="'" line="19" column="43" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="165" column="207" />
+        <mark key="[" line="165" column="8" />
+        <mark key="]" line="165" column="13" />
+        <mark key="." line="165" column="13" />
+        <mark key="^" line="165" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Root.elm" timestamp="1506765895619">
         <mark key="[" line="0" column="7" />
@@ -250,7 +246,7 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506852687987">
+      <file name="/Dummy.txt" timestamp="1506934900319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="^" line="0" column="59" />
@@ -308,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6585" column="19" filename="$USER_HOME$/Projects/trello_to_rtm/output.json" />
       <jump line="6573" column="19" filename="$USER_HOME$/Projects/trello_to_rtm/output.json" />
       <jump line="6561" column="19" filename="$USER_HOME$/Projects/trello_to_rtm/output.json" />
       <jump line="6549" column="19" filename="$USER_HOME$/Projects/trello_to_rtm/output.json" />
@@ -408,55 +403,56 @@
       <jump line="52" column="11" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
       <jump line="35" column="5" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
       <jump line="76" column="38" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/elm-2d-game/tests/Tests.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtSYXRlTGltaXRzLCByYXRlTGltaXR9IGZyb20gJy4uLy4uL3JhdGUtbGltaXRpbmcvcmF0ZS1saW1pdGluZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmF0ZUxpbWl0LCA=</text>
+        <text>elementToGameCoordinates</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text encoding="base64">XDxwaXhlbFJhbmdlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>'application/vnd.api+json'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSYXRlTGltaXRzLCByYXRlTGltaXR9IGZyb20gJy4uLy4uL3JhdGUtbGltaXRpbmcvcmF0ZS1saW1pdGluZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGluZXMgYXJlJywgbGluZXMpCg==</text>
+        <text encoding="base64">cGl4ZWxSYW5nZSA9CiAgICBGdXp6LmludFJhbmdlIDAgMTAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtSYXRlTGltaXRzLCByYXRlTGltaXR9IGZyb20gJy4uLy4uL3JhdGUtbGltaXRpbmcvcmF0ZS1saW1pdGluZycK</text>
+        <text encoding="base64">aW1wb3J0IEZ1enogZXhwb3NpbmcgKEZ1enplciwgaW50LCBsaXN0LCBzdHJpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0Q2FtcGFpZ25zJywgYXJndW1lbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHZpZXdUb3AgKyAoKHRvRmxvYXQgeSAtIHNjcmVlblRvcCkgLyAoc2NyZWVuQm90dG9tIC0gc2NyZWVuVG9wKSAqICh2aWV3Qm90dG9tIC0gdmlld1RvcCkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlUGxhbkxpbmVzJywgYXJndW1lbnRzKQo=</text>
+        <text encoding="base64">aW1wb3J0IHtSYXRlTGltaXRzLCByYXRlTGltaXR9IGZyb20gJy4uLy4uL3JhdGUtbGltaXRpbmcvcmF0ZS1saW1pdGluZycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0Q2FtcGFpZ25QbGFuTGluZVN0YXRzJywgYXJndW1lbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGluZXMgYXJlJywgbGluZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0Q2FtcGFpZ25QbGFuTGluZXMnLCBhcmd1bWVudHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IHtSYXRlTGltaXRzLCByYXRlTGltaXR9IGZyb20gJy4uLy4uL3JhdGUtbGltaXRpbmcvcmF0ZS1saW1pdGluZycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcyBpcycsIHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0Q2FtcGFpZ25zJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRlUGxhbkxpbmVzJywgYXJndW1lbnRzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search encoding="base64">XDxwaXhlbFJhbmdlXD4=</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern encoding="base64">XDxwaXhlbFJhbmdlXD4=</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>3</last-substitute>
       <last-dir>1</last-dir>
@@ -482,6 +478,7 @@
         <entry>Mouse</entry>
         <entry encoding="base64">XDxyZWxhdGl2ZURlY29kZXJcPg==</entry>
         <entry>3</entry>
+        <entry encoding="base64">XDxwaXhlbFJhbmdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/3/2/g</entry>
