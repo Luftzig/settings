@@ -39,8 +39,12 @@
         <mark key="^" line="50" column="125" />
         <mark key="." line="50" column="125" />
       </file>
-      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1506597025437">
-        <mark key="'" line="22" column="12" />
+      <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1507025237521">
+        <mark key="'" line="198" column="68" />
+        <mark key="[" line="199" column="60" />
+        <mark key="]" line="200" column="27" />
+        <mark key="^" line="200" column="27" />
+        <mark key="." line="200" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1505747836654">
         <mark key="[" line="49" column="5" />
@@ -222,13 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="4" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" />
-      <jump line="127" column="15" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" />
-      <jump line="42" column="55" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/View.elm" />
-      <jump line="66" column="13" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/View.elm" />
-      <jump line="153" column="12" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Model.elm" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="2" column="16" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Update.elm" />
@@ -322,46 +319,53 @@
       <jump line="3" column="14" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="65" column="29" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" />
+      <jump line="43" column="17" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="194" column="40" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="214" column="19" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="209" column="54" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="216" column="43" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="200" column="68" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
+      <jump line="18" column="36" filename="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVmVjdG9yMygxNC40ZiwgMCwgNi41ZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>animals</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVmVjdG9yMygxNC40ZiwgMCwgNi41ZikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">b3RoZXIuZ2FtZU9iamVjdC5HZXRDb21wb25lbnQ8QW5pbWFsVGFyZ2V0PigpICE9IG51bGwgfHwKICAgICAgICAgICAgICAgIG90aGVyLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hbFN0YXRlTWFjaGluZT4oKSAhPSBudWxs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIExpc3Q8QW5pbWFsU3RhdGVNYWNoaW5lPiBhbmltYWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dGb3JtYXQoIkxldmVsRGF0YTogezB9IiwgY3VycmVudExldmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcmFuZG9tQW5pbWFsID0gSGVscGVycy5SYW5kb20uUmFuZG9tQ2hvaWNlKGFsbEFuaW1hbHMpOwo=</text>
+        <text encoding="base64">ICAgIGludGVybmFsIExpc3Q8QW5pbWFsU3RhdGVNYWNoaW5lPiBhbmltYWxzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWxsQW5pbWFscyA9IFJlc291cmNlcy5Mb2FkQWxsPEdhbWVPYmplY3Q+KCJBbmltYWxzLyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2dGb3JtYXQoIkxldmVsRGF0YTogezB9IiwgY3VycmVudExldmVsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYWxzID0gSW5zdGFudGlhdGVBbmltYWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -399,6 +403,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
