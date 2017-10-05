@@ -228,10 +228,10 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="45" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" timestamp="1507201123912">
-        <mark key="'" line="98" column="31" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="109" column="73" />
+      <file name="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" timestamp="1507202372604">
+        <mark key="'" line="115" column="66" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="115" column="79" />
         <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505724213461">
@@ -410,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
-      <jump line="184" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/View.elm" />
       <jump line="71" column="4" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/View.elm" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/View.elm" />
@@ -510,10 +508,12 @@
       <jump line="94" column="30" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
       <jump line="5" column="7" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
       <jump line="98" column="31" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="105" column="71" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
+      <jump line="115" column="66" filename="$USER_HOME$/Projects/cat-racing-elm/src/Main.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHlwZSBNZXNzYWdlID0gQ2hhbmdlTmFtZSBTdHJpbmcKICAgICAgICAgICAgIHwgU2F2ZUNoYW5nZXMgQ2F0CiAgICAgICAgICAgICB8IFVwZGF0ZVJlc3BvbnNlIChSZXN1bHQgSHR0cC5FcnJvciBDYXQpCgp1cGRhdGUgOiBNZXNzYWdlIC0+IE1vZGVsIC0+IChNb2RlbCwgQ21kIE1lc3NhZ2UpCnVwZGF0ZSBtc2cgbW9kZWwgPQogIGNhc2UgbXNnIG9mCiAgICBDaGFuZ2VOYW1lIG5ld05hbWUgLT4gbm9DbWQgeyBtb2RlbCB8IGNhdCA9IG1hcFN0YXRlZnVsIChzZXROYW1lIG5ld05hbWUpIG1vZGVsLmNhdCB9CgogICAgU2F2ZUNoYW5nZXMgY2F0IC0+ICh7bW9kZWwgfCBjYXQgPSB1cGRhdGVTdGF0ZSBXYWl0aW5nIG1vZGVsLmNhdH0sIHNlbmRVcGRhdGVSZXF1ZXN0IGNhdCkKCiAgICBVcGRhdGVSZXNwb25zZSAoRXJyIGVycm9yKSAtPiBub0NtZCB7bW9kZWwgfCBjYXQgPSBGYWlsZWQgZXJyb3IgPHwgZ2V0VmFsdWUgbW9kZWwuY2F0IH0KCiAgICBVcGRhdGVSZXNwb25zZSAoT2sgbmV3Q2F0KSAtPiBub0NtZCB7IG1vZGVsIHwgY2F0ID0gU3VjY2VlZGVkIG5ld0NhdCB9Cg==</text>
+        <text encoding="base64">c2VuZFVwZGF0ZVJlcXVlc3QgOiBDYXQgLT4gQ21kIE1lc3NhZ2UKc2VuZFVwZGF0ZVJlcXVlc3QgY2F0ID0KICAgIEh0dHAuc2VuZCBVcGRhdGVSZXNwb25zZQogICAgICAgIDx8IEh0dHAucG9zdCAiaHR0cDovL2xvY2FsaG9zdDozMDAwL2NhdHMiIChlbmNvZGVDYXQgY2F0KSBkZWNvZGVSZXNwb25zZQo=</text>
       </register>
       <register name="-" type="4">
         <text>, &quot;Fox&quot;, &quot;Fox&quot;, &quot;Fox&quot;, &quot;Fox&quot;, &quot;Fox&quot;, &quot;Fox&quot;, &quot;Fox&quot;</text>
@@ -522,7 +522,7 @@
         <text>Result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBNZXNzYWdlID0gQ2hhbmdlTmFtZSBTdHJpbmcKICAgICAgICAgICAgIHwgU2F2ZUNoYW5nZXMgQ2F0CiAgICAgICAgICAgICB8IFVwZGF0ZVJlc3BvbnNlIChSZXN1bHQgSHR0cC5FcnJvciBDYXQpCg==</text>
+        <text encoding="base64">c2VuZFVwZGF0ZVJlcXVlc3QgOiBDYXQgLT4gQ21kIE1lc3NhZ2UKc2VuZFVwZGF0ZVJlcXVlc3QgY2F0ID0KICAgIEh0dHAuc2VuZCBVcGRhdGVSZXNwb25zZQogICAgICAgIDx8IEh0dHAucG9zdCAiaHR0cDovL2xvY2FsaG9zdDozMDAwL2NhdHMiIChlbmNvZGVDYXQgY2F0KSBkZWNvZGVSZXNwb25zZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
