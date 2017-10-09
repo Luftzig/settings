@@ -44,9 +44,6 @@
         <mark key="^" line="50" column="125" />
         <mark key="." line="50" column="125" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-2d-game/tests/Tests.elm" timestamp="1506934891168">
-        <mark key="^" line="9" column="97" />
-      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1507025873370">
         <mark key="'" line="198" column="68" />
         <mark key="[" line="197" column="71" />
@@ -79,12 +76,17 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1507214138682">
-        <mark key="'" line="49" column="21" />
+      <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1507559848579">
+        <mark key="'" line="156" column="4" />
         <mark key="[" line="144" column="4" />
         <mark key="]" line="144" column="38" />
         <mark key="^" line="144" column="38" />
         <mark key="." line="144" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/elm-quadtree/.gitignore" timestamp="1507559997231">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rules-engine/no-budget-rule.ts" timestamp="1506257050695">
         <mark key="[" line="8" column="65" />
@@ -311,6 +313,13 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" timestamp="1507560584488">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="44" />
@@ -382,9 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="740" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
-      <jump line="1035" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
-      <jump line="1194" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="1431" column="28" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="1604" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="1800" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
@@ -482,13 +488,16 @@
       <jump line="126" column="17" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
       <jump line="34" column="41" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
       <jump line="49" column="21" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
+      <jump line="136" column="0" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
+      <jump line="156" column="4" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
+      <jump line="9" column="4" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text>Example</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>Example</text>
       </register>
       <register name="/" type="4">
         <text>exclude</text>
@@ -496,38 +505,34 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVjb2RlUmVzcG9uc2UgOiBKc29uLkRlY29kZS5EZWNvZGVyIENhdApkZWNvZGVSZXNwb25zZSA9IEpzb24uRGVjb2RlLm1hcDMgQ2F0CiAgICAoSnNvbi5EZWNvZGUuZmllbGQgIm5hbWUiIEpzb24uRGVjb2RlLnN0cmluZykKICAgIChKc29uLkRlY29kZS5maWVsZCAic2NvcmUiIDx8IEpzb24uRGVjb2RlLm1heWJlIEpzb24uRGVjb2RlLmludCkKICAgIChKc29uLkRlY29kZS5maWVsZCAiaWQiIDx8IEpzb24uRGVjb2RlLm1heWJlIEpzb24uRGVjb2RlLnN0cmluZykK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dGVzdHMvZWxtLXN0dWZmCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>import boardName from './board'
 
 console.log(boardName)</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Y29uc3QgYm9hcmROYW1lID0gIkhlbGxvIEJvYXJkIgoK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xNi4wLjEiLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>`
-`
-`</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>`
-`
-`</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
