@@ -76,8 +76,8 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1507562871443">
-        <mark key="'" line="156" column="25" />
+      <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1507563826782">
+        <mark key="'" line="308" column="9" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -312,11 +312,8 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" timestamp="1507562474875">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" timestamp="1507564769259">
+        <mark key="'" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -389,9 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1800" column="27" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
-      <jump line="2040" column="13" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
-      <jump line="2295" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="2546" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="2784" column="12" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
       <jump line="3021" column="35" filename="$USER_HOME$/Projects/zengarden/Assets/Resources/LevelPacks/default.json" />
@@ -489,60 +483,49 @@
       <jump line="9" column="4" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
       <jump line="154" column="25" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
+      <jump line="308" column="9" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
+      <jump line="108" column="38" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
+      <jump line="2" column="11" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlTGltaXRzID0KICAgICAgICAgICAgICAgICAgICAgICAgYm91bmRpbmdCb3ggLTEwIDEwIC0xMCAxMAoKICAgICAgICAgICAgICAgICAgICB0cmVlID0KICAgICAgICAgICAgICAgICAgICAgICAgZW1wdHlRdWFkVHJlZSB0cmVlTGltaXRzIDQKCiAgICAgICAgICAgICAgICAgICAgYm91bmRlZCA9CiAgICAgICAgICAgICAgICAgICAgICAgIHsgYm91bmRpbmdCb3ggPSBib3VuZGluZ0JveCAwIDEgMCAxIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>pointInInterval interval1.low interval2 || pointInInterval interval1.high inter</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>exclude</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGludGVydmFsMSAgICAgICAgfC0tLS0tLXwKICAgICAgIGludGVydmFsMiAgICB8LS0tLS0tLS0tLS0tLXwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlTGltaXRzID0KICAgICAgICAgICAgICAgICAgICAgICAgYm91bmRpbmdCb3ggLTEwIDEwIC0xMCAxMAoKICAgICAgICAgICAgICAgICAgICB0cmVlID0KICAgICAgICAgICAgICAgICAgICAgICAgZW1wdHlRdWFkVHJlZSB0cmVlTGltaXRzIDQKCiAgICAgICAgICAgICAgICAgICAgYm91bmRlZCA9CiAgICAgICAgICAgICAgICAgICAgICAgIHsgYm91bmRpbmdCb3ggPSBib3VuZGluZ0JveCAwIDEgMCAxIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXCgpIC0+CiAgICAgICAgICAgICAgICBFeHBlY3QuZmFpbAogICAgICAgICAgICAgICAgICAgICJUQkQiCg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFF1YWRUcmVlIGV4cG9zaW5nIChib3VuZGluZ0JveCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmVlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;Interval &quot;
-        ++ toString low1
-        ++ &quot; to &quot;
-        ++ toString high1
-        ++ &quot; and &quot;
-        ++ toString low2
-        ++ &quot; to &quot;
-        ++ high2
-        ++ &quot; should &quot;
-            (if expected then
-                &quot;intersect&quot;
-             else
-                &quot;not intersect&quot;
-            )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQKICAgICAgICBpbgo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRvSW50ZXJ2YWxUZXN0IChsb3cxLCBoaWdoMSkgKGxvdzIsIGhpZ2gyKSBleHBlY3RlZCA9CiAgICAgICAgICAgICAgRXhwZWN0LmZhaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyB0ZXN0ICJsb3cgYW5kIGxvdyIgKFwoKSAtPiBFeHBlY3QuZmFpbCAibm90IGltcGxtZW50ZWQiKQogICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXCgpIC0+CiAgICAgICAgICAgICAgICBFeHBlY3QuZmFpbAogICAgICAgICAgICAgICAgICAgICJUQkQiCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>low       high      inter
-0         2         False</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IFF1YWRUcmVlIGV4cG9zaW5nIChib3VuZGluZ0JveCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
