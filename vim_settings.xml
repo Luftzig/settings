@@ -64,16 +64,16 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" timestamp="1507458957403">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="19" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" timestamp="1507625948289">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/app.tsx" timestamp="1507459081976">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/app.tsx" timestamp="1507625815338">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
         <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1507567716023">
@@ -289,11 +289,21 @@
         <mark key="." line="10" column="62" />
         <mark key="^" line="10" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/ItemData.ts" timestamp="1507626047099">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/LoadingScreen/LevelLoader.cs" timestamp="1507033227147">
         <mark key="'" line="120" column="64" />
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/static/8K_for_graph_scraped_data_utf8.json" timestamp="1507626001412">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="237" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/DataService/Data/LevelData.cs" timestamp="1506605732642">
         <mark key="[" line="31" column="58" />
@@ -492,44 +502,50 @@
       <jump line="70" column="33" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{boundingBox as boundingFromResult}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{boundingBox as boundingFromResult}</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>exclude</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlID0KICAgICAgICAgICAgICAgICAgICAgICAgZW1wdHlRdWFkVHJlZSB0cmVlTGltaXRzIDQK</text>
+        <text encoding="base64">eyJhcnRpY2xlRGVzY3JpcHRpb24iOiBbIteS15nXp9eY15nXmdedLCBHZWVrdGltZSwgINeX15PXqdeV16osINei15PXm9eV16DXmdedINeV15vXqteR15XXqiDXotecINeY15vXoNeV15zXldeS15nXlCwg15DXmdeg15jXqNeg15gg15XXodeY15DXqNeY15DXpNeZ150uIl0sICJ0YWdzIjogW10sICJ1cmwiOiBbImh0dHA6Ly93d3cuZ2Vla3RpbWUuY28uaWwvIl0sICJhdXRob3IiOiBbXSwgIlB1YmxpY2F0aW9uRGF0ZSI6IFtdLCAiYXJ0aWNsZVRpdGxlIjogW10sICJnZWVrVGltZUNhdGVnb3JpZXMiOiBbXX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFycmF5LmZpbHRlciAoXHtib3VuZGluZ0JveCBhcyBib3VuZGluZ0Zyb21SZXN1bHR9IGludGVyc2VjdEJvdW5kaW5nQm94ZXMgYm91bmRpbmdCb3gpIDx8IGZpbmRJdGVtcyBpdGVtIHF1YWRUcmVlCg==</text>
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExpc3QuRXh0cmEgYXMgTGlzdEV4dHJhCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wCg==</text>
+      <register name="3" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGxldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGl0ZW1zOiBBcnJheTx7fT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlTGltaXRzID0KICAgICAgICAgICAgICAgICAgICAgICAgYm91bmRpbmdCb3ggLTEwIDEwIC0xMCAxMAoK</text>
+        <text encoding="base64">ICAgICAgICBBeGlvcy5nZXQoJy9zdGF0aWMvOGtfZm9yX2dyYXBoX3NjcmFwZWRfZGF0YV91cmY4Lmpzb24nKS50aGVuKHJlc3VsdCA9PiB0aGlzLikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlTGltaXRzID0KICAgICAgICAgICAgICAgICAgICAgICAgYm91bmRpbmdCb3ggLTEwIDEwIC0xMCAxMAoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlTGltaXRzID0KICAgICAgICAgICAgICAgICAgICAgICAgYm91bmRpbmdCb3ggLTEwIDEwIC0xMCAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -601,6 +617,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
