@@ -64,11 +64,11 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" timestamp="1507628281575">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-        <mark key="^" line="22" column="58" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" timestamp="1507628974588">
+        <mark key="[" line="21" column="54" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/app.tsx" timestamp="1507625815338">
         <mark key="[" line="6" column="10" />
@@ -312,10 +312,10 @@
         <mark key="." line="31" column="58" />
         <mark key="^" line="31" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/webpack.config.js" timestamp="1507457922534">
-        <mark key="[" line="12" column="17" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/webpack.config.js" timestamp="1507629395770">
+        <mark key="[" line="20" column="7" />
         <mark key="]" line="12" column="17" />
-        <mark key="^" line="25" column="23" />
+        <mark key="^" line="29" column="23" />
         <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/.gitignore" timestamp="1507458149016">
@@ -503,8 +503,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/static/8K_for_graph_scraped_data_utf8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdj5IZWxsbywgaGVyZSBjb21lcyBhIGJvYXJkPC9kaXY+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHRoaXMucmVuZGVySXRlbXMoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGRpdj5IZWxsbywgaGVyZSBjb21lcyBhIGJvYXJkPC9kaXY+</text>
@@ -516,18 +516,21 @@
         <text encoding="base64">eyJhcnRpY2xlRGVzY3JpcHRpb24iOiBbIteS15nXp9eY15nXmdedLCBHZWVrdGltZSwgINeX15PXqdeV16osINei15PXm9eV16DXmdedINeV15vXqteR15XXqiDXotecINeY15vXoNeV15zXldeS15nXlCwg15DXmdeg15jXqNeg15gg15XXodeY15DXqNeY15DXpNeZ150uIl0sICJ0YWdzIjogW10sICJ1cmwiOiBbImh0dHA6Ly93d3cuZ2Vla3RpbWUuY28uaWwvIl0sICJhdXRob3IiOiBbXSwgIlB1YmxpY2F0aW9uRGF0ZSI6IFtdLCAiYXJ0aWNsZVRpdGxlIjogW10sICJnZWVrVGltZUNhdGVnb3JpZXMiOiBbXX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFydGljbGVEZXNjcmlwdGlvbj86IFsi15LXmden15jXmdeZ150sIEdlZWt0aW1lLCAg15fXk9ep15XXqiwg16LXk9eb15XXoNeZ150g15XXm9eq15HXldeqINei15wg15jXm9eg15XXnNeV15LXmdeULCDXkNeZ16DXmNeo16DXmCDXldeh15jXkNeo15jXkNek15nXnS4iXSwKICAgIHRhZ3MiOiBbXSwKICAgIHVybCI6IFsiaHR0cDovL3d3dy5nZWVrdGltZS5jby5pbC8iXSwKICAgIGF1dGhvciI6IFtdLAogICAgUHVibGljYXRpb25EYXRlIjogW10sCiAgICBhcnRpY2xlVGl0bGUiOiBbXSwKICAgIGdlZWtUaW1lQ2F0ZWdvcmllcyI6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHRoaXMucmVuZGVySXRlbXMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFydGljbGVUaXRsZTogW3N0cmluZ10K</text>
+        <text encoding="base64">ICAgIGFydGljbGVEZXNjcmlwdGlvbj86IFsi15LXmden15jXmdeZ150sIEdlZWt0aW1lLCAg15fXk9ep15XXqiwg16LXk9eb15XXoNeZ150g15XXm9eq15HXldeqINei15wg15jXm9eg15XXnNeV15LXmdeULCDXkNeZ16DXmNeo16DXmCDXldeh15jXkNeo15jXkNek15nXnS4iXSwKICAgIHRhZ3MiOiBbXSwKICAgIHVybCI6IFsiaHR0cDovL3d3dy5nZWVrdGltZS5jby5pbC8iXSwKICAgIGF1dGhvciI6IFtdLAogICAgUHVibGljYXRpb25EYXRlIjogW10sCiAgICBhcnRpY2xlVGl0bGUiOiBbXSwKICAgIGdlZWtUaW1lQ2F0ZWdvcmllcyI6IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0Cg==</text>
+        <text encoding="base64">ICAgIGFydGljbGVUaXRsZTogW3N0cmluZ10K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -536,17 +539,14 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0ZW1zOiBBcnJheTx7fT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ZW1zOiBBcnJheTx7fT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBeGlvcy5nZXQoJy9zdGF0aWMvOGtfZm9yX2dyYXBoX3NjcmFwZWRfZGF0YV91cmY4Lmpzb24nKS50aGVuKHJlc3VsdCA9PiB0aGlzLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/PublicationDate/publicationDate/g</text>
