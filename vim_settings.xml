@@ -95,6 +95,13 @@
         <mark key="." line="488" column="85" />
         <mark key="^" line="488" column="85" />
       </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/services/firebase-data-provider.ts" timestamp="1509450705646">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.view.ts" timestamp="1508677883645">
         <mark key="'" line="16" column="39" />
       </file>
@@ -194,8 +201,12 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/services/data-provider.ts" timestamp="1509448534834">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/services/data-provider.ts" timestamp="1509450186818">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/internal-api/client.ts" timestamp="1505737408875">
         <mark key="'" line="26" column="1" />
@@ -467,15 +478,13 @@
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/package.json" timestamp="1508412484707">
         <mark key="'" line="8" column="30" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
         <mark key="^" line="9" column="47" />
-        <mark key="." line="40" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="420" filename="$USER_HOME$/Projects/once-mvp/once-web/static/8K_for_graph_scraped_data_utf8.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/static/8K_for_graph_scraped_data_utf8.json" />
       <jump line="8" column="30" filename="$USER_HOME$/Projects/once-mvp/once-web/package.json" />
       <jump line="38" column="24" filename="$USER_HOME$/Projects/once-mvp/once-web/webpack.config.js" />
       <jump line="8436" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/static/items.json" />
@@ -574,13 +583,15 @@
       <jump line="226" column="19" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="346" column="40" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="219" column="69" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/src/services/firebase-data-provider.ts" />
+      <jump line="6" column="19" filename="$USER_HOME$/Projects/once-mvp/once-web/src/services/data-provider.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">fD4gVmVjMi50b1R1cGxl</text>
+        <text>Firebase</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fD4gVmVjMi50b1R1cGxl</text>
+        <text>Firebase</text>
       </register>
       <register name="/" type="4">
         <text>View</text>
@@ -589,31 +600,31 @@
         <text encoding="base64">ICAgIC1tb3otY29sdW1uLWJyZWFrLWluc2lkZTogYXZvaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVsYXRpdmVEZWNvZGVyIDogRGVjb2RlLkRlY29kZXIgTXNnCnJlbGF0aXZlRGVjb2RlciA9CiAgICB7LSBUT0RPOiB1c2UgdGhpcyBodHRwOi8vcGFja2FnZS5lbG0tbGFuZy5vcmcvcGFja2FnZXMvRWxtLUNhbnZhcy9lbGVtZW50LXJlbGF0aXZlLW1vdXNlLWV2ZW50cy8xLjAuMC9FbGVtZW50UmVsYXRpdmVNb3VzZUV2ZW50cyBpbnN0ZWFkIC19CiAgICBsZXQKICAgICAgICByZWxhdGl2ZSA6IFN0cmluZyAtPiBTdHJpbmcgLT4gRGVjb2RlLkRlY29kZXIgSW50CiAgICAgICAgcmVsYXRpdmUgcGFnZVByb3AgdGFyZ2V0UHJvcCA9CiAgICAgICAgICAgIERlY29kZS5tYXAyICgtKQogICAgICAgICAgICAgICAgKERlY29kZS5hdCBbIHBhZ2VQcm9wIF0gRGVjb2RlLmludCkKICAgICAgICAgICAgICAgIChEZWNvZGUuYXQgWyAidGFyZ2V0IiwgdGFyZ2V0UHJvcCBdIERlY29kZS5pbnQpCgogICAgICAgIHhSZWxhdGl2ZSA9CiAgICAgICAgICAgIHJlbGF0aXZlICJwYWdlWCIgIm9mZnNldExlZnQiCgogICAgICAgIHlSZWxhdGl2ZSA9CiAgICAgICAgICAgIHJlbGF0aXZlICJwYWdlWSIgIm9mZnNldFRvcCIKCiAgICAgICAgcG9zaXRpb25EZWNvZGVyIDogRGVjb2RlLkRlY29kZXIgTW91c2UuUG9zaXRpb24KICAgICAgICBwb3NpdGlvbkRlY29kZXIgPQogICAgICAgICAgICBEZWNvZGUubWFwMiBNb3VzZS5Qb3NpdGlvbiB4UmVsYXRpdmUgeVJlbGF0aXZlCiAgICBpbgogICAgICAgIERlY29kZS5tYXAgQ2xpY2sgcG9zaXRpb25EZWNvZGVyCgoK</text>
+        <text encoding="base64">cmVxdWlyZSgnZmlyZWJhc2UvYXBwJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbVJlbGF0aXZlUG9zaXRpb24gOiBDYW1lcmEuQ2FtZXJhIC0+IFZpZXcgLT4gU2NyZWVuUG9zaXRpb24gLT4gVmVjMgpmcm9tUmVsYXRpdmVQb3NpdGlvbiBjYW1lcmEgeyB3aWR0aCwgaGVpZ2h0IH0geyB4LCB5IH0gPQogICAgey0gVE9ETzogdXNlIG5ldyBjb2RlIGZyb20gZWxtLTJkLWdhbWUgLX0KICAgIGxldAogICAgICAgIHstIFNjcmVlbiBpcyAoV3MsIEhzKSBhbmQgc3RhcnRzIGF0ICgwLDApIHRvIChXcywgSHMpCiAgICAgICAgICAgdmlldyBzaXplIGlzIChXdiwgSHYpIHN0YXJ0aW5nIGZyb20gKC1XdiAvIDIsIC1IdiAvIDIpIHRvIChXdiAvIDIsIEh2IC8gMikKICAgICAgICAgICBzbyBzY3JlZW4gcG9zaXRpb24gKFdzLCBIcykgc2hvdWxkIGJlIChXdiAvIDIsIEh2IC8gMikKICAgICAgICAgICBzbyBXcyA9IFd2IC8gMiAtPiBXdiA9IDIgV3MKICAgICAgICAtfQogICAgICAgICggc2NyZWVuV2lkdGgsIHNjcmVlbkhlaWdodCApID0KICAgICAgICAgICAgKCB3aWR0aCwgaGVpZ2h0ICkKCiAgICAgICAgKCBnYW1lV2lkdGgsIGdhbWVIZWlnaHQgKSA9CiAgICAgICAgICAgIENhbWVyYS5nZXRWaWV3U2l6ZSAoIHRvRmxvYXQgd2lkdGgsIHRvRmxvYXQgaGVpZ2h0ICkgY2FtZXJhCgogICAgICAgICggcmVsYXRpdmVXaWR0aCwgcmVsYXRpdmVIZWlnaHQgKSA9CiAgICAgICAgICAgICggZ2FtZVdpZHRoIC8gdG9GbG9hdCBzY3JlZW5XaWR0aCwgZ2FtZUhlaWdodCAvIHRvRmxvYXQgc2NyZWVuSGVpZ2h0ICkKICAgIGluCiAgICAgICAgdmVjMiAocmVsYXRpdmVXaWR0aCAqICh0b0Zsb2F0IHgpIC0gZ2FtZVdpZHRoIC8gMikgKHJlbGF0aXZlSGVpZ2h0ICogKC0odG9GbG9hdCB5KSkgKyBnYW1lSGVpZ2h0IC8gMikKCgo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZmlyZWJhc2UgZnJvbSAnZmlyZWJhc2UnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0aW50ZXJmYWNlIEJvYXJkRGF0YSB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cmVsYXRpdmVEZWNvZGVyIDogRGVjb2RlLkRlY29kZXIgTXNnCnJlbGF0aXZlRGVjb2RlciA9CiAgICB7LSBUT0RPOiB1c2UgdGhpcyBodHRwOi8vcGFja2FnZS5lbG0tbGFuZy5vcmcvcGFja2FnZXMvRWxtLUNhbnZhcy9lbGVtZW50LXJlbGF0aXZlLW1vdXNlLWV2ZW50cy8xLjAuMC9FbGVtZW50UmVsYXRpdmVNb3VzZUV2ZW50cyBpbnN0ZWFkIC19CiAgICBsZXQKICAgICAgICByZWxhdGl2ZSA6IFN0cmluZyAtPiBTdHJpbmcgLT4gRGVjb2RlLkRlY29kZXIgSW50CiAgICAgICAgcmVsYXRpdmUgcGFnZVByb3AgdGFyZ2V0UHJvcCA9CiAgICAgICAgICAgIERlY29kZS5tYXAyICgtKQogICAgICAgICAgICAgICAgKERlY29kZS5hdCBbIHBhZ2VQcm9wIF0gRGVjb2RlLmludCkKICAgICAgICAgICAgICAgIChEZWNvZGUuYXQgWyAidGFyZ2V0IiwgdGFyZ2V0UHJvcCBdIERlY29kZS5pbnQpCgogICAgICAgIHhSZWxhdGl2ZSA9CiAgICAgICAgICAgIHJlbGF0aXZlICJwYWdlWCIgIm9mZnNldExlZnQiCgogICAgICAgIHlSZWxhdGl2ZSA9CiAgICAgICAgICAgIHJlbGF0aXZlICJwYWdlWSIgIm9mZnNldFRvcCIKCiAgICAgICAgcG9zaXRpb25EZWNvZGVyIDogRGVjb2RlLkRlY29kZXIgTW91c2UuUG9zaXRpb24KICAgICAgICBwb3NpdGlvbkRlY29kZXIgPQogICAgICAgICAgICBEZWNvZGUubWFwMiBNb3VzZS5Qb3NpdGlvbiB4UmVsYXRpdmUgeVJlbGF0aXZlCiAgICBpbgogICAgICAgIERlY29kZS5tYXAgQ2xpY2sgcG9zaXRpb25EZWNvZGVyCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZnJvbVJlbGF0aXZlUG9zaXRpb24gOiBDYW1lcmEuQ2FtZXJhIC0+IFZpZXcgLT4gU2NyZWVuUG9zaXRpb24gLT4gVmVjMgpmcm9tUmVsYXRpdmVQb3NpdGlvbiBjYW1lcmEgeyB3aWR0aCwgaGVpZ2h0IH0geyB4LCB5IH0gPQogICAgey0gVE9ETzogdXNlIG5ldyBjb2RlIGZyb20gZWxtLTJkLWdhbWUgLX0KICAgIGxldAogICAgICAgIHstIFNjcmVlbiBpcyAoV3MsIEhzKSBhbmQgc3RhcnRzIGF0ICgwLDApIHRvIChXcywgSHMpCiAgICAgICAgICAgdmlldyBzaXplIGlzIChXdiwgSHYpIHN0YXJ0aW5nIGZyb20gKC1XdiAvIDIsIC1IdiAvIDIpIHRvIChXdiAvIDIsIEh2IC8gMikKICAgICAgICAgICBzbyBzY3JlZW4gcG9zaXRpb24gKFdzLCBIcykgc2hvdWxkIGJlIChXdiAvIDIsIEh2IC8gMikKICAgICAgICAgICBzbyBXcyA9IFd2IC8gMiAtPiBXdiA9IDIgV3MKICAgICAgICAtfQogICAgICAgICggc2NyZWVuV2lkdGgsIHNjcmVlbkhlaWdodCApID0KICAgICAgICAgICAgKCB3aWR0aCwgaGVpZ2h0ICkKCiAgICAgICAgKCBnYW1lV2lkdGgsIGdhbWVIZWlnaHQgKSA9CiAgICAgICAgICAgIENhbWVyYS5nZXRWaWV3U2l6ZSAoIHRvRmxvYXQgd2lkdGgsIHRvRmxvYXQgaGVpZ2h0ICkgY2FtZXJhCgogICAgICAgICggcmVsYXRpdmVXaWR0aCwgcmVsYXRpdmVIZWlnaHQgKSA9CiAgICAgICAgICAgICggZ2FtZVdpZHRoIC8gdG9GbG9hdCBzY3JlZW5XaWR0aCwgZ2FtZUhlaWdodCAvIHRvRmxvYXQgc2NyZWVuSGVpZ2h0ICkKICAgIGluCiAgICAgICAgdmVjMiAocmVsYXRpdmVXaWR0aCAqICh0b0Zsb2F0IHgpIC0gZ2FtZVdpZHRoIC8gMikgKHJlbGF0aXZlSGVpZ2h0ICogKC0odG9GbG9hdCB5KSkgKyBnYW1lSGVpZ2h0IC8gMikKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwgYm91bmRpbmdCb3ggPSAK</text>
+        <text encoding="base64">ICAgIGxldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAibHVmdHppZy9lbG0tcXVhZHRyZWUiOiAiMS4wLjAgPD0gdiA8IDIuMC4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -707,6 +718,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
