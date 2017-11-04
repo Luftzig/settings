@@ -317,6 +317,10 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/M&amp;B_mod/Module_system 1.171/module_game_menus.py" timestamp="1509812605432">
+        <mark key="a" line="4099" column="10" />
+        <mark key="'" line="4099" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/Dockerfile" timestamp="1505746093298">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -502,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" />
       <jump line="59" column="22" filename="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" />
       <jump line="3" column="46" filename="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" />
       <jump line="60" column="46" filename="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" />
@@ -602,6 +605,7 @@
       <jump line="232" column="10" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="216" column="14" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="85" column="15" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
+      <jump line="4099" column="10" filename="$USER_HOME$/Projects/M&amp;B_mod/Module_system 1.171/module_game_menus.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -739,6 +743,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
