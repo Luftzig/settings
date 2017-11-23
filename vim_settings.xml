@@ -78,12 +78,12 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" timestamp="1510671637472">
-        <mark key="'" line="50" column="26" />
-        <mark key="[" line="35" column="55" />
-        <mark key="]" line="35" column="55" />
-        <mark key="." line="35" column="55" />
-        <mark key="^" line="25" column="74" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" timestamp="1511432061988">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/models/ItemData.ts" timestamp="1510669170533">
         <mark key="'" line="8" column="12" />
@@ -253,6 +253,12 @@
         <mark key="." line="38" column="77" />
         <mark key="^" line="38" column="77" />
       </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board-header.tsx" timestamp="1511432176781">
+        <mark key="[" line="18" column="68" />
+        <mark key="]" line="18" column="87" />
+        <mark key="." line="18" column="87" />
+        <mark key="^" line="18" column="87" />
+      </file>
       <file name="/Python Console" timestamp="1506160927690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -296,6 +302,12 @@
         <mark key="]" line="7" column="25" />
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/global-types.ts" timestamp="1511431095483">
+        <mark key="[" line="1" column="100" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1505747187267">
         <mark key="'" line="42" column="14" />
@@ -553,9 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="50" filename="$USER_HOME$/Projects/once-mvp/once-web/src/Thumbnails/ThumbnailScraper.ts" />
-      <jump line="8" column="23" filename="$USER_HOME$/Projects/once-mvp/once-web/src/Thumbnails/ThumbnailScraper.ts" />
-      <jump line="5" column="37" filename="$USER_HOME$/Projects/once-mvp/once-web/src/Thumbnails/ThumbnailScraper.ts" />
       <jump line="16" column="39" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.view.ts" />
       <jump line="20" column="27" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" />
       <jump line="32" column="28" filename="$USER_HOME$/Projects/Guy Prives/Automator/server/api/updater/updater.helpers.ts" />
@@ -653,63 +662,65 @@
       <jump line="10" column="19" filename="$USER_HOME$/Projects/once-mvp/once-web/src/item.tsx" />
       <jump line="14" column="17" filename="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" />
       <jump line="46" column="33" filename="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" />
+      <jump line="42" column="43" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" />
+      <jump line="21" column="8" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-header.tsx" />
+      <jump line="57" column="13" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGZpbmRMYWJlbCA9IFIuZmluZCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>props</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">NjdEVUVROTdWM1lECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbmRMYWJlbCA9IFIuZmluZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEJvYXJkSGVhZGVyIGV4dGVuZHMgUmVhY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHwgCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJvYXJkSGVhZGVyOiBSZWFjdC5TdGF0ZWxlc3NDb21wb25lbnQ8Qm9hcmRIZWFkZXJQcm9wcz4gPSAocHJvcHM6IEJvYXJkSGVhZGVyUHJvcHMpID0+IHsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCB0ZXh0IHRpdGxlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA8ZGl2IGNsYXNzTmFtZT17ImJvYXJkLWhlYWRlciJ9PgogICAgICAgIDxoMj5Cb2FyZDwvaDI+CiAgICAgICAgPGgxPntwcm9wcy5ib2FyZC5uYW1lfTwvaDE+CiAgICAgICAgPGgyPgogICAgICAgICAgICBTaG93aW5nCiAgICAgICAgICAgIDxzZWxlY3Q+CiAgICAgICAgICAgICAgICB7cHJvcHMuYm9hcmQubGFiZWxzLm1hcCgKICAgICAgICAgICAgICAgICAgICBsYWJlbCA9PiA8b3B0aW9uIHZhbHVlPXtsYWJlbC5sYWJlbFR5cGV9IGtleT17bGFiZWwubGFiZWxUeXBlfT57bGFiZWwubGFiZWxUeXBlfTwvb3B0aW9uPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPC9oMj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpnaWZzID0KICAgIFsgCiAgICAsICggIkRvZyBHSUZzIEZUVyIsICJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS9XaThPOFdCdFlYN2RTL2dpcGh5LmdpZiIgKQogICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Byb3BzL3RoaXMucHJvcHM=</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>props</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
-      <last-replace>\r,</last-replace>
-      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-pattern>props</last-pattern>
+      <last-replace>this.props</last-replace>
+      <last-substitute>props</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWxhdGl2ZURlY29kZXJcPg==</entry>
         <entry>3</entry>
         <entry encoding="base64">XDxwaXhlbFJhbmdlXD4=</entry>
         <entry>Result</entry>
@@ -729,6 +740,7 @@
         <entry>ScreenPosition</entry>
         <entry>View</entry>
         <entry>update</entry>
+        <entry>props</entry>
       </history-search>
       <history-cmd>
         <entry>s/3/2/g</entry>
@@ -744,6 +756,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb3BzL3RoaXMucHJvcHM=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
