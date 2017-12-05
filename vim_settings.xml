@@ -9,6 +9,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pixi2d-tutorial/src/tutorial.js" timestamp="1512479608047">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/scheduler/scheduler.ts" timestamp="1506262007804">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="22" column="25" />
@@ -341,6 +346,12 @@
         <mark key="]" line="4" column="64" />
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/pixi2d-tutorial/src/index.html" timestamp="1512479007823">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/nimoy/nimoy/ast_tools/feature_blocks.py" timestamp="1506800129176">
         <mark key="'" line="134" column="22" />
@@ -686,11 +697,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/cat-racing-elm/src/Gifs/Gifs.elm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgUElYSSA9IHJlcXVpcmUoJ3BpeGkuanMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>text title</text>
+        <text>import PIXI from 'pixi.js'</text>
       </register>
       <register name="/" type="4">
         <text>props</text>
@@ -699,34 +710,34 @@
         <text encoding="base64">Ym9vdHJzdHJhcENzcyA9CiAgICBIdG1sLm5vZGUgImxpbmsiIFsgSHRtbC5BdHRyaWJ1dGVzLnJlbCAic3R5bGVzaGVldCIsIEh0bWwuQXR0cmlidXRlcy5ocmVmICJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC80LjAuMC1hbHBoYS42L2Nzcy9ib290c3RyYXAubWluLmNzcyIgXSBbXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsIGdpZkJveCAiRG9nIEdJRnMgRlRXIiAiaHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEveFVPeGZidUs5cWM2MU5HaWFJL2dpcGh5LmdpZiIK</text>
+        <text encoding="base64">Y29uc3QgUElYSSA9IHJlcXVpcmUoJ3BpeGkuanMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAsIGdpZkJveCAiRG9nIEdJRnMgRlRXIiAiaHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEveFVPeGZidUs5cWM2MU5HaWFJL2dpcGh5LmdpZiIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>div [ class &quot;jumbotron&quot; ]
             [ h1 [] [ text &quot;Cat GIFs FTW&quot; ]
             , img [ src &quot;https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif&quot; ] []
             ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICwgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bW9kdWxlIEdpZnMuR2lmcyBleHBvc2luZyAobWFpbikKCmltcG9ydCBIdG1sIGV4cG9zaW5nIChiZWdpbm5lclByb2dyYW0sIGJ1dHRvbiwgZGl2LCBoMSwgaW1nLCBpbnB1dCwgcHJvZ3JhbSwgdGV4dCkKaW1wb3J0IEh0bWwuQXR0cmlidXRlcyBleHBvc2luZyAoY2xhc3MsIGRlZmF1bHRWYWx1ZSwgc3JjKQppbXBvcnQgSHRtbC5FdmVudHMgZXhwb3NpbmcgKG9uQ2xpY2ssIG9uSW5wdXQpCmltcG9ydCBIdHRwCmltcG9ydCBKc29uLkRlY29kZQoKCmJvb3Ryc3RyYXBDc3MgPQogICAgSHRtbC5ub2RlICJsaW5rIiBbIEh0bWwuQXR0cmlidXRlcy5yZWwgInN0eWxlc2hlZXQiLCBIdG1sLkF0dHJpYnV0ZXMuaHJlZiAiaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvNC4wLjAtYWxwaGEuNi9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIF0gW10KCgppbml0TW9kZWwgPQogICAgeyB0aXRsZSA9ICJDYXQgR0lGcyBGVFciCiAgICAsIHNyY1VybCA9ICJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS9YTXhQb1hCTnBqclJDL2dpcGh5LmdpZiIKICAgIH0KCgptYWluID0KICAgIHByb2dyYW0KICAgICAgICB7IHZpZXcgPSB2aWV3CiAgICAgICAgLCBpbml0ID0gKCBpbml0TW9kZWwsIENtZC5ub25lICkKICAgICAgICAsIHVwZGF0ZSA9IHVwZGF0ZQogICAgICAgICwgc3Vic2NyaXB0aW9ucyA9IFxfIC0+IFN1Yi5ub25lCiAgICAgICAgfQoKCnR5cGUgTWVzc2FnZQogICAgPSBUaXRsZUNoYW5nZWQgU3RyaW5nCiAgICB8IEdpbW1lTW9yZQogICAgfCBHb3RHaWYgKFJlc3VsdCBIdHRwLkVycm9yIFN0cmluZykKCgp1cGRhdGUgbWVzc2FnZSBtb2RlbCA9CiAgICBjYXNlIG1lc3NhZ2Ugb2YKICAgICAgICBUaXRsZUNoYW5nZWQgbmV3VGl0bGUgLT4KICAgICAgICAgICAgKCB7IG1vZGVsIHwgdGl0bGUgPSBuZXdUaXRsZSB9LCBDbWQubm9uZSApCgogICAgICAgIEdpbW1lTW9yZSAtPgogICAgICAgICAgICAoIG1vZGVsLCBIdHRwLnNlbmQgR290R2lmIChnZXRHaWYgbW9kZWwudGl0bGUpICkKCiAgICAgICAgR290R2lmIChPayBpbWFnZVNyYykgLT4KICAgICAgICAgICAgKCB7IG1vZGVsIHwgc3JjVXJsID0gaW1hZ2VTcmMgfSwgQ21kLm5vbmUgKQoKICAgICAgICBHb3RHaWYgKEVyciBlcnJvcikgLT4KICAgICAgICAgICAgRGVidWcubG9nICgiRXJyb3IgZ2V0dGluZyBnaWY6ICIgKysgdG9TdHJpbmcgZXJyb3IpCiAgICAgICAgICAgICAgICAoIG1vZGVsLCBDbWQubm9uZSApCgoKZ2V0R2lmIHNlYXJjaCA9CiAgICBIdHRwLmdldAogICAgICAgICgiaHR0cHM6Ly9hcGkuZ2lwaHkuY29tL3YxL2dpZnMvcmFuZG9tP2FwaV9rZXk9ZGM2emFUT3hGSm16QyZ0YWc9IiArKyBzZWFyY2gpCiAgICAgICAgZGVjb2RlR2lwaHkKCgpkZWNvZGVHaXBoeSA9CiAgICBKc29uLkRlY29kZS5hdCBbICJkYXRhIiwgImltYWdlX3VybCIgXSBKc29uLkRlY29kZS5zdHJpbmcKCgp2aWV3IG1vZGVsID0KICAgIGRpdiBbIGNsYXNzICJjb250YWluZXIiIF0KICAgICAgICAoWyBib290cnN0cmFwQ3NzCiAgICAgICAgICwgZ2lmQm94IG1vZGVsCiAgICAgICAgIF0KICAgICAgICApCgoKZ2lmQm94IHsgdGl0bGUsIHNyY1VybCB9ID0KICAgIGRpdiBbIGNsYXNzICJqdW1ib3Ryb24iIF0KICAgICAgICBbIGgxIFtdCiAgICAgICAgICAgIFsgaW5wdXQgWyBkZWZhdWx0VmFsdWUgdGl0bGUsIG9uSW5wdXQgVGl0bGVDaGFuZ2VkIF0gW10KICAgICAgICAgICAgLCBidXR0b24gWyBvbkNsaWNrIEdpbW1lTW9yZSBdIFsgdGV4dCAiR2ltbWUgTW9yZSEiIF0KICAgICAgICAgICAgXQogICAgICAgICwgaW1nIFsgc3JjIHNyY1VybCBdIFtdCiAgICAgICAgXQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAsIHRleHQgdGl0bGUK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAsIHVwZGF0ZSA9IHVwZGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
