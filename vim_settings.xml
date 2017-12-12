@@ -465,6 +465,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="25" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/deleteBoard.ts" timestamp="1513071356841">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/elm-package.json" timestamp="1511007541041">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -517,11 +523,12 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/createBoard.ts" timestamp="1510656685985">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/createBoard.ts" timestamp="1513072716107">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="39" column="96" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="40" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506527041392">
         <mark key="[" line="7" column="29" />
@@ -628,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="40" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="219" column="69" filename="$USER_HOME$/Projects/Spirits-elm/Spirits/Spirits.elm" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/src/services/firebase-data-provider.ts" />
       <jump line="6" column="19" filename="$USER_HOME$/Projects/once-mvp/once-web/src/services/data-provider.ts" />
@@ -728,46 +734,47 @@
       <jump line="42" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/src/models/Label.ts" />
       <jump line="77" column="13" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/src/item.tsx" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/createBoard.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Common</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Common</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGFibGVfdHlwZV8xIDogYXJ0aWNsZVRpdGxlW01ham9yIGZpZWxkXSwgCQlhcnRpY2xlRGVzY3JpcHRpb24KbGFibGVfdHlwZV8yIDogYXJ0aWNsZVRpdGxlW01ham9yIGZpZWxkXSwgCQlhdXRob3IsIFB1YmxpY2F0aW9uRGF0ZQpsYWJsZV90eXBlXzMgOiBhcnRpY2xlVGl0bGVdTWFqb3IgZmllbGRdLCAJCWFydGljbGVEZXNjcmlwdGlvbiwgdGFncwpsYWJsZV90eXBlXzQgOiBhcnRpY2xlVGl0bGVbTWFqb3IgZmllbGRdLCAJCWFydGljbGVEZXNjcmlwdGlvbiwgUHVibGljYXRpb25EYXRlLCBSb3VuZCBbU2VlZCwgUm91bmQgQSwgUm91bmQgQiwgUm91bmQgQywgUm91bmQgQ10sIEZ1bmRpbmcgVHlwZSBbQm9vdHN0cmFwcGluZywgQW5nZWwsIFZlbnR1cmUgQ2FwaXRhbF0sIEZ1bmRkZWQgYnksIEFtb3VudCBbdWludF0K</text>
+        <text encoding="base64">Y29uc3QgZGIgPSBuZXcgRmlyZWJhc2VEYXRhUHJvdmlkZXIoKS5kYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQm9hcmQoJ9eb16rXkdeV16og15HXkteZ16fXmNeZ15nXnScsIGl0ZW1LZXlzLAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbFR5cGU6ICdkZXNjcmlwdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmltYXJ5OiAgICd0aXRsZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWVsZHM6ICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGl0bGUnOiAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICAgICAgICdzdHJpbmcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2hhYmxlOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0YWJsZTogICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICAgICAgICdzdHJpbmcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2hhYmxlOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0YWJsZTogICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYWJlbH0gZnJvbSAnLi9MYWJlbCcK</text>
+        <text encoding="base64">ICAgIC50aGVuKGl0ZW1zID0+CiAgICAgICAgICAgICAgT2JqZWN0LmtleXMoaXRlbXMpCiAgICApLnRoZW4oaXRlbUtleXMgPT4gewogICAgY29uc29sZS5sb2coJ2dvdCBrZXlzJykKICAgIHJldHVybiBpdGVtS2V5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYWJlbH0gZnJvbSAnLi9MYWJlbCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYWJlbE1ldGFkYXRhfSBmcm9tICcuL21vZGVscy9MYWJlbE1ldGFkYXRhJwo=</text>
+        <text encoding="base64">Y3JlYXRlQm9hcmRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERyb3BEb3duTWVudSBmcm9tICdtYXRlcmlhbC11aS9Ecm9wRG93bk1lbnUnCmltcG9ydCBNZW51SXRlbSBmcm9tICdtYXRlcmlhbC11aS9NZW51SXRlbScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRMYWJlbDogTGFiZWxNZXRhZGF0YSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRMYWJlbD17dGhpcy5zdGF0ZS5jdXJyZW50TGFiZWx9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRMYWJlbD17dGhpcy5zdGF0ZS5jdXJyZW50TGFiZWx9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uTGFiZWxDaGFuZ2U6ICgobmV3TGFiZWw6IExhYmVsTWV0YWRhdGEgfCB1bmRlZmluZWQpID0+IEVmZjx2b2lkPikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3RhZ3MnOiAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogICAgICAgJ2FycmF5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlYXJjaGFibGU6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0YWJsZTogICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
