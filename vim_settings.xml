@@ -489,12 +489,6 @@
         <mark key="^" line="100" column="66" />
         <mark key="." line="100" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board-header.tsx" timestamp="1513091203161">
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="38" column="56" />
-        <mark key="." line="38" column="56" />
-        <mark key="^" line="38" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/deleteBoard.ts" timestamp="1513087937217">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="28" column="39" />
@@ -587,6 +581,13 @@
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/balls/.gitignore" timestamp="1513931383893">
+        <mark key="'" line="66" column="16" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="66" column="16" />
+        <mark key="^" line="66" column="16" />
+        <mark key="." line="66" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/ItemData.ts" timestamp="1510225708588">
         <mark key="'" line="14" column="31" />
@@ -683,7 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/Projects/phaser-tutorial/webpack.config.js" />
       <jump line="47" column="10" filename="$USER_HOME$/Projects/phaser-tutorial/webpack.config.js" />
       <jump line="32" column="6" filename="$USER_HOME$/Projects/phaser-tutorial/webpack.config.js" />
       <jump line="60" column="79" filename="$USER_HOME$/Projects/phaser-tutorial/webpack.config.js" />
@@ -783,10 +783,11 @@
       <jump line="289" column="10" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
       <jump line="290" column="46" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
       <jump line="299" column="0" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
+      <jump line="66" column="16" filename="$USER_HOME$/Projects/balls/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZnMudW5saW5rKHJlcS5maWxlcy5jc3ZbMF0ucGF0aCk7Cg==</text>
+        <text encoding="base64">Lm5vZGUtdmVyc2lvbgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -798,34 +799,34 @@
         <text encoding="base64">ICAgIGNvbG9yOiAjZmJiMDQwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZnMudW5saW5rKHJlcS5maWxlcy5jc3ZbMF0ucGF0aCk7Cg==</text>
+        <text encoding="base64">Lm5vZGUtdmVyc2lvbgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgZnMudW5saW5rKHJlcS5maWxlcy5jc3ZbMF0ucGF0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TWFrZSBzdWJtaXNzaW9uIGZvciBzY29yaW5nIG9ubHkgYXBwZWFyIGxpa2UgdGhlIG9sZCBjaGFsbGVuZ2UgcGFnZS4K</text>
+        <text encoding="base64">ICAgICAgZnMudW5saW5rKHJlcS5maWxlcy5jc3ZbMF0ucGF0aCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMyU7Ki8K</text>
+        <text encoding="base64">TWFrZSBzdWJtaXNzaW9uIGZvciBzY29yaW5nIG9ubHkgYXBwZWFyIGxpa2UgdGhlIG9sZCBjaGFsbGVuZ2UgcGFnZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMyU7Ki8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnBvcHVwLWJhY2tkcm9wIHsKCXBvc2l0aW9uOiBmaXhlZDsKCXRvcDogMDsKCWxlZnQ6IDA7CglyaWdodDogMDsKCWJvdHRvbTogMDsKCWJhY2tncm91bmQtY29sb3I6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC44KTsKfQoKLnBvcHVwIHsKCXdpZHRoOjQ2M3B4OwoJbWluLWhlaWdodDoyNzFweDsKCWJhY2tncm91bmQ6I2ZmZjsKCXotaW5kZXg6MTAwMDE7CgltYXJnaW46IDEzNXB4IGF1dG87CgktbW96LWJvcmRlci1yYWRpdXM6IDVweDsKCS13ZWJraXQtYm9yZGVyLXJhZGl1czogNXB4OwoJYm9yZGVyLXJhZGl1czogNXB4OwoJZm9udDoyMnB4ICdPcGVuIFNhbnMnLCBzYW5zLXNlcmlmOwoJY29sb3I6IzIyMWUyMjsKCXRleHQtYWxpZ246Y2VudGVyOwoJcGFkZGluZzo1NHB4IDAgMDsKCS13ZWJraXQtYm94LXNpemluZzogYm9yZGVyLWJveDsKCS1tb3otYm94LXNpemluZzogYm9yZGVyLWJveDsKCWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFppcCA9IHRoaXMuc2V0WmlwLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">LnBvcHVwLWJhY2tkcm9wIHsKCXBvc2l0aW9uOiBmaXhlZDsKCXRvcDogMDsKCWxlZnQ6IDA7CglyaWdodDogMDsKCWJvdHRvbTogMDsKCWJhY2tncm91bmQtY29sb3I6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC44KTsKfQoKLnBvcHVwIHsKCXdpZHRoOjQ2M3B4OwoJbWluLWhlaWdodDoyNzFweDsKCWJhY2tncm91bmQ6I2ZmZjsKCXotaW5kZXg6MTAwMDE7CgltYXJnaW46IDEzNXB4IGF1dG87CgktbW96LWJvcmRlci1yYWRpdXM6IDVweDsKCS13ZWJraXQtYm9yZGVyLXJhZGl1czogNXB4OwoJYm9yZGVyLXJhZGl1czogNXB4OwoJZm9udDoyMnB4ICdPcGVuIFNhbnMnLCBzYW5zLXNlcmlmOwoJY29sb3I6IzIyMWUyMjsKCXRleHQtYWxpZ246Y2VudGVyOwoJcGFkZGluZzo1NHB4IDAgMDsKCS13ZWJraXQtYm94LXNpemluZzogYm9yZGVyLWJveDsKCS1tb3otYm94LXNpemluZzogYm9yZGVyLWJveDsKCWJveC1zaXppbmc6IGJvcmRlci1ib3g7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFppcCA9IHRoaXMuc2V0WmlwLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
