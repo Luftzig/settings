@@ -115,11 +115,11 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514282240135">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="23" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514283707721">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="66" />
+        <mark key="." line="13" column="66" />
+        <mark key="^" line="13" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Root.elm" timestamp="1506765895619">
         <mark key="[" line="0" column="7" />
@@ -342,12 +342,12 @@
       <file name="/fragment.js" timestamp="1513852867994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514283246400">
-        <mark key="'" line="33" column="54" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514283891838">
+        <mark key="'" line="41" column="54" />
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/wunderlist.example.json" timestamp="1506160255485">
         <mark key="[" line="1" column="0" />
@@ -803,10 +803,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ril</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>ril</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>collide_</text>
@@ -815,34 +815,34 @@
         <text encoding="base64">Y29uc3Qgc2FmZUhlYWQ6IDxUPihkZWY6IFQpID0+ICh4OiBbVF0pID0+IFQgPSBkZWYgPT4geCA9PiB4ICE9PSB1bmRlZmluZWQgJiYgeC5sZW5ndGggPiAwID8geFswXSA6IGRlZjsKCmNvbnN0IGdldFMgPSBzYWZlSGVhZCgnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF4aW9zLmdldCh1cmwpCiAgICAgICAgIC50aGVuKHJlc3BvbnNlID0+IG5ldyBKU0RPTShyZXNwb25zZS5kYXRhKSkKICAgICAgICAgLnRoZW4oZG9tID0+IGRvbS53aW5kb3cuZG9jdW1lbnQucXVlcnlTZWxlY3RvcignbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXScpKQogICAgICAgICAudGhlbihvZ0VsZW1lbnQgPT4gb2dFbGVtZW50ICYmIChvZ0VsZW1lbnQgYXMgSFRNTE1ldGFFbGVtZW50KS5jb250ZW50KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgLnRoZW4oY29uc29sZS5sb2cpCiAgICAgICAgIC50aGVuKCgpID0+IHByb2Nlc3MuZXhpdCgwKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF4aW9zLmdldCh1cmwpCiAgICAgICAgIC50aGVuKHJlc3BvbnNlID0+IG5ldyBKU0RPTShyZXNwb25zZS5kYXRhKSkKICAgICAgICAgLnRoZW4oZG9tID0+IGRvbS53aW5kb3cuZG9jdW1lbnQucXVlcnlTZWxlY3RvcignbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXScpKQogICAgICAgICAudGhlbihvZ0VsZW1lbnQgPT4gb2dFbGVtZW50ICYmIChvZ0VsZW1lbnQgYXMgSFRNTE1ldGFFbGVtZW50KS5jb250ZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgLnRoZW4oY29uc29sZS5sb2cpCiAgICAgICAgIC50aGVuKCgpID0+IHByb2Nlc3MuZXhpdCgwKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
