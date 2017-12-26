@@ -115,9 +115,9 @@
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514278553342">
-        <mark key="[" line="55" column="51" />
-        <mark key="]" line="56" column="23" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514282240135">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="24" />
         <mark key="." line="56" column="23" />
         <mark key="^" line="56" column="23" />
       </file>
@@ -342,11 +342,12 @@
       <file name="/fragment.js" timestamp="1513852867994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514281994593">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="48" />
-        <mark key="^" line="9" column="48" />
-        <mark key="." line="9" column="48" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514283246400">
+        <mark key="'" line="33" column="54" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="33" column="34" />
+        <mark key="^" line="33" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/wunderlist.example.json" timestamp="1506160255485">
         <mark key="[" line="1" column="0" />
@@ -699,9 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/Projects/once-mvp/once-web/src/label.tsx" />
-      <jump line="56" column="36" filename="$USER_HOME$/Projects/once-mvp/once-web/src/label.tsx" />
-      <jump line="19" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
       <jump line="62" column="30" filename="$USER_HOME$/Projects/cat-racing-elm/src/Gifs/Gifs.elm" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
@@ -799,49 +797,52 @@
       <jump line="213" column="37" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
       <jump line="177" column="113" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
       <jump line="179" column="23" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
+      <jump line="29" column="3" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
+      <jump line="2" column="16" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
+      <jump line="32" column="54" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{content: String}</text>
+        <text>ril</text>
       </register>
       <register name="-" type="4">
-        <text>{content: String}</text>
+        <text>ril</text>
       </register>
       <register name="/" type="4">
         <text>collide_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpY2F0aW9uRGF0ZTogbmV3IERhdGUoZ2V0UyhpdGVtLnB1YmxpY2F0aW9uRGF0ZSkpCg==</text>
+        <text encoding="base64">Y29uc3Qgc2FmZUhlYWQ6IDxUPihkZWY6IFQpID0+ICh4OiBbVF0pID0+IFQgPSBkZWYgPT4geCA9PiB4ICE9PSB1bmRlZmluZWQgJiYgeC5sZW5ndGggPiAwID8geFswXSA6IGRlZjsKCmNvbnN0IGdldFMgPSBzYWZlSGVhZCgnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAK</text>
+        <text encoding="base64">ICAgIGF4aW9zLmdldCh1cmwpCiAgICAgICAgIC50aGVuKHJlc3BvbnNlID0+IG5ldyBKU0RPTShyZXNwb25zZS5kYXRhKSkKICAgICAgICAgLnRoZW4oZG9tID0+IGRvbS53aW5kb3cuZG9jdW1lbnQucXVlcnlTZWxlY3RvcignbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXScpKQogICAgICAgICAudGhlbihvZ0VsZW1lbnQgPT4gb2dFbGVtZW50ICYmIChvZ0VsZW1lbnQgYXMgSFRNTE1ldGFFbGVtZW50KS5jb250ZW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgLnRoZW4oY29uc29sZS5sb2cpCiAgICAgICAgIC50aGVuKCgpID0+IHByb2Nlc3MuZXhpdCgwKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib3VuZGVkQmFsbHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQKICAgIChtaW5YLCBtYXhYLCBtaW5ZLCBtYXhZKSA9IChiYWxsLnggLSBiYWxsLnJhZGl1cywgYmFsbC54ICsgYmFsbC5yYWRpdXMsIGJhbGwueSAtIGJhbGwucmFkaXVzLCBiYWxsLnkgKyBiYWxsLnJhZGl1cykKICBpbgogICAge2JhbGwgfCBib3VuZGluZ0JveCA9IGJvdW5kaW5nQm94IG1pblggbWF4WCBtaW5ZIG1heFl9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
