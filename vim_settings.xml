@@ -342,12 +342,12 @@
       <file name="/fragment.js" timestamp="1513852867994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514283891838">
-        <mark key="'" line="41" column="54" />
-        <mark key="[" line="30" column="61" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="31" column="27" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514285183428">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/wunderlist.example.json" timestamp="1506160255485">
         <mark key="[" line="1" column="0" />
@@ -700,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
       <jump line="62" column="30" filename="$USER_HOME$/Projects/cat-racing-elm/src/Gifs/Gifs.elm" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
@@ -800,13 +799,14 @@
       <jump line="29" column="3" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="2" column="16" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="32" column="54" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
+      <jump line="20" column="24" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>collide_</text>
@@ -815,34 +815,34 @@
         <text encoding="base64">Y29uc3Qgc2FmZUhlYWQ6IDxUPihkZWY6IFQpID0+ICh4OiBbVF0pID0+IFQgPSBkZWYgPT4geCA9PiB4ICE9PSB1bmRlZmluZWQgJiYgeC5sZW5ndGggPiAwID8geFswXSA6IGRlZjsKCmNvbnN0IGdldFMgPSBzYWZlSGVhZCgnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coYERvbmUgJHtpbmRleH0vJHtpdGVtcy5sZW5ndGh9YCkK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF4aW9zLmdldCh1cmwpCiAgICAgICAgIC50aGVuKHJlc3BvbnNlID0+IG5ldyBKU0RPTShyZXNwb25zZS5kYXRhKSkKICAgICAgICAgLnRoZW4oZG9tID0+IGRvbS53aW5kb3cuZG9jdW1lbnQucXVlcnlTZWxlY3RvcignbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXScpKQogICAgICAgICAudGhlbihvZ0VsZW1lbnQgPT4gb2dFbGVtZW50ICYmIChvZ0VsZW1lbnQgYXMgSFRNTE1ldGFFbGVtZW50KS5jb250ZW50KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgLnRoZW4oY29uc29sZS5sb2cpCiAgICAgICAgIC50aGVuKCgpID0+IHByb2Nlc3MuZXhpdCgwKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
