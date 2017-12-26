@@ -9,11 +9,6 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1513094516245">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/scheduler/scheduler.ts" timestamp="1506262007804">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="22" column="25" />
@@ -119,6 +114,12 @@
         <mark key="]" line="12" column="70" />
         <mark key="^" line="12" column="70" />
         <mark key="." line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514278553342">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+        <mark key="^" line="56" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Root.elm" timestamp="1506765895619">
         <mark key="[" line="0" column="7" />
@@ -341,6 +342,9 @@
       <file name="/fragment.js" timestamp="1513852867994">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" timestamp="1514279035845">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/trello_to_rtm/wunderlist.example.json" timestamp="1506160255485">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="23" />
@@ -416,12 +420,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/styles.css" timestamp="1508757645598">
-        <mark key="'" line="91" column="16" />
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/Projects/once-mvp/once-web/src/styles.css" timestamp="1514278850109">
+        <mark key="'" line="94" column="16" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/package.json" timestamp="1506515962051">
         <mark key="[" line="22" column="5" />
@@ -581,7 +585,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513937616202">
+      <file name="/Dummy.txt" timestamp="1514278961380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/db.json" timestamp="1507644295609">
@@ -794,8 +798,8 @@
       <jump line="179" column="23" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BoundedBall</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>BoundedBall</text>
@@ -804,37 +808,37 @@
         <text>collide_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmJiMDQwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpY2F0aW9uRGF0ZTogbmV3IERhdGUoZ2V0UyhpdGVtLnB1YmxpY2F0aW9uRGF0ZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3VuZGVkQmFsbHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQKICAgIChtaW5YLCBtYXhYLCBtaW5ZLCBtYXhZKSA9IChiYWxsLnggLSBiYWxsLnJhZGl1cywgYmFsbC54ICsgYmFsbC5yYWRpdXMsIGJhbGwueSAtIGJhbGwucmFkaXVzLCBiYWxsLnkgKyBiYWxsLnJhZGl1cykKICBpbgogICAge2JhbGwgfCBib3VuZGluZ0JveCA9IGJvdW5kaW5nQm94IG1pblggbWF4WCBtaW5ZIG1heFl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBib3VuZGVkQmFsbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAge2EKICAgICAgfCB2eCA9IAogICAgICAsIHZ5ID0gCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB8PiBMaXN0Lm1hcCAobW92ZUJhbGwgZHQgYm91bmRzKQo=</text>
+        <text encoding="base64">ICBsZXQKICAgIChtaW5YLCBtYXhYLCBtaW5ZLCBtYXhZKSA9IChiYWxsLnggLSBiYWxsLnJhZGl1cywgYmFsbC54ICsgYmFsbC5yYWRpdXMsIGJhbGwueSAtIGJhbGwucmFkaXVzLCBiYWxsLnkgKyBiYWxsLnJhZGl1cykKICBpbgogICAge2JhbGwgfCBib3VuZGluZ0JveCA9IGJvdW5kaW5nQm94IG1pblggbWF4WCBtaW5ZIG1heFl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYWxscwogICAgICAgICAgfD4gTGlzdC5tYXAgKGdldEJhbGxCb3VuZHMgZHQpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAge2EKICAgICAgfCB2eCA9IAogICAgICAsIHZ5ID0gCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB8PiBMaXN0Lm1hcCAobW92ZUJhbGwgZHQgYm91bmRzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
