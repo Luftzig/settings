@@ -117,12 +117,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="49" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" timestamp="1516986682564">
-        <mark key="'" line="139" column="24" />
-        <mark key="[" line="184" column="64" />
-        <mark key="]" line="185" column="7" />
-        <mark key="." line="185" column="7" />
-        <mark key="^" line="185" column="7" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" timestamp="1517002745623">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="51" column="64" />
+        <mark key="]" line="51" column="67" />
+        <mark key="." line="51" column="67" />
+        <mark key="^" line="51" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Root.elm" timestamp="1506765895619">
         <mark key="[" line="0" column="7" />
@@ -564,8 +564,8 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" timestamp="1516998623317">
-        <mark key="'" line="52" column="18" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" timestamp="1516999719217">
+        <mark key="'" line="89" column="8" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
@@ -623,7 +623,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516986739302">
+      <file name="/Dummy.txt" timestamp="1517002993677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -738,15 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
-      <jump line="213" column="37" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
-      <jump line="177" column="113" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
-      <jump line="179" column="23" filename="$USER_HOME$/Projects/balls/src/elm/Main.elm" />
-      <jump line="29" column="3" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
-      <jump line="2" column="16" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
-      <jump line="32" column="54" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
-      <jump line="20" column="24" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
-      <jump line="44" column="13" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="82" column="35" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="4" column="11" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
@@ -838,52 +829,61 @@
       <jump line="78" column="31" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="139" column="24" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="35" column="18" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
+      <jump line="89" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
+      <jump line="222" column="17" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="227" column="17" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="56" column="14" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="58" column="54" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="63" column="38" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="249" column="45" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="62" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="243" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5nb24gMyAzMAogICAgICAgIHw+IGZpbGxlZCByZWQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNlbnRlciA=</text>
       </register>
       <register name="-" type="4">
-        <text>stretchedImage { width = 256, height = 256 } obj.dimensions &quot;assets/building.png&quot;</text>
+        <text encoding="base64">IGNlbnRlciA=</text>
       </register>
       <register name="/" type="4">
         <text>initModel</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGN1dHMuYm90dG9tIGN1dHMuaGVpZ2h0</text>
+        <text>Debug.log (&quot;DragAt&quot; ++ toString position)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5nb24gMyAzMAogICAgICAgIHw+IGZpbGxlZCByZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChbIG9uTW91c2VEb3duIChNb3VzZUV2ZW50IDw8IERyYWdTdGFydCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkgXQogICAgICAgICAgICAgICAgICAgICsrIChpZiBpc0p1c3QgbW9kZWwuZHJhZyB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbIG9uTW91c2VNb3ZlIChNb3VzZUV2ZW50IDw8IERyYWdBdCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgb25Nb3VzZVVwIChNb3VzZUV2ZW50IDw8IERyYWdFbmQgPDwgbW91c2VQb3MyUG9zIG1vZGVsLmNhbnZhc1NpemUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdCiAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgWyByZW5kZXJNb2RlbCBtb2RlbCBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB8PiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB8PiBtb3ZlICggb2JqLnBvc2l0aW9uLngsIG9iai5wb3NpdGlvbi55ICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcubG9nICgiRHJhZ0VuZCIgKysgdG9TdHJpbmcgcG9zaXRpb24pCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsrIChpZiBpc0p1c3QgbW9kZWwuZHJhZyB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgIFsgb25Nb3VzZU1vdmUgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgICAgICAgICAsIG9uTW91c2VVcCAoTW91c2VFdmVudCA8PCBEcmFnRW5kIDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBbXQogICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgbW9kZWwuZHJhZyBvZgogICAgICAgIE5vdGhpbmcgLT4KCiAgICAgICAgLS0gICAgICAgICAgICBTdWIubm9uZQogICAgICAgIEp1c3QgXyAtPgogICAgICAgICAgICBTdWIuYmF0Y2gKICAgICAgICAgICAgICAgIFsgTW91c2UubW92ZXMgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgLCBNb3VzZS51cHMgKE1vdXNlRXZlbnQgPDwgRHJhZ0VuZCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkKICAgICAgICAgICAgICAgICwgVGltZS5ldmVyeSBtaWxsaXNlY29uZCBUaWNrCiAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLSAgICAgICAgLCByZWN0IG9iai5kaW1lbnNpb25zLndpZHRoIG9iai5kaW1lbnNpb25zLmhlaWdodCB8PiBmaWxsZWQgYmx1ZSB8PiBhbHBoYSAwLjUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS5ldmVyeSBtaWxsaXNlY29uZCBUaWNrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tICAgIChzdHJldGNoZWRJbWFnZSB7IHdpZHRoID0gMjU2LCBoZWlnaHQgPSAyNTYgfSBvYmouZGltZW5zaW9ucyAiYXNzZXRzL2J1aWxkaW5nLnBuZyIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsgTW91c2UubW92ZXMgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgLCBNb3VzZS51cHMgKE1vdXNlRXZlbnQgPDwgRHJhZ0VuZCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyb3VwCiAgICAgICAgWyByZWN0IG9iai5kaW1lbnNpb25zLndpZHRoIG9iai5kaW1lbnNpb25zLmhlaWdodCB8PiBmaWxsZWQgYmx1ZQo=</text>
+        <text encoding="base64">ICAgIG9uTW91Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
