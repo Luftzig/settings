@@ -59,8 +59,8 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" timestamp="1517057710839">
-        <mark key="'" line="429" column="59" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" timestamp="1517066705083">
+        <mark key="'" line="8" column="10" />
         <mark key="[" line="280" column="0" />
         <mark key="]" line="280" column="0" />
         <mark key="^" line="280" column="24" />
@@ -124,8 +124,8 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="49" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" timestamp="1517060615682">
-        <mark key="'" line="145" column="35" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" timestamp="1517066709704">
+        <mark key="'" line="272" column="16" />
         <mark key="[" line="191" column="62" />
         <mark key="]" line="192" column="50" />
         <mark key="." line="192" column="50" />
@@ -244,11 +244,11 @@
         <mark key="^" line="63" column="52" />
         <mark key="." line="63" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" timestamp="1517058242549">
-        <mark key="'" line="60" column="14" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" timestamp="1517066714135">
+        <mark key="'" line="13" column="35" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
         <mark key="^" line="60" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/phaser-tutorial/app/index.js" timestamp="1512842254758">
@@ -638,7 +638,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517061851896">
+      <file name="/Dummy.txt" timestamp="1517066723889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
@@ -753,12 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="13" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-filter.tsx" />
-      <jump line="53" column="13" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-filter.tsx" />
-      <jump line="153" column="8" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-filter.tsx" />
-      <jump line="56" column="79" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-header.tsx" />
-      <jump line="102" column="23" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board.tsx" />
-      <jump line="112" column="43" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-filter.tsx" />
       <jump line="132" column="14" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-filter.tsx" />
       <jump line="188" column="20" filename="$USER_HOME$/Projects/once-mvp/once-web/src/board-filter.tsx" />
       <jump line="6" column="3" filename="$USER_HOME$/Projects/Arab-Spring/.gitignore" />
@@ -853,19 +847,25 @@
       <jump line="86" column="12" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="145" column="35" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="155" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
+      <jump line="487" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
+      <jump line="8" column="10" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
+      <jump line="31" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="272" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="13" column="35" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICwgeyBuYW1lID0gIkxvdXN5IFJlcGVhdGVyIgogICAgICAsIHRvb2xUeXBlID0gUmVwZWF0ZXIKICAgICAgLCBub2RlUGFyYW1ldGVycyA9IHsgcmFuZ2UgPSAyNTAgfQogICAgICAsIHN0YXJ0UG9zaXRpb24gPSB7IHggPSAtMTUwLCB5ID0gLTI1MCB9CiAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Debug.log (&quot;pairs &quot; ++ toString pairs ++ &quot;\nvalidPairs &quot; ++ toString validPairs ++ &quot;\nedges &quot; ++ toString edges)</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>Debug.log (&quot;pairs &quot; ++ toString pairs ++ &quot;\nvalidPairs &quot; ++ toString validPairs ++ &quot;\nedges &quot; ++ toString edges)</text>
       </register>
       <register name="/" type="4">
-        <text>50</text>
+        <text>Debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICwgeyBuYW1lID0gIkxvdXN5IFJlcGVhdGVyIgogICAgICAsIHRvb2xUeXBlID0gUmVwZWF0ZXIKICAgICAgLCBub2RlUGFyYW1ldGVycyA9IHsgcmFuZ2UgPSAyNTAgfQogICAgICAsIHN0YXJ0UG9zaXRpb24gPSB7IHggPSAtMTUwLCB5ID0gLTI1MCB9CiAgICAgIH0K</text>
@@ -905,9 +905,9 @@
       </register>
     </registers>
     <search>
-      <last-search>50</last-search>
+      <last-search>Debug</last-search>
       <last-offset />
-      <last-pattern>50</last-pattern>
+      <last-pattern>Debug</last-pattern>
       <last-replace>64</last-replace>
       <last-substitute>50</last-substitute>
       <last-dir>1</last-dir>
@@ -915,7 +915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dataset</entry>
         <entry>upload</entry>
         <entry>zip</entry>
         <entry>\czip</entry>
@@ -935,6 +934,7 @@
         <entry>makeEdges</entry>
         <entry>40</entry>
         <entry>50</entry>
+        <entry>Debug</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hcHl0aG9uIC1tIGpzb24udG9vbA==</entry>
