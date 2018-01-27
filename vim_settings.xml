@@ -59,6 +59,9 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" timestamp="1517042672568">
+        <mark key="'" line="213" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/config.js" timestamp="1514302445341">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="120" />
@@ -190,12 +193,12 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" timestamp="1516997464656">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="179" column="14" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" timestamp="1517042759719">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="51" column="1" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1505747187267">
         <mark key="'" line="42" column="14" />
@@ -564,11 +567,12 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" timestamp="1516999719217">
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" timestamp="1517042835755">
         <mark key="'" line="89" column="8" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="55" />
+        <mark key="^" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505724213461">
         <mark key="'" line="10" column="47" />
@@ -623,7 +627,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517002993677">
+      <file name="/Dummy.txt" timestamp="1517042626722">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -738,9 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
-      <jump line="82" column="35" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
-      <jump line="4" column="11" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/Projects/once-mvp/once-web/ops/addThumbnails.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
       <jump line="123" column="56" filename="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/app.js" />
@@ -799,7 +800,6 @@
       <jump line="36" column="19" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="45" column="6" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="170" column="26" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="9" column="21" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="39" column="21" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="183" column="3" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="101" column="25" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
@@ -838,16 +838,20 @@
       <jump line="249" column="45" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="62" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="243" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="213" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
+      <jump line="170" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
+      <jump line="9" column="21" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
+      <jump line="40" column="21" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNlbnRlciA=</text>
+        <text>rect obj.dimensions.width obj.dimensions.height</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNlbnRlciA=</text>
+        <text>rect obj.dimensions.width obj.dimensions.height</text>
       </register>
       <register name="/" type="4">
         <text>initModel</text>
@@ -856,34 +860,34 @@
         <text>Debug.log (&quot;DragAt&quot; ++ toString position)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChbIG9uTW91c2VEb3duIChNb3VzZUV2ZW50IDw8IERyYWdTdGFydCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkgXQogICAgICAgICAgICAgICAgICAgICsrIChpZiBpc0p1c3QgbW9kZWwuZHJhZyB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbIG9uTW91c2VNb3ZlIChNb3VzZUV2ZW50IDw8IERyYWdBdCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgb25Nb3VzZVVwIChNb3VzZUV2ZW50IDw8IERyYWdFbmQgPDwgbW91c2VQb3MyUG9zIG1vZGVsLmNhbnZhc1NpemUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdCiAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgWyByZW5kZXJNb2RlbCBtb2RlbCBdCg==</text>
+        <text encoding="base64">ICAgIEJveAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChbIG9uTW91c2VEb3duIChNb3VzZUV2ZW50IDw8IERyYWdTdGFydCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkgXQogICAgICAgICAgICAgICAgICAgICsrIChpZiBpc0p1c3QgbW9kZWwuZHJhZyB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbIG9uTW91c2VNb3ZlIChNb3VzZUV2ZW50IDw8IERyYWdBdCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgb25Nb3VzZVVwIChNb3VzZUV2ZW50IDw8IERyYWdFbmQgPDwgbW91c2VQb3MyUG9zIG1vZGVsLmNhbnZhc1NpemUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdCiAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgWyByZW5kZXJNb2RlbCBtb2RlbCBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcubG9nICgiRHJhZ0VuZCIgKysgdG9TdHJpbmcgcG9zaXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsrIChpZiBpc0p1c3QgbW9kZWwuZHJhZyB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgIFsgb25Nb3VzZU1vdmUgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgICAgICAgICAsIG9uTW91c2VVcCAoTW91c2VFdmVudCA8PCBEcmFnRW5kIDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBbXQogICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcubG9nICgiRHJhZ0VuZCIgKysgdG9TdHJpbmcgcG9zaXRpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgbW9kZWwuZHJhZyBvZgogICAgICAgIE5vdGhpbmcgLT4KCiAgICAgICAgLS0gICAgICAgICAgICBTdWIubm9uZQogICAgICAgIEp1c3QgXyAtPgogICAgICAgICAgICBTdWIuYmF0Y2gKICAgICAgICAgICAgICAgIFsgTW91c2UubW92ZXMgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgLCBNb3VzZS51cHMgKE1vdXNlRXZlbnQgPDwgRHJhZ0VuZCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkKICAgICAgICAgICAgICAgICwgVGltZS5ldmVyeSBtaWxsaXNlY29uZCBUaWNrCiAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsrIChpZiBpc0p1c3QgbW9kZWwuZHJhZyB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgIFsgb25Nb3VzZU1vdmUgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgICAgICAgICAsIG9uTW91c2VVcCAoTW91c2VFdmVudCA8PCBEcmFnRW5kIDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBbXQogICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZS5ldmVyeSBtaWxsaXNlY29uZCBUaWNrCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgbW9kZWwuZHJhZyBvZgogICAgICAgIE5vdGhpbmcgLT4KCiAgICAgICAgLS0gICAgICAgICAgICBTdWIubm9uZQogICAgICAgIEp1c3QgXyAtPgogICAgICAgICAgICBTdWIuYmF0Y2gKICAgICAgICAgICAgICAgIFsgTW91c2UubW92ZXMgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgLCBNb3VzZS51cHMgKE1vdXNlRXZlbnQgPDwgRHJhZ0VuZCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkKICAgICAgICAgICAgICAgICwgVGltZS5ldmVyeSBtaWxsaXNlY29uZCBUaWNrCiAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS5ldmVyeSBtaWxsaXNlY29uZCBUaWNrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsgTW91c2UubW92ZXMgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgLCBNb3VzZS51cHMgKE1vdXNlRXZlbnQgPDwgRHJhZ0VuZCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uTW91Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsgTW91c2UubW92ZXMgKE1vdXNlRXZlbnQgPDwgRHJhZ0F0IDw8IG1vdXNlUG9zMlBvcyBtb2RlbC5jYW52YXNTaXplKQogICAgICAgICAgICAgICAgLCBNb3VzZS51cHMgKE1vdXNlRXZlbnQgPDwgRHJhZ0VuZCA8PCBtb3VzZVBvczJQb3MgbW9kZWwuY2FudmFzU2l6ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
