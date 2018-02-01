@@ -53,12 +53,12 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" timestamp="1517502128670">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="82" column="86" />
-        <mark key="]" line="82" column="86" />
-        <mark key="." line="82" column="86" />
-        <mark key="^" line="82" column="86" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" timestamp="1517504422987">
+        <mark key="'" line="77" column="20" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="34" />
+        <mark key="^" line="48" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/elm-package.json" timestamp="1506771723925">
         <mark key="[" line="16" column="46" />
@@ -197,12 +197,12 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" timestamp="1517490417706">
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" timestamp="1517502384818">
         <mark key="'" line="11" column="18" />
-        <mark key="[" line="205" column="30" />
-        <mark key="]" line="205" column="36" />
-        <mark key="." line="205" column="36" />
-        <mark key="^" line="205" column="36" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="84" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/client.ts" timestamp="1505747187267">
         <mark key="'" line="42" column="14" />
@@ -574,12 +574,12 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" timestamp="1517490857872">
-        <mark key="'" line="177" column="12" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="27" column="42" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" timestamp="1517504092153">
+        <mark key="'" line="32" column="17" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="36" column="122" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/pipeline/pipeline.ts" timestamp="1505724213461">
         <mark key="'" line="10" column="47" />
@@ -752,8 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="5" filename="$USER_HOME$/Projects/Arab-Spring/src/Levels.elm" />
-      <jump line="60" column="36" filename="$USER_HOME$/Projects/Arab-Spring/src/Levels.elm" />
       <jump line="216" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="73" column="62" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="65" column="67" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
@@ -838,7 +836,6 @@
       <jump line="69" column="11" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="10" column="18" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="180" column="23" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
-      <jump line="118" column="23" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="179" column="12" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="26" column="22" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
       <jump line="19" column="83" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
@@ -852,16 +849,19 @@
       <jump line="34" column="9" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
       <jump line="39" column="23" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
       <jump line="45" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="77" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="118" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
+      <jump line="32" column="17" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0.5 + (length(vcoord - center)), 0.0, 0.0</text>
+        <text>centerOfMass ps)</text>
       </register>
       <register name="-" type="4">
-        <text>0.5 + (length(vcoord - center)), 0.0, 0.0</text>
+        <text>centerOfMass ps)</text>
       </register>
       <register name="/" type="4">
         <text>Debug</text>
@@ -870,34 +870,34 @@
         <text encoding="base64">ICAgICAgICB2YXJ5aW5nIHZlYzMgdmNvbG9yOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGUgdmVjMiB2Y29vcmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c3RyZXRjaGVkSW1hZ2UgOiBEaW1lbnNpb25zIC0+IERpbWVuc2lvbnMgLT4gU3RyaW5nIC0+IEZvcm0Kc3RyZXRjaGVkSW1hZ2UgaW1hZ2VTaXplIHRhcmdldFNpemUgaW1hZ2UgPQogICAgbGV0CiAgICAgICAgeFJhdGlvID0KICAgICAgICAgICAgaW1hZ2VTaXplLndpZHRoIC8gdGFyZ2V0U2l6ZS53aWR0aAoKICAgICAgICB5UmF0aW8gPQogICAgICAgICAgICBpbWFnZVNpemUuaGVpZ2h0IC8gdGFyZ2V0U2l6ZS5oZWlnaHQKICAgIGluCiAgICAgICAgZ3JvdXBUcmFuc2Zvcm0KICAgICAgICAgICAgKFRyYW5zZm9ybS5tdWx0aXBseSAoVHJhbnNmb3JtLnNjYWxlWCA8fCAxIC8geFJhdGlvKSAoVHJhbnNmb3JtLnNjYWxlWSA8fCAxIC8geVJhdGlvKSkKICAgICAgICAgICAgWyB0b0Zvcm0gPHwgRWxlbWVudC5pbWFnZSAocm91bmQgaW1hZ2VTaXplLndpZHRoKSAocm91bmQgaW1hZ2VTaXplLmhlaWdodCkgaW1hZ2UgXQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGdyb3VwCiAgICAgICAgWyBzdHJldGNoZWRJbWFnZSB7IHdpZHRoID0gMjU2LCBoZWlnaHQgPSAyNTYgfSBvYmouZGltZW5zaW9ucyAiYXNzZXRzL2J1aWxkaW5nLnBuZyIKICAgICAgICBdCiAgICAgICAgfD4gbW92ZSAoY29ybmVyVG9DZW50ZXIgb2JqIHw+IHBvc1RvVHVwbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJveAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB1bmlmb3JtIGZsb2F0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGUgdmVjMiB2Y29vcmQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRoLlZlY3RvcjIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KHwrfCkgOiBWZWMyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
