@@ -53,7 +53,13 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" timestamp="1517495296707" />
+      <file name="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" timestamp="1517502128670">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="82" column="86" />
+        <mark key="]" line="82" column="86" />
+        <mark key="." line="82" column="86" />
+        <mark key="^" line="82" column="86" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/elm-package.json" timestamp="1506771723925">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="44" />
@@ -680,6 +686,9 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm" timestamp="1517496817414">
+        <mark key="'" line="445" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" timestamp="1507567576703">
         <mark key="[" line="172" column="96" />
         <mark key="]" line="172" column="106" />
@@ -743,18 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="49" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="54" column="15" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="134" column="11" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="157" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="31" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="132" column="11" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="36" column="19" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="45" column="6" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="170" column="26" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="39" column="21" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
-      <jump line="183" column="3" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="101" column="25" filename="$USER_HOME$/Projects/Arab-Spring/src/Definitions.elm" />
       <jump line="58" column="5" filename="$USER_HOME$/Projects/Arab-Spring/src/Levels.elm" />
       <jump line="60" column="36" filename="$USER_HOME$/Projects/Arab-Spring/src/Levels.elm" />
       <jump line="216" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
@@ -843,52 +840,64 @@
       <jump line="180" column="23" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="118" column="23" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="179" column="12" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
+      <jump line="26" column="22" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="19" column="83" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="17" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="27" column="22" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="2" column="7" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="3" column="4" filename="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm" />
+      <jump line="445" column="0" filename="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Color.elm" />
+      <jump line="30" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="7" column="12" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="34" column="9" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="39" column="23" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
+      <jump line="45" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/DemoRenderPolygon.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>0.5 + (length(vcoord - center)), 0.0, 0.0</text>
       </register>
       <register name="-" type="4">
-        <text>xs</text>
+        <text>0.5 + (length(vcoord - center)), 0.0, 0.0</text>
       </register>
       <register name="/" type="4">
         <text>Debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICwgeyBuYW1lID0gIkxvdXN5IFJlcGVhdGVyIgogICAgICAsIHRvb2xUeXBlID0gUmVwZWF0ZXIKICAgICAgLCBub2RlUGFyYW1ldGVycyA9IHsgcmFuZ2UgPSAyNTAgfQogICAgICAsIHN0YXJ0UG9zaXRpb24gPSB7IHggPSAtMTUwLCB5ID0gLTI1MCB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YXJ5aW5nIHZlYzMgdmNvbG9yOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGUgdmVjMiB2Y29vcmQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVuZGVyIHBvc2l0aW9uID0KICAgIGxldAogICAgICAgIG1ha2VVbmlmb3JtcyB7IGNhbWVyYVByb2osIHRyYW5zZm9ybSB9ID0KICAgICAgICAgICAgeyBjYW1lcmFQcm9qID0gY2FtZXJhUHJvaiwgdHJhbnNmb3JtID0gdHJhbnNmb3JtLCBwb2ludHMgPSBbXSB9CiAgICBpbgogICAgICAgIGN1c3RvbUZyYWdtZW50IG1ha2VVbmlmb3JtcyB7IGZyYWdtZW50U2hhZGVyID0gc2hhZGVyLCBwb3NpdGlvbiA9IHBvc2l0aW9uLCBzaXplID0gKCAxLCAxICksIHJvdGF0aW9uID0gMCwgcGl2b3QgPSAoIDAuNSwgMC41ICkgfQoKCnNoYWRlciA9CiAgICBbZ2xzbCB8CiAgICBwcmVjaXNpb24gbWVkaXVtcCBmbG9hdDsKICAgIHZhcnlpbmcgdmVjMiB2Y29vcmQ7CiAgICB1bmlmb3JtIGFycmF5CiAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50LmltYWdlCiAgICAgICAgKHJvdW5kIG9iai5ib3guZGltZW5zaW9ucy53aWR0aCkKICAgICAgICAocm91bmQgb2JqLmJveC5kaW1lbnNpb25zLmhlaWdodCkKICAgICAgICBvYmouYmFja2dyb3VuZAogICAgICAgIHw+IHRvRm9ybQogICAgICAgIC0tICAgICAgICB8PiBmaWxsZWQgeWVsbG93CiAgICAgICAgfD4gbW92ZSAoY29ybmVyVG9DZW50ZXIgb2JqLmJveCB8PiBwb3NUb1R1cGxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50LnRvSHRtbAogICAgPHwKICAgICAgICBjb2xsYWdlCiAgICAgICAgICAgIChyb3VuZCBtb2RlbC5jYW52YXNTaXplLndpZHRoKQogICAgICAgICAgICAocm91bmQgbW9kZWwuY2FudmFzU2l6ZS5oZWlnaHQpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwgY2FtCg==</text>
+        <text encoding="base64">ICAgIGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnR5cGUgYWxpYXMgR2FtZUVsZW1lbnQgYSA9CiAgICBQb3NpdGlvbmVkIHsgYSB8IHJlbmRlciA6IH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLlZlY3RvcjIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8PiBtb3ZlICggb2JqLnBvc2l0aW9uLngsIG9iai5wb3NpdGlvbi55ICkK</text>
+        <text encoding="base64">KHwrfCkgOiBWZWMyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
