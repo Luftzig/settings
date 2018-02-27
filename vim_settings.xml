@@ -760,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
       <jump line="153" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
       <jump line="37" column="5" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
       <jump line="4" column="28" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
@@ -860,6 +859,7 @@
       <jump line="58" column="10" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="63" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="89" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="105" column="92" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1013,6 +1013,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
