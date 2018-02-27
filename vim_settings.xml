@@ -265,6 +265,13 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1519748846482">
+        <mark key="'" line="4" column="34" />
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" timestamp="1511020723515">
         <mark key="'" line="46" column="33" />
         <mark key="[" line="52" column="60" />
@@ -309,6 +316,12 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
         <mark key="^" line="111" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1519748721866">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/static/items.json" timestamp="1508403936253">
         <mark key="'" line="2" column="32" />
@@ -760,8 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
-      <jump line="37" column="5" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
       <jump line="4" column="28" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
       <jump line="21" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
       <jump line="32" column="5" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
@@ -860,13 +871,15 @@
       <jump line="63" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="89" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="105" column="92" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
+      <jump line="22" column="21" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="4" column="34" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHw=</text>
@@ -878,34 +891,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxldAogICAgICAgICAgICAgICAgICAgIGJvdW5kYXJpZXMgPQogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbC5jdXJyZW50TGV2ZWwuYm91bmRhcmllcwoKICAgICAgICAgICAgICAgICAgICBvYnN0YWNsZXMgPQogICAgICAgICAgICAgICAgICAgICAgICBtb2RlbC5jdXJyZW50TGV2ZWwub2JzdGFjbGVzCgogICAgICAgICAgICAgICAgICAgIHIgPQogICAgICAgICAgICAgICAgICAgICAgICBjb21wdXRlUmFkaXVzIG5vZGUubm9kZS5yYW5nZSBuQ2lyY2xlcyBtb2RlbC5sZXZlbFN0YXRlLnRpbWUgaQoKICAgICAgICAgICAgICAgICAgICByYXlzID0KICAgICAgICAgICAgICAgICAgICAgICAgcmF5Q2FzdGluZyAoSnVzdCAoIG5vZGUubm9kZS5yYW5nZSwgNSApKSBub2RlLnBvc2l0aW9uIGJvdW5kYXJpZXMuYm94IG9ic3RhY2xlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZXdHYW1lU3RhdGUgPSB7fQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXdHYW1lU3RhdGUgPSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbIFdlYkdMLlRleHR1cmUubG9hZCAiYXNzZXRzL2J1aWxkaW5nLnBuZyIKICAgICAgICAsIFdlCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBbIFdlYkdMLlRleHR1cmUubG9hZCAiYXNzZXRzL2J1aWxkaW5nLnBuZyIKICAgICAgICAsIFdlCiAgICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgciA9CiAgICAgICAgICAgIGNvbXB1dGVSYWRpdXMgbm9kZS5ub2RlLnJhbmdlIG5DaXJjbGVzIG1vZGVsLmxldmVsU3RhdGUudGltZSBpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Y2FzZSBjb21wYXJlIHAxLnggcDIueCBvZgogICAgICAgICAgICAgICAgRVEgLT4gY29tcGFyZSBwMS55IHAyLnkKICAgICAgICAgICAgICAgIExUIC0+IExUCiAgICAgICAgICAgICAgICBHVCAtPiBHVA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
