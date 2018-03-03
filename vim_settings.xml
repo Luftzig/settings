@@ -201,6 +201,9 @@
         <mark key="." line="191" column="67" />
         <mark key="^" line="191" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/stack.yaml" timestamp="1520072094391">
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rules-engine/over-budget-rule.spec.ts" timestamp="1506257840773">
         <mark key="'" line="32" column="31" />
         <mark key="[" line="101" column="0" />
@@ -268,12 +271,12 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1520070522154">
-        <mark key="'" line="45" column="17" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1520072648255">
+        <mark key="'" line="53" column="21" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" timestamp="1511020723515">
         <mark key="'" line="46" column="33" />
@@ -695,12 +698,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1520070427527">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1520072705292">
         <mark key="'" line="3" column="29" />
-        <mark key="[" line="10" column="101" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/src/RenderPolygon.elm" timestamp="1517558732491">
         <mark key="[" line="30" column="80" />
@@ -832,8 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="29" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="429" column="59" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
       <jump line="105" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="64" column="14" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
       <jump line="110" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
@@ -932,16 +933,18 @@
       <jump line="2" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
       <jump line="31" column="4" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="44" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="45" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="51" column="21" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>+topic:javascript</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -950,36 +953,36 @@
         <text>partner</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdBYm91dCc6IHsgZGVzY3JpcHRpb246IHN0cmluZyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdBYm91dCc6ICAgIEFib3V0RGF0YSwK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdBYm91dCc6IHsgZGVzY3JpcHRpb246IHN0cmluZyB9Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICdBYm91dCc6ICAgIEFib3V0RGF0YSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZXhwb3J0IHR5cGUgU3BvbnNvclR5cGUgPSAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
     
 }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICAgIFtpbmRleDogc3RyaW5nXTogU3BvbnNvcjxhbnk+CiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1090,6 +1093,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
