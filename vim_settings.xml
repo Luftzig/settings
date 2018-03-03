@@ -273,12 +273,12 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1520072648255">
-        <mark key="'" line="53" column="21" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1520074707259">
+        <mark key="'" line="60" column="23" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="29" />
+        <mark key="." line="53" column="29" />
+        <mark key="^" line="53" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" timestamp="1511020723515">
         <mark key="'" line="46" column="33" />
@@ -700,12 +700,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1520072705292">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1520074421713">
         <mark key="'" line="3" column="29" />
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="33" />
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/src/RenderPolygon.elm" timestamp="1517558732491">
         <mark key="[" line="30" column="80" />
@@ -837,7 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="64" column="14" filename="$USER_HOME$/Projects/Arab-Spring/src/Paths.elm" />
       <jump line="110" column="4" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="112" column="22" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
@@ -937,19 +936,20 @@
       <jump line="44" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="45" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="51" column="21" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="60" column="23" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBwcm9jZXNzLTEuNC4zLjAKLSBlaXRoZXItNC40LjEuMQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KEp1c3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>+topic:javascript</text>
+        <text encoding="base64">KEp1c3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>analyzeRe</text>
       </register>
       <register name="0" type="4">
         <text>partner</text>
@@ -989,9 +989,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>analyzeRe</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>analyzeRe</last-pattern>
       <last-replace>end</last-replace>
       <last-substitute>v2</last-substitute>
       <last-dir>1</last-dir>
@@ -999,7 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>R</entry>
         <entry>R\.</entry>
         <entry>max</entry>
         <entry>boundaries</entry>
@@ -1019,6 +1018,7 @@
         <entry>canvasSi</entry>
         <entry>initModel</entry>
         <entry>print</entry>
+        <entry>analyzeRe</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
