@@ -202,9 +202,9 @@
         <mark key="^" line="191" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/stack.yaml" timestamp="1520073043756">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rules-engine/over-budget-rule.spec.ts" timestamp="1506257840773">
         <mark key="'" line="32" column="31" />
@@ -700,12 +700,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1520085483322">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1520091515399">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/src/RenderPolygon.elm" timestamp="1517558732491">
         <mark key="[" line="30" column="80" />
@@ -823,11 +823,11 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/js-analyzer.cabal" timestamp="1520085392520">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="43" />
-        <mark key="." line="33" column="43" />
-        <mark key="^" line="33" column="43" />
+      <file name="$USER_HOME$/Projects/js-analyzer/js-analyzer.cabal" timestamp="1520091068831">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+        <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/animations.css" timestamp="1508754998623">
         <mark key="[" line="37" column="17" />
@@ -837,8 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="12" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
-      <jump line="86" column="12" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="145" column="35" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="155" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="487" column="8" filename="$USER_HOME$/Projects/Arab-Spring/src/RayCasting.elm" />
@@ -937,16 +935,18 @@
       <jump line="28" column="41" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
       <jump line="10" column="19" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
       <jump line="11" column="20" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="22" column="24" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="13" column="24" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2wuTW9uYWQuQ2F0Y2ggKE1vbmFkVGhyb3cpCmltcG9ydCBDb250cm9sLk1vbmFkLlByaW1pdGl2ZSAoUHJpbU1vbmFkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>() ByteString IO ()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>analyzeRe</text>
@@ -955,34 +955,34 @@
         <text>partner</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2wuTW9uYWQuQ2F0Y2ggKE1vbmFkVGhyb3cpCmltcG9ydCBDb250cm9sLk1vbmFkLlByaW1pdGl2ZSAoUHJpbU1vbmFkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLCAgICAgICBjb25kdWl0LWV4dHJhCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2wuTW9uYWQuQ2F0Y2ggKE1vbmFkVGhyb3cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLCAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UgOjogIENvbmR1aXRNICgpIEJ5dGVTdHJpbmcgbSAoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IE5ldHdvcmsuCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE5ldHdvcmsuSFRUIChVUkkpCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2wuTW9uYWQuQ2F0Y2guTW9uYWRUaHJvdyAoTW9uYWRUaHJvdykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QgPC0gcGFyc2VSZXF1ZXN0ICQgc2hvdyB1cmkK</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2wuTW9uYWQuQ2F0Y2guTW9uYWRUaHJvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBwcm9jZXNzLTEuNC4zLjAKLSBlaXRoZXItNC40LjEuMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LSBtb25hZC1qb3VybmFsLTAuNy4yCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGh0dHBTb3VyY2UgKHBhcnNlUmVxdWVzdF8gJCBzaG93IHVyaSkgZ2V0UmVzcG9uc2VCb2R5CiAgICAgICAgICAufCB1bmd6aXAKICAgICAgICAgIC58IENULnVudGFyQ2h1bmtz</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBjYWJhbC1oZWxwZXItMC43LjMuMAo=</text>
+        <text encoding="base64">ICAgIHdoZXJlCiAgICAgIGdldFNyYyA6OiBSZXNwb25zZSAoQ29uZHVpdE0gKCkgQnl0ZVN0cmluZyBuKSAtPiBDb25kdWl0TSAoKSBCeXRlU3RyaW5nIG0gKCkKICAgICAgZ2V0U3JjIHJlcyA9CiAgICAgICAgZ2V0UmVzcG9uc2VCb2R5IHJlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
