@@ -236,12 +236,12 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="45" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1521558248500">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1521561399067">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/pixi2d-tutorial/src/index.html" timestamp="1512479007823">
         <mark key="[" line="8" column="25" />
@@ -296,12 +296,12 @@
         <mark key="." line="63" column="27" />
         <mark key="^" line="63" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1521559052525">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1521560996197">
         <mark key="'" line="12" column="24" />
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="104" column="23" />
-        <mark key="." line="104" column="23" />
-        <mark key="^" line="104" column="23" />
+        <mark key="[" line="117" column="42" />
+        <mark key="]" line="117" column="42" />
+        <mark key="." line="117" column="42" />
+        <mark key="^" line="117" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" timestamp="1511020723515">
         <mark key="'" line="46" column="33" />
@@ -761,12 +761,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1521558808356">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1521561041214">
         <mark key="'" line="33" column="31" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="35" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/src/RenderPolygon.elm" timestamp="1517558732491">
         <mark key="[" line="30" column="80" />
@@ -906,12 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="38" filename="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm" />
-      <jump line="55" column="9" filename="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm" />
-      <jump line="344" column="38" filename="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm" />
-      <jump line="352" column="5" filename="$USER_HOME$/Projects/Arab-Spring/elm-stuff/packages/elm-lang/core/5.1.1/src/Basics.elm" />
-      <jump line="167" column="27" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
-      <jump line="168" column="27" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="243" column="28" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="182" column="29" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="178" column="16" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
@@ -1003,55 +997,61 @@
       <jump line="120" column="22" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="42" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="50" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="33" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
       <jump line="104" column="19" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="12" column="24" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="40" column="48" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="43" column="76" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="33" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="18" column="23" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="31" column="4" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="24" column="22" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>Traversable</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Traversable</text>
       </register>
       <register name="/" type="4">
         <text>noga</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtmcm9tOiAncHVibGljL2NvZGUtb2YtY29uZHVjdC5wZGYnLCB0bzogJ2NvZGUtb2YtY29uZHVjdC5wZGYnfSwK</text>
+        <text encoding="base64">ICAgIChSaWdodCB1cmkpIDwtIEdpdGh1Yi5hcmNoaXZlRm9yJyBhdXRoCiAgICAgICAgICAgICAgICAgICAgICAoR2l0aHViLk4gJCBwcm9qZWN0T3duZXIgcmVwbykKICAgICAgICAgICAgICAgICAgICAgIChHaXRodWIuTiAkIHByb2plY3ROYW1lIHJlcG8pCiAgICAgICAgICAgICAgICAgICAgICBHaXRodWIuQXJjaGl2ZUZvcm1hdFRhcmJhbGwKICAgICAgICAgICAgICAgICAgICAgIE5vdGhpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWFyb3VuZCcsCg==</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuVHJhdmVyc2FibGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50OiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyY6bnRoLWNoaWxkKGV2ZW4pJzogewogICAgICAgICAgICAgICAgbWFyZ2luUmlnaHQ6ICcyNSUnCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIChSaWdodCB1cmkpIDwtIEdpdGh1Yi5hcmNoaXZlRm9yJyBhdXRoCiAgICAgICAgICAgICAgICAgICAgICAoR2l0aHViLk4gJCBwcm9qZWN0T3duZXIgcmVwbykKICAgICAgICAgICAgICAgICAgICAgIChHaXRodWIuTiAkIHByb2plY3ROYW1lIHJlcG8pCiAgICAgICAgICAgICAgICAgICAgICBHaXRodWIuQXJjaGl2ZUZvcm1hdFRhcmJhbGwKICAgICAgICAgICAgICAgICAgICAgIE5vdGhpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsb2F0OiAnJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWFyb3VuZCcsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiAnJywK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRhY3QgdXMgYXQgPGEgaHJlZj0ibWFpbHRvOnNwb25zb3JzQGZsaXAtaWwub3JnIj5zcG9uc29yc0BmbGlwLWlsLm9yZzwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJyY6bnRoLWNoaWxkKGV2ZW4pJzogewogICAgICAgICAgICAgICAgbWFyZ2luUmlnaHQ6ICcyNSUnCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
