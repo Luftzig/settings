@@ -91,12 +91,9 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1509561117058">
-        <mark key="'" line="516" column="4" />
-        <mark key="[" line="488" column="65" />
-        <mark key="]" line="488" column="85" />
-        <mark key="." line="488" column="85" />
-        <mark key="^" line="488" column="85" />
+      <file name="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" timestamp="1522149382882">
+        <mark key="'" line="373" column="83" />
+        <mark key="." line="313" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/services/firebase-data-provider.ts" timestamp="1513091877089">
         <mark key="'" line="9" column="45" />
@@ -516,12 +513,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/FuncCon/site/src/view/team.tsx" timestamp="1521283277253">
-        <mark key="'" line="10" column="52" />
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rules-engine/no-budget-rule.ts" timestamp="1506257050695">
         <mark key="[" line="8" column="65" />
         <mark key="]" line="8" column="71" />
@@ -837,8 +828,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" timestamp="1522147600792">
-        <mark key="'" line="182" column="38" />
+      <file name="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" timestamp="1522149398934">
+        <mark key="[" line="178" column="10" />
+        <mark key="]" line="178" column="17" />
+        <mark key="." line="178" column="17" />
+        <mark key="^" line="178" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -903,9 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
-      <jump line="215" column="0" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
-      <jump line="8" column="32" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="254" column="9" filename="$USER_HOME$/Projects/Arab-Spring/src/Render.elm" />
       <jump line="58" column="10" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
       <jump line="63" column="20" filename="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" />
@@ -1003,22 +994,25 @@
       <jump line="64" column="59" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
       <jump line="182" column="38" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
+      <jump line="185" column="32" filename="$USER_HOME$/Projects/elm-quadtree/tests/Tests.elm" />
+      <jump line="376" column="8" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
+      <jump line="371" column="83" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVzdCAiSW5zZXJ0IGl0ZW1zIHRoYXQgaXMgbW9yZSB0aGFuIG1heFNpemUgb2YgbGVhZiwgYnV0IGluIHNhbWUgcGxhY2UiIDx8CiAgICAgICAgICAgIFwoKSAtPgogICAgICAgICAgICAgICAgbGV0CiAgICAgICAgICAgICAgICAgICAgdHJlZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIGVtcHR5UXVhZFRyZWUgdHJlZUxpbWl0cyA1CgogICAgICAgICAgICAgICAgICAgIGl0ZW1zID0KICAgICAgICAgICAgICAgICAgICAgICAgWyBib3VuZGVkSXRlbSAwIDEgMCAxCiAgICAgICAgICAgICAgICAgICAgICAgICwgYm91bmRlZEl0ZW0gMCAxIDAgMQogICAgICAgICAgICAgICAgICAgICAgICAsIGJvdW5kZWRJdGVtIDAgMSAwIDEKICAgICAgICAgICAgICAgICAgICAgICAgLCBib3VuZGVkSXRlbSAwIDEgMCAxCiAgICAgICAgICAgICAgICAgICAgICAgICwgYm91bmRlZEl0ZW0gMCAxIDAgMQogICAgICAgICAgICAgICAgICAgICAgICAsIGJvdW5kZWRJdGVtIDAgMSAwIDEKICAgICAgICAgICAgICAgICAgICAgICAgXQoKICAgICAgICAgICAgICAgICAgICB0ZXN0VHJlZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIGluc2VydE1hbnkgKEFycmF5LmZyb21MaXN0IGl0ZW1zKSB0cmVlCgogICAgICAgICAgICAgICAgICAgIC0tIGZpbmRJbnRlcnNlY3RpbmcgZW50Mi5iIHdvcmxkLmJvdW5kaW5nQm94ZXMKICAgICAgICAgICAgICAgIGluCiAgICAgICAgICAgICAgICBnZXRBbGxJdGVtcyB0ZXN0VHJlZQogICAgICAgICAgICAgICAgICAgIHw+IEFycmF5Lmxlbmd0aAogICAgICAgICAgICAgICAgICAgIHw+IEV4cGVjdC5lcXVhbCA2Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Node</text>
       </register>
       <register name="-" type="4">
-        <text>FilePath, ByteString</text>
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text>noga</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ey0jIExBTkdVQUdFIE92ZXJsb2FkZWRTdHJpbmdzICMtfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">RGVidWcubG9nICJpbnNlcnQgLT4gTm9kZSBpdGVtOiAiICsrICh0b1N0cmluZyBpdGVtKSArKyAiOyBCb3g6ICIgKysgKHRvU3RyaW5nIGJveCkg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dGVzdCAiSW5zZXJ0IGl0ZW1zIHRoYXQgaXMgbW9yZSB0aGFuIG1heFNpemUgb2YgbGVhZiwgYnV0IGluIHNhbWUgcGxhY2UiIDx8CiAgICAgICAgICAgIFwoKSAtPgogICAgICAgICAgICAgICAgbGV0CiAgICAgICAgICAgICAgICAgICAgdHJlZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIGVtcHR5UXVhZFRyZWUgdHJlZUxpbWl0cyA1CgogICAgICAgICAgICAgICAgICAgIGl0ZW1zID0KICAgICAgICAgICAgICAgICAgICAgICAgWyBib3VuZGVkSXRlbSAwIDEgMCAxCiAgICAgICAgICAgICAgICAgICAgICAgICwgYm91bmRlZEl0ZW0gMCAxIDAgMQogICAgICAgICAgICAgICAgICAgICAgICAsIGJvdW5kZWRJdGVtIDAgMSAwIDEKICAgICAgICAgICAgICAgICAgICAgICAgLCBib3VuZGVkSXRlbSAwIDEgMCAxCiAgICAgICAgICAgICAgICAgICAgICAgICwgYm91bmRlZEl0ZW0gMCAxIDAgMQogICAgICAgICAgICAgICAgICAgICAgICAsIGJvdW5kZWRJdGVtIDAgMSAwIDEKICAgICAgICAgICAgICAgICAgICAgICAgXQoKICAgICAgICAgICAgICAgICAgICB0ZXN0VHJlZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIGluc2VydE1hbnkgKEFycmF5LmZyb21MaXN0IGl0ZW1zKSB0cmVlCgogICAgICAgICAgICAgICAgICAgIC0tIGZpbmRJbnRlcnNlY3RpbmcgZW50Mi5iIHdvcmxkLmJvdW5kaW5nQm94ZXMKICAgICAgICAgICAgICAgIGluCiAgICAgICAgICAgICAgICBnZXRBbGxJdGVtcyB0ZXN0VHJlZQogICAgICAgICAgICAgICAgICAgIHw+IEFycmF5Lmxlbmd0aAogICAgICAgICAgICAgICAgICAgIHw+IEV4cGVjdC5lcXVhbCA2Cg==</text>
