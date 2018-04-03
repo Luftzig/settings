@@ -755,12 +755,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1522346566890">
-        <mark key="'" line="61" column="19" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="14" />
-        <mark key="." line="38" column="14" />
-        <mark key="^" line="38" column="14" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" timestamp="1522747384171">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/src/RenderPolygon.elm" timestamp="1517558732491">
         <mark key="[" line="30" column="80" />
@@ -900,8 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="4" column="34" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="34" column="107" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="55" column="16" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="113" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1000,69 +998,70 @@
       <jump line="356" column="29" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
       <jump line="357" column="16" filename="$USER_HOME$/Projects/elm-quadtree/src/QuadTree.elm" />
       <jump line="61" column="19" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="40" column="41" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return count</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IGNvdW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return count</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>noga</text>
+        <text>ConduitM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LS0gICAgIHlpZWxkIChDVC5oZWFkZXJGaWxlUGF0aCBoZWFkZXIsIGNvbnRlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPSQgQ0wucGVlawo=</text>
+        <text encoding="base64">ICAgIHByaW50IGNvdW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnwgQ0wubWFwIChjb25zdCAoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPj49IGxpZnRJTyBwcmludAo=</text>
+        <text encoding="base64">I2V4dHJhLWRlcHM6CiMtIENhYmFsLTEuMjQuMi4wCiMtIGNvbmR1aXQtMS4zLjAKIy0gY29uZHVpdC1leHRyYS0xLjMuMAojLSBnaXRodWItMC4xOQojLSBodHRwLWNvbmR1aXQtMi4zLjAKIy0gaHR0cC10eXBlcy0wLjEyLjEKIy0gbGFuZ3VhZ2UtZWNtYXNjcmlwdC0wLjE3LjIuMAojLSBvcHRwYXJzZS1hcHBsaWNhdGl2ZS0wLjEzLjIuMAojLSBwcm9jZXNzLTEuNC4zLjAKIy0gcmVzb3VyY2V0LTEuMi4wCiMtIHRhZ3NoYXJlLTAuMAojLSB0YXItY29uZHVpdC0wLjIuMwojLSB0ZXN0aW5nLWZlYXQtMC40LjAuMwo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gICAgIChDTC5mb2xkICg8PikgbWVtcHR5ICQ9IENMLm1hcCBcYiAtPiAoQ1QuaGVhZGVyRmlsZVBhdGggaGVhZGVyLCBiKSkpCi0tICAgICB5aWVsZCAoQ1QuaGVhZGVyRmlsZVBhdGggaGVhZGVyLCBjb250ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgPSQgQ0wucGVlawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gICAgIHlpZWxkICgoKSwgY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgLnwgQ0wubWFwIChjb25zdCAoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHlpZWxkICgoKSwgY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgPj49IGxpZnRJTyBwcmludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gICAgIHlpZWxkIChDVC5oZWFkZXJGaWxlUGF0aCBoZWFkZXIsIGNvbnRlbnQpCg==</text>
+        <text encoding="base64">LS0gICAgIChDTC5mb2xkICg8PikgbWVtcHR5ICQ9IENMLm1hcCBcYiAtPiAoQ1QuaGVhZGVyRmlsZVBhdGggaGVhZGVyLCBiKSkpCi0tICAgICB5aWVsZCAoQ1QuaGVhZGVyRmlsZVBhdGggaGVhZGVyLCBjb250ZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LS0gICAgIHlpZWxkICgoKSwgY29udGVudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY29udGVudCBvZgogICAgICBKdXN0IGMgLT4geWllbGQgJCBKdXN0CiAgICAgIE5vdGhpbmcgLT4geWllbGQgTm90aGluZwo=</text>
+        <text encoding="base64">ICAgIHlpZWxkICgoKSwgY29udGVudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>noga</last-search>
+      <last-search>ConduitM</last-search>
       <last-offset />
-      <last-pattern>noga</last-pattern>
-      <last-replace>shani</last-replace>
-      <last-substitute>noga</last-substitute>
+      <last-pattern>ConduitM</last-pattern>
+      <last-replace>ConduitT</last-replace>
+      <last-substitute>ConduitM</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\csub</entry>
         <entry>cutRay</entry>
         <entry>makeEdges</entry>
         <entry>40</entry>
@@ -1082,9 +1081,9 @@
         <entry>gady</entry>
         <entry>netta</entry>
         <entry>noga</entry>
+        <entry>ConduitM</entry>
       </history-search>
       <history-cmd>
-        <entry>s/max/min/s</entry>
         <entry>s/max/min/g</entry>
         <entry encoding="base64">JzwsJz5zL2JvdW5kYXJpZXMvYm91bmRhcnkvZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1103,6 +1102,7 @@
         <entry>s/netta/noga/g</entry>
         <entry>s/noga/shani/g</entry>
         <entry>W</entry>
+        <entry>%s/ConduitM/ConduitT/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
