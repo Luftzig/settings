@@ -35,6 +35,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="3" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/about-data.ts" timestamp="1521129907787">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="13" column="83" />
+      </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/LevelEditor/LevelEditor.cs" timestamp="1506603013204">
         <mark key="[" line="50" column="107" />
         <mark key="]" line="50" column="125" />
@@ -229,6 +235,12 @@
       <file name="$USER_HOME$/Projects/language-ecmascript/test/Test/Arbitrary.hs" timestamp="1523116008263">
         <mark key="'" line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/view/code-of-conduct.tsx" timestamp="1521283487369">
+        <mark key="[" line="13" column="80" />
+        <mark key="]" line="13" column="79" />
+        <mark key="." line="13" column="80" />
+        <mark key="^" line="13" column="79" />
+      </file>
       <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1523107008859">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="64" />
@@ -277,11 +289,11 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/tickets-data.ts" timestamp="1523704794210">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/tickets-data.ts" timestamp="1523705456290">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="49" column="27" />
+        <mark key="^" line="49" column="27" />
+        <mark key="." line="49" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/about.ts" timestamp="1520010877312">
         <mark key="[" line="0" column="0" />
@@ -390,6 +402,12 @@
         <mark key="]" line="2" column="2" />
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/view/agenda.tsx" timestamp="1521283761875">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="80" />
+        <mark key="." line="15" column="80" />
+        <mark key="^" line="15" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/splash-data.ts" timestamp="1520010795339">
         <mark key="[" line="1" column="0" />
@@ -629,7 +647,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>code analysis on JS files and print errors</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -641,36 +659,29 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB8IFByZWZpeAo=</text>
+      <register name="4" type="4">
+        <text>Must be paying for themselves and show prove of their status. Limited availability.' +
+            ' Minors must be accompanied by a legal gourdian or have permission to attend from such.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;abstract&quot;, &quot;boolean&quot;, &quot;byte&quot;, &quot;char&quot;, &quot;class&quot;
-                             ,&quot;const&quot;, &quot;debugger&quot;, &quot;enum&quot;, &quot;export&quot;, &quot;extends&quot;
-                             ,&quot;final&quot;, &quot;float&quot;, &quot;goto&quot;, &quot;implements&quot;, &quot;int&quot;
-                             ,&quot;interface&quot;, &quot;long&quot;, &quot;native&quot;, &quot;package&quot;, &quot;private&quot;
-                             ,&quot;protected&quot;, &quot;short&quot;, &quot;static&quot;, &quot;super&quot;
-                             ,&quot;synchronized&quot;, &quot;throws&quot;, &quot;transient&quot;, &quot;volatile&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>[&quot;break&quot;, &quot;case&quot;, &quot;catch&quot;, &quot;continue&quot;, &quot;default&quot;, &quot;delete&quot;
-                  ,&quot;do&quot;, &quot;else&quot;, &quot;finally&quot;, &quot;for&quot;, &quot;function&quot;, &quot;if&quot;, &quot;in&quot;
-                  ,&quot;instanceof&quot;, &quot;new&quot;, &quot;return&quot;, &quot;switch&quot;, &quot;this&quot;, &quot;throw&quot;
-                  ,&quot;try&quot;, &quot;typeof&quot;, &quot;var&quot;, &quot;void&quot;, &quot;while&quot;, &quot;with&quot;]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB8IFByZWZpeAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
