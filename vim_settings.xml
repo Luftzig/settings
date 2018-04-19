@@ -105,6 +105,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/front/elm-package.json" timestamp="1524159298679">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/label.ts" timestamp="1510227480414">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="10" column="59" />
@@ -117,12 +123,6 @@
         <mark key="]" line="59" column="50" />
         <mark key="." line="59" column="50" />
         <mark key="^" line="59" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" timestamp="1523098909143">
-        <mark key="'" line="2" column="25" />
-        <mark key="]" line="18" column="63" />
-        <mark key="^" line="18" column="63" />
-        <mark key="." line="18" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/index.ejs" timestamp="1521284243805">
         <mark key="[" line="7" column="49" />
@@ -154,6 +154,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
         <mark key="^" line="49" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" timestamp="1524159006067">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/person.ts" timestamp="1523098640094">
         <mark key="[" line="4" column="0" />
@@ -639,6 +644,13 @@
         <mark key="." line="7" column="63" />
         <mark key="^" line="7" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1524158670585">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513066434076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="211" />
@@ -910,6 +922,13 @@
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/CodeSection.elm" timestamp="1524160415672">
+        <mark key="'" line="8" column="30" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-collisions/.gitignore" timestamp="1507210536003">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="3" column="4" />
@@ -946,11 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="37" filename="$USER_HOME$/Projects/FuncCon/site/src/app.tsx" />
-      <jump line="66" column="30" filename="$USER_HOME$/Projects/FuncCon/site/src/app.tsx" />
-      <jump line="49" column="33" filename="$USER_HOME$/Projects/FuncCon/site/src/view/splash.tsx" />
-      <jump line="13" column="4" filename="$USER_HOME$/Projects/FuncCon/site/src/style-helpers.ts" />
-      <jump line="50" column="32" filename="$USER_HOME$/Projects/FuncCon/site/src/view/splash.tsx" />
       <jump line="58" column="28" filename="$USER_HOME$/Projects/FuncCon/site/src/view/splash.tsx" />
       <jump line="61" column="17" filename="$USER_HOME$/Projects/FuncCon/site/src/view/splash.tsx" />
       <jump line="16" column="16" filename="$USER_HOME$/Projects/FuncCon/site/src/data.ts" />
@@ -1046,16 +1060,21 @@
       <jump line="36" column="38" filename="$USER_HOME$/Projects/FuncCon/site/src/view/tickets.tsx" />
       <jump line="61" column="29" filename="$USER_HOME$/Projects/FuncCon/site/src/app.tsx" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/FuncCon/site/src/data.ts" />
+      <jump line="47" column="28" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="56" column="33" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="58" column="7" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="51" column="32" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="9" column="30" filename="$USER_HOME$/Projects/luftzig.com/front/src/Sections/CodeSection.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>actionable</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>actionable</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -1064,34 +1083,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdoMSc6IHsKICAgICAgICAgICAgICAgICAgICBjb2xvcjogJ2xpZ2h0Z3JleSAhIGltcG9ydGFudCcKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6ICcyNXB4JywKICAgIG1hcmdpblJpZ2h0OiAnMjVweCcsCg==</text>
+        <text encoding="base64">ICAgIGFydGljbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnYSc6IHsKICAgICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgIGJvcmRlclJhZGl1czogJzI1JScsCiAgICAgICAgICAgIGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIFsgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IEh0bWwgZXhwb3NpbmcgKGFydGljbGUsIGgyLCBoMywgbGksIHAsIHRleHQsIHVsKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdUaWNrZXRzJzogdGlja2V0c0xpc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCBNaWRkbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdWZW51ZSc6ICAgIHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAnd2hpdGUnLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">LS1uYXZCYXIgbW9kZWwgPQotLSAgICBsZXQKLS0gICAgICAgIG1hcmdpbiA9IG1hcmdpbnMgKENzcy5yZW0gMC41KQotLSAgICBpbgotLSAgICBIdG1sLm5hdiBbIG5hdkJhclN0eWxlcyBdCi0tICAgICAgICBbIGEKLS0gICAgICAgICAgICBbIG9uQ2xpY2sgPHwgY2hhbmdlT3JDbG9zZVNlY3Rpb24gbW9kZWwgVW5sZWFybmluZwotLSAgICAgICAgICAgICwgZnVsbHdpZHRoCi0tICAgICAgICAgICAgLCBjZW50ZXJUZXh0Ci0tICAgICAgICAgICAgLCBtYXJnaW4KLS0gICAgICAgICAgICBdCi0tICAgICAgICAgICAgWyB0ZXh0ICJVbmxlYXJuZXIiIF0KLS0gICAgICAgICwgc3BhbiBbIGZ1bGx3aWR0aCwgY2VudGVyVGV4dCwgbWFyZ2luIF0gWyB0ZXh0ICJvZiIgXQotLSAgICAgICAgLCBhIFsgb25DbGljayA8fCBjaGFuZ2VPckNsb3NlU2VjdGlvbiBtb2RlbCBDb2RlCi0tICAgICAgICAgICAgLCBtYXJnaW4KLS0gICAgICAgICAgICAsIGxvd2VyTmF2RWxlbWVudFN0eWxlCi0tICAgICAgICAgICAgLCByb3RhdGUgKENzcy5kZWcgMzApCi0tICAgICAgICAgICAgXSBbIHRleHQgIkNvZGUiIF0KLS0gICAgICAgICwgYSBbb25DbGljayA8fCBjaGFuZ2VPckNsb3NlU2VjdGlvbiBtb2RlbCBUaG91Z2h0Ci0tICAgICAgICAgICAgLCBtYXJnaW4KLS0gICAgICAgICAgICAsIGxvd2VyTmF2RWxlbWVudFN0eWxlCi0tICAgICAgICAgICAgLCByb3RhdGUgKENzcy5kZWcgLTMwKQotLSAgICAgICAgICAgIF0gWyB0ZXh0ICJUaG91Z2h0IiBdCi0tICAgICAgICAsIGEgW29uQ2xpY2sgPHwgY2hhbmdlT3JDbG9zZVNlY3Rpb24gbW9kZWwgTW92ZW1lbnQKLS0gICAgICAgICAgICAsIG1hcmdpbgotLSAgICAgICAgICAgICwgbG93ZXJOYXZFbGVtZW50U3R5bGUKLS0gICAgICAgICAgICBdIFsgdGV4dCAiTW92ZW1lbnQiIF0KLS0gICAgICAgIF0KLS0KLS0KLS0KLS1vbGRIZWFkZXIgbW9kZWwgPQotLSAgICBIdG1sLmhlYWRlciBbIGZ1bGx3aWR0aCBdCi0tICAgICAgICBbIGRpdgotLSAgICAgICAgICAgIFsgaW1hZ2UgKHJlc291cmNlcyArKyAibmFtZS5wbmciKSAoQ3NzLnB4IDU5NSkgKENzcy5weCAxOTcpCi0tICAgICAgICAgICAgLCBjZW50ZXJlZAotLSAgICAgICAgICAgICwgYWx0ICJZb2F2IEx1ZnQiIF0KLS0gICAgICAgICAgICBbXQotLSAgICAgICAgXQotLQotLQotLW1haW5Cb2R5IG1vZGVsID0KLS0gICAgZGl2IFsgbWFpblN0eWxlIF0KLS0gICAgICAgIFsgY2FzZSBtb2RlbC5zZWN0aW9uIG9mCi0tICAgICAgICAgICAgTm9TZWN0aW9uIC0+IGFydGljbGUgW10gWyBoMiBbXSBbIHRleHQgIldvcmsgaW4gUHJvZ3Jlc3MiIF0gXQotLQotLSAgICAgICAgICAgIFVubGVhcm5pbmcgLT4gdW5sZWFybmluZ1NlY3Rpb24gbW9kZWwKLS0KLS0gICAgICAgICAgICBDb2RlIC0+IGNvZGVTZWN0aW9uIG1vZGVsCi0tCi0tICAgICAgICAgICAgTW92ZW1lbnQgLT4gbW92ZW1lbnRTZWN0aW9uIG1vZGVsCi0tCi0tICAgICAgICAgICAgVGhvdWdodCAtPiB0aG91Z2h0U2VjdGlvbiBtb2RlbAotLSAgICAgICAgXQotLQotLQotLXVubGVhcm5pbmdTZWN0aW9uIG1vZGVsID0KLS0gICAgc2VjdGlvbiBbXQotLSAgICAgICAgWyBoMSBbXSBbIHRleHQgIldoYXQgaXMgVW5sZWFybmluZz8iIF0KLS0gICAgICAgICwgcCBbXSBbXQotLSAgICAgICAgXQotLQotLQotLWNvZGVTZWN0aW9uIG1vZGVsID0KLS0gICAgc2VjdGlvbiBbXQotLSAgICAgICAgWyBoMSBbXSBbdGV4dCAiQ29kZSJdCi0tICAgICAgICAsIHdvcmtBcnRpY2xlIG1vZGVsCi0tICAgICAgICAsIGFydGljbGUgW10KLS0gICAgICAgICAgICBbIGgyIFtdIFt0ZXh0ICJQcm9qZWN0cyIgXSBdCi0tICAgICAgICAsIGFydGljbGUgW10KLS0gICAgICAgICAgICBbIGgyIFtdIFt0ZXh0ICJQYXNzaW9ucyIgXSBdCi0tICAgICAgICBdCi0tCi0tCi0tCi0tbW92ZW1lbnRTZWN0aW9uIG1vZGVsID0KLS0gICAgc2VjdGlvbiBbXQotLSAgICAgICAgWyBoMSBbXSBbdGV4dCAiTW92ZW1lbnQiXQotLSAgICAgICAgLCBhcnRpY2xlIFtdCi0tICAgICAgICAgICAgWyBoMiBbXSBbIHRleHQgIk1hcnRpYWwgQXJ0cyIgXSBdCi0tICAgICAgICAsIGFydGljbGUgW10KLS0gICAgICAgICAgICBbIGgyIFtdIFt0ZXh0ICJZb2dhIiBdIF0KLS0gICAgICAgICwgYXJ0aWNsZSBbXQotLSAgICAgICAgICAgIFsgaDIgW10gW3RleHQgIkhpa2luZyIgXSBdCi0tICAgICAgICBdCi0tCi0tCi0tdGhvdWdodFNlY3Rpb24gbW9kZWwgPQotLSAgICBzZWN0aW9uIFtdCi0tICAgICAgICBbIGgxIFtdIFt0ZXh0ICJUaG91Z2h0Il0KLS0gICAgICAgICwgYXJ0aWNsZSBbXQotLSAgICAgICAgICAgIFsgaDIgW10gWyB0ZXh0ICJDYWZlIEJvdHMgUG9kY2FzdCIgXSBdCi0tICAgICAgICAsIGFydGljbGUgW10KLS0gICAgICAgICAgICBbIGgyIFtdIFt0ZXh0ICJCbG9nIiBdIF0KLS0gICAgICAgICwgYXJ0aWNsZSBbXQotLSAgICAgICAgICAgIFsgaDIgW10gW3RleHQgIlB1YmxpYyBUYWxrcyIgXSBdCi0tICAgICAgICBdCi0tCi0tCi0tcGFnZUZvb3RlciBtb2RlbCA9Ci0tICAgIGZvb3RlciBbIHN0aWNrVG9Cb3R0b20gXQotLSAgICAgICAgWyBkaXYgWyBjZW50ZXJlZCwgY2VudGVyVGV4dCBdCi0tICAgICAgICAgICAgWyBkaXYgW10gWyB0ZXh0ICJMdWZ0emlnLmNvbSJdCi0tICAgICAgICAgICAgLCBkaXYgW10gWyB0ZXh0ICJ5b2F2Lmx1ZnRAZ21haWwuY29tIiBdCi0tICAgICAgICAgICAgLCBkaXYgW10gWyB0ZXh0ICJATHVmdGJlcmVjaG51bmciXQotLSAgICAgICAgICAgICwgc21hbGwgW10gWyB0ZXh0ICJDcmVhdGVkIGluIEVsbSIgXQotLSAgICAgICAgICAgIF0KLS0gICAgICAgIF0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiB3aAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6ICcyNXB4JywKICAgIG1hcmdpblJpZ2h0OiAnMjVweCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJveFNoYWRvdzogJzAgMCAwIDEwcHggbGlnaHRncmV5LCAwIDAgMCA2cHggIzAwMCwgNXB4IDRweCAwIDZweCAjMDAwJywK</text>
+        <text encoding="base64">ICAgICAgICAnYSc6IHsKICAgICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgIGJvcmRlclJhZGl1czogJzI1JScsCiAgICAgICAgICAgIGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snCiAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
