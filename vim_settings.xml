@@ -336,6 +336,12 @@
         <mark key="." line="121" column="24" />
         <mark key="^" line="121" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/gae/www/index.html" timestamp="1524915646547">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="1" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/src/Cats/Cats.elm" timestamp="1511020723515">
         <mark key="'" line="46" column="33" />
         <mark key="[" line="52" column="60" />
@@ -845,7 +851,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524168144942">
+      <file name="/Dummy.txt" timestamp="1524915568091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="9" />
@@ -863,6 +869,13 @@
         <mark key="]" line="68" column="4" />
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/gae/www/resources/feed.rss" timestamp="1524917207905">
+        <mark key="'" line="6" column="43" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="37" column="38" />
+        <mark key="^" line="37" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/ItemData.ts" timestamp="1510225708588">
         <mark key="'" line="14" column="31" />
@@ -971,19 +984,15 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" timestamp="1524908084897">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="3" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" timestamp="1524916376687">
+        <mark key="'" line="27" column="31" />
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="2" column="61" />
+        <mark key="^" line="27" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
-      <jump line="46" column="26" filename="$USER_HOME$/Projects/FuncCon/site/configs/webpack.config.js" />
-      <jump line="38" column="10" filename="$USER_HOME$/Projects/FuncCon/site/configs/webpack.config.js" />
-      <jump line="79" column="24" filename="$USER_HOME$/Projects/FuncCon/site/configs/webpack.config.js" />
       <jump line="10" column="45" filename="$USER_HOME$/Projects/FuncCon/site/src/view/venue.tsx" />
       <jump line="87" column="42" filename="$USER_HOME$/Projects/FuncCon/site/src/view/sponsor.tsx" />
       <jump line="104" column="65" filename="$USER_HOME$/Projects/FuncCon/site/src/view/team-member.tsx" />
@@ -1080,53 +1089,58 @@
       <jump line="16" column="10" filename="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" />
       <jump line="74" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" />
+      <jump line="26" column="31" filename="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" />
+      <jump line="59" column="5" filename="$USER_HOME$/Projects/luftzig.com/gae/www/resources/feed.rss" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/luftzig.com/gae/www/resources/feed.rss" />
+      <jump line="6" column="43" filename="$USER_HOME$/Projects/luftzig.com/gae/www/resources/feed.rss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ogg</text>
+        <text>Bruce Murray, Zedcast</text>
       </register>
       <register name="-" type="4">
-        <text>ogg</text>
+        <text>Bruce Murray, Zedcast</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAsIFMuc3R5bGUgSDEKICAgIFsgdHlwZWZhY2UgW1N0eWxlLkZvbnQuZm9udCAiTm90byBTYW5zIiwgU3R5bGUuRm9udC5mb250ICJHZW9yZ2lhIl0KICAgICwgU3R5bGUuRm9udC5zaXplIDI0CiAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEF2aWh1IEdhbWxpZWwgaXMgYW4gYWxnb3JpdGhtcyBleHBlcnQgc3BlY2lhbGl6aW5nIGluIGNvbXB1dGVyIHZpc2lvbi4gSGUgaGFkIGJlZW4gcHJhY3RpY2luZyBBaWtpZG8gYW5kIE5pbmp1dHN1IGZvciBvdmVyIGEgZGVjYWRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsIGgxIEgxIFtdIDx8IHRleHQgIkNvZGUtRnUgJiBQcm9ncmFtLUp1dHN1OiBPbiBNYXJ0aWFsIEFydHMgYW5kICIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdlbGNvbWUgdG8gdGhlIHNob3cgaXQgaXMgTWFyY2ggMjV0aCBhbmQgdGhpcyBpcyBvdXIKICAgICAgICAgICAgICAgIDEzOHRoIHNob3cuICBUb2RheSB3aWxsIGJlIGFuIGludGVydmlldyB3aXRoIEJydWNlIE11cnJheSBmcm9tIHRoZQogICAgICAgICAgICAgICAgWmVkY2FzdCBwb2RjYXN0LiBQbGVhc2UgdmlzaXQgdGhpcyBwb2RjYXN0IGF0IGh0dHA6Ly93d3cuemVkY2FzdC5jb20vCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>textLayout Base [] 
-    [text &quot;I practice Ninjutsu and Yoga. More on this here&quot;]</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">V2VsY29tZSB0byB0aGUgc2hvdyBpdCBpcyBNYXJjaCAyNXRoIGFuZCB0aGlzIGlzIG91ciAxMzh0aAogICAgICAgICAgICAgICAgc2hvdy4gIFRvZGF5IHdpbGwgYmUgYW4gaW50ZXJ2aWV3IHdpdGggQnJ1Y2UgTXVycmF5IGZyb20gdGhlIFplZGNhc3QKICAgICAgICAgICAgICAgIHBvZGNhc3QuIFBsZWFzZSB2aXNpdCB0aGlzIHBvZGNhc3QgYXQgaHR0cDovL3d3dy56ZWRjYXN0LmNvbS8g</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">KCBjb2x1bW4gQmFzZSBbIGhlaWdodCAocGVyY2VudCAxMDApIF0KICAgICAgWyBoZWFkZXIgbW9kZWwKICAgICAgLCBtYWluQ29udGVudCBCYXNlIFtjZW50ZXIsIHBhZGRpbmdYWSAzMCAxMCwgbWF4V2lkdGggKHB4IDEyMDApXSA8fCBkaXNwbGF5TWFpbiBtb2RlbC5zZWN0aW9uCiAgICAgICwgZm9vdGVyIEJhc2UgWyBhbGlnbkJvdHRvbSBdIDx8IHJvdyBGb290ZXIgW3NwcmVhZCwgcGFkZGluZyAxMF0KICAgICAgICBbIEVsZW1lbnQudGV4dCAiQWxsIFJpZ2h0cyBSZXNlcnZlZCAtIFlvYXYgTHVmdCIKICAgICAgICAsIGxpbmsgIm1haWx0bzogeW9hdi5sdWZ0KGF0KWdtYWlsLmNvbSIgPHwgdGV4dCAieW9hdi5sdWZ0IChhdCkgZ21haWwuY29tIl0KICAgICAgXQogICAgKQ==</text>
+        <text encoding="base64">IFdlbGNvbWUgdG8gdGhlIHNob3cgaXQgaXMgTWFyY2ggMjV0aCBhbmQgdGhpcyBpcyBvdXIgMTM4dGgKICAgICAgICAgICAgICAgIHNob3cuICBUb2RheSB3aWxsIGJlIGFuIGludGVydmlldyB3aXRoIEJydWNlIE11cnJheSBmcm9tIHRoZSBaZWRjYXN0CiAgICAgICAgICAgICAgICBwb2RjYXN0LiBQbGVhc2UgdmlzaXQgdGhpcyBwb2RjYXN0IGF0IGh0dHA6Ly93d3cuemVkY2FzdC5jb20g</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KCBjb2x1bW4gQmFzZSBbIGhlaWdodCAocGVyY2VudCAxMDApIF0KICAgICAgWyBoZWFkZXIgbW9kZWwKICAgICAgLCBtYWluQ29udGVudCBCYXNlIFtjZW50ZXIsIHBhZGRpbmdYWSAzMCAxMCwgbWF4V2lkdGggKHB4IDEyMDApXSA8fCBkaXNwbGF5TWFpbiBtb2RlbC5zZWN0aW9uCiAgICAgICwgZm9vdGVyIEJhc2UgWyBhbGlnbkJvdHRvbSBdIDx8IHJvdyBGb290ZXIgW3NwcmVhZCwgcGFkZGluZyAxMF0KICAgICAgICBbIEVsZW1lbnQudGV4dCAiQWxsIFJpZ2h0cyBSZXNlcnZlZCAtIFlvYXYgTHVmdCIKICAgICAgICAsIGxpbmsgIm1haWx0bzogeW9hdi5sdWZ0KGF0KWdtYWlsLmNvbSIgPHwgdGV4dCAieW9hdi5sdWZ0IChhdCkgZ21haWwuY29tIl0KICAgICAgXQogICAgKQ==</text>
+        <text encoding="base64">IFdlbGNvbWUgdG8gdGhlIHNob3cgaXQgaXMgTWFyY2ggMjV0aCBhbmQgdGhpcyBpcyBvdXIgMTM4dGgKICAgICAgICAgICAgICAgIHNob3cuICBUb2RheSB3aWxsIGJlIGFuIGludGVydmlldyB3aXRoIEJydWNlIE11cnJheSBmcm9tIHRoZSBaZWRjYXN0CiAgICAgICAgICAgICAgICBw</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBjb2x1bW4gQmFzZSBbc3BhY2luZyAyMF0KICAgIFsgaDEgSDEgW10gPHwgdGV4dCAiT2NjdXBhdGlvbmFsIEhpc3RvcnkiCiAgICBd</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRlc2NyaXB0aW9uPiBXZWxjb21lIHRvIHRoZSBzaG93IGl0IGlzIE1hcmNoIDI1dGggYW5kIHRoaXMgaXMgb3VyIDEzOHRoCiAgICAgICAgICAgICAgICBzaG93LiAgVG9kYXkgd2lsbCBiZSBhbiBpbnRlcnZpZXcgd2l0aCBCcnVjZSBNdXJyYXkgZnJvbSB0aGUgWmVkY2FzdAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBlbXB0eQo=</text>
+      <register name="7" type="4">
+        <text>Welcome to the show it is March 25th and this is our 138th
+                show.  Today will be an interview with Bruce Murray from the Zedcast
+                podcast. Please visit this podcast at http://www.zedcast.com/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwgaDEgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXR1bmVzOmltYWdlIGhyZWY9Imh0dHA6Ly93d3cucG9kY2FzdDQxMS5jb20vaW1nLzQxMV9pdHVuZXMuanBnIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
