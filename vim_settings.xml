@@ -155,12 +155,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="49" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" timestamp="1524170308611">
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" timestamp="1524907037488">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="132" column="12" />
-        <mark key="]" line="132" column="23" />
-        <mark key="." line="132" column="23" />
-        <mark key="^" line="132" column="23" />
+        <mark key="[" line="131" column="23" />
+        <mark key="]" line="131" column="24" />
+        <mark key="." line="131" column="24" />
+        <mark key="^" line="66" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/person.ts" timestamp="1523098640094">
         <mark key="[" line="4" column="0" />
@@ -652,12 +652,12 @@
         <mark key="." line="7" column="63" />
         <mark key="^" line="7" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1524171245181">
-        <mark key="'" line="40" column="52" />
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="9" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1524907940842">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513066434076">
         <mark key="[" line="0" column="0" />
@@ -930,10 +930,10 @@
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/CodeSection.elm" timestamp="1524170232459">
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/CodeSection.elm" timestamp="1524906672119">
         <mark key="'" line="73" column="10" />
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="25" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="34" />
         <mark key="^" line="100" column="25" />
         <mark key="." line="100" column="25" />
       </file>
@@ -971,11 +971,15 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="31" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" timestamp="1524908084897">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
-      <jump line="11" column="7" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
       <jump line="46" column="26" filename="$USER_HOME$/Projects/FuncCon/site/configs/webpack.config.js" />
       <jump line="38" column="10" filename="$USER_HOME$/Projects/FuncCon/site/configs/webpack.config.js" />
@@ -1073,52 +1077,56 @@
       <jump line="125" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" />
       <jump line="129" column="13" filename="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Styling.elm" />
+      <jump line="16" column="10" filename="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" />
+      <jump line="74" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Sections/MovementSection.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>maxWidth (px 1200</text>
+        <text>ogg</text>
       </register>
       <register name="-" type="4">
-        <text>maxWidth (px 1200</text>
+        <text>ogg</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAsIFMuc3R5bGUgUHJvamVjdHNTdHlsZQogICAgKFtdICsrIGZvbnRzLmJvZHkubm9ybWFsKQo=</text>
+        <text encoding="base64">ICAsIFMuc3R5bGUgSDEKICAgIFsgdHlwZWZhY2UgW1N0eWxlLkZvbnQuZm9udCAiTm90byBTYW5zIiwgU3R5bGUuRm9udC5mb250ICJHZW9yZ2lhIl0KICAgICwgU3R5bGUuRm9udC5zaXplIDI0CiAgICBdCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCBjb2x1bW4gQmFzZSBbIGhlaWdodCAocGVyY2VudCAxMDApIF0KICAgICAgWyBoZWFkZXIgbW9kZWwKICAgICAgLCBtYWluQ29udGVudCBCYXNlIFtjZW50ZXIsIHBhZGRpbmdYWSAzMCAxMCwgbWF4V2lkdGggKHB4IDEyMDApXSA8fCBkaXNwbGF5TWFpbiBtb2RlbC5zZWN0aW9uCiAgICAgICwgZm9vdGVyIEJhc2UgWyBhbGlnbkJvdHRvbSBdIDx8IHJvdyBGb290ZXIgW3NwcmVhZCwgcGFkZGluZyAxMF0KICAgICAgICBbIEVsZW1lbnQudGV4dCAiQWxsIFJpZ2h0cyBSZXNlcnZlZCAtIFlvYXYgTHVmdCIKICAgICAgICAsIGxpbmsgIm1haWx0bzogeW9hdi5sdWZ0KGF0KWdtYWlsLmNvbSIgPHwgdGV4dCAieW9hdi5sdWZ0IChhdCkgZ21haWwuY29tIl0KICAgICAgXQogICAgKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAsIGgxIEgxIFtdIDx8IHRleHQgIkNvZGUtRnUgJiBQcm9ncmFtLUp1dHN1OiBPbiBNYXJ0aWFsIEFydHMgYW5kICIK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KCBjb2x1bW4gQmFzZSBbIGhlaWdodCAocGVyY2VudCAxMDApIF0KICAgICAgWyBoZWFkZXIgbW9kZWwKICAgICAgLCBtYWluQ29udGVudCBCYXNlIFtjZW50ZXIsIHBhZGRpbmdYWSAzMCAxMCwgbWF4V2lkdGggKHB4IDEyMDApXSA8fCBkaXNwbGF5TWFpbiBtb2RlbC5zZWN0aW9uCiAgICAgICwgZm9vdGVyIEJhc2UgWyBhbGlnbkJvdHRvbSBdIDx8IHJvdyBGb290ZXIgW3NwcmVhZCwgcGFkZGluZyAxMF0KICAgICAgICBbIEVsZW1lbnQudGV4dCAiQWxsIFJpZ2h0cyBSZXNlcnZlZCAtIFlvYXYgTHVmdCIKICAgICAgICAsIGxpbmsgIm1haWx0bzogeW9hdi5sdWZ0KGF0KWdtYWlsLmNvbSIgPHwgdGV4dCAieW9hdi5sdWZ0IChhdCkgZ21haWwuY29tIl0KICAgICAgXQogICAgKQ==</text>
+        <text>textLayout Base [] 
+    [text &quot;I practice Ninjutsu and Yoga. More on this here&quot;]</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb2x1bW4gQmFzZSBbc3BhY2luZyAyMF0KICAgIFsgaDEgSDEgW10gPHwgdGV4dCAiT2NjdXBhdGlvbmFsIEhpc3RvcnkiCiAgICBd</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBlbXB0eQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KCBjb2x1bW4gQmFzZSBbIGhlaWdodCAocGVyY2VudCAxMDApIF0KICAgICAgWyBoZWFkZXIgbW9kZWwKICAgICAgLCBtYWluQ29udGVudCBCYXNlIFtjZW50ZXIsIHBhZGRpbmdYWSAzMCAxMCwgbWF4V2lkdGggKHB4IDEyMDApXSA8fCBkaXNwbGF5TWFpbiBtb2RlbC5zZWN0aW9uCiAgICAgICwgZm9vdGVyIEJhc2UgWyBhbGlnbkJvdHRvbSBdIDx8IHJvdyBGb290ZXIgW3NwcmVhZCwgcGFkZGluZyAxMF0KICAgICAgICBbIEVsZW1lbnQudGV4dCAiQWxsIFJpZ2h0cyBSZXNlcnZlZCAtIFlvYXYgTHVmdCIKICAgICAgICAsIGxpbmsgIm1haWx0bzogeW9hdi5sdWZ0KGF0KWdtYWlsLmNvbSIgPHwgdGV4dCAieW9hdi5sdWZ0IChhdCkgZ21haWwuY29tIl0KICAgICAgXQogICAgKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICwgaDEgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCBjb2x1bW4gQmFzZSBbIGhlaWdodCAocGVyY2VudCAxMDApIF0KICAgICAgWyBoZWFkZXIgbW9kZWwKICAgICAgLCBtYWluQ29udGVudCBCYXNlIFtjZW50ZXIsIHBhZGRpbmdYWSAzMCAxMCwgbWF4V2lkdGggKHB4IDEyMDApXSA8fCBkaXNwbGF5TWFpbiBtb2RlbC5zZWN0aW9uCiAgICAgICwgZm9vdGVyIEJhc2UgWyBhbGlnbkJvdHRvbSBdIDx8IHJvdyBGb290ZXIgW3NwcmVhZCwgcGFkZGluZyAxMF0KICAgICAgICBbIEVsZW1lbnQudGV4dCAiQWxsIFJpZ2h0cyBSZXNlcnZlZCAtIFlvYXYgTHVmdCIKICAgICAgICAsIGxpbmsgIm1haWx0bzogeW9hdi5sdWZ0KGF0KWdtYWlsLmNvbSIgPHwgdGV4dCAieW9hdi5sdWZ0IChhdCkgZ21haWwuY29tIl0KICAgICAgXQogICAgKQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBjb2x1bW4gQmFzZSBbc3BhY2luZyAyMF0KICAgIFsgaDEgSDEgW10gPHwgdGV4dCAiT2NjdXBhdGlvbmFsIEhpc3RvcnkiCiAgICBd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwgc3BhY2VyIDIK</text>
+        <text encoding="base64">ICBlbXB0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICggKQo=</text>
+        <text encoding="base64">ICAgICwgaDEgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsIFMuc3R5bGUgTmF2QmFyTWlkZGxlCiAgICAoWyBTdHlsZS5Gb250LmNlbnRlciBdCiAgICArKwogICAgZm9udHMuYm9keS5sYXJnZQogICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
