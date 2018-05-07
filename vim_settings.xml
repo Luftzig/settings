@@ -143,6 +143,13 @@
         <mark key="." line="134" column="51" />
         <mark key="^" line="134" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/language-ecmascript/util/language-ecmascript-testgen/src/Converter.hs" timestamp="1525700491321">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="189" column="22" />
+        <mark key="]" line="189" column="26" />
+        <mark key="." line="189" column="26" />
+        <mark key="^" line="189" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/src/Cats.elm" timestamp="1508230105918">
         <mark key="[" line="12" column="78" />
         <mark key="]" line="12" column="70" />
@@ -573,6 +580,11 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/language-ecmascript/util/language-ecmascript-testgen/language-ecmascript-testgen.cabal" timestamp="1525700087435">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/.gitignore" timestamp="1513684898298">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -705,8 +717,8 @@
         <mark key="." line="430" column="61" />
         <mark key="^" line="437" column="103" />
       </file>
-      <file name="$USER_HOME$/Projects/language-ecmascript/src/Language/ECMAScript5/Syntax.hs" timestamp="1523117748397">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/language-ecmascript/src/Language/ECMAScript5/Syntax.hs" timestamp="1525700461064">
+        <mark key="'" line="123" column="5" />
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -999,9 +1011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="42" filename="$USER_HOME$/Projects/FuncCon/site/src/view/sponsor.tsx" />
-      <jump line="104" column="65" filename="$USER_HOME$/Projects/FuncCon/site/src/view/team-member.tsx" />
-      <jump line="118" column="58" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="120" column="22" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="42" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="50" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1099,19 +1108,22 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/luftzig.com/gae/www/resources/feed.rss" />
       <jump line="6" column="43" filename="$USER_HOME$/Projects/luftzig.com/gae/www/resources/feed.rss" />
       <jump line="15" column="23" filename="$USER_HOME$/Projects/language-ecmascript/test/TestMain.hs" />
+      <jump line="89" column="0" filename="$USER_HOME$/Projects/language-ecmascript/util/language-ecmascript-testgen/src/Converter.hs" />
+      <jump line="159" column="10" filename="$USER_HOME$/Projects/language-ecmascript/src/Language/ECMAScript5/Syntax.hs" />
+      <jump line="123" column="5" filename="$USER_HOME$/Projects/language-ecmascript/src/Language/ECMAScript5/Syntax.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRNYWluICQgdGVzdEdyb3VwICJhbGwgdGVzdHMiCiAgICAgICAgICAgIFt0ZXN0c19lY21hc2NyaXB0NV9wYXJzZXIK</text>
+      <register name="&quot;" type="4">
+        <text>Expr</text>
       </register>
       <register name="-" type="4">
-        <text>Bruce Murray, Zedcast</text>
+        <text>Expr</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>Property</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEF2aWh1IEdhbWxpZWwgaXMgYW4gYWxnb3JpdGhtcyBleHBlcnQgc3BlY2lhbGl6aW5nIGluIGNvbXB1dGVyIHZpc2lvbi4gSGUgaGFkIGJlZW4gcHJhY3RpY2luZyBBaWtpZG8gYW5kIE5pbmp1dHN1IGZvciBvdmVyIGEgZGVjYWRlCg==</text>
@@ -1153,9 +1165,9 @@
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>Property</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>Property</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -1163,8 +1175,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initModel</entry>
-        <entry>print</entry>
         <entry>analyzeRe</entry>
         <entry>guy</entry>
         <entry>adi</entry>
@@ -1183,6 +1193,8 @@
         <entry>Punc</entry>
         <entry>\cpunct</entry>
         <entry>var</entry>
+        <entry>PEx</entry>
+        <entry>Property</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
