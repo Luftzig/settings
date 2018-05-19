@@ -190,11 +190,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/KattisTests/src/Cups.hs" timestamp="1526731850059">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/Projects/KattisTests/src/Cups.hs" timestamp="1526733156485">
+        <mark key="'" line="39" column="23" />
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/src/Main.elm" timestamp="1517564920292">
         <mark key="'" line="89" column="8" />
@@ -747,6 +748,12 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="118" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/KattisTests/Cups/Cups.hs" timestamp="1526733583413">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board-header.tsx" timestamp="1515491187440">
         <mark key="'" line="57" column="79" />
         <mark key="[" line="57" column="94" />
@@ -1036,9 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="42" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="124" column="18" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="19" column="30" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="119" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="129" column="28" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="128" column="41" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1136,16 +1140,19 @@
       <jump line="4" column="38" filename="$USER_HOME$/Projects/FuncCon/site/src/view/agenda.tsx" />
       <jump line="2" column="54" filename="$USER_HOME$/Projects/FuncCon/site/src/view/specific-agenda.tsx" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/KattisTests/stack.yaml" />
+      <jump line="35" column="2" filename="$USER_HOME$/Projects/KattisTests/src/Cups.hs" />
+      <jump line="17" column="21" filename="$USER_HOME$/Projects/KattisTests/src/Cups.hs" />
+      <jump line="38" column="23" filename="$USER_HOME$/Projects/KattisTests/src/Cups.hs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text>Cups</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>Cups</text>
       </register>
       <register name="/" type="4">
         <text>Property</text>
@@ -1154,34 +1161,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEF2aWh1IEdhbWxpZWwgaXMgYW4gYWxnb3JpdGhtcyBleHBlcnQgc3BlY2lhbGl6aW5nIGluIGNvbXB1dGVyIHZpc2lvbi4gSGUgaGFkIGJlZW4gcHJhY3RpY2luZyBBaWtpZG8gYW5kIE5pbmp1dHN1IGZvciBvdmVyIGEgZGVjYWRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjYXNlIChyZWFkRWl0aGVyIGEgOjogTWF5YmUgSW50ZWdlciBTdHJpbmcsIHJlYWRFaXRoZXIgYiA6OiBFaXRoZXIgSW50ZWdlciBTdHJpbmcpIG9mCiAgICAoTGVmdCBkLCBSaWdodCBjKSAtPiBEaWFtZXRlciBkIGMKICAgIChSaWdodCBjLCBMZWZ0IHIpIC0+IFJhZGl1cyBjIHIK</text>
+        <text encoding="base64">bWFpbiA9IGludGVyYWN0IHNvcnRDdXBzCgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYkNvbG9yID0gY29sb3IgYgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBjYXNlICh3b3JkcyBzKSBvZgogICAgKGE6YikgLT4KICAgICAgY2FzZSAocmVhZE1heWJlICk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYUNvbG9yID0gY29sb3IgYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5zdGFuY2UgUmVhZCBDdXAgd2hlcmUKICByZWFkIHMgPQogICAgY2FzZSAod29yZHMgcykgb2YKICAgICAgKGE6YikgLT4gCg==</text>
+        <text encoding="base64">ICBjYXNlIChyZWFkRWl0aGVyIGEgOjogTWF5YmUgSW50ZWdlciBTdHJpbmcsIHJlYWRFaXRoZXIgYiA6OiBFaXRoZXIgSW50ZWdlciBTdHJpbmcpIG9mCiAgICAoTGVmdCBkLCBSaWdodCBjKSAtPiBEaWFtZXRlciBkIGMKICAgIChSaWdodCBjLCBMZWZ0IHIpIC0+IFJhZGl1cyBjIHIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bWFpbiA9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBjYXNlICh3b3JkcyBzKSBvZgogICAgKGE6YikgLT4KICAgICAgY2FzZSAocmVhZE1heWJlICk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCBnaGMK</text>
+        <text encoding="base64">aW5zdGFuY2UgUmVhZCBDdXAgd2hlcmUKICByZWFkIHMgPQogICAgY2FzZSAod29yZHMgcykgb2YKICAgICAgKGE6YikgLT4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
