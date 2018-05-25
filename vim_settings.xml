@@ -562,11 +562,12 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" timestamp="1523099837962">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" timestamp="1527261841941">
+        <mark key="'" line="106" column="17" />
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1507025873370">
         <mark key="'" line="198" column="68" />
@@ -602,9 +603,9 @@
         <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data.ts" timestamp="1523708462599">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Arab-Spring/.gitignore" timestamp="1516969123999">
         <mark key="'" line="58" column="4" />
@@ -612,6 +613,12 @@
         <mark key="]" line="71" column="11" />
         <mark key="^" line="71" column="11" />
         <mark key="." line="71" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/agenda-data.ts" timestamp="1527261698913">
+        <mark key="[" line="232" column="43" />
+        <mark key="]" line="232" column="42" />
+        <mark key="." line="232" column="42" />
+        <mark key="^" line="232" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/about.ts" timestamp="1520010877312">
         <mark key="[" line="0" column="0" />
@@ -923,7 +930,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525702390006">
+      <file name="/Dummy.txt" timestamp="1527261855411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="9" />
@@ -1071,13 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
-      <jump line="121" column="24" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="68" column="24" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze.hs" />
-      <jump line="19" column="28" filename="$USER_HOME$/Projects/FuncCon/site/src/view/footer.tsx" />
-      <jump line="72" column="25" filename="$USER_HOME$/Projects/FuncCon/site/src/view/splash.tsx" />
-      <jump line="111" column="56" filename="$USER_HOME$/Projects/FuncCon/site/src/view/team-member.tsx" />
       <jump line="68" column="48" filename="$USER_HOME$/Projects/FuncCon/site/src/view/team-member.tsx" />
       <jump line="14" column="34" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
       <jump line="2" column="25" filename="$USER_HOME$/Projects/FuncCon/site/src/data/team-data.ts" />
@@ -1171,52 +1171,232 @@
       <jump line="41" column="0" filename="$USER_HOME$/Projects/KattisTests/Robots/Main.hs" />
       <jump line="68" column="35" filename="$USER_HOME$/Projects/KattisTests/Robots/Main.hs" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/KattisTests/Hash/Main.hs" />
+      <jump line="59" column="54" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
+      <jump line="146" column="4" filename="$USER_HOME$/Projects/FuncCon/site/src/data/agenda-data.ts" />
+      <jump line="64" column="26" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
+      <jump line="76" column="28" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
+      <jump line="82" column="2" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
+      <jump line="93" column="51" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
+      <jump line="104" column="17" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uOiAK</text>
       </register>
       <register name="-" type="4">
-        <text>paths =</text>
+        <text>{ }</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbGlkQ2hvaWNlcyA9IGZpbHRlciAobm90IC4gbnVsbCkgY2hvaWNlcwogICAgbWF4U29sdXRpb24gPSBtaW4gKGxlbmd0aCB2YWxpZENob2ljZXMpIChsZW5ndGggJCBmb2xkbDEgdW5pb24gY2hvaWNlcykKICAgIHNvcnRlZENob2ljZXMgPSBzb3J0QnkgKFxhIGIgLT4gbGVuZ3RoIGEgYGNvbXBhcmVgIGxlbmd0aCBiKSB2YWxpZENob2ljZXMK</text>
+        <text encoding="base64">ICAgICAgICByb29tOiAnQXVkaXRvcml1bScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc2NyaXB0aW9uOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgpob3Bjcm9mdEthcnAgOjogWyhhLCBiKV0gLT4gWyhhLCBiKV0KaG9wY3JvZnRLYXJwIGdyYXBoID0KICBsZXQKICAgIG1hdGNoZWRFZGdlcyA9IFtdCiAgICBoYXNQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3J0RGVzY3JpcHRpb246IHRydWUsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Zm9yZEZ1bGtlcnNvbiA6OiBbKGwsIHIpXSAtPiBJbnRlZ2VyCmZvcmRGdWxrZXJzb24gZ3JhcGggPQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ3ZCA6OiAoT3JkIGwxLCBPcmQgcjEpID0+IE0uTWFwIGwxIFtyMV0K</text>
+      <register name="4" type="4">
+        <text>[
+    {
+      startTime: '09:00',
+      endTime: '10:00',
+      events: [{
+        id: 1,
+        shortDescription: true,
+        title: 'Keynote',
+        description: 'Turning High-level Functional Programs into Low-level Programs with Improved Performance',
+        room: 'Auditorium',
+        speakers: [Speakers['dr. jeremy yallop']]
+      }]
+    },
+    {
+      startTime: '10:00',
+      endTime: '10:30',
+      events: [{
+        id: 1,
+        title: 'Boring Usecases for Exciting Types',
+        description: 'Codensity! Indexed state! Zipper comonad! What are these words and co-words? There\'s lots of jargon in functional programming, and without context, it seems pretty academic. In this talk, I\'ll show a few lesser known functional constructs and how they can be put to work in a day-to-day usecase.',
+        room: 'Auditorium',
+        speakers: [Speakers['itamar ravid']]
+      },
+      {
+        id: 1,
+        title: 'The Math Behind Functional Languages (HE)',
+        description: 'Explaining functional programming concepts we use daily such as type-classes, semi-groups and monoids.',
+        room: 'Class X',
+        speakers: [Speakers['dvir faivel']]
+      }]
+    },
+    {
+      startTime: '10:30',
+      endTime: '11:00',
+      events: [{
+        id: 1,
+        title: 'Spoxy Proxy',
+        shortDescription: true,
+        description: 'Creating a smart proxy with a short-lived internal cache using Elixir',
+        room: 'Auditorium',
+        speakers: [Speakers['yaron wittenstein']]
+      },
+      {
+        id: 1,
+        title: 'Workshop - Haskell from the Inside Out',
+        shortDescription: true,
+        description: 'Learn the basic assumptions of Haskell that lead to its many distinguishing features',
+        room: 'Class X',
+        speakers: [Speakers['michael snoyman']]
+      }]
+    },
+    {
+      startTime: '11:00',
+      endTime: '11:30',
+      events: [{
+        id: 1,
+        title: 'Short Break',
+        room: 'Auditorium'
+      },
+      {
+        id: 1,
+        title: 'Workshop Continues',
+        room: 'Class X'
+      }]
+    },
+    {
+      startTime: '11:30',
+      endTime: '12:00',
+      events: [{
+        id: 1,
+        title: 'Practical functional programming with Clojure',
+        shortDescription: true,
+        description: 'Impure, practical functional',
+        room: 'Auditorium',
+        speakers: [Speakers['daniel szmulewicz']]
+      },
+      {
+        id: 1,
+        title: 'Workshop Continues',
+        room: 'Class X'
+      }]
+    },
+    {
+      startTime: '12:00',
+      endTime: '12:30',
+      events: [{
+        id: 1,
+        title: 'Contributing to the F# compiler (He)',
+        shortDescription: true,
+        description: 'How I contribute to the F# compiler and had fun!',
+        room: 'Auditorium',
+        speakers: [Speakers['avi avni']]
+      }, {
+        id: 2,
+        title: 'Workshop Continues',
+        room: 'Class X'
+      }]
+    },
+    {
+      startTime: '12:30',
+      endTime: '14:00',
+      events: [{
+        id: 1,
+        title: 'Lunch',
+        room: undefined
+      }]
+    },
+    {
+      startTime: '14:00',
+      endTime: '14:15',
+      events: [{
+        id: 1,
+        title: 'Functional Programming is for Everyone (Lightning Talk)',
+        room: 'Auditorium',
+        shortDescription: true,
+        description: 'Functional programming is enjoying spot lights and mainstream attention in the last few years. Yet very few companies in Israel are actually practicing functional programming. In this talk I’ll suggest few possible explanations and opportunities I see to make functional programming catch fire.',
+        speakers: [Speakers['sharon shmorak']]
+      }]
+    },
+    {
+      startTime: '14:15',
+      endTime: '14:30',
+      events: [{
+        id: 1,
+        title: 'Why Choosing Functional Programming for Doing DevOps',
+        room: 'Auditorium',
+        shortDescription: true,
+        description: 'Creator of NGS, a domain specific language for systems engineering tasks, speaks about unique combination of functional features in NGS and how they fit the design and the purpose of the language',
+        speakers: [Speakers['ilya sher']]
+      }]
+    },
+    {
+      startTime: '14:30',
+      endTime: '15:00',
+      events: [{
+        id: 1,
+        title: 'Elm from a Business Perspective',
+        room: 'Auditorium',
+        shortDescription: true,
+        description: 'In Gizra, we run an unusual stack that helps us reach blazing fast websites - Drupal runs our backends, Elm in the front, and most recently Yesod (a Haskell framework).\n' +
+        '\n' +
+        'There’s a certain mindset in choosing these technologies - it’s about the idea of “correctness”; making sure we can move quickly without breaking stuff.\n' +
+        '\n' +
+        'In this session, I’ll explain in depth about this mindset both from the development perspective, and the business one.',
+        speakers: [Speakers['amitai burstein']]
+      }]
+    },
+    {
+      startTime: '15:00',
+      endTime: '15:30',
+      events: [{
+        id: 1,
+        title: '5 Ways to Improve Performance of Your Java/Kotlin App Using Functional Programming',
+        room: 'Auditorium',
+        shortDescription: true,
+        description: 'Learn 5 Functional Programming paradigms (state, referential transparency ...) to improve any Java/Kotlin based app',
+        speakers: [Speakers['boris farber']]
+      }, {
+        id: 2,
+        title: 'Functional APIs with Absinthe GraphQL',
+        room: 'Class X',
+        shortDescription: true,
+        description: 'Absinthe is a GraphQL toolkit for Elixir-based Phoenix web framework. This talk will discuss Absinthe itself, as well as various patterns of designing GraphQL APIs with it.',
+        speakers: [Speakers['zvi avraham']]
+      }]
+    },
+    {
+      startTime: '15:30',
+      endTime: '16:00',
+      events: {
+        
+      }
+    }
+  ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ3ZCA6OiBNLk1hcCBsIFtyXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZpbmRCZXN0Q292ZXIgOjogKEVxIGEsIFNob3cgYSkgPT4gW1thXV0gLT4gW2FdCmZpbmRCZXN0Q292ZXIgY2hvaWNlcyA9CiAgbGV0CiAgICB2YWxpZENob2ljZXMgPSBmaWx0ZXIgKG5vdCAuIG51bGwpIGNob2ljZXMKICAgIG1heFNvbHV0aW9uID0gbWluIChsZW5ndGggdmFsaWRDaG9pY2VzKSAobGVuZ3RoICQgZm9sZGwxIHVuaW9uIGNob2ljZXMpCiAgICBzb3J0ZWRDaG9pY2VzID0gc29ydEJ5IChcYSBiIC0+IGxlbmd0aCBhIGBjb21wYXJlYCBsZW5ndGggYikgdmFsaWRDaG9pY2VzCiAgaW4KICAgIHRyYWNlICgiY2hvaWNlczogIiArKyBzaG93IHNvcnRlZENob2ljZXMrKyAiIG1heFNvbHV0aW9uICIgKysgc2hvdyBtYXhTb2x1dGlvbikgJCBnbyBtYXhTb2x1dGlvbiBzb3J0ZWRDaG9pY2VzCiAgd2hlcmUKICAgIGdvIDAgXyA9ICBbXQogICAgZ28gbWF4IChbXTpyZXN0KSA9IHRyYWNlICgibmV4dCBvcHRpb25zICIgKysgc2hvdyBtYXggKysgIiwgIiArKyBzaG93IHJlc3QpICQgZ28gbWF4IHJlc3QKICAgIGdvIG1heCAob3B0aW9uczpyZXN0KSA9CiAgICAgIGxldAogICAgICAgIHNvbHV0aW9ucyA9IHRyYWNlICgib3B0aW9ucyAiICsrIHNob3cgb3B0aW9ucyArKyAiLCBsZXZlbCAiICsrIHNob3cgbWF4KSAkCiAgICAgICAgICBkcm9wV2hpbGUgKFxzb2wgLT4gbGVuZ3RoIHNvbCA8PSBtYXgpIFsgc2VsZWN0aW9uIDogKGdvIChtYXggLSAxKSAkIG1hcCAoZGVsZXRlIHNlbGVjdGlvbikgcmVzdCkgfCBzZWxlY3Rpb24gPC0gb3B0aW9ucyBdCiAgICAgIGluCiAgICAgICAgdHJhY2UgKCJnbzogIiArKyBzaG93IHNvbHV0aW9ucyArKyAiLCAiICsrIHNob3cgbWF4KSAkIG1heGltdW1CeSAoXGEgYiAtPiBsZW5ndGggYSBgY29tcGFyZWAgbGVuZ3RoIGIpIHNvbHV0aW9ucwogICAgZ28gXyBbXSA9IFtdCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
