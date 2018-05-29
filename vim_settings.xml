@@ -69,11 +69,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/prototyp/src/View.elm" timestamp="1527598809137">
+      <file name="$USER_HOME$/Projects/prototyp/src/View.elm" timestamp="1527601220828">
         <mark key="'" line="72" column="74" />
-        <mark key="[" line="47" column="36" />
-        <mark key="]" line="47" column="13" />
-        <mark key="." line="47" column="13" />
+        <mark key="[" line="44" column="66" />
+        <mark key="]" line="44" column="67" />
+        <mark key="." line="44" column="67" />
         <mark key="^" line="47" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/api-client/api-v2/models.ts" timestamp="1505747836654">
@@ -140,10 +140,10 @@
         <mark key="." line="59" column="50" />
         <mark key="^" line="59" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/prototyp/server.js" timestamp="1527600466121">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/prototyp/server.js" timestamp="1527600932980">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/KattisTests/KattisTests.cabal" timestamp="1526800907698">
         <mark key="[" line="20" column="30" />
@@ -659,6 +659,13 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/prototyp/.gitignore" timestamp="1527601188270">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="70" column="6" />
+        <mark key="^" line="70" column="6" />
+        <mark key="." line="70" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/.gitignore" timestamp="1513684898298">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -899,11 +906,10 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="42" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/prototyp/src/Main.elm" timestamp="1527599241085">
-        <mark key="[" line="72" column="73" />
-        <mark key="]" line="72" column="88" />
-        <mark key="^" line="72" column="88" />
-        <mark key="." line="72" column="88" />
+      <file name="$USER_HOME$/Projects/prototyp/src/Main.elm" timestamp="1527601561360">
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Game/Game.cs" timestamp="1507023910880">
         <mark key="'" line="67" column="0" />
@@ -1110,9 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
-      <jump line="10" column="26" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
       <jump line="42" column="9" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
       <jump line="29" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
@@ -1210,16 +1213,19 @@
       <jump line="46" column="14" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="69" column="42" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="70" column="74" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/prototyp/.gitignore" />
+      <jump line="78" column="1" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
+      <jump line="86" column="36" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZnMud3JpdGVGCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Cmd.none</text>
+        <text>decodeFileData</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -1228,34 +1234,34 @@
         <text encoding="base64">ICAgICAgICAgICAgWyBTdHlsZS5Db2xvci5iYWNrZ3JvdW5kIENvbG9yLmxpZ2h0WWVsbG93CiAgICAgICAgICAgICwgU3R5bGUuQm9yZGVyLnJvdW5kZWQgMjAKICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZnMud3JpdGVGCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaGFzaCA9IGNyeXB0by5jcmVhdGVIYXNoKCdzaGEyNTYnKQo=</text>
+        <text encoding="base64">CmNvbnN0IGNyeXB0byA9IHJlcXVpcmUoJ2NyeXB0bycpOwpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXEuYm9keS5maWxlLmNvbnRlbnQpIHsKICAgICAgY29uc3QgaGFzaCA9IGNyeXB0by5jcmVhdGVIYXNoKCdzaGEyNTYnKQogICAgICBoYXNoLnVwZGF0ZShyZXEuYm9keS5maWxlLmNvbnRlbnQpCiAgICAgIGNvbnN0IGRpZ2VzdCA9IGhhc2guZGlnZXN0KCdoZXgnKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZnMud3JpdGVGCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIEFkZCBjdXN0b20gcm91dGVzIGJlZm9yZSBKU09OIFNlcnZlciByb3V0ZXIKc2VydmVyLmdldCgnL2VjaG8nLCAocmVxLCByZXMpID0+IHsKICByZXMuanNvbnAocmVxLnF1ZXJ5KQp9KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaGFzaCA9IGNyeXB0by5jcmVhdGVIYXNoKCdzaGEyNTYnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1312,8 +1318,8 @@
         <entry>s/left/l/g</entry>
         <entry>s/right/r/g</entry>
         <entry>s/date/createdAt/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
