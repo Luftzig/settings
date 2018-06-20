@@ -598,12 +598,12 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" timestamp="1528975969900">
-        <mark key="'" line="123" column="3" />
-        <mark key="[" line="112" column="14" />
-        <mark key="]" line="112" column="21" />
-        <mark key="^" line="112" column="21" />
-        <mark key="." line="112" column="21" />
+      <file name="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" timestamp="1529514172135">
+        <mark key="'" line="21" column="56" />
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="21" />
+        <mark key="^" line="77" column="21" />
+        <mark key="." line="77" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Animals/AnimalStateMachine.cs" timestamp="1507025873370">
         <mark key="'" line="198" column="68" />
@@ -966,7 +966,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528976832626">
+      <file name="/Dummy.txt" timestamp="1529514207596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/db.json" timestamp="1507644295609">
@@ -1118,8 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="28" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
-      <jump line="82" column="2" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
       <jump line="93" column="51" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
       <jump line="104" column="17" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
       <jump line="111" column="33" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
@@ -1218,6 +1216,8 @@
       <jump line="87" column="19" filename="$USER_HOME$/Projects/prototyp/src/Model.elm" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="25" column="18" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
+      <jump line="103" column="22" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
+      <jump line="21" column="56" filename="$USER_HOME$/Projects/FuncCon/site/src/data/speaker-data.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1230,7 +1230,7 @@
         <text>speakerMcSpeakerface</text>
       </register>
       <register name="/" type="4">
-        <text>'Class 008'</text>
+        <text>speaker</text>
       </register>
       <register name="0" type="4">
         <text>'Weston Building Ground Floor'</text>
@@ -1278,9 +1278,9 @@ Then view it:
       </register>
     </registers>
     <search>
-      <last-search>'Class 008'</last-search>
+      <last-search>speaker</last-search>
       <last-offset />
-      <last-pattern>'Class 008'</last-pattern>
+      <last-pattern>speaker</last-pattern>
       <last-replace>classroom</last-replace>
       <last-substitute>'Class 008'</last-substitute>
       <last-dir>1</last-dir>
@@ -1288,7 +1288,6 @@ Then view it:
     </search>
     <history>
       <history-search>
-        <entry>Property</entry>
         <entry>foldr1</entry>
         <entry>\[a\]</entry>
         <entry>\Ba\B</entry>
@@ -1308,6 +1307,7 @@ Then view it:
         <entry>getFiles</entry>
         <entry>'Auditorium'</entry>
         <entry>'Class 008'</entry>
+        <entry>speaker</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ConduitM/ConduitT/g</entry>
