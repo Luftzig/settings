@@ -27,6 +27,12 @@
         <mark key="." line="6" column="74" />
         <mark key="^" line="6" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/.gitignore" timestamp="1535098596405">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/language-ecmascript/util/language-ecmascript-testgen/language-ecmascript-testgen.cabal" timestamp="1525780268051">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="28" />
@@ -505,6 +511,13 @@
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/gradlew" timestamp="1535097990645">
+        <mark key="'" line="137" column="11" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/elm-package.json" timestamp="1506771723925">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="44" />
@@ -619,7 +632,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535097074873">
+      <file name="/Dummy.txt" timestamp="1535098612566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
@@ -708,7 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="16" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="31" column="4" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
       <jump line="54" column="70" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="22" column="21" filename="$USER_HOME$/Projects/prototyp/src/Model.elm" />
@@ -808,13 +820,14 @@
       <jump line="3" column="22" filename="$USER_HOME$/Projects/Kotlin Koans/Introduction/Java to Kotlin conversion/src/JavaCode.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Kotlin Koans/Introduction/Java to Kotlin conversion/src/JavaCode.java" />
       <jump line="13" column="4" filename="$USER_HOME$/Projects/Kotlin Koans/Introduction/Java to Kotlin conversion/src/Task.kt" />
+      <jump line="137" column="11" filename="$USER_HOME$/Projects/merckprototyp/gradlew" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>TODO()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>TODO()</text>
@@ -826,34 +839,34 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwppbXBvcnQgamF2YS51dGlsLkl0ZXJhdG9yOwoKcHVibGljIGNsYXNzIEphdmFDb2RlIHsKICAgIHB1YmxpYyBTdHJpbmcgdG9KU09OKENvbGxlY3Rpb248SW50ZWdlcj4gY29sbGVjdGlvbikgewogICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIHNiLmFwcGVuZCgiWyIpOwogICAgICAgIEl0ZXJhdG9yPEludGVnZXI+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgSW50ZWdlciBlbGVtZW50ID0gaXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICBzYi5hcHBlbmQoZWxlbWVudCk7CiAgICAgICAgICAgIGlmIChpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiLCAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBzYi5hcHBlbmQoIl0iKTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gSW52b2thYmxlKCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gSW52b2thYmxlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewogICAgICAgIHJldHVybiBvYmplY3QgOiBJdGVyYXRvcjxNeURhdGU+IHsKICAgICAgICB9CiAgICB9</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgIHJldHVybiBvYmplY3QgOiBJdGVyYXRvcjxNeURhdGU+IHsKICAgICAgICB9CiAgICB9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnNvciA6IE15RGF0ZSA9IHN0YXJ0CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBoYXNOZXh0KCk6IEJvb2xlYW4gPSB0aGlzLmN1cnNvciA8IGVuZAoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG5leHQoKTogTXlEYXRlIHsKICAgICAgICAgICAgICAgIHZhbCBuZXh0ID0gY3Vyc29yCiAgICAgICAgICAgICAgICBjdXJzb3IgPSBNeURhdGUubmV4dERheShjdXJzb3IpCiAgICAgICAgICAgICAgICByZXR1cm4gbmV4dAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
