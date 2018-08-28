@@ -117,11 +117,9 @@
         <mark key="." line="51" column="21" />
         <mark key="^" line="51" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" timestamp="1535447604824">
-        <mark key="[" line="66" column="60" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="62" column="18" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" timestamp="1535449398879">
+        <mark key="'" line="68" column="8" />
+        <mark key="^" line="94" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/elm-package.json" timestamp="1511007541041">
         <mark key="[" line="12" column="0" />
@@ -152,6 +150,9 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/FlowControlRunner.class" timestamp="1535448815327">
+        <mark key="'" line="16" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/elm-quadtree/elm-package.json" timestamp="1508770422983">
         <mark key="[" line="1" column="20" />
@@ -241,8 +242,8 @@
         <mark key="." line="41" column="61" />
         <mark key="^" line="41" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1535447576767">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1535448806450">
+        <mark key="'" line="107" column="7" />
         <mark key="[" line="106" column="6" />
         <mark key="]" line="107" column="17" />
         <mark key="^" line="107" column="17" />
@@ -801,10 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="69" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
-      <jump line="102" column="46" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
-      <jump line="140" column="53" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
-      <jump line="117" column="0" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
       <jump line="88" column="72" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="51" column="4" filename="$USER_HOME$/Projects/prototyp/src/Model.elm" />
@@ -901,52 +898,56 @@
       <jump line="29" column="18" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="16" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/UtteranceBuilder.class" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="63" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
+      <jump line="107" column="7" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="16" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/FlowControlRunner.class" />
+      <jump line="68" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIE92ZXJ3ZWlnaHRRdWVzdGlvbiA6IFN0YXRlID0gc3RhdGUgKERpYWJldGVzUXVlc3Rpb25CYXNlKSB7CiAgICBvbkVudHJ5IHsKICAgICAgICAKICAgIH0KfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>goto</text>
+        <text>diabete</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLnV0aWwuKgo=</text>
+      <register name="0" type="4">
+        <text>this.users.current.diabetesData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIE92ZXJ3ZWlnaHRRdWVzdGlvbiA6IFN0YXRlID0gc3RhdGUgKERpYWJldGVzUXVlc3Rpb25CYXNlKSB7CiAgICBvbkVudHJ5IHsKICAgICAgICAKICAgIH0KfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2F5KCJPaywgbmV4dCBxdWVzdGlvbiIpCg==</text>
+        <text encoding="base64">dmFsIEZhbWlseVF1ZXN0aW9uID0gc3RhdGUoRGlhYmV0ZXNRdWVzdGlvbkJhc2UpIHsKICAgIG9uRW50cnkgewogICAgICAgIGZ1cmhhdC5hc2soKQogICAgfQoKICAgIG9uUmVzcG9uc2U8WWVzPiB7CiAgICAgICAgdGhpcy51c2Vycy5jdXJyZW50LmRpYWJldGVzRGF0YS5zY29yZSArPSAxCiAgICAgICAgYWNrQW5kR290byhCbG9vZFByZXNzdXJlUXVlc3Rpb24pCiAgICB9CgogICAgb25SZXNwb25zZTxObz4gewogICAgICAgIGFja0FuZEdvdG8oQmxvb2RQcmVzc3VyZVF1ZXN0aW9uKQogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2F5KCJHb29kLCBuZXh0Li4uIikKICAgICAgICBnb3RvKEFnZVF1ZXN0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBuZXh0KHN0YXRlOiBTdGF0ZSkgewogICAgICAgIGZ1cmhhdC5zYXkodXR0ZXJhbmNlIHsKICAgICAgICAgICAgcmFuZG9tIHsgfQogICAgICAgICAgICByYW5kb20ge30KICAgICAgICB9KQogICAgfQo=</text>
+        <text encoding="base64">ICAgIG9uRW50cnkgewogICAgICAgIGZ1cmhhdC5hc2soKQogICAgfQogICAgCiAgICBvblJlc3BvbnNlPFllcz4geyAKICAgICAgICBhY2tBbmRHb3RvKEZhbWlseVF1ZXN0aW9uKQogICAgfQogICAgCiAgICBvblJlc3BvbnNlPE5vPiB7CiAgICAgICAgdGhpcy51c2Vycy5jdXJyZW50LmRpYWJldGVzRGF0YS5zY29yZSArPSAxCiAgICAgICAgYWNrQW5kR290byhGYW1pbHlRdWVzdGlvbikKICAgIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiR29vZCwgbmV4dCIKICAgICAgICAgICAgKyAiTmV4dCBxdWVzdGlvbiIKICAgICAgICAgICAgKyAiT0ssIG5leHQiCg==</text>
+        <text encoding="base64">ZnVuIHllc05vUXVlc3Rpb24ocXVlc3Rpb246IFN0cmluZywgbmV4dFN0YXRlOiBTdGF0ZSwgb25ZZXM6IChEaWFiZXRlc0RhdGEpIC0+IFVuaXQsIG9uTm86IChEaWFiZXRlc0RhdGEpIC0+IFVuaXQpID0KICAgICAgICBzdGF0ZSAoRGlhYmV0ZXNRdWVzdGlvbkJhc2UpIHsKICAgICAgICAgICAgb25FbnRyeSB7IAogICAgICAgICAgICAgICAgZnVyaGF0LmFzayhxdWVzdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgb25SZXNwb25zZTxZZXM+IHsKICAgICAgICAgICAgICAgIG9uWWVzKHRoaXMudXNlcnMuY3VycmVudC5kaWFiZXRlc0RhdGEpCiAgICAgICAgICAgICAgICBhY2tBbmRHb3RvKG5leHRTdGF0ZSkKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgb25SZXNwb25zZTxObz4gewogICAgICAgICAgICAgICAgb25Obyh0aGlzLnVzZXJzLmN1cnJlbnQuZGlhYmV0ZXNEYXRhKQogICAgICAgICAgICAgICAgYWNrQW5kR290byhuZXh0U3RhdGUpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
