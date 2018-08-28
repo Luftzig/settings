@@ -159,6 +159,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" timestamp="1535442048545">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/db.json" timestamp="1507644295609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="1" />
@@ -222,12 +227,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1535384735967">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1519748721866">
         <mark key="[" line="16" column="12" />
@@ -761,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="44" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="73" column="14" filename="$USER_HOME$/Projects/prototyp/src/Main.elm" />
       <jump line="45" column="54" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
       <jump line="48" column="32" filename="$USER_HOME$/Projects/prototyp/src/View.elm" />
@@ -861,6 +859,7 @@
       <jump line="32" column="33" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="65" column="33" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="28" column="131" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/Furhat.class" />
+      <jump line="8" column="19" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -882,31 +881,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnZhbCBJZGxlOiBTdGF0ZSA9IHN0YXRlIHsKCiAgICBpbml0IHsKICAgICAgICBmdXJoYXQuc2V0Vm9pY2UoTGFuZ3VhZ2UuRU5HTElTSF9VUywgR2VuZGVyLk1BTEUpCiAgICAgICAgaWYgKHVzZXJzLmNvdW50ID4gMCkgewogICAgICAgICAgICBmdXJoYXQuYXR0ZW5kKHVzZXJzLnJhbmRvbSkKICAgICAgICAgICAgZ290byhBbGNvaG9saXNtSW50cm8pCiAgICAgICAgfQogICAgfQoKICAgIG9uRW50cnkgewogICAgICAgIGZ1cmhhdC5hdHRlbmROb2JvZHkoKQogICAgfQoKICAgIG9uVXNlckVudGVyIHsKICAgICAgICBmdXJoYXQuYXR0ZW5kKGl0KQogICAgICAgIGdvdG8oQWxjb2hvbGlzbUludHJvKQogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CnZhbCBJZGxlOiBTdGF0ZSA9IHN0YXRlIHsKCiAgICBpbml0IHsKICAgICAgICBmdXJoYXQuc2V0Vm9pY2UoTGFuZ3VhZ2UuRU5HTElTSF9VUywgR2VuZGVyLk1BTEUpCiAgICAgICAgaWYgKHVzZXJzLmNvdW50ID4gMCkgewogICAgICAgICAgICBmdXJoYXQuYXR0ZW5kKHVzZXJzLnJhbmRvbSkKICAgICAgICAgICAgZ290byhBbGNvaG9saXNtSW50cm8pCiAgICAgICAgfQogICAgfQoKICAgIG9uRW50cnkgewogICAgICAgIGZ1cmhhdC5hdHRlbmROb2JvZHkoKQogICAgfQoKICAgIG9uVXNlckVudGVyIHsKICAgICAgICBmdXJoYXQuYXR0ZW5kKGl0KQogICAgICAgIGdvdG8oQWxjb2hvbGlzbUludHJvKQogICAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cj09PT09PT0KPj4+Pj4+PiBhOTQxNjM0ZjlmYmEyYmVmNjJlZTUzMmUxMWI2MDU5YjY1MzgyYzU2CnZhbCBJbnRlcmFjdGlvbjogU3RhdGUgPSBzdGF0ZSB7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIElkbGU6IFN0YXRlID0gc3RhdGUgewoKICAgIGluaXQgewogICAgICAgIGZ1cmhhdC5zZXRWb2ljZShMYW5ndWFnZS5FTkdMSVNIX1VTLCBHZW5kZXIuTUFMRSkKICAgICAgICBpZiAodXNlcnMuY291bnQgPiAwKSB7CiAgICAgICAgICAgIGZ1cmhhdC5hdHRlbmQodXNlcnMucmFuZG9tKQogICAgICAgICAgICBnb3RvKFN0YXJ0KQogICAgICAgIH0KICAgIH0KCiAgICBvbkVudHJ5IHsKICAgICAgICBmdXJoYXQuYXR0ZW5kTm9ib2R5KCkKICAgIH0KCiAgICBvblVzZXJFbnRlciB7CiAgICAgICAgZnVyaGF0LmF0dGVuZChpdCkKICAgICAgICBnb3RvKFN0YXJ0KQogICAgfQp9Cgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlIC0+IHsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cj09PT09PT0KPj4+Pj4+PiBhOTQxNjM0ZjlmYmEyYmVmNjJlZTUzMmUxMWI2MDU5YjY1MzgyYzU2CnZhbCBJbnRlcmFjdGlvbjogU3RhdGUgPSBzdGF0ZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIElkbGU6IFN0YXRlID0gc3RhdGUgewoKICAgIGluaXQgewogICAgICAgIGZ1cmhhdC5zZXRWb2ljZShMYW5ndWFnZS5FTkdMSVNIX1VTLCBHZW5kZXIuTUFMRSkKICAgICAgICBpZiAodXNlcnMuY291bnQgPiAwKSB7CiAgICAgICAgICAgIGZ1cmhhdC5hdHRlbmQodXNlcnMucmFuZG9tKQogICAgICAgICAgICBnb3RvKFN0YXJ0KQogICAgICAgIH0KICAgIH0KCiAgICBvbkVudHJ5IHsKICAgICAgICBmdXJoYXQuYXR0ZW5kTm9ib2R5KCkKICAgIH0KCiAgICBvblVzZXJFbnRlciB7CiAgICAgICAgZnVyaGF0LmF0dGVuZChpdCkKICAgICAgICBnb3RvKFN0YXJ0KQogICAgfQp9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdXJoYXQuc2F5KCJPSywgdGhlbi4uLiIpCiAgICAgICAgICAgICAgICAgICAgZ290byhmdXJoYXRvcy5hcHAubWVyY2suZmxvdy5pbnRyb2R1Y3Rpb24uSWRsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhbHNlIC0+IHsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
