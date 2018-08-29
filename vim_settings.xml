@@ -243,6 +243,12 @@
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/events.kt" timestamp="1535549888649">
+        <mark key="[" line="6" column="88" />
+        <mark key="]" line="6" column="94" />
+        <mark key="^" line="6" column="94" />
+        <mark key="." line="6" column="94" />
+      </file>
       <file name="$USER_HOME$/Projects/KattisTests/Cups/Cups.hs" timestamp="1526733583413">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="10" />
@@ -647,12 +653,12 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/gui/src/index.js" timestamp="1535545740719">
+      <file name="$USER_HOME$/Projects/merckprototyp/gui/src/index.js" timestamp="1535548828500">
         <mark key="'" line="0" column="24" />
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="40" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/tsconfig.json" timestamp="1507458621178">
         <mark key="[" line="8" column="12" />
@@ -774,12 +780,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1535545902602">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="59" column="44" />
-        <mark key="." line="59" column="44" />
-        <mark key="^" line="59" column="44" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1535550006152">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="89" column="24" />
+        <mark key="." line="89" column="24" />
+        <mark key="^" line="89" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/intents.kt" timestamp="1535457010262">
         <mark key="'" line="29" column="19" />
@@ -906,7 +912,6 @@
       <jump line="45" column="39" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="14" column="32" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
-      <jump line="44" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="25" column="26" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="29" column="18" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="16" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/UtteranceBuilder.class" />
@@ -947,52 +952,54 @@
       <jump line="4" column="19" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gui.kt" />
       <jump line="31" column="32" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="14" column="17" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" />
+      <jump line="44" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZXJja0dVSS53cml0ZSgiR3JlZXRpbmcgdmlzaXRvciIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="-" type="4">
-        <text>Write</text>
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="/" type="4">
         <text>Interaction</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNZXJja0dVSS53cml0ZSgiR3JlZXRpbmcgdmlzaXRvciIpCg==</text>
+      <register name="0" type="4">
+        <text>I can offer you a screening to several conditions:
+            Diabetes, Alcoholism and Hypothyroidism. To which would you like to be screened for?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdC5pbnRlbnQuc2NyZWVuaW5nVHlwZT8udmFsdWU/LmxldCB7CiAgICAgICAgICAgIHNlbmQoU2VsZWN0ZWRTY3JlZW5pbmcoaXQpKQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhLnBvcnQgPT0gd2luZG93LmxvY2F0aW9uLnBvcnQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhLnBvcnQgPT0gd2luZG93LmxvY2F0aW9uLnBvcnQpIHsK</text>
+        <text encoding="base64">dHlwZWFsaWFzIFRpdGxlID0gU3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">dHlwZWFsaWFzIFZhbHVlTmFtZSA9IFN0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhLnBvcnQgPT0gd2luZG93LmxvY2F0aW9uLnBvcnQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">dHlwZWFsaWFzIFRpdGxlID0gU3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhLnBvcnQgPT0gd2luZG93LmxvY2F0aW9uLnBvcnQpIHsK</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBSZXNwb25zZU9wdGlvbih2YWwgdGl0bGU6IFN0cmluZywgdmFsIHZhbHVlOiBTdHJpbmcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1cmhhdC5zdWJzY3JpYmUoJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
