@@ -241,6 +241,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/constants.kt" timestamp="1536154463183">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/events.kt" timestamp="1535641125555">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -258,10 +264,11 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1536153273874">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1536154753394">
+        <mark key="[" line="106" column="27" />
+        <mark key="]" line="106" column="28" />
+        <mark key="." line="106" column="28" />
+        <mark key="^" line="96" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1519748721866">
         <mark key="[" line="16" column="12" />
@@ -314,8 +321,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/user.kt" timestamp="1536153311887">
-        <mark key="[" line="66" column="88" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/user.kt" timestamp="1536154841412">
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="74" column="71" />
+        <mark key="." line="74" column="71" />
+        <mark key="^" line="74" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -754,6 +764,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gui.kt" timestamp="1536155019131">
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536151246226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -869,7 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="61" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="62" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="63" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
@@ -969,40 +984,41 @@
       <jump line="204" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="193" column="19" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="118" column="19" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="70" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/user.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>Idle</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxndWlEYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>INTRODUCTION_SAY_GOODBYE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1c2Vycy5jdXJyZW50LmludGVyYWN0aW9uU3RhdHVzLmNvdWxkbnRIZWFyKysK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVyaGF0LnNheShHRU5FUkFMX0dPT0RCWUUsIGFib3J0ID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGdldCgpID0gZGF0YS5nZXRPclB1dChJbnRlcmFjdGlvblN0YXR1czo6Y2xhc3MucXVhbGlmaWVkTmFtZSwgSW50ZXJhY3Rpb25TdGF0dXMoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHV0dGVyYW5jZShzYXlBbmRTaG93U2NyZWVuKElOVFJPRFVDVElPTl9TQVlfR09PREJZRSwgSU5UUk9EVUNUSU9OX0dPT0RCWUVfVElUTEUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1011,16 +1027,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2V0U3BlZWNoUmVjUGhyYXNlcyhsaXN0T2YoImRpYWJldGVzIiwgImFsY29ob2xpc20iLCAiaHlwb3RoeXJvaWRpc20iKSkKICAgICAgICBmdXJoYXQuYXNrKGFza0FuZFNob3dPcHRpb25zKG9wdGlvbnNQcm9tcHQsIG9wdGlvbk5hbWVzLCBjbGVhclNjcmVlbiA9IGZhbHNlKSkK</text>
+        <text encoding="base64">Y29uc3QgdmFsIE5VTV9GQUlMRURfSU5URVJBQ1RJT05TCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5hbGwgeyAoXywgc3RhdHVzKSAtPiBzdGF0dXN9KSB7CiAgICAgICAgICAgIGdvdG8oR29vZGJ5ZSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5hbGwgeyAoXywgc3RhdHVzKSAtPiBzdGF0dXN9KSB7CiAgICAgICAgICAgIGdvdG8oR29vZGJ5ZSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVyaGF0LnNheShHRU5FUkFMX0dPT0RCWUUsIGFib3J0ID0gdHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
