@@ -21,8 +21,12 @@
         <mark key="." line="31" column="58" />
         <mark key="^" line="31" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/metoogather/app/store.ts" timestamp="1536678572984">
+      <file name="$USER_HOME$/Projects/metoogather/app/store.ts" timestamp="1536679318704">
         <mark key="'" line="3" column="39" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Nullable types/src/Task.kt" timestamp="1535018050301">
         <mark key="[" line="4" column="35" />
@@ -648,6 +652,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/UtteranceBuilder.class" timestamp="1535447086640">
         <mark key="'" line="16" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536679658985">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/style-helpers.ts" timestamp="1521283612944">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="66" />
@@ -851,8 +860,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/metoogather/App.tsx" timestamp="1536678048050">
+      <file name="$USER_HOME$/Projects/metoogather/App.tsx" timestamp="1536679558317">
         <mark key="'" line="13" column="26" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1536246591008">
         <mark key="'" line="176" column="23" />
@@ -920,7 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="94" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="97" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
@@ -1019,6 +1031,7 @@
       <jump line="135" column="38" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="13" column="26" filename="$USER_HOME$/Projects/metoogather/App.tsx" />
+      <jump line="1" column="25" filename="$USER_HOME$/Projects/metoogather/app/store.ts" />
       <jump line="3" column="39" filename="$USER_HOME$/Projects/metoogather/app/store.ts" />
     </jumps>
     <registers>
@@ -1026,10 +1039,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtbmF2aWdhdGlvbiI6ICJeMi4wLjE5IiwKICAgICJAdHlwZXMvcmVhY3QtcmVkdXgiOiAiXjYuMC43IiwK</text>
+        <text encoding="base64">ICAgIHR5cGU6IHN0cmluZywKICAgIGRhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>InteractionWithBadResponse</text>
+        <text>export type Message =</text>
       </register>
       <register name="/" type="4">
         <text>I see</text>
@@ -1038,13 +1051,13 @@
         <text encoding="base64">ICAgICAgICBvblJlc3BvbnNlPEdvSG9tZT4gewogICAgICAgICAgICB2YWwgeWVzT3JObyA9IGZ1cmhhdC5hc2tZTihHRU5FUkFMX0NPTkZJUk1fR09fVE9fSE9NRSkKICAgICAgICAgICAgaWYgKHllc09yTm8gPT0gbnVsbCB8fCB5ZXNPck5vKSB7CiAgICAgICAgICAgICAgICBnb3RvKEdyZWV0VmlzaXRvcikKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtbmF2aWdhdGlvbiI6ICJeMi4wLjE5IiwKICAgICJAdHlwZXMvcmVhY3QtcmVkdXgiOiAiXjYuMC43IiwK</text>
+        <text encoding="base64">ICAgIHR5cGU6IHN0cmluZywKICAgIGRhdGEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtbmF2aWdhdGlvbiI6ICJeMi4wLjE5IiwKICAgICJAdHlwZXMvcmVhY3QtcmVkdXgiOiAiXjYuMC43IiwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1053,25 +1066,25 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXNrKHsKICAgICAgICAgICAgK2JlaGF2aW9yIHsgc2VuZChTaG93T3B0aW9uc0V2ZW50KGxpc3RPZigiWWVzIiwgIk5vIiksIHByb21wdCA9IERJQUJFVEVTX0RJU0NMQUlNRVIsIGFwcGVuZCA9IHRydWUpKSB9CiAgICAgICAgICAgICtESUFCRVRFU19ESVNDTEFJTUVSCiAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXNrKHsKICAgICAgICAgICAgK2JlaGF2aW9yIHsgc2VuZChTaG93T3B0aW9uc0V2ZW50KGxpc3RPZigiWWVzIiwgIk5vIiksIHByb21wdCA9IERJQUJFVEVTX0RJU0NMQUlNRVIsIGFwcGVuZCA9IHRydWUpKSB9CiAgICAgICAgICAgICtESUFCRVRFU19ESVNDTEFJTUVSCiAgICAgICAgfSkK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBvblJlc3BvbnNlPFllcz4gewogICAgICAgIGdvdG8oU2V4UXVlc3Rpb24pCiAgICB9CgogICAgb25SZXNwb25zZTxObz4gewogICAgICAgIGZ1cmhhdC5zYXkoRElBQkVURVNfRElTQ0xBSU1FUl9SRUZVU0VEKQogICAgICAgIHRlcm1pbmF0ZSgpCiAgICB9CgogICAgb25FdmVudCgiVXNlclJlc3BvbnNlIikgewogICAgICAgIHdoZW4gKGl0LmdldCgicmVzcG9uc2UiKSkgewogICAgICAgICAgICAiWWVzIiAtPiBnb3RvKFNleFF1ZXN0aW9uKQogICAgICAgICAgICAiTm8iIC0+IHsKICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoRElBQkVURVNfRElTQ0xBSU1FUl9SRUZVU0VEKQogICAgICAgICAgICAgICAgdGVybWluYXRlKCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBvblJlc3BvbnNlPFllcz4gewogICAgICAgIGdvdG8oU2V4UXVlc3Rpb24pCiAgICB9CgogICAgb25SZXNwb25zZTxObz4gewogICAgICAgIGZ1cmhhdC5zYXkoRElBQkVURVNfRElTQ0xBSU1FUl9SRUZVU0VEKQogICAgICAgIHRlcm1pbmF0ZSgpCiAgICB9CgogICAgb25FdmVudCgiVXNlclJlc3BvbnNlIikgewogICAgICAgIHdoZW4gKGl0LmdldCgicmVzcG9uc2UiKSkgewogICAgICAgICAgICAiWWVzIiAtPiBnb3RvKFNleFF1ZXN0aW9uKQogICAgICAgICAgICAiTm8iIC0+IHsKICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoRElBQkVURVNfRElTQ0xBSU1FUl9SRUZVU0VEKQogICAgICAgICAgICAgICAgdGVybWluYXRlKCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnZhbCBEaWFiZXRlc1F1ZXN0aW9uQmFzZSA9IHN0YXRlKEludGVyYWN0aW9uV2l0aEJhZFJlc3BvbnNlLCBzdGF0ZURlZmluaXRpb24gPSBhYm9ydGFibGVTdGF0ZURlZihTY3JlZW5pbmdTZWxlY3Rpb24pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnZhbCBEaWFiZXRlc1F1ZXN0aW9uQmFzZSA9IHN0YXRlKEludGVyYWN0aW9uV2l0aEJhZFJlc3BvbnNlLCBzdGF0ZURlZmluaXRpb24gPSBhYm9ydGFibGVTdGF0ZURlZihTY3JlZW5pbmdTZWxlY3Rpb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
