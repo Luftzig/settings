@@ -306,7 +306,8 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/metoogather/package.json" timestamp="1536755771317">
+      <file name="$USER_HOME$/Projects/metoogather/package.json" timestamp="1536839463799">
+        <mark key="'" line="15" column="57" />
         <mark key="^" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/node_modules/parse-lite/index.js" timestamp="1536756271102">
@@ -331,6 +332,11 @@
         <mark key="]" line="141" column="19" />
         <mark key="." line="141" column="19" />
         <mark key="^" line="141" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/metoogather/index.js" timestamp="1536839560545">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1519748721866">
         <mark key="[" line="16" column="12" />
@@ -987,7 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="15" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="8" column="4" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
       <jump line="86" column="16" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/model.js" />
@@ -1087,16 +1092,17 @@
       <jump line="35" column="20" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="826" column="44" filename="$USER_HOME$/Projects/metoogather/node_modules/@types/react-native-fbsdk/index.d.ts" />
       <jump line="37" column="109" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="15" column="57" filename="$USER_HOME$/Projects/metoogather/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLmxvZ0luVXNlci5iaW5kKHRoaXMpfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXtidXR0b25TdHlsZX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICBMT0cgSU4gV0lUSCBGQUNFQk9PSwogICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>../../../../</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>../../../../</text>
       </register>
       <register name="/" type="4">
         <text>I see</text>
