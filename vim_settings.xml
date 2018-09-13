@@ -158,6 +158,12 @@
         <mark key="." line="27" column="69" />
         <mark key="^" line="27" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" timestamp="1536828930692">
+        <mark key="[" line="37" column="122" />
+        <mark key="]" line="38" column="76" />
+        <mark key="." line="38" column="76" />
+        <mark key="^" line="38" column="76" />
+      </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/elm-package.json" timestamp="1511007541041">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -639,6 +645,9 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/metoogather/node_modules/@types/react-native-fbsdk/index.d.ts" timestamp="1536828801782">
+        <mark key="'" line="862" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/elm-package.json" timestamp="1524159298679">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="55" />
@@ -706,12 +715,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/UtteranceBuilder.class" timestamp="1535447086640">
         <mark key="'" line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536763871861">
+      <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536828848789">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="8" column="43" />
+        <mark key="[" line="54" column="25" />
+        <mark key="]" line="55" column="39" />
+        <mark key="." line="55" column="39" />
+        <mark key="^" line="55" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/style-helpers.ts" timestamp="1521283612944">
         <mark key="[" line="9" column="68" />
@@ -984,11 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="35" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
-      <jump line="76" column="14" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
-      <jump line="77" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
-      <jump line="46" column="38" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
-      <jump line="95" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="121" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="93" column="15" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
@@ -1084,16 +1088,21 @@
       <jump line="11" column="9" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
       <jump line="59" column="4" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
+      <jump line="22" column="16" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="37" column="13" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="39" column="128" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="862" column="44" filename="$USER_HOME$/Projects/metoogather/node_modules/@types/react-native-fbsdk/index.d.ts" />
+      <jump line="38" column="13" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLmxvZ0luVXNlci5iaW5kKHRoaXMpfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXtidXR0b25TdHlsZX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICBMT0cgSU4gV0lUSCBGQUNFQk9PSwogICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>I see</text>
@@ -1102,22 +1111,22 @@
         <text encoding="base64">ICAibmFtZSI6ICJNZVRvb0dhdGhlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLmxvZ0luVXNlci5iaW5kKHRoaXMpfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXtidXR0b25TdHlsZX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICBMT0cgSU4gV0lUSCBGQUNFQk9PSwogICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvbkFjdGlvbnMgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TG9naW5CdXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgb25Mb2dpbkZpbmlzaGVkPXsoZXJyb3IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCkgPT4gZXJyb3IgPyB0aGlzLnByb3BzLnN0b3JlLmRpc3BhdGNoKExvZ2luRXJyb3IoZXJyb3IpKSA6IHRoaXMucHJvcHMuc3RvcmUuZGlzcGF0Y2goTG9naW5Vc2VyKCkpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtBY3Rpb24sIENoYW5nZVZpZXcsIExvZ0luLCBMb2dPdXR9IGZyb20gIi4uL2FjdGlvbnMvIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1126,16 +1135,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRodW5rIGZyb20gJ3JlZHV4LXRodW5rJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvbkFjdGlvbnMgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVGh1bmtSZXN1bHQ8Uj4gPSBUaHVua0FjdGlvbjxSLCBBcHBTdGF0ZSwgdW5kZWZpbmVkLCBBY3Rpb24+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBY3Rpb24sIENoYW5nZVZpZXcsIExvZ0luLCBMb2dPdXR9IGZyb20gIi4uL2FjdGlvbnMvIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENyZWF0ZVVzZXI6IEFjdGlvbkNyZWF0b3I8VGh1bmtSZXN1bHQ8UGFyc2VBdXRoUmVwb25zZT4+ID0KICAgICh1c2VybmFtZTogc3RyaW5nLCBwYXNzd29yZDogc3RyaW5nKSA9PiAoZGlzcGF0Y2g6IERpc3BhdGNoKSA9PiB7CiAgICAgICAgcmV0dXJuIFBhcnNlVXNlci5zaWduVXAocGFyc2UsIHt1c2VybmFtZSwgcGFzc3dvcmR9KQogICAgICAgICAgICAgICAgICAgICAgICAudGhlbigocGFyc2VVc2VyOiBQYXJzZUF1dGhSZXBvbnNlKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXNwYXRjaChVc2VyU2lnbmVkVXAocGFyc2VVc2VyKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZVVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNhdGNoKChlcnJvcjogUGFyc2VFcnJvcikgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goU2lnblVwRmFpbGVkKGVycm9yKSkKICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnR5cGUgUGFyc2VFcnJvciA9IHsgcmVzcG9uc2U6IHsgZXJyb3I6IHN0cmluZyB9LCBzdGF0dXM6IG51bWJlciB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
