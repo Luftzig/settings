@@ -164,12 +164,12 @@
         <mark key="." line="27" column="69" />
         <mark key="^" line="27" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" timestamp="1536847971973">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
+      <file name="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" timestamp="1536852577160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="26" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="72" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/elm-package.json" timestamp="1511007541041">
         <mark key="[" line="12" column="0" />
@@ -715,8 +715,16 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="51" />
       </file>
+      <file name="/LoginScreen.tsx" timestamp="1536909648524" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/UtteranceBuilder.class" timestamp="1535447086640">
         <mark key="'" line="16" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536910259929">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="64" />
+        <mark key="^" line="18" column="60" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/style-helpers.ts" timestamp="1521283612944">
         <mark key="[" line="9" column="68" />
@@ -870,7 +878,7 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536851089972">
+      <file name="/Dummy.txt" timestamp="1536909662050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -989,10 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/model.js" />
-      <jump line="99" column="12" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
-      <jump line="22" column="37" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/model.js" />
-      <jump line="18" column="16" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
       <jump line="90" column="12" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
       <jump line="92" column="12" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/gui/src/index.js" />
@@ -1081,7 +1085,6 @@
       <jump line="22" column="16" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="39" column="128" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="862" column="44" filename="$USER_HOME$/Projects/metoogather/node_modules/@types/react-native-fbsdk/index.d.ts" />
-      <jump line="38" column="13" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="35" column="20" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="826" column="44" filename="$USER_HOME$/Projects/metoogather/node_modules/@types/react-native-fbsdk/index.d.ts" />
       <jump line="37" column="109" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
@@ -1089,16 +1092,21 @@
       <jump line="23" column="21" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="62" column="6" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
       <jump line="11" column="115" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
+      <jump line="62" column="2" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="38" column="21" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="28" column="43" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
+      <jump line="21" column="21" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Success</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgRmFjZWJvb2sgdXNlcjogJHtyZXNwb25zZX1gKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Success</text>
+        <text>facebookUser</text>
       </register>
       <register name="/" type="4">
         <text>I see</text>
@@ -1107,40 +1115,40 @@
         <text encoding="base64">ICAgICAgICBjYXNlICdMb2dpblVzZXJTdWNjZXNzJzoKICAgICAgICAgICAgY29uc29sZS5sb2coIkdvdCBMb2dJbiBldmVudDogIiwgYWN0aW9uKQogICAgICAgICAgICAvL2Rpc3BhdGNoKE5hdmlnYXRpb25BY3Rpb25zLm5hdmlnYXRlKHsgcm91dGVOYW1lOiAnU3VibWl0Rm9ybScgfSkpOwogICAgICAgICAgICByZXR1cm4gc3RhdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgRmFjZWJvb2sgdXNlcjogJHtyZXNwb25zZX1gKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEV4cG8K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoYEZhY2Vib29rIHVzZXI6ICRce2ZhY2Vib29rVXNlcn1gKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgcHVibGljIG1lc3NhZ2U6IHN0cmluZwogICAgICAgICAgICBwdWJsaWMgbmFtZTogc3RyaW5nCiAgICAgICAgICAgIHB1YmxpYyBzdGFjazogc3RyaW5nCiAgICAgICAgfQ==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLmxvZ0luVXNlci5iaW5kKHRoaXMpfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXtidXR0b25TdHlsZX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICBMT0cgSU4gV0lUSCBGQUNFQk9PSwogICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TG9naW5CdXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgb25Mb2dpbkZpbmlzaGVkPXsoZXJyb3IsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCkgPT4gZXJyb3IgPyB0aGlzLnByb3BzLnN0b3JlLmRpc3BhdGNoKExvZ2luRXJyb3IoZXJyb3IpKSA6IHRoaXMucHJvcHMuc3RvcmUuZGlzcGF0Y2goTG9naW5Vc2VyKCkpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdGYWNlYm9vayByZXNwb25zZScpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGYWNlYm9vayBsb2dpbicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6ICctMTQwJScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvbkFjdGlvbnMgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
