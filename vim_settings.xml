@@ -723,12 +723,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/0.3.4/b857c343570698acc461a2c2c406df09062a1a8/furhat-commons-0.3.4.jar!/furhatos/flow/kotlin/UtteranceBuilder.class" timestamp="1535447086640">
         <mark key="'" line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536917012148">
-        <mark key="'" line="40" column="50" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="41" column="56" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536919203281">
+        <mark key="'" line="16" column="48" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="75" column="6" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/style-helpers.ts" timestamp="1521283612944">
         <mark key="[" line="9" column="68" />
@@ -885,7 +885,7 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536909662050">
+      <file name="/Dummy.txt" timestamp="1536919112744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1043,7 +1043,6 @@
       <jump line="200" column="9" filename="$USER_HOME$/Projects/metoogather/node_modules/@types/react-navigation/index.d.ts" />
       <jump line="8" column="16" filename="$USER_HOME$/Projects/metoogather/app/state.ts" />
       <jump line="9" column="25" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
-      <jump line="16" column="45" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
       <jump line="709" column="0" filename="$USER_HOME$/Projects/metoogather/node_modules/@types/parse/index.d.ts" />
       <jump line="64" column="23" filename="$USER_HOME$/Projects/metoogather/App.tsx" />
       <jump line="7" column="18" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
@@ -1104,16 +1103,17 @@
       <jump line="30" column="21" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
       <jump line="23" column="29" filename="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" />
       <jump line="40" column="50" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
+      <jump line="16" column="48" filename="$USER_HOME$/Projects/metoogather/app/actions/index.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>save</text>
+        <text encoding="base64">LnRoZW4oKCkgPT4gY29uc29sZS5sb2coJ0luc3RhbGxhdGlvbiByZWdpc3RlcmVkJykp</text>
       </register>
       <register name="/" type="4">
         <text>CreateUser</text>
@@ -1122,40 +1122,40 @@
         <text encoding="base64">ICAgICAgICAgICAgaWQ6IHJlc3BvbnNlLmF1dGhSZXNwb25zZS51c2VySUQsCiAgICAgICAgICAgIGFjY2Vzc190b2tlbjogcmVzcG9uc2UuYXV0aFJlc3BvbnNlLmFjY2Vzc1Rva2VuLAogICAgICAgICAgICBleHBpcmF0aW9uX2RhdGU6IG5ldyBEYXRlKHJlc3BvbnNlLmF1dGhSZXNwb25zZS5leHBpcmVzSW4gKiAxMDAwICsgbmV3IERhdGUoKS5nZXRUaW1lKCkpLnRvSlNPTigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQpQYXJzZS5zZXJ2ZXJVUkwgPSAnaHR0cHM6Ly9wYXJzZWFwaS5iYWNrNGFwcC5jb20vJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVybiB0eXBlID09ICdzdWNjZXNzJyA/IHt0b2tlbiwgZXhwaXJlc30gOiBkaXNwYXRjaChMb2dpblVzZXJGYWlsZWQoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVjbGFyZSBQYXJzZTogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdGYWNlYm9vayByZXNwb25zZScsIHJlc3BvbnNlKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIC5jYXRjaChMb2dpblVzZXJGYWlsZWQpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0dldHRpbmcgcGFyc2UgaW5zdGFsbGF0aW9uJywgUGFyc2UuSW5zdGFsbGF0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLnRoZW4oQ3JlYXRlVXNlcikK</text>
+        <text encoding="base64">UGFyc2Uuc2V0QXN5bmNTdG9yYWdlCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBDcmVhdGVVc2VyOiBBY3Rpb25DcmVhdG9yPFRodW5rUmVzdWx0PGFueT4+ID0KICAgICh7ZXhwaXJlcywgdG9rZW59KSA9PiAoZGlzcGF0Y2g6IERpc3BhdGNoKSA9Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UuanNvbigpKQogICAgICAgICAgICAgICAudGhlbih1c2VyRGF0YSA9PiB1c2VyRGF0YS5pZCkKICAgICAgICAgICAgICAgLnRoZW4odXNlcklkID0+IHsKICAgICAgICAgICAgICAgICAgIGNvbnN0IHVzZXIgPSBuZXcgUGFyc2UuVXNlcigpCiAgICAgICAgICAgICAgICAgICBjb25zdCBhdXRoRGF0YSA9IHsKICAgICAgICAgICAgICAgICAgICAgICBpZDogICAgICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgICAgICAgICAgICAgICBhY2Nlc3NfdG9rZW46ICAgIHRva2VuLAogICAgICAgICAgICAgICAgICAgICAgIGV4cGlyYXRpb25fZGF0ZTogbmV3IERhdGUoZXhwaXJlcyAqIDEwMDAgKyBuZXcgRGF0ZSgpLmdldFRpbWUoKSkudG9KU09OKCkKICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgIHJldHVybiB1c2VyLl9saW5rV2l0aChhdXRoRGF0YSkKICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgLnRoZW4oKHVzZXIpID0+IHsKICAgICAgICAgICAgICAgICAgIGRpc3BhdGNoKFVzZXJTaWduZWRVcCh1c2VyKSkKICAgICAgICAgICAgICAgICAgIHJldHVybiB1c2VyCiAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgIC5jYXRjaCgoZXJyb3I6IGFueSkgPT4gewogICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goU2lnblVwRmFpbGVkKGVycm9yKSkKICAgICAgICAgICAgICAgICAgIHJldHVybiBlcnJvcgogICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">UGFyc2UuU3RvcmFnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaChgaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vbWU/ZmllbGRzPWlkJmFjY2Vzc190b2tlbj0ke3Rva2VufWApCiAgICAgICAgICAgIC50aGVuKHJlc3BvbnNlID0+IHJlc3BvbnNlLmpzb24oKSkKICAgICAgICAgICAgLnRoZW4odXNlckRhdGEgPT4gdXNlckRhdGEuaWQpCiAgICAgICAgICAgIC50aGVuKHVzZXJJZCA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCB1c2VyID0gbmV3IFBhcnNlLlVzZXIoKQogICAgICAgICAgICAgICAgY29uc3QgYXV0aERhdGEgPSB7CiAgICAgICAgICAgICAgICAgICAgaWQ6ICAgICAgICAgICAgICB1c2VySWQsCiAgICAgICAgICAgICAgICAgICAgYWNjZXNzX3Rva2VuOiAgICB0b2tlbiwKICAgICAgICAgICAgICAgICAgICBleHBpcmF0aW9uX2RhdGU6IG5ldyBEYXRlKGV4cGlyZXMgKiAxMDAwICsgbmV3IERhdGUoKS5nZXRUaW1lKCkpLnRvSlNPTigpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlci5fbGlua1dpdGgoYXV0aERhdGEpCiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC50aGVuKCh1c2VyKSA9PiB7CiAgICAgICAgICAgICAgICBkaXNwYXRjaChVc2VyU2lnbmVkVXAodXNlcikpCiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcgogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goKGVycm9yOiBhbnkpID0+IHsKICAgICAgICAgICAgICAgIGRpc3BhdGNoKFNpZ25VcEZhaWxlZChlcnJvcikpCiAgICAgICAgICAgICAgICByZXR1cm4gZXJyb3IKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQpQYXJzZS5zZXJ2ZXJVUkwgPSAnaHR0cHM6Ly9wYXJzZWFwaS5iYWNrNGFwcC5jb20vJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
