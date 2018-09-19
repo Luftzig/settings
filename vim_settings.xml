@@ -973,12 +973,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1537367993052">
-        <mark key="'" line="30" column="29" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="127" column="11" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1537369420045">
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="148" column="71" />
+        <mark key="]" line="148" column="71" />
+        <mark key="." line="148" column="71" />
+        <mark key="^" line="148" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/intents.kt" timestamp="1537271909550">
         <mark key="'" line="41" column="34" />
@@ -1050,8 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="409" column="37" filename="$USER_HOME$/Projects/metoogather/node_modules/parse/lib/react-native/ParseUser.js" />
-      <jump line="410" column="49" filename="$USER_HOME$/Projects/metoogather/node_modules/parse/lib/react-native/ParseUser.js" />
       <jump line="417" column="28" filename="$USER_HOME$/Projects/metoogather/node_modules/parse/lib/react-native/ParseUser.js" />
       <jump line="418" column="54" filename="$USER_HOME$/Projects/metoogather/node_modules/parse/lib/react-native/ParseUser.js" />
       <jump line="424" column="11" filename="$USER_HOME$/Projects/metoogather/node_modules/parse/lib/react-native/ParseUser.js" />
@@ -1150,58 +1148,60 @@
       <jump line="51" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="234" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="53" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
+      <jump line="102" column="41" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="96" column="28" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>goto</text>
+        <text>.toList()</text>
       </register>
       <register name="-" type="4">
-        <text>goto</text>
+        <text>.toList()</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgK0dFTkVSQUxfTkVYVF9RVUVTVElPTl9WQVIxCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3B0aW9ucyA9IGdldFNjcmVlbmluZ09wdGlvbnNGb3IodXNlcnMuY3VycmVudCkuZmlsdGVyIHshaXQudmFsdWV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3B0aW9ucyA9IGlmIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2F5KElOVFJPRFVDVElPTl9VU0VSX1NBSURfWUVTX0JVVF9OT1RfU0VMRUNURUQpCiAgICAgICAgZnVyaGF0Lmxpc3RlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb3JkaW5hbDogSW50PyA9IGl0LmludGVudC52YWx1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRpbmFsLmFwcGx5IHsgbnVtYmVyIC0+CiAgICAgICAgICAgIG9wdGlvbnMua2V5cy50b0xpc3QoKS5nZXRPck51bGwobnVtYmVyIC0gMCk/LmFwcGx5IHsKICAgICAgICAgICAgICAgIG9wdGlvbiAtPiBoYW5kbGVTY3JlZW5pbmdDaG9pY2Uob3B0aW9uKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAob3B0aW9ucy5rZXlzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucy5rZXlzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9ucwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpdC5pbnRlbnQudmFsdWUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBOb2RCZWhhdmlvdXIgPSBiZWhhdmlvciB7CiAgICAgICAgZnVyaGF0LmF0dGVuZChMb2NhdGlvbi5ET1dOKQogICAgICAgIGZ1cmhhdC5hdHRlbmQoTG9jYXRpb24uU1RSQUlHSFRfQUhFQUQpCiAgICAgICAgZnVyaGF0LmF0dGVuZCh1c2Vycy5jdXJyZW50KQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
