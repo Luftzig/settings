@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -118,6 +119,12 @@
                       <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value="\d\d:\d\d:\d\d \[Thread-\d+: \d+\]" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                   </list>
                 </option>
