@@ -882,11 +882,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" timestamp="1537447223843">
-        <mark key="'" line="75" column="112" />
-        <mark key="[" line="47" column="113" />
-        <mark key="]" line="47" column="113" />
-        <mark key="." line="47" column="113" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" timestamp="1537460429697">
+        <mark key="'" line="12" column="42" />
+        <mark key="[" line="9" column="210" />
+        <mark key="]" line="9" column="211" />
+        <mark key="." line="9" column="211" />
         <mark key="^" line="47" column="113" />
       </file>
       <file name="$USER_HOME$/Projects/prototyp/server.js" timestamp="1527926228925">
@@ -926,7 +926,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537450197581">
+      <file name="/Dummy.txt" timestamp="1537460505642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -1059,7 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="196" column="34" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="186" column="15" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="107" column="57" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
@@ -1159,19 +1158,20 @@
       <jump line="261" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="6" column="26" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="195" column="41" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="12" column="42" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9nID0gQ29tbW9uVXRpbHMuZ2V0TG9nZ2VyKHRoaXM6OmNsYXNzLmphdmEpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VG8g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VG8g</text>
       </register>
       <register name="/" type="4">
-        <text>Ack</text>
+        <text>\cto which</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlVzZXIgY29uZmlybWVkICR7dXNlcnMuY3VycmVudC5zZXgubmFtZX0iKQo=</text>
@@ -1217,9 +1217,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Ack</last-search>
+      <last-search>\cto which</last-search>
       <last-offset />
-      <last-pattern>Ack</last-pattern>
+      <last-pattern>\cto which</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1227,8 +1227,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxndWlEYXRhXD4=</entry>
-        <entry>gradle.prop</entry>
         <entry>I see</entry>
         <entry>User</entry>
         <entry>FacebookU</entry>
@@ -1247,6 +1245,8 @@
         <entry>Sex</entry>
         <entry>ack</entry>
         <entry>Ack</entry>
+        <entry>To wich</entry>
+        <entry>\cto which</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/&quot;&quot;/g</entry>
