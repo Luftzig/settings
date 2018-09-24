@@ -165,12 +165,12 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" timestamp="1537791687137">
-        <mark key="'" line="256" column="28" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="179" column="7" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" timestamp="1537792833585">
+        <mark key="'" line="246" column="15" />
+        <mark key="[" line="223" column="5" />
+        <mark key="]" line="224" column="3" />
+        <mark key="." line="224" column="3" />
+        <mark key="^" line="224" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/LoginScreen.tsx" timestamp="1536929424600">
         <mark key="'" line="30" column="23" />
@@ -406,11 +406,11 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Help.kt" timestamp="1537789011136">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="8" column="15" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Help.kt" timestamp="1537792747454">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
         <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -744,11 +744,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Overweight.kt" timestamp="1537441529252">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-        <mark key="^" line="16" column="57" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Overweight.kt" timestamp="1537792850132">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="55" />
+        <mark key="^" line="19" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/elm-package.json" timestamp="1506771723925">
         <mark key="[" line="16" column="46" />
@@ -1056,7 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="104" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="106" column="45" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="110" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
@@ -1156,22 +1155,23 @@
       <jump line="142" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="73" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="62" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
+      <jump line="246" column="15" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGhIZWxwT3B0aW9ucygiWWVzIGlmIHlvdSB1bmRlcnN0YW5kIGFuZCBhZ3JlZSIsICJObyBvdGhlcndpc2UiKQo=</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2U8T3ZlcndlaWdodEludGVudD4gewogICAgICAgIGxvZy5pbmZvKCJVc2VyIGFuc3dlcmVkICR7aXQuaW50ZW50Lm92ZXJ3ZWlnaHQ/LnZhbHVlfSAoXCIke2l0LnRleHR9XCIpIikKICAgICAgICB3aGVuIChpdC5pbnRlbnQub3ZlcndlaWdodD8udmFsdWUpIHsKICAgICAgICAgICAgImhlYWx0aHkiIC0+IHRoaXMudXNlcnMuY3VycmVudC5kaWFiZXRlc0RhdGEuc2NvcmUgKz0gMAogICAgICAgICAgICAic2xpZ2h0bHkiIC0+IHRoaXMudXNlcnMuY3VycmVudC5kaWFiZXRlc0RhdGEuc2NvcmUgKz0gMQogICAgICAgICAgICAib3ZlcndlaWdodCIgLT4gdGhpcy51c2Vycy5jdXJyZW50LmRpYWJldGVzRGF0YS5zY29yZSArPSAyCiAgICAgICAgICAgICJvYmVzZSIgLT4gdGhpcy51c2Vycy5jdXJyZW50LmRpYWJldGVzRGF0YS5zY29yZSArPSAzCiAgICAgICAgfQogICAgICAgIGFja0FuZEdvdG8oRGlhYmV0ZXNSZXN1bHRzLCBsYXN0UXVlc3Rpb24gPSB0cnVlKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZG9uJ3Qga25vdyA=</text>
       </register>
       <register name="/" type="4">
         <text>getRe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoSGVscE9wdGlvbnMoIlllcyBpZiB5b3UgdW5kZXJzdGFuZCBhbmQgYWdyZWUiLCAiTm8gb3RoZXJ3aXNlIikK</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2U8T3ZlcndlaWdodEludGVudD4gewogICAgICAgIGxvZy5pbmZvKCJVc2VyIGFuc3dlcmVkICR7aXQuaW50ZW50Lm92ZXJ3ZWlnaHQ/LnZhbHVlfSAoXCIke2l0LnRleHR9XCIpIikKICAgICAgICB3aGVuIChpdC5pbnRlbnQub3ZlcndlaWdodD8udmFsdWUpIHsKICAgICAgICAgICAgImhlYWx0aHkiIC0+IHRoaXMudXNlcnMuY3VycmVudC5kaWFiZXRlc0RhdGEuc2NvcmUgKz0gMAogICAgICAgICAgICAic2xpZ2h0bHkiIC0+IHRoaXMudXNlcnMuY3VycmVudC5kaWFiZXRlc0RhdGEuc2NvcmUgKz0gMQogICAgICAgICAgICAib3ZlcndlaWdodCIgLT4gdGhpcy51c2Vycy5jdXJyZW50LmRpYWJldGVzRGF0YS5zY29yZSArPSAyCiAgICAgICAgICAgICJvYmVzZSIgLT4gdGhpcy51c2Vycy5jdXJyZW50LmRpYWJldGVzRGF0YS5zY29yZSArPSAzCiAgICAgICAgfQogICAgICAgIGFja0FuZEdvdG8oRGlhYmV0ZXNSZXN1bHRzLCBsYXN0UXVlc3Rpb24gPSB0cnVlKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpdGhIZWxwT3B0aW9ucygiWWVzIGlmIHlvdSB1bmRlcnN0YW5kIGFuZCBhZ3JlZSIsICJObyBvdGhlcndpc2UiKQo=</text>
