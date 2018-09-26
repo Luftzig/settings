@@ -314,12 +314,12 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" timestamp="1537884161136">
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" timestamp="1537888283302">
         <mark key="'" line="46" column="32" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+        <mark key="^" line="30" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Data classes/src/Task.kt" timestamp="1535017531475">
         <mark key="[" line="0" column="36" />
@@ -895,12 +895,12 @@
         <mark key="^" line="34" column="11" />
         <mark key="." line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" timestamp="1537884563582">
-        <mark key="'" line="46" column="29" />
-        <mark key="[" line="47" column="29" />
-        <mark key="]" line="47" column="29" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="46" column="32" />
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" timestamp="1537888125214">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+        <mark key="^" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/deleteBoard.ts" timestamp="1513087937217">
         <mark key="[" line="28" column="39" />
@@ -963,6 +963,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/assets/camera.svg" timestamp="1537887910688">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="^" line="0" column="64" />
+        <mark key="." line="0" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction.kt" timestamp="1535362065199">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="6" column="3" />
@@ -982,7 +988,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537879443676">
+      <file name="/Dummy.txt" timestamp="1537888532217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
@@ -1112,7 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="43" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="292" column="18" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="308" column="23" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="309" column="43" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
@@ -1212,13 +1217,14 @@
       <jump line="45" column="32" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" />
       <jump line="45" column="29" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" />
       <jump line="46" column="32" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" />
+      <jump line="11" column="40" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1230,40 +1236,40 @@
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZChTaG93UmVzdWx0c0V2ZW50KCJoeXBvdGh5cm9pZGlzbSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImh5cG90aHlyb2lkaXNtIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZChTaG93UmVzdWx0c0V2ZW50KCJoeXBvdGh5cm9pZGlzbSIpKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImFsY29ob2xpc20iKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImh5cG90aHlyb2lkaXNtIikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNrQW5kU2hvd09wdGlvbnMoLCBsaXN0T2YoIkNvbnRpbnVlIiksIGNsZWFyU2NyZWVuID0gZmFsc2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImFsY29ob2xpc20iKSkK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyBiZWhhdmlvciB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNrQW5kU2hvd09wdGlvbnMoLCBsaXN0T2YoIkNvbnRpbnVlIiksIGNsZWFyU2NyZWVuID0gZmFsc2UpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyBiZWhhdmlvciB7ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImFsY29ob2xpc20iKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImRpYWJldGVzIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kKFNob3dSZXN1bHRzRXZlbnQoImFsY29ob2xpc20iKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
