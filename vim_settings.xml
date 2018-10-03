@@ -926,6 +926,12 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="178" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1538559810871">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/.gitignore" timestamp="1507640932537">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1169,14 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="30" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
-      <jump line="87" column="18" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
-      <jump line="31" column="55" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
-      <jump line="6" column="61" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
-      <jump line="55" column="4" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
-      <jump line="34" column="51" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" />
-      <jump line="12" column="51" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" />
-      <jump line="131" column="52" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/index.js" />
       <jump line="297" column="28" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="28" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/diabetes.kt" />
       <jump line="123" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
@@ -1269,73 +1267,81 @@
       <jump line="154" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="114" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="115" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="94" column="49" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="5381" column="44" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="6171" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="6173" column="74" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="5382" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="6166" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="6168" column="74" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ShowAboutFurhat()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgImlnbml0ZS1pci1ib2lsZXJwbGF0ZS1ib3dzZXIiOiAiZmlsZTovVXNlcnMvdG9iaWFzL3Byb2plY3RzL3NsYXNrL2lnbml0ZS1pci1ib2lsZXJwbGF0ZS1ib3dzZXIiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>ShowAboutFurhat()</text>
       </register>
       <register name="/" type="4">
-        <text>dropdown</text>
+        <text>tobias</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgK2JlaGF2aW9yIHsgc2VuZChTaG93U2NyZWVuRXZlbnQoSU5UUk9EVUNUSU9OX1dFTENPTUVfVElUTEUsIElOVFJPRFVDVElPTl9HUkVFVElORykpIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>When your thyroid doesn't produce enough hormones, the balance of chemical reactions in your 
-        body can be upset. There can be a number of causes, including autoimmune disease, treatment for hyperthyroidism, 
-        radiation therapy, thyroid surgery and certain medications.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgImlnbml0ZS1pci1ib2lsZXJwbGF0ZS1ib3dzZXIiOiAiZmlsZTovVXNlcnMvdG9iaWFzL3Byb2plY3RzL3NsYXNrL2lnbml0ZS1pci1ib2lsZXJwbGF0ZS1ib3dzZXIiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Imlnbml0ZS1pci1ib2lsZXJwbGF0ZS1ib3dzZXJAZmlsZTouLi9zbGFzay9pZ25pdGUtaXItYm9pbGVycGxhdGUtYm93c2VyIjoKICB2ZXJzaW9uICIxLjAuMCIKICBkZXBlbmRlbmNpZXM6CiAgICByYW1kYSAiXjAuMjMuMCIKCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>When your thyroid doesn't produce enough hormones, the balance of chemical reactions in your 
+        body can be upset. There can be a number of causes, including autoimmune disease, treatment for hyperthyroidism, 
+        radiation therapy, thyroid surgery and certain medications.</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="4">
         <text>diabetes, is a group of metabolic disorders in which there are high blood sugar levels over a 
         prolonged period.[7] Symptoms of high blood sugar include frequent urination, increased thirst, and increased 
         hunger.[2] If left untreated, diabetes can cause many complications.[2] Acute complications can include diabetic
          ketoacidosis, hyperosmolar hyperglycemic state, or death.[3] Serious long-term complications include 
          cardiovascular disease, stroke, chronic kidney disease, foot ulcers, and damage to the eyes.[2]</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">QWxjb2hvbGlzbSwgYWxzbyBrbm93biBhcyBhbGNvaG9sIHVzZSBkaXNvcmRlciAoQVVEKSwgaXMgYSBicm9hZCB0ZXJtIGZvciBhbnkgZHJpbmtpbmcgb2YgYWxjb2hvbAogICAgICAgICB0aGF0IHJlc3VsdHMgaW4gbWVudGFsIG9yIHBoeXNpY2FsIGhlYWx0aCBwcm9ibGVtcy5bMTJdIFRoZSBkaXNvcmRlciB3YXMgcHJldmlvdXNseSBkaXZpZGVkIGludG8gdHdvIHR5cGVzOiAKICAgICAgICAgYWxjb2hvbCBhYnVzZSBhbmQgYWxjb2hvbCBkZXBlbmRlbmNlLgogICAgICAgICA8cC8+CiAgICAgICAgIFNocGlsIHpoZSBtaXIgYSBsaWRlbGUgaW4geWlkZGlzaDxici8+CmRlcnZla24gem9sIGVzIGZyZXlkIHVuIG5pdCBrZXluIGtoaWRlc2g8YnIvPgpheiBhbGUgZ3JveXMgdW4ga2xleW4gem9sbiBrZW5lbiBkb3MgZmFyc2h0ZXluPGJyLz4KZnVuIG1veWwgdHp1IG1veWwgZG9zIGxpZGVsZSB6b2wgZ2V5bjxici8+CgogICAgICAgICA8cC8+ClNocGlsIHNocGlsIGtsZXptZXIgc2hwaWw8YnIvPgp2ZXlzdCBkb2toIHZvcyBpa2ggbWV5biB1biB2b3MgaWtoIHZpbDxici8+CnNocGlsIHNocGlsIHNocGlsIGEgbmlnZGwgZmFyIG1pcjxici8+CnNocGlsIG1pdCBoYXJ0eiB1biBtaXQgZ2VmaWw8YnIvPgoKICAgICAgICAgPHAvPgpBIGxpZGVsZSBvbiB6aWZ0emVuIHVuIG9uIHRyZXJuPGJyLz4Kc2hwaWwgYXpveSBheiBhbGUgem9sbiBoZXJuPGJyLz4KYXogYWxlIHpvbG4gemVuIGlraCBsZWIgdW4gemluZ2VuIGtlbjxici8+CnNoZXluZXIgbm9raCB1biBiZXNlciB2aSBnZXZlbjxici8+CgogICAgICAgICA8cC8+ClNocGlsIHNocGlsIGtsZXptZXIgc2hwaWw8YnIvPgp2ZXlzdCBkb2toIHZvcyBpa2ggbWV5biB1biB2b3MgaWtoIHZpbDxici8+CnNocGlsIHNocGlsIHNocGlsIGEgbmlnZGwgZmFyIG1pcjxici8+CnNocGlsIG1pdCBoYXJ0eiB1biBtaXQgZ2VmaWw8YnIvPgoKICAgICAgICAgPHAvPgpMb21pciB6aW5nZW4gc1xgbGlkZWxlIHR6dXphbWVuPGJyLz4KdmkgZ3V0ZSBmcmF5bmQgdmkga2luZGVyIGZ1biBleW4gbWFtZW48YnIvPgptYXluIGV5bnR6aWtlciBmYXJsYW5nIHNcYHpvbCBrbGluZ2VuIGZyYXkgdW4gZnJhbms8YnIvPgppbiBhbGVtZW5zIGdlemFuZyBveWtoIG1heW4gZ2V6YW5nPGJyLz4KCiAgICAgICAgIDxwLz4=</text>
-      </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aXMgYSBnbG9iYWwgaGVhbHRoY2FyZSBjb21wYW55IHdpdGggYSAxMjUteWVhciBoaXN0b3J5IG9mIHdvcmtpbmcgdG8gbWFrZSBhCiAgICAgICAgICAgICAgICAgICAgICAgIGRpZmZlcmVuY2UuPGJyLz5UaHJvdWdoIHRoZSB5ZWFycywgb3VyIHJlc2VhcmNoZXJzIGhhdmUgaGVscGVkIHRvIGZpbmQgbmV3IHdheXMgdG8gdHJlYXQKICAgICAgICAgICAgICAgICAgICAgICAgYW5kIHByZXZlbnQgaWxsbmVzcyBpbiBwZW9wbGUgYW5kIGFuaW1hbHMgYXJvdW5kIHRoZSB3b3JsZC4gV2UgYXJlIHBhcnRuZXJpbmcgd2l0aAogICAgICAgICAgICAgICAgICAgICAgICBGdXJoYXQgUm9ib3RpY3Mgb24gdGhpcyByb2JvdCBtZWRpY2FsIHNjcmVlbmluZyBzdGF0aW9uIHRvIGhlbHAgcGVvcGxlIGxlYXJuIGFib3V0IHRoZWlyCiAgICAgICAgICAgICAgICAgICAgICAgIHBlcnNvbmFsIG1lZGljYWwgc2l0dWF0aW9uIGluIGEgbmV3IGFuZCBleGNpdGluZyB3YXkuIFRvIGxlYXJuIG1vcmUsIHBsZWFzZSB2aXNpdCBvdXIKICAgICAgICAgICAgICAgICAgICAgICAgd2Vic2l0ZS4=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">aXMgYSBnbG9iYWwgaGVhbHRoY2FyZSBjb21wYW55IHdpdGggYSAxMjUteWVhciBoaXN0b3J5IG9mIHdvcmtpbmcgdG8gbWFrZSBhCiAgICAgICAgICAgICAgICAgICAgICAgIGRpZmZlcmVuY2UuPGJyLz5UaHJvdWdoIHRoZSB5ZWFycywgb3VyIHJlc2VhcmNoZXJzIGhhdmUgaGVscGVkIHRvIGZpbmQgbmV3IHdheXMgdG8gdHJlYXQKICAgICAgICAgICAgICAgICAgICAgICAgYW5kIHByZXZlbnQgaWxsbmVzcyBpbiBwZW9wbGUgYW5kIGFuaW1hbHMgYXJvdW5kIHRoZSB3b3JsZC4gV2UgYXJlIHBhcnRuZXJpbmcgd2l0aAogICAgICAgICAgICAgICAgICAgICAgICBGdXJoYXQgUm9ib3RpY3Mgb24gdGhpcyByb2JvdCBtZWRpY2FsIHNjcmVlbmluZyBzdGF0aW9uIHRvIGhlbHAgcGVvcGxlIGxlYXJuIGFib3V0IHRoZWlyCiAgICAgICAgICAgICAgICAgICAgICAgIHBlcnNvbmFsIG1lZGljYWwgc2l0dWF0aW9uIGluIGEgbmV3IGFuZCBleGNpdGluZyB3YXkuIFRvIGxlYXJuIG1vcmUsIHBsZWFzZSB2aXNpdCBvdXIKICAgICAgICAgICAgICAgICAgICAgICAgd2Vic2l0ZS4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNrQW5kR290byhHcmVldFZpc2l0b3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHllc09yTm8gPSBmdXJoYXQuYXNrWU4oR0VORVJBTF9DT05GSVJNX0dPX1RPX0hPTUUpCiAgICAgICAgICAgIGlmICh5ZXNPck5vID09IG51bGwgfHwgeWVzT3JObykgewogICAgICAgICAgICAgICAgbG9nLmluZm8oIlVzZXIgY29uZmlybWVkIHRvIGdvIGhvbWUiKQogICAgICAgICAgICAgICAgZ290byhHcmVldFZpc2l0b3IpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBmdXJoYXQubGlzdGVuKCkKICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dropdown</last-search>
+      <last-search>tobias</last-search>
       <last-offset />
-      <last-pattern>dropdown</last-pattern>
+      <last-pattern>tobias</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -1343,8 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aXRoSGVscE9wdGlvbnNcPg==</entry>
-        <entry>transi</entry>
         <entry>results</entry>
         <entry encoding="base64">XDx3ZWJraXRcPg==</entry>
         <entry>reply</entry>
@@ -1363,6 +1367,8 @@
         <entry>furhat</entry>
         <entry>\cfurhat</entry>
         <entry>dropdown</entry>
+        <entry>ignite</entry>
+        <entry>tobias</entry>
       </history-search>
       <history-cmd>
         <entry>w\</entry>
