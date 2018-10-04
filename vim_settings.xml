@@ -139,11 +139,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.presets.ts" timestamp="1538644658156">
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="55" />
-        <mark key="." line="52" column="55" />
-        <mark key="^" line="52" column="55" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.presets.ts" timestamp="1538646925815">
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Collections/FlatMap/src/Task.kt" timestamp="1535029486690">
         <mark key="[" line="4" column="104" />
@@ -281,12 +281,12 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" timestamp="1538644895140">
-        <mark key="'" line="129" column="36" />
-        <mark key="[" line="127" column="44" />
-        <mark key="]" line="127" column="44" />
-        <mark key="^" line="127" column="44" />
-        <mark key="." line="127" column="44" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" timestamp="1538647025941">
+        <mark key="'" line="129" column="23" />
+        <mark key="[" line="134" column="39" />
+        <mark key="]" line="134" column="39" />
+        <mark key="^" line="134" column="39" />
+        <mark key="." line="134" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/Profile.tsx" timestamp="1536745262923">
         <mark key="[" line="5" column="4" />
@@ -1216,7 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="101" column="20" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/css/style.css" />
       <jump line="107" column="1" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/css/style.css" />
       <jump line="113" column="1" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/css/style.css" />
@@ -1315,17 +1314,18 @@
       <jump line="41" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="42" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="20" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
-      <jump line="129" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
+      <jump line="128" column="71" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
+      <jump line="129" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luVG9wOiAiYXV0byIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ack</text>
+        <text>: &quot;1 solid&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>tobias</text>
@@ -1334,25 +1334,25 @@
         <text>Med hjälp av tjänsten kan du enkelt larma förvalda kollegor som kan se din position via en karta ifall en olycka inträffar. Genom appen anger du uppskattad tid för ditt ensamarbete – om du inte stänger av inom utsatt tid larmas dina inlagda kontakter automatiskt via SMS.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luVG9wOiAiYXV0byIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0cmFuc3BhcmVudAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cmFuc3BhcmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBTdMOkbGwgaW4gdGltZXIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -1361,13 +1361,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBa3V0IGxhcm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBTdMOkbGwgaW4gdGltZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt0cmFuc2xhdGUsIHRyYW5zbGF0ZVdpdGhWYXJzfSBmcm9tICIuLi8uLi9pMThuIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qCiAgICAgICAgICAgICAgPFRvdWNoYWJsZU9wYWNpdHkgc3R5bGU9e3N0eWxlcy5zdXBwb3J0QnV0dG9ufT4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtTdHlsZVNoZWV0LmZsYXR0ZW4oW3N0eWxlcy5zdXBwb3J0QnV0dG9uVGV4dCwgRm9udE1ha2VyKHsgd2VpZ2h0OiAnU2VtaUJvbGQnLCBmYW1pbHk6ICdTRlByb1RleHQnIH0pXSl9PktPTlRBS1RBIFNVUFBPUlQ8L1RleHQ+CiAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtTdHlsZVNoZWV0LmZsYXR0ZW4oW3N0eWxlcy5oZWxwVGl0bGUsIHN0eWxlcy53aGF0VGl0bGVQbGFjZW1lbnQsIEZvbnRNYWtlcih7IHdlaWdodDogJ1NlbWlCb2xkJywgZmFtaWx5OiAnU0ZQcm9UZXh0JyB9KV0pfT5WQUQgVklMTCBEVSBHw5ZSQT88L1RleHQ+CgogICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtTdHlsZVNoZWV0LmZsYXR0ZW4oW3N0eWxlcy5pdGVtQ29udGFpbmVyLCBzdHlsZXMuaXRlbU9yYW5nZV0pfT4KICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IHN0eWxlPXtzdHlsZXMuaXRlbX0+CiAgICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtTdHlsZVNoZWV0LmZsYXR0ZW4oW3N0eWxlcy5pdGVtVGV4dCwgRm9udE1ha2VyKHsgd2VpZ2h0OiAnU2VtaUJvbGQnLCBmYW1pbHk6ICdTRlByb1RleHQnIH0pXSl9PkF0dGVzdGVyYSBiZXN0w6RsbG5pbmdhcjwvVGV4dD4KICAgICAgICAgICAgICAgIDwvVG91Y2hhYmxlT3BhY2l0eT4KICAgICAgICAgICAgICA8L1ZpZXc+CgogICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtTdHlsZVNoZWV0LmZsYXR0ZW4oW3N0eWxlcy5pdGVtQ29udGFpbmVyLCBzdHlsZXMuaXRlbVJlZF0pfT4KICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IHN0eWxlPXtzdHlsZXMuaXRlbX0+CiAgICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtTdHlsZVNoZWV0LmZsYXR0ZW4oW3N0eWxlcy5pdGVtVGV4dCwgc3R5bGVzLml0ZW1SZWQsIEZvbnRNYWtlcih7IHdlaWdodDogJ1NlbWlCb2xkJywgZmFtaWx5OiAnU0ZQcm9UZXh0JyB9KV0pfT5Hb2Rrw6RubiBsZXZlcmFuc2VyPC9UZXh0PgogICAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICAqL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBa3V0IGxhcm0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
