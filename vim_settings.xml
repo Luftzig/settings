@@ -232,12 +232,12 @@
         <mark key="." line="48" column="8" />
         <mark key="^" line="48" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1538725976338">
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1538728194843">
         <mark key="'" line="151" column="13" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="15" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="96" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="60" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1519748721866">
         <mark key="[" line="16" column="12" />
@@ -542,6 +542,12 @@
         <mark key="'" line="66" column="12" />
         <mark key="^" line="45" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" timestamp="1538726787721">
+        <mark key="[" line="40" column="81" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="154" />
+        <mark key="^" line="40" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/deleteBoard.ts" timestamp="1513087937217">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="28" column="39" />
@@ -597,8 +603,8 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538668398176">
-        <mark key="[" line="0" column="41" />
+      <file name="/Dummy.txt" timestamp="1538727724779">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="73" />
         <mark key="^" line="0" column="73" />
         <mark key="." line="0" column="73" />
@@ -1299,16 +1305,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiQ3VycmVudCB1c2VyczogJHt1c2Vycy5hbGwubWFwIHsiJHtpdC5pZH06ICR7aXQuaXNWaXNpYmxlfSJ9LmpvaW5Ub1N0cmluZygpfSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>goto(Goodbye)</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>sex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiVXNlcidzIGFnZSBpcyAkYWdlIChcIiR7aXQudGV4dH1cIikiKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiQ3VycmVudCB1c2VyczogJHt1c2Vycy5hbGwubWFwIHsiJHtpdC5pZH06ICR7aXQuaXNWaXNpYmxlfSJ9LmpvaW5Ub1N0cmluZygpfSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1317,34 +1323,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlVzZXIgcmV0dXJuZWQgZnJvbSB3YWl0aW5nIChhdCBzdGF0ZSAke3RoaXMuY3VycmVudFN0YXRlLm5hbWV9KSIpCiAgICAgICAgICAgIGZ1cmhhdC5saXN0ZW4oKQo=</text>
+        <text encoding="base64">dmFyIHBlbmRpbmdVc2VyUmV0dXJuOiBVc2VyPyA9IG51bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVuZGluZ1VzZXJSZXR1cm4gPSBpdAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVBZ2VSZXNwb25zZShhZ2UpCiAgICAgICAgYWNrQW5kR290byhQaHlzaWNhbEFjdGl2aXR5UXVlc3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJXaGF0IGFyZSB5b3U/IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJXaGF0IGRvIHlvdSBkbz8iLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJXaGF0IGlzIG1lcmNrPyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290byhTY3JlZW5pbmdTZWxlY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlVzZXIgcmV0dXJuZWQgZnJvbSB3YWl0aW5nIChhdCBzdGF0ZSAke3RoaXMuY3VycmVudFN0YXRlLm5hbWV9KSIpCiAgICAgICAgICAgIGZ1cmhhdC5saXN0ZW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
