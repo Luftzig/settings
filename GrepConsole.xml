@@ -2,9 +2,10 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="1" />
+        <option name="actionsExecuted" value="11" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.4.162.000.1" />
+        <option name="lastNaggingDate" value="0" />
       </DonationNagger>
     </option>
     <option name="profiles">
@@ -105,7 +106,9 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="grepExpression" value=".*DEBUG.*" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value="\.*DEBUG\.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -129,8 +132,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="grepExpression" value="\d\d:\d\d:\d\d \[Thread-\d+: \d+\]" />
-                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="grepExpression" value="\[(.*)\].*DEBUG.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                   </list>
