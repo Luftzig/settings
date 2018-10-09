@@ -584,6 +584,10 @@
         <mark key="." line="38" column="17" />
         <mark key="^" line="37" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" timestamp="1539090596684">
+        <mark key="[" line="86" column="36" />
+        <mark key="]" line="86" column="158" />
+      </file>
       <file name="$USER_HOME$/Projects/prototyp/server.js" timestamp="1527926228925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1117,8 +1121,12 @@
         <mark key="^" line="34" column="11" />
         <mark key="." line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" timestamp="1538473703773">
-        <mark key="'" line="109" column="40" />
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" timestamp="1539090634242">
+        <mark key="'" line="35" column="91" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Lambdas/src/Task.kt" timestamp="1535015749174">
         <mark key="[" line="0" column="74" />
@@ -1242,7 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="49" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
       <jump line="5381" column="44" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
       <jump line="6171" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
       <jump line="6173" column="74" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
@@ -1342,22 +1349,23 @@
       <jump line="37" column="21" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="105" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/skills/UserManager.class" />
       <jump line="76" column="9" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/index.js" />
+      <jump line="32" column="91" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJ2aWV3LXNlY3Rpb24gZ2l0aHViIHVwbG9hZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkb3dubG9hZC1idG4iIG9uQ2xpY2s9eygpID0+IGdhKCdzZW5kJywgJ2V2ZW50JywgJ2NoYWxsZW5nZScsICdmdWxsX2Rvd25sb2FkJyl9PjxhIGhyZWY9e3RyYWluU2luZ2xlfT5ET1dOTE9BRCBGVUxMIERTICg5LDlHQik8L2E+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3RyYWluUGFydHMubWFwKCh1cmwsIGkpID0+IDxkaXYga2V5PXtpKyd0cmFpblBhcnQnfSBjbGFzc05hbWU9ImRvd25sb2FkLWJ0biIgb25DbGljaz17KCkgPT4gZ2EoJ3NlbmQnLCAnZXZlbnQnLCAnY2hhbGxlbmdlJywgJ3BhcnRfZG93bmxvYWQnKX0+IDxhIGhyZWY9e3VybH0+RG93bmxvYWQgUGFydCB7aSArIDF9ICgzLDNHQik8L2E+PC9kaXY+KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>If you answer 'yes' to at least three of the questions you may have unhealthy drinking habits, which can lead to alcoholism</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>points</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU6IG51bGwsCiAgICAgICAgICAgIHRleHQ6IG51bGwsCiAgICAgICAgICAgIG9wdGlvbnM6IG51bGwsCiAgICAgICAgICAgIHJlc3VsdHM6IG51bGwsCiAgICAgICAgICAgIG1vZGFsOiBNb2RhbFN0YXRlLk5vTW9kYWwK</text>
+      <register name="0" type="4">
+        <text>If you answer 'yes' to at least three of the questions you may have unhealthy drinking habits, which can lead to alcoholism</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRpYWJldGVzRGF0YS5jb21wbGV0ZWQgPSAwCiAgICBkaWFiCg==</text>
