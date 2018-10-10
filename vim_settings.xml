@@ -244,12 +244,12 @@
         <mark key="." line="110" column="98" />
         <mark key="^" line="110" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1539094203980">
-        <mark key="'" line="58" column="15" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="7" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1539157862106">
+        <mark key="'" line="70" column="19" />
+        <mark key="[" line="328" column="44" />
+        <mark key="]" line="328" column="55" />
+        <mark key="." line="328" column="55" />
+        <mark key="^" line="328" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1519748721866">
         <mark key="[" line="16" column="12" />
@@ -1258,8 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6168" column="74" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/package.json" />
       <jump line="15" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="19" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
@@ -1358,6 +1356,8 @@
       <jump line="119" column="4" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Results.js" />
       <jump line="109" column="103" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
       <jump line="209" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="70" column="19" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1370,7 +1370,7 @@
         <text>positive</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>Wait</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">VGhlcmVmb3JlLCB0aGlzIHNjcmVlbmluZyB0ZXN0IHN1Z2dlc3RzIHlvdSBhcmUgbm90IGF0IHJpc2sgb2YgaHlwb3RoeXJvaWRpc20uIA==</text>
@@ -1416,9 +1416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>Wait</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>Wait</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -1426,7 +1426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assessm</entry>
         <entry>you can also say repeat</entry>
         <entry>\cyou can also</entry>
         <entry>continue</entry>
@@ -1446,6 +1445,7 @@
         <entry>JSON</entry>
         <entry>Completed</entry>
         <entry>info</entry>
+        <entry>Wait</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^const //</entry>
