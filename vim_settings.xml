@@ -1076,12 +1076,12 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" timestamp="1539699645461">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" timestamp="1539701230446">
         <mark key="'" line="12" column="48" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="41" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/sponsors.ts" timestamp="1520012666264">
         <mark key="[" line="0" column="42" />
@@ -1238,12 +1238,12 @@
       <file name="/Package Object.txt.ft" timestamp="1539250865574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1539700284425">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1539701318386">
         <mark key="'" line="110" column="20" />
-        <mark key="[" line="118" column="36" />
-        <mark key="]" line="119" column="17" />
-        <mark key="^" line="119" column="17" />
-        <mark key="." line="119" column="17" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="128" column="92" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Named arguments/src/Task.kt" timestamp="1535015580080">
         <mark key="[" line="0" column="80" />
@@ -1568,11 +1568,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{message: string}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>{message: string}</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>Unique</text>
@@ -1581,40 +1581,42 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q2FyZD4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgcHJlc2V0PXsiY2FyZExhYmVsIn0+TW9iaWxudW1tZXI8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0SW5wdXQgdmFsdWU9e3VzZXJTdG9yZS5waG9uZU51bWJlcn0gcGxhY2Vob2xkZXI9IjA3WC1YWFggWFggWFgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2VUZXh0PXtuZXdWYWx1ZSA9PiBzdG9yZS5zZXRQaG9uZU51bWJlcihuZXdWYWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9DYXJkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>() {
+        getEnv(self).api.createUser(self.deviceId)
+      }</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYXBpIGZyb20gIi4uL3NlcnZpY2VzL2FwaSIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
