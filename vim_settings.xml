@@ -1212,6 +1212,9 @@
       <file name="/Elm Empty File.txt.ft" timestamp="1539250858959">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" timestamp="1539936372666">
+        <mark key="'" line="130" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/agenda.json" timestamp="1530117442202">
         <mark key="[" line="225" column="138" />
         <mark key="]" line="225" column="138" />
@@ -1447,8 +1450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
-      <jump line="134" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="33" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="28" column="52" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
@@ -1547,6 +1548,8 @@
       <jump line="89" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="17" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" />
       <jump line="2" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="130" column="66" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1559,7 +1562,7 @@
         <text>All</text>
       </register>
       <register name="/" type="4">
-        <text>isValid</text>
+        <text>Icon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBleHBlY3Qoc3RvcmUuY29udGFjdHNbMF0ubmFtZSkudG9FcXVhbCgiYmxhaDEiKQo=</text>
@@ -1605,9 +1608,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isValid</last-search>
+      <last-search>Icon</last-search>
       <last-offset />
-      <last-pattern>isValid</last-pattern>
+      <last-pattern>Icon</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -1615,7 +1618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text-box</entry>
         <entry>furhat</entry>
         <entry>\cfurhat</entry>
         <entry>dropdown</entry>
@@ -1635,6 +1637,7 @@
         <entry>Unique</entry>
         <entry>section1</entry>
         <entry>isValid</entry>
+        <entry>Icon</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^val //</entry>
