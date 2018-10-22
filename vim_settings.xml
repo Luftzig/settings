@@ -193,14 +193,17 @@
       <file name="/TypeScript File.txt.ft" timestamp="1539250945126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1540215708198">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="116" column="27" />
-        <mark key="]" line="116" column="28" />
-        <mark key="." line="116" column="28" />
-        <mark key="^" line="116" column="28" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1540219105158">
+        <mark key="'" line="173" column="36" />
+        <mark key="[" line="97" column="63" />
+        <mark key="]" line="95" column="89" />
+        <mark key="." line="97" column="88" />
+        <mark key="^" line="95" column="89" />
       </file>
       <file name="/package.json.txt.ft" timestamp="1539250918124">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.tsx" timestamp="1540216658925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Groovy Script.txt.ft" timestamp="1539250801923">
@@ -394,8 +397,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/skills/UserManager.class" timestamp="1539087554645">
         <mark key="'" line="105" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1540201631837">
-        <mark key="'" line="5020" column="47" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1540216488643">
+        <mark key="'" line="590" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/gui/src/index.js" timestamp="1535554231559">
         <mark key="'" line="34" column="11" />
@@ -441,18 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
-      <jump line="93" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="20" column="27" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
-      <jump line="25" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="42" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/storage/storage.ts" />
-      <jump line="108" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
-      <jump line="4" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
-      <jump line="11" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-device-info/deviceinfo.d.ts" />
-      <jump line="4" column="5" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-device-info/deviceinfo.d.ts" />
-      <jump line="4" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-store.ts" />
-      <jump line="2" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/index.ts" />
-      <jump line="56" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="24" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" />
       <jump line="33" column="57" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="111" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" />
@@ -541,67 +532,79 @@
       <jump line="123" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="12" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="57" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="122" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="590" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" />
+      <jump line="52" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="93" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="108" column="53" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="30" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="139" column="42" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="98" column="52" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="170" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="97" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="153" column="9" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="173" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
-        <text>includeFont</text>
+        <text>red</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleHBlY3Qoc3RvcmUuY29udGFjdHNbMF0ubmFtZSkudG9FcXVhbCgiYmxhaDEiKQo=</text>
+        <text encoding="base64">ICAgICAgdGV4dEFsaWduOiAiY2VudGVyIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWluV2lkdGg6ICJmaXQtY29udGVudCIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBQaWNrZXIgZnJvbSAicmVhY3QtbmF0aXZlLXdoZWVsLXBpY2tlciIKY29uc3QgUGlja2VySXRlbSA9IFBpY2tlci5JdGVtCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZ1RvcDogNDIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAicmVhY3QtbmF0aXZlLXdoZWVsLXBpY2tlciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6InJlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VGV4dD5Mb3JlbSBpcHN1bTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZ1RvcDogNDIsCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMudGltZUhvbGRlcn0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFBpY2tlciBmcm9tICJyZWFjdC1uYXRpdmUtd2hlZWwtcGlja2VyIgpjb25zdCBQaWNrZXJJdGVtID0gUGlja2VyLkl0ZW0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogInJlZCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>includeFont</last-search>
+      <last-search>red</last-search>
       <last-offset />
-      <last-pattern>includeFont</last-pattern>
+      <last-pattern>red</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -609,7 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dropdown</entry>
         <entry>ignite</entry>
         <entry>tobias</entry>
         <entry>sex</entry>
@@ -629,6 +631,7 @@
         <entry>Icon</entry>
         <entry>depende</entry>
         <entry>includeFont</entry>
+        <entry>red</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^val //</entry>
