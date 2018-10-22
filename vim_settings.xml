@@ -193,12 +193,12 @@
       <file name="/TypeScript File.txt.ft" timestamp="1539250945126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1540205282776">
-        <mark key="'" line="72" column="42" />
-        <mark key="[" line="123" column="17" />
-        <mark key="]" line="123" column="17" />
-        <mark key="." line="123" column="17" />
-        <mark key="^" line="123" column="17" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1540215708198">
+        <mark key="'" line="57" column="17" />
+        <mark key="[" line="116" column="27" />
+        <mark key="]" line="116" column="28" />
+        <mark key="." line="116" column="28" />
+        <mark key="^" line="116" column="28" />
       </file>
       <file name="/package.json.txt.ft" timestamp="1539250918124">
         <mark key="[" line="0" column="0" />
@@ -381,8 +381,8 @@
       <file name="/Package Object.txt.ft" timestamp="1539250865574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1540201989907">
-        <mark key="'" line="0" column="9" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1540215507645">
+        <mark key="'" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/actions/index.ts" timestamp="1536929266374">
         <mark key="'" line="44" column="4" />
@@ -441,13 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/theme/typography.ts" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/theme/typography.ts" />
-      <jump line="38" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="44" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="35" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="46" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="1" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/index.ts" />
       <jump line="2" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="93" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
       <jump line="20" column="27" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
@@ -539,69 +532,76 @@
       <jump line="36" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="76" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="60" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
-      <jump line="12" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="72" column="42" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="111" column="9" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="91" column="9" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="54" column="38" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="56" column="42" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" />
+      <jump line="123" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="12" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="57" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>depende</text>
+        <text>includeFont</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBleHBlY3Qoc3RvcmUuY29udGFjdHNbMF0ubmFtZSkudG9FcXVhbCgiYmxhaDEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOldoZWVsUGlja2VyJwo=</text>
+        <text encoding="base64">CmltcG9ydCBQaWNrZXIgZnJvbSAicmVhY3QtbmF0aXZlLXdoZWVsLXBpY2tlciIKY29uc3QgUGlja2VySXRlbSA9IFBpY2tlci5JdGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAicmVhY3QtbmF0aXZlLXdoZWVsLXBpY2tlciIK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NuLmFpZ2VzdHVkaW8ud2hlZWxwaWNrZXI6V2hlZWxQaWNrZXI6MS4xLjInCg==</text>
+        <text encoding="base64">ICAgICAgY29sb3I6InJlZCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0UGFyZW50T2ZUeXBlKHNlbGYsIFJvb3RTdG9yZU1vZGVsKS51c2VyU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGV4dD5Mb3JlbSBpcHN1bTwvVGV4dD4K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFmdGVyQ3JlYXRlKCkgewogICAgICAKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFBpY2tlciBmcm9tICJyZWFjdC1uYXRpdmUtd2hlZWwtcGlja2VyIgpjb25zdCBQaWNrZXJJdGVtID0gUGlja2VyLkl0ZW0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>depende</last-search>
+      <last-search>includeFont</last-search>
       <last-offset />
-      <last-pattern>depende</last-pattern>
+      <last-pattern>includeFont</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -609,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cfurhat</entry>
         <entry>dropdown</entry>
         <entry>ignite</entry>
         <entry>tobias</entry>
@@ -629,6 +628,7 @@
         <entry>isValid</entry>
         <entry>Icon</entry>
         <entry>depende</entry>
+        <entry>includeFont</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^val //</entry>
@@ -649,8 +649,8 @@
         <entry encoding="base64">JzwsJz5zLzEwcHgvNHB4Lw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
