@@ -795,12 +795,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" timestamp="1540285100604">
-        <mark key="'" line="120" column="5" />
-        <mark key="[" line="53" column="72" />
-        <mark key="]" line="53" column="73" />
-        <mark key="." line="53" column="73" />
-        <mark key="^" line="53" column="73" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" timestamp="1540286886418">
+        <mark key="'" line="35" column="41" />
+        <mark key="[" line="75" column="62" />
+        <mark key="]" line="75" column="69" />
+        <mark key="." line="75" column="69" />
+        <mark key="^" line="75" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/SignUp.tsx" timestamp="1536927069676">
         <mark key="'" line="91" column="54" />
@@ -974,6 +974,12 @@
       <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1539250916054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/utils.ts" timestamp="1540287295098">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+      </file>
       <file name="/Python Console" timestamp="1506160927690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -992,10 +998,11 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contact-card.tsx" timestamp="1540223316283">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contact-card.tsx" timestamp="1540286359245">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1539953805000">
         <mark key="[" line="4" column="76" />
@@ -1483,7 +1490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="111" column="3" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="30" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="1999" column="70" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" />
@@ -1583,16 +1589,17 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="1" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.types.ts" />
       <jump line="2" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/index.ts" />
+      <jump line="35" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
