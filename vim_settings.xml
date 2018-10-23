@@ -682,7 +682,7 @@
         <mark key="^" line="68" column="83" />
         <mark key="." line="68" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540295893896">
+      <file name="/Dummy.txt" timestamp="1540303242694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
@@ -977,10 +977,10 @@
         <mark key="." line="10" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contact-card.tsx" timestamp="1540286359245">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="22" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1539953805000">
         <mark key="[" line="4" column="76" />
@@ -1025,6 +1025,13 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="8" column="15" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" timestamp="1540303185907">
+        <mark key="'" line="65" column="23" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -1247,11 +1254,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1540289020553">
-        <mark key="'" line="122" column="46" />
-        <mark key="[" line="128" column="64" />
-        <mark key="]" line="128" column="65" />
-        <mark key="." line="128" column="64" />
-        <mark key="^" line="128" column="99" />
+        <mark key="'" line="107" column="46" />
+        <mark key="[" line="113" column="64" />
+        <mark key="]" line="113" column="65" />
+        <mark key="." line="113" column="64" />
+        <mark key="^" line="113" column="99" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Named arguments/src/Task.kt" timestamp="1535015580080">
         <mark key="[" line="0" column="80" />
@@ -1472,7 +1479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" />
       <jump line="58" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" />
       <jump line="29" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="31" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
@@ -1572,16 +1578,17 @@
       <jump line="30" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="115" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/package.json" />
+      <jump line="65" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>nick</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>nick</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>ContactsStore</text>
