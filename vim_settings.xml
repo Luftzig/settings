@@ -180,6 +180,13 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" timestamp="1539877129419">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/elm-package.json" timestamp="1508770640723">
         <mark key="[" line="20" column="52" />
         <mark key="]" line="20" column="50" />
@@ -1224,10 +1231,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/build.gradle" timestamp="1541597319467">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/merckprototyp/build.gradle" timestamp="1541599557574">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/app-navigator.ts" timestamp="1539869555292">
         <mark key="[" line="30" column="0" />
@@ -1304,12 +1312,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" timestamp="1541597117538">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" timestamp="1541600787494">
+        <mark key="'" line="28" column="18" />
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1523107008859">
         <mark key="[" line="16" column="64" />
@@ -1349,8 +1357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
-      <jump line="17" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" />
       <jump line="2" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" />
       <jump line="23" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="130" column="66" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
@@ -1449,58 +1455,60 @@
       <jump line="78" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
       <jump line="14" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" />
+      <jump line="24" column="21" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" />
+      <jump line="28" column="18" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tYXBkYjptYXBkYjozLjAuNycK</text>
+      <register name="&quot;" type="4">
+        <text>et</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>et</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9hZEVkaXRlZEZyb21BZGRyZXNzQm9vaygpIHsKICAgICAgICBzZWxmLmdldEZyb21BZGRyZXNzQm9vaygpCiAgICAgICAgICAgIC50aGVuKCh7bmFtZSwgcGhvbmV9KSA9PiB7CiAgICAgICAgICAgICAgaWYgKHNlbGYuZWRpdGVkQ29udGFjdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBzZWxmLm5ld0NvbnRhY3QoKQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBzZWxmLmVkaXRlZENvbnRhY3QhLnNldE5hbWUobmFtZSkKICAgICAgICAgICAgICBzZWxmLmVkaXRlZENvbnRhY3QhLnNldFBob25lTnVtYmVyKHBob25lKQogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goY29uc29sZS50cm9uLmxvZykKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ29yZy5tYXBkYjptYXBkYjozLjAuNycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tYXBkYjptYXBkYjozLjAuNycK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBkYi5Ucgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIGdldERiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNlcmlhbGl6ZXIoQ291cG9uLlNlcmlhbGl6ZXIpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW51bSBjbGFzcyBDb3Vwb25UeXBlIHsKICAgIEFsY29ob2xpc21OZWdhdGl2ZSwKICAgIEFsY29ob2xpc21Qb3NpdGl2ZSwKICAgIERpYWJldGVzTmVnYXRpdmUsCiAgICBEaWFiZXRlc1Bvc2l0aXZlLAogICAgSHlwb3RoeXJvaWRpc21OZWdhdGl2ZSwKICAgIEh5cG90aHlyb2lkaXNtUG9zaXRpdmUKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mdXJoYXRyb2JvdGljcy5mdXJoYXRvczpmdXJoYXQtY29tbW9uczorJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5mdXJoYXRyb2JvdGljcy5mdXJoYXRvczpza2lsbC1jb25maWd1cmF0aW9uOisnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ29yZy5tYXBkYjptYXBkYjozLjAuNycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIFVzZXJJZCA9IFVzZXI6aWQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBkYi4qCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
