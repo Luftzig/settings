@@ -1224,10 +1224,10 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/build.gradle" timestamp="1541595657606">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Projects/merckprototyp/build.gradle" timestamp="1541597319467">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/app-navigator.ts" timestamp="1539869555292">
         <mark key="[" line="30" column="0" />
@@ -1304,6 +1304,13 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" timestamp="1541597117538">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1523107008859">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="64" />
@@ -1342,8 +1349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
-      <jump line="14" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="89" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="17" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" />
       <jump line="2" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" />
@@ -1442,16 +1447,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
       <jump line="11" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
+      <jump line="14" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/coupons.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMueG9kdXM6eG9kdXMtZW50aXR5LXN0b3JlOjEuMi4zJwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tYXBkYjptYXBkYjozLjAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
@@ -1460,7 +1467,7 @@
         <text encoding="base64">ICAgICAgbG9hZEVkaXRlZEZyb21BZGRyZXNzQm9vaygpIHsKICAgICAgICBzZWxmLmdldEZyb21BZGRyZXNzQm9vaygpCiAgICAgICAgICAgIC50aGVuKCh7bmFtZSwgcGhvbmV9KSA9PiB7CiAgICAgICAgICAgICAgaWYgKHNlbGYuZWRpdGVkQ29udGFjdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBzZWxmLm5ld0NvbnRhY3QoKQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBzZWxmLmVkaXRlZENvbnRhY3QhLnNldE5hbWUobmFtZSkKICAgICAgICAgICAgICBzZWxmLmVkaXRlZENvbnRhY3QhLnNldFBob25lTnVtYmVyKHBob25lKQogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goY29uc29sZS50cm9uLmxvZykKICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMueG9kdXM6eG9kdXMtZW50aXR5LXN0b3JlOjEuMi4zJwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tYXBkYjptYXBkYjozLjAuNycK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1469,31 +1476,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgQ29udGFjdFN0YXR1c01vZGVsID0gdHlwZXMuZW51bWVyYXRpb24oWyJQZW5kaW5nIiwgIkNvbmZpcm1lZCIsICJSZWplY3RlZCJdKQo=</text>
+        <text encoding="base64">ZnVuIGdldERiCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogdHlwZXMub3B0aW9uYWwoQ29udGFjdFN0YXR1c01vZGVsLCAiUGVuZGluZyIpLAo=</text>
+        <text encoding="base64">ZW51bSBjbGFzcyBDb3Vwb25UeXBlIHsKICAgIEFsY29ob2xpc21OZWdhdGl2ZSwKICAgIEFsY29ob2xpc21Qb3NpdGl2ZSwKICAgIERpYWJldGVzTmVnYXRpdmUsCiAgICBEaWFiZXRlc1Bvc2l0aXZlLAogICAgSHlwb3RoeXJvaWRpc21OZWdhdGl2ZSwKICAgIEh5cG90aHlyb2lkaXNtUG9zaXRpdmUKfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgeGxtbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVuaXF1ZUlkID0gZ2V0VW5pcXVlSWQoKQo=</text>
+        <text encoding="base64">dHlwZWFsaWFzIFVzZXJJZCA9IFVzZXI6aWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
