@@ -527,6 +527,9 @@
         <mark key="." line="5" column="48" />
         <mark key="^" line="5" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.tsx" timestamp="1542029988819">
+        <mark key="'" line="16" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/view/sponsor.tsx" timestamp="1527341337418">
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="17" />
@@ -693,7 +696,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542026157319">
+      <file name="/Dummy.txt" timestamp="1542030850074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
@@ -778,12 +781,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" timestamp="1542018426259">
-        <mark key="'" line="102" column="18" />
-        <mark key="[" line="122" column="18" />
-        <mark key="]" line="122" column="22" />
-        <mark key="." line="122" column="22" />
-        <mark key="^" line="122" column="22" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" timestamp="1542030431320">
+        <mark key="'" line="114" column="21" />
+        <mark key="[" line="124" column="15" />
+        <mark key="]" line="124" column="16" />
+        <mark key="." line="124" column="16" />
+        <mark key="^" line="124" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/SignUp.tsx" timestamp="1536927069676">
         <mark key="'" line="91" column="54" />
@@ -930,9 +933,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="69" />
-      </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1542015230415">
-        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/reducers/index.ts" timestamp="1536927526744">
         <mark key="[" line="31" column="74" />
@@ -1427,12 +1427,6 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/screen/screen.presets.ts" timestamp="1542016638095">
-        <mark key="'" line="105" column="34" />
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/AboutFurhat.kt" timestamp="1538667145624">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="23" />
@@ -1492,8 +1486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
-      <jump line="41" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
       <jump line="37" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="99" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
@@ -1592,16 +1584,18 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.types.ts" />
       <jump line="66" column="55" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/axios/index.d.ts" />
       <jump line="65" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.types.ts" />
+      <jump line="16" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.tsx" />
+      <jump line="109" column="21" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>24</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>24</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</text>
@@ -1610,13 +1604,13 @@
         <text encoding="base64">ICAgIC4uLnR5cG9ncmFwaHkuY2FyZExhYmVsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGV2aWNlSWQ6IHRpbWVyLmRldmljZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgZGV2aWNlSWQ6IHRpbWVyLmRldmljZUlkLAo=</text>
@@ -1625,25 +1619,25 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGV2aWNlSWQ6IHRpbWVyLmRldmljZUlkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coImVudi12YXIiLCBwcm9jZXNzLmVudikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMjUsCiAgICBtYXJnaW5Cb3R0b206IDI0LAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coImVudi12YXIiLCBwcm9jZXNzLmVudikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkhvcml6b250YWw6IDUsCg==</text>
+        <text encoding="base64">ICAgIG1hcmdpblRvcDogMjUsCiAgICBtYXJnaW5Cb3R0b206IDI0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1hcmdpbkhvcml6b250YWw6IDUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIG1hcmdpbkJvdHRvbTogMjQsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
