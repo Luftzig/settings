@@ -124,11 +124,12 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/reactotron/command-middleware.ts" timestamp="1542028801861">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="12" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="12" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/reactotron/command-middleware.ts" timestamp="1542115906274">
+        <mark key="'" line="29" column="22" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/elm-package.json" timestamp="1511007541041">
         <mark key="[" line="12" column="0" />
@@ -221,12 +222,12 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/alarm-notifications/alarm-notification-manager.ts" timestamp="1542114824536">
-        <mark key="'" line="0" column="48" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="14" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/alarm-notifications/alarm-notification-manager.ts" timestamp="1542115907871">
+        <mark key="'" line="29" column="40" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/onboarding/onboarding.tsx" timestamp="1542025672920">
         <mark key="'" line="52" column="9" />
@@ -1299,8 +1300,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/skills/UserManager.class" timestamp="1539087554645">
         <mark key="'" line="105" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1540216488643">
-        <mark key="'" line="590" column="4" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1542115909704">
+        <mark key="'" line="7671" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/zengarden/Assets/Scripts/Helpers/Enumerables.cs" timestamp="1506608817867">
         <mark key="[" line="24" column="25" />
@@ -1486,9 +1487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
-      <jump line="12" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" />
-      <jump line="19" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/RNKeychainManager/RNKeychainManager.m" />
       <jump line="3" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" />
       <jump line="76" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" />
       <jump line="16" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" />
@@ -1586,16 +1584,19 @@
       <jump line="9" column="39" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="0" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/alarm-notifications/alarm-notification-manager.ts" />
+      <jump line="29" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/reactotron/command-middleware.ts" />
+      <jump line="29" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/alarm-notifications/alarm-notification-manager.ts" />
+      <jump line="7671" column="59" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Notification</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>Notification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</text>
@@ -1604,22 +1605,22 @@
         <text encoding="base64">ICAgIC4uLnR5cG9ncmFwaHkuY2FyZExhYmVsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtcHVzaC1ub3RpZmljYXRpb25zIjogIl4zLjAuMTAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtcHVzaC1ub3RpZmljYXRpb25zIjogIl4zLjAuMTAiLAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1628,16 +1629,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGV2aWNlSWQ6IHRpbWVyLmRldmljZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgZGV2aWNlSWQ6IHRpbWVyLmRldmljZUlkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGV2aWNlSWQ6IHRpbWVyLmRldmljZUlkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
