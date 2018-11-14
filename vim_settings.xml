@@ -1231,6 +1231,12 @@
         <mark key="^" line="23" column="5" />
         <mark key="." line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" timestamp="1542204175285">
+        <mark key="'" line="191" column="2" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/agenda.json" timestamp="1530117442202">
         <mark key="[" line="225" column="138" />
         <mark key="]" line="225" column="138" />
@@ -1493,7 +1499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-store.ts" />
       <jump line="74" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="56" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/screen/screen.tsx" />
       <jump line="105" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/screen/screen.presets.ts" />
@@ -1593,13 +1598,14 @@
       <jump line="48" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="105" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="97" column="27" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="190" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIFBsYXlTb3VuZE11c2ljVm9sdW1lKDEuMCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHVibGljIA==</text>
@@ -1608,43 +1614,43 @@
         <text>trigger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmFsYXJtVGltZXJSZWYpIHsKICAgICAgY2xlYXJJbnRlcnZhbCh0aGlzLnN0YXRlLmFsYXJtVGltZXJSZWYpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJQbGF5aW5nIGFsYXJtIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIFBsYXlTb3VuZE11c2ljVm9sdW1lKDEuMCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlOiBwYWRTdGFydCBfaXNfIGEgbWV0aG9kIG9mIHN0cmluZwo=</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkNsZWFyaW5nIGFsYXJtIGludGVydmFsIikK</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlOiBwYWRTdGFydCBfaXNfIGEgbWV0aG9kIG9mIHN0cmluZwo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJDYW5jZWxsaW5nIGFsYXJtIikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkNsZWFyaW5nIGFsYXJtIGludGVydmFsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkNhbmNlbGxpbmcgYWxhcm0iKQogICAgICB0aGlzLmNhbmNlbEFsYXJtU291bmRzKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJDYW5jZWxsaW5nIGFsYXJtIikK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jYW5jZWxBbGFybVNvdW5kcygpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkNhbmNlbGxpbmcgYWxhcm0iKQogICAgICB0aGlzLmNhbmNlbEFsYXJtU291bmRzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGxheVNvdW5kIH0gZnJvbSAicmVhY3QtbmF0aXZlLXBsYXktc291bmQiCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jYW5jZWxBbGFybVNvdW5kcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUGxheVNvdW5kIH0gZnJvbSAicmVhY3QtbmF0aXZlLXBsYXktc291bmQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGxheQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
