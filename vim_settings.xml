@@ -720,7 +720,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542293938429">
+      <file name="/Dummy.txt" timestamp="1542301103534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
@@ -790,11 +790,11 @@
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1542292215671">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1542300850153">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="26" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
@@ -1023,9 +1023,6 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1542293680699">
         <mark key="[" line="8" column="81" />
-        <mark key="]" line="9" column="64" />
-        <mark key="^" line="9" column="64" />
-        <mark key="." line="9" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Age.kt" timestamp="1538730792004">
         <mark key="'" line="7" column="16" />
@@ -1534,13 +1531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="9" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="32" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="42" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="57" column="27" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/screen/screen.tsx" />
-      <jump line="78" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/screen/screen.tsx" />
-      <jump line="30" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="85" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="40" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="33" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
@@ -1632,21 +1622,28 @@
       <jump line="208" column="74" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="199" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="212" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
-      <jump line="13" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="211" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="223" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="225" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="13" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="49" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="38" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="206" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="45" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="112" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUGxheVNvdW5kKCJzaXJlbiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Timeout</text>
       </register>
       <register name="-" type="4">
-        <text>PlaySound(&quot;siren&quot;)</text>
+        <text>Timeout</text>
       </register>
       <register name="/" type="4">
-        <text>PlaySou</text>
+        <text>Platform</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG1pbGxpc2Vjb25kczogKHZhbHVlOiBudW1iZXIpID0+IE1pbGxpc2Vjb25kcyA9ICh2YWx1ZTogbnVtYmVyKSA9PiAoeyB2YWx1ZSwga2luZDogIm1pbGxpc2Vjb25kcyIgfSkK</text>
@@ -1692,9 +1689,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PlaySou</last-search>
+      <last-search>Platform</last-search>
       <last-offset />
-      <last-pattern>PlaySou</last-pattern>
+      <last-pattern>Platform</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -1702,8 +1699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>writeKp</entry>
-        <entry>ListEmp</entry>
         <entry>StyleSheet</entry>
         <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>Unique</entry>
@@ -1722,6 +1717,8 @@
         <entry encoding="base64">XDxMb2NhbERhdGVUaW1lXD4=</entry>
         <entry>trigger</entry>
         <entry>PlaySou</entry>
+        <entry>StopSound</entry>
+        <entry>Platform</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^val //</entry>
