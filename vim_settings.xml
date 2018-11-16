@@ -840,12 +840,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1542293680699">
         <mark key="[" line="8" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" timestamp="1542380156949">
-        <mark key="'" line="18" column="88" />
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" timestamp="1542383144311">
+        <mark key="'" line="15" column="48" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/prototyp/src/Ports.elm" timestamp="1527589503099">
         <mark key="[" line="8" column="37" />
@@ -923,6 +923,9 @@
         <mark key="]" line="10" column="15" />
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/ramda/index.d.ts" timestamp="1542382805101">
+        <mark key="'" line="1499" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/No.kt" timestamp="1538129883939">
         <mark key="[" line="9" column="0" />
@@ -1271,9 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.types.ts" />
-      <jump line="66" column="55" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/axios/index.d.ts" />
-      <jump line="65" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.types.ts" />
       <jump line="16" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.tsx" />
       <jump line="109" column="21" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
       <jump line="72" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
@@ -1371,16 +1371,19 @@
       <jump line="42" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="30" column="72" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="60" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="0" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" />
+      <jump line="1499" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/ramda/index.d.ts" />
+      <jump line="15" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YmluZCwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YmluZCwg</text>
       </register>
       <register name="/" type="4">
         <text>seconds</text>
@@ -1389,44 +1392,44 @@
         <text encoding="base64">aW1wb3J0IHsKICBhc1NlY29uZHMsCiAgbWlsbGlzZWNvbmRzLAogIHNlY29uZHMsCiAgc3VidHJhY3QsCiAgVGltZVVuaXQsCiAgVGltZVVuaXRNb2RlbCwKfSBmcm9tICIuLi9zZXJ2aWNlcy90aW1lIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBXaXRoTWV0aG9kPFQsIEs+ID0gewogIFtLIGluIGtleW9mIFRdPzogKCkgPT4gYW55Cn0K</text>
+        <text encoding="base64">ICAobWV0aG9kLCBvYmplY3QpID0+CiAgb2JqZWN0W21ldGhvZF0gIT09IG51bGwKICAgID8gdHlwZW9mIG9iamVjdFttZXRob2RdID09PSAiZnVuY3Rpb24iCiAgICAgID8gYmluZChvYmplY3QsIG9iamVjdFttZXRob2RdKQogICAgICA6ICgpID0+IG9iamVjdFttZXRob2RdCiAgICA6ICgpID0+IHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IG1pbGlTZWNUb1NlYyA9IGR1cmF0aW9uID0+IGR1cmF0aW9uIC8gNjAwMDAgKiA2MApjb25zdCBtaW5Ub1NlY29uZHMgPSBkdXJhdGlvbiA9PiBkdXJhdGlvbiAqIDYwCgpjb25zdCBnZXRDdXJyZW50UG9zID0gKCkgPT4KICBuZXcgUHJvbWlzZShmdW5jdGlvbihyZXNvbHZlLCByZWplY3QpIHsKICAgIG5hdmlnYXRvci5nZW9sb2NhdGlvbi5nZXRDdXJyZW50UG9zaXRpb24ocmVzb2x2ZSwgcmVqZWN0KQogIH0pCg==</text>
+        <text encoding="base64">dHlwZSBIYXNQcm9wZXJ0eTxQIGV4dGVuZHMgbnVtYmVyIHwgc3RyaW5nPiA9IHsgW1A6IG51bWJlciB8IHN0cmluZ106IGFueSB9Cgpjb25zdCBhOiBIYXNQcm9wZXJ0eTwidGVzdCI+ID0geyAidGVzdDEiOiBudWxsfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBXaXRoTWV0aG9kPFQsIEs+ID0gewogIFtLIGluIGtleW9mIFRdPzogKCkgPT4gYW55Cn0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGltZXIuTG9jYXRpb24gPSBMb2NhdGlvbgo=</text>
+        <text encoding="base64">CmNvbnN0IG1pbGlTZWNUb1NlYyA9IGR1cmF0aW9uID0+IGR1cmF0aW9uIC8gNjAwMDAgKiA2MApjb25zdCBtaW5Ub1NlY29uZHMgPSBkdXJhdGlvbiA9PiBkdXJhdGlvbiAqIDYwCgpjb25zdCBnZXRDdXJyZW50UG9zID0gKCkgPT4KICBuZXcgUHJvbWlzZShmdW5jdGlvbihyZXNvbHZlLCByZWplY3QpIHsKICAgIG5hdmlnYXRvci5nZW9sb2NhdGlvbi5nZXRDdXJyZW50UG9zaXRpb24ocmVzb2x2ZSwgcmVqZWN0KQogIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">VGltZXIuTG9jYXRpb24gPSBMb2NhdGlvbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">KQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
         state,
         location,
         duration,
       }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGltZVVuaXQgfSBmcm9tICIuLi9zZXJ2aWNlcy90aW1lIgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUG9zaXRpb24gfSBmcm9tICJjc3N0eXBlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
