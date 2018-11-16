@@ -790,11 +790,12 @@
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1542300850153">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="26" column="71" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1542362957971">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
@@ -1537,7 +1538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="40" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="33" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
       <jump line="71" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
@@ -1637,16 +1637,17 @@
       <jump line="206" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="45" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="112" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldEltCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>Timeout</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>Platform</text>
@@ -1654,17 +1655,21 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IG1pbGxpc2Vjb25kczogKHZhbHVlOiBudW1iZXIpID0+IE1pbGxpc2Vjb25kcyA9ICh2YWx1ZTogbnVtYmVyKSA9PiAoeyB2YWx1ZSwga2luZDogIm1pbGxpc2Vjb25kcyIgfSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNldEltCg==</text>
+      <register name="1" type="4">
+        <text>&quot;TimeUnit&quot;,
+              {
+                kind: types.enumeration([&quot;milliseconds&quot;, &quot;seconds&quot;, &quot;minutes&quot;]),
+                value: types.number,
+              }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHRpbWVyOiB1bmRlZmluZWQgfSkK</text>
+        <text encoding="base64">ICAgIHNldEltCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUGxheVNvdW5kKCJzaXJlbiIpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IHRpbWVyOiB1bmRlZmluZWQgfSkK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -1673,22 +1678,22 @@
         <text encoding="base64">ICAgICAgUGxheVNvdW5kKCJzaXJlbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxheVNvdW5kKCJzaXJlbiIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2lyZW5UaW1lcyA9IFs2MCwgMTBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdG9wQ291bnREb3duKCkK</text>
+        <text encoding="base64">Y29uc3Qgc2lyZW5UaW1lcyA9IFs2MCwgMTBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdG9wQ291bnREb3duKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
