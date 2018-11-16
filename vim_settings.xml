@@ -1024,11 +1024,11 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1542293680699">
         <mark key="[" line="8" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" timestamp="1542366447770">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" timestamp="1542373674064">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Age.kt" timestamp="1538730792004">
         <mark key="'" line="7" column="16" />
@@ -1652,11 +1652,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgIm1pbnV0ZXMiOgogICAgICByZXR1cm4gdmFsdWUgKiA2MCAqIDEwMDAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KC4uLmFueSkgPT4gYW55</text>
       </register>
       <register name="-" type="4">
-        <text>minutes</text>
+        <text encoding="base64">KC4uLmFueSkgPT4gYW55</text>
       </register>
       <register name="/" type="4">
         <text>seconds</text>
@@ -1665,25 +1665,25 @@
         <text encoding="base64">ICB0eXBlcy5tb2RlbCh7IGtpbmQ6IHR5cGVzLmxpdGVyYWwoIm1pbnV0ZXMiKSwgdmFsdWU6IHR5cGVzLm51bWJlciB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgIm1pbnV0ZXMiOgogICAgICByZXR1cm4gdmFsdWUgKiA2MCAqIDEwMDAK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlY2xhcmUgZnVuY3Rpb24gbWFwRW1wdHk8VCwgUj4oZm46IChUKSA9PiBSLCB2YWx1ZTogVCB8IG51bGwgfCB1bmRlZmluZWQpOiBSIHwgbnVsbCB8IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">dHlwZSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVjbGFyZSBtYXBVbmRlZmluZWQ8VCwgUj4oZm4pCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgIm1pbnV0ZXMiOgogICAgICByZXR1cm4gdmFsdWUgKiA2MCAqIDEwMDAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlY2xhcmUgZnVuY3Rpb24gbWFwRW1wdHk8VCwgUj4oZm46IChUKSA9PiBSLCB2YWx1ZTogVCB8IG51bGwgfCB1bmRlZmluZWQpOiBSIHwgbnVsbCB8IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVjbGFyZSBpbnRlcmZhY2Ugc3RyaW5nIHsKICBwYWRTdGFydChtYXhMZW5ndGg6IG51bWJlciwgZmlsbFN0cmluZz86IHN0cmluZyk6IHN0cmluZzsKfQo=</text>
+        <text encoding="base64">ZGVjbGFyZSBtYXBVbmRlZmluZWQ8VCwgUj4oZm4pCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -1692,13 +1692,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICkgcGFkZFN0YXIK</text>
+        <text encoding="base64">ZGVjbGFyZSBpbnRlcmZhY2Ugc3RyaW5nIHsKICBwYWRTdGFydChtYXhMZW5ndGg6IG51bWJlciwgZmlsbFN0cmluZz86IHN0cmluZyk6IHN0cmluZzsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICkgcGFkZFN0YXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
