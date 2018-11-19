@@ -602,8 +602,8 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542621734201">
-        <mark key="[" line="0" column="22" />
+      <file name="/Dummy.txt" timestamp="1542622472877">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -670,12 +670,12 @@
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1542621028700">
-        <mark key="'" line="133" column="79" />
-        <mark key="[" line="135" column="75" />
-        <mark key="]" line="135" column="84" />
-        <mark key="." line="135" column="84" />
-        <mark key="^" line="135" column="84" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1542622458609">
+        <mark key="'" line="147" column="79" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="150" column="29" />
+        <mark key="." line="150" column="29" />
+        <mark key="^" line="150" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
@@ -1291,11 +1291,10 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/axios/index.d.ts" timestamp="1542028489961">
         <mark key="'" line="66" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/map-helpers.ts" timestamp="1542621082442">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/map-helpers.ts" timestamp="1542622193087">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1405,58 +1404,58 @@
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>by</text>
+        <text>Add two time units together</text>
       </register>
       <register name="-" type="4">
-        <text>by</text>
+        <text>Add two time units together</text>
       </register>
       <register name="/" type="4">
         <text>seconds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBtb3N0UmVmaW5lZFVuaXQgPSBtb3N0UmVmaW5lZChhLmtpbmQsIGIua2luZCkKICBjb25zdCB2YWx1ZUV4dHJhY3RvciA9IGV4dHJhY3Rvck9mS2luZChtb3N0UmVmaW5lZFVuaXQpLCBidWlsZGVyID0gYnVpbGRlck9mS2luZChtb3N0UmVmaW5lZFVuaXQpCg==</text>
+        <text encoding="base64">ICogVGhpcyBmdW5jdGlvbiBpcyBhdXRvLWN1cnJpZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxhcm1TdG9yZSB9IGZyb20gIi4uLy4uL21vZGVscyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">LyoqICogUmV0dXJuIGEgbWV0aG9kIG9mIGFuIG9iamVjdCAqIEBwYXJhbSBvYmplY3QKICogQHBhcmFtIG1ldGhvZAogKi8KZXhwb3J0IGNvbnN0IG1ldGhvZE9yTm9vcCA9IChvYmplY3QsIG1ldGhvZCkgPT4gcHJvcE9yKCgpID0+IHt9LCBvYmplY3QsIG1ldGhvZCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogVGhpcyAK</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQWxhcm1TdG9yZSB9IGZyb20gIi4uLy4uL21vZGVscyIK</text>
+      </register>
+      <register name="u" type="4">
+        <text>@:wgUiw</text>
+      </register>
+      <register name="6" type="4">
         <text>{
   const mostRefinedUnit = mostRefined(a.kind, b.kind)
   const valueExtractor = extractorOfKind(mostRefinedUnit), builder = builderOfKind(mostRefinedUnit)
   return builder(valueExtractor(a) + valueExtractor(b))
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>{
   
 }</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBjb25zdCBtb3N0UmVmaW5lZFVuaXQgPSBtb3N0UmVmaW5lZChhLmtpbmQsIGIua2luZCkKICBjb25zdCB2YWx1ZUV4dHJhY3RvciA9IGV4dHJhY3Rvck9mS2luZChtb3N0UmVmaW5lZFVuaXQpLCBidWlsZGVyID0gYnVpbGRlck9mS2luZChtb3N0UmVmaW5lZFVuaXQpCiAgcmV0dXJuIGJ1aWxkZXIodmFsdWVFeHRyYWN0b3IoYSkgLSB2YWx1ZUV4dHJhY3RvcihiKSk=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>@:wgUiw</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dHlwZSBUaW1lVW5pdEtpbmQgPSAibWlsbGlzZWNvbmRzIiB8ICJzZWNvbmRzIiB8ICJtaW51dGVzIiB8ICJob3VycyIKY29uc3QgVGltZVVuaXRPcmRlcjogVGltZVVuaXRLaW5kW10gPSBbIm1pbGxpc2Vjb25kcyIsICJzZWNvbmRzIiwgIm1pbnV0ZXMiLCAiaG91cnMiXQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoYS5raW5kID09PSAibWlsbGlzZWNvbmRzIiB8fCBiLmtpbmQgPT09ICJtaWxsaXNlY29uZHMiKSB7CiAgICByZXR1cm4gbWlsbGlzZWNvbmRzKGFzTWlsbGlzZWNvbmRzKGEpICsgYXNNaWxsaXNlY29uZHMoYikpCiAgfSBlbHNlIGlmIChhLmtpbmQgPT09ICJzZWNvbmRzIiB8fCBiLmtpbmQgPT09ICJzZWNvbmRzIikgewogICAgcmV0dXJuIHNlY29uZHMoYXNTZWNvbmRzKGEpICsgYXNTZWNvbmRzKGIpKQogIH0gZWxzZSBpZiAoYS5raW5kID09PSAibWludXRlcyIgfHwgYi5raW5kID09PSAibWludXRlcyIpIHsKICAgIHJldHVybiBtaW51dGVzKGFzTWludXRlcyhhKSArIGFzTWludXRlcyhiKSkKICB9IGVsc2UgewogICAgcmV0dXJuIGhvdXJzKGFzSG91cnMoYSkgKyBhc0hvdXJzKGIpKQogIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoYS5raW5kID09PSAibWlsbGlzZWNvbmRzIiB8fCBiLmtpbmQgPT09ICJtaWxsaXNlY29uZHMiKSB7CiAgICByZXR1cm4gbWlsbGlzZWNvbmRzKGFzTWlsbGlzZWNvbmRzKGEpIC0gYXNNaWxsaXNlY29uZHMoYikpCiAgfSBlbHNlIGlmIChhLmtpbmQgPT09ICJzZWNvbmRzIiB8fCBiLmtpbmQgPT09ICJzZWNvbmRzIikgewogICAgcmV0dXJuIHNlY29uZHMoYXNTZWNvbmRzKGEpIC0gYXNTZWNvbmRzKGIpKQogIH0gZWxzZSBpZiAoYS5raW5kID09PSAibWludXRlcyIgfHwgYi5raW5kID09PSAibWludXRlcyIpIHsKICAgIHJldHVybiBtaW51dGVzKGFzTWludXRlcyhhKSAtIGFzTWludXRlcyhiKSkKICB9IGVsc2UgewogICAgcmV0dXJuIGhvdXJzKGFzSG91cnMoYSkgLSBhc0hvdXJzKGIpKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
