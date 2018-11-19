@@ -53,12 +53,14 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/records/GenericRecord.class" timestamp="1538997287256">
         <mark key="'" line="415" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" timestamp="1542638670237">
-        <mark key="'" line="77" column="22" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.4.1/d14ccc67a69eecf528b477045c9c914e1f1cb40/furhat-commons-1.4.1.jar!/furhatos/gestures/Gestures.class" timestamp="1542640213555">
+        <mark key="'" line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" timestamp="1542640464494">
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
@@ -107,12 +109,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1542206536746">
         <mark key="'" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/userDetection.kt" timestamp="1542638173965">
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/userDetection.kt" timestamp="1542639253485">
         <mark key="'" line="126" column="2" />
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="64" column="16" />
-        <mark key="." line="64" column="16" />
-        <mark key="^" line="64" column="16" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1542293680699">
         <mark key="[" line="8" column="81" />
@@ -189,11 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
-      <jump line="86" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
-      <jump line="94" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
-      <jump line="62" column="73" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
-      <jump line="115" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="55" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="52" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="70" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
@@ -289,16 +286,26 @@
       <jump line="34" column="17" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
       <jump line="52" column="17" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
       <jump line="71" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
+      <jump line="75" column="28" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
+      <jump line="73" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
+      <jump line="21" column="20" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
+      <jump line="76" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
+      <jump line="24" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.4.1/d14ccc67a69eecf528b477045c9c914e1f1cb40/furhat-commons-1.4.1.jar!/furhatos/gestures/Gestures.class" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0.2</text>
+        <text>defineGesture{
+        frame(1.0) {
+            BasicParams.GAZE_PAN to 1
+            BasicParams.BLINK_LEFT to 0
+        }
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>0.2</text>
+        <text>Gestures.Nod</text>
       </register>
       <register name="/" type="4">
         <text>seconds</text>
@@ -306,41 +313,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1c2VyID0gdXNlcnMuY3VycmVudAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnVuIFRyaWdnZXJSdW5uZXI8Kj4udGVzdCgpIHsKfQo=</text>
+      <register name="1" type="4">
+        <text>defineGesture{
+        frame(1.0) {
+            BasicParams.GAZE_PAN to 1
+            BasicParams.BLINK_LEFT to 0
+        }
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZmluZUdlc3R1cmUgewogICAgICAgIGZyYW1lKDAuNSkgewogICAgICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAwLjIKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEdlc3R1cmVzLkdhemVBd2F5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNQYXJhbXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAwCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAxMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlciA9IHVzZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnb3RvKFVzZXJEZXRlY3Rpb24pCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGZ1cmhhdC5nZXN0dXJlKEdlc3R1cmVzLk5vZCkKLy8gICAgdmFsIG5ld0xvY2F0aW9uID0gTG9jYXRpb24uc3VtKHVzZXJzLmN1cnJlbnQuaGVhZC5sb2NhdGlvbiwgb2Zmc2V0KQovLyAgICBmdXJoYXQuYXR0ZW5kKG5ld0xvY2F0aW9uKQogICAgZnVyaGF0b3MuYXBwLm1lcmNrLmxvZy5kZWJ1ZygiRnVyaGF0IGdhemVzIG9yIGF0dGVuZHMgcG9pbnQgJHtvZmZzZXR9IGF3YXkgZm9yICR7dGltZUdhemluZ0F3YXlNaWxsaXN9bXMiKQogICAgZGVsYXkodGltZUdhemluZ0F3YXlNaWxsaXMsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKLy8gICAgZnVyaGF0LmF0dGVuZCh1c2VyKQovLyAgICBmdXJoYXQuZ2VzdHVyZShsb29rQmFjayk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290byh0aGlzLmN1cnJlbnRTdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZCgiVXNlckxlZnREZWZpbml0ZWx5IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlcnMuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
