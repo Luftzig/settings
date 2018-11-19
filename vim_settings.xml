@@ -31,11 +31,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/records/Record.class" timestamp="1538997267535">
         <mark key="'" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1542641150729">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="249" column="38" />
-        <mark key="]" line="249" column="38" />
-        <mark key="." line="249" column="38" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1542641888839">
+        <mark key="'" line="89" column="23" />
+        <mark key="[" line="57" column="44" />
+        <mark key="]" line="57" column="44" />
+        <mark key="." line="57" column="44" />
         <mark key="^" line="246" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/RNKeychainManager/RNKeychainManager.m" timestamp="1540372187701">
@@ -56,16 +56,15 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.4.1/d14ccc67a69eecf528b477045c9c914e1f1cb40/furhat-commons-1.4.1.jar!/furhatos/gestures/Gestures.class" timestamp="1542640213555">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" timestamp="1542640464494">
-        <mark key="[" line="71" column="19" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="71" column="35" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" timestamp="1542642936673">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542630543366">
+      <file name="/Dummy.txt" timestamp="1542642165384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -191,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="52" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="70" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="83" column="46" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
@@ -291,29 +289,49 @@
       <jump line="21" column="20" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
       <jump line="76" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/gestures.kt" />
       <jump line="24" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.4.1/d14ccc67a69eecf528b477045c9c914e1f1cb40/furhat-commons-1.4.1.jar!/furhatos/gestures/Gestures.class" />
+      <jump line="89" column="23" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>defineGesture{
-        frame(1.0) {
-            BasicParams.GAZE_PAN to 1
-            BasicParams.BLINK_LEFT to 0
-        }
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1cmhhdC5nZXN0dXJlKGRlZmluZUdlc3R1cmUgewogICAgICAgIGZyYW1lKHRpbWVHYXppbmdBd2F5TWlsbGlzIC8gMTAwMC4wIC8gMikgewogICAgICAgICAgICBCYXNpY1BhcmFtcy5HQVpFX1BBTiB0byAxCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLkdBWkVfVElMVCB0byAxCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLk5FQ0tfUEFOIHRvIDEKICAgICAgICAgICAgQmFzaWNQYXJhbXMuU01JTEVfT1BFTiB0byAwCiAgICAgICAgfQoKICAgICAgICBmcmFtZSh0aW1lR2F6aW5nQXdheU1pbGxpcyAvIDEwMDAuMCkgewogICAgICAgICAgICBCYXNpY1BhcmFtcy5HQVpFX1BBTiB0byAwCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLkdBWkVfVElMVCB0byAwCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLk5FQ0tfUEFOIHRvIDAKICAgICAgICB9CiAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Gestures.Nod</text>
+        <text>, instant = true</text>
       </register>
       <register name="/" type="4">
         <text>seconds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCB1c2VyID0gdXNlcnMuY3VycmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNQYXJhbXMuR0FaRV9QQU4gdG8gMQogICAgICAgICAgICBCYXNpY1BhcmFtcy5HQVpFX1RJTFQgdG8gMQogICAgICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAxCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZ1cmhhdC5nZXN0dXJlKGRlZmluZUdlc3R1cmUgewogICAgICAgIGZyYW1lKHRpbWVHYXppbmdBd2F5TWlsbGlzIC8gMTAwMC4wIC8gMikgewogICAgICAgICAgICBCYXNpY1BhcmFtcy5HQVpFX1BBTiB0byAxCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLkdBWkVfVElMVCB0byAxCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLk5FQ0tfUEFOIHRvIDEKICAgICAgICAgICAgQmFzaWNQYXJhbXMuU01JTEVfT1BFTiB0byAwCiAgICAgICAgfQoKICAgICAgICBmcmFtZSh0aW1lR2F6aW5nQXdheU1pbGxpcyAvIDEwMDAuMCkgewogICAgICAgICAgICBCYXNpY1BhcmFtcy5HQVpFX1BBTiB0byAwCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLkdBWkVfVElMVCB0byAwCiAgICAgICAgICAgIEJhc2ljUGFyYW1zLk5FQ0tfUEFOIHRvIDAKICAgICAgICB9CiAgICB9KQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNQYXJhbXMuU01JTEVfT1BFTiB0byAxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQmFzaWNQYXJhbXMuUwo=</text>
+      </register>
+      <register name="u" type="4">
+        <text>@:wgUiw</text>
+      </register>
+      <register name="6" type="4">
         <text>defineGesture{
         frame(1.0) {
             BasicParams.GAZE_PAN to 1
@@ -321,38 +339,14 @@
         }
     }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEdlc3R1cmVzLkdhemVBd2F5Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAwCg==</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAxMAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>@:wgUiw</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGZ1cmhhdC5nZXN0dXJlKEdlc3R1cmVzLk5vZCkKLy8gICAgdmFsIG5ld0xvY2F0aW9uID0gTG9jYXRpb24uc3VtKHVzZXJzLmN1cnJlbnQuaGVhZC5sb2NhdGlvbiwgb2Zmc2V0KQovLyAgICBmdXJoYXQuYXR0ZW5kKG5ld0xvY2F0aW9uKQogICAgZnVyaGF0b3MuYXBwLm1lcmNrLmxvZy5kZWJ1ZygiRnVyaGF0IGdhemVzIG9yIGF0dGVuZHMgcG9pbnQgJHtvZmZzZXR9IGF3YXkgZm9yICR7dGltZUdhemluZ0F3YXlNaWxsaXN9bXMiKQogICAgZGVsYXkodGltZUdhemluZ0F3YXlNaWxsaXMsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKLy8gICAgZnVyaGF0LmF0dGVuZCh1c2VyKQovLyAgICBmdXJoYXQuZ2VzdHVyZShsb29rQmFjayk=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZCgiVXNlckxlZnREZWZpbml0ZWx5IikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAxMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
