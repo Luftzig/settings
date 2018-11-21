@@ -26,18 +26,25 @@
         <mark key="'" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" timestamp="1542792578239" />
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1542806752537">
-        <mark key="'" line="553" column="47" />
-        <mark key="[" line="553" column="19" />
-        <mark key="]" line="553" column="47" />
-        <mark key="^" line="553" column="47" />
-        <mark key="." line="553" column="47" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1542808505156">
+        <mark key="'" line="293" column="12" />
+        <mark key="[" line="546" column="30" />
+        <mark key="]" line="546" column="34" />
+        <mark key="^" line="546" column="34" />
+        <mark key="." line="546" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/RNKeychainManager/RNKeychainManager.m" timestamp="1540372187701">
         <mark key="'" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" timestamp="1542117390354">
         <mark key="'" line="56" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/model.js" timestamp="1542808531336">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" timestamp="1542806049785">
         <mark key="'" line="4" column="28" />
@@ -61,7 +68,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542805774683">
+      <file name="/Dummy.txt" timestamp="1542808436937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -197,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
-      <jump line="129" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="37" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" />
       <jump line="6" column="102" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="16" column="88" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" />
@@ -297,22 +302,24 @@
       <jump line="551" column="23" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="522" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="553" column="47" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="106" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="293" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DELAY_MS</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>DELAY_MS</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>\cled</text>
+        <text>noResponse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBmdW4gbGlzdGVuKHRpbWVvdXQ6IGtvdGxpbi5JbnQgLyogPSBjb21waWxlZCBjb2RlICovLCBlbmRTaWw6IGtvdGxpbi5JbnQgLyogPSBjb21waWxlZCBjb2RlICovLCBpbnRlbnRzOiBrb3RsaW4uY29sbGVjdGlvbnMuTGlzdDxmdXJoYXRvcy5ubHUuSW50ZW50Q2FuZGlkYXRlPj8gLyogPSBjb21waWxlZCBjb2RlICovKToga290bGluLlVuaXQgeyAvKiBjb21waWxlZCBjb2RlICovIH0K</text>
+        <text encoding="base64">ZnVuIEZsb3dDb250cm9sUnVubmVyLmFza1lOKHV0dGVyYW5jZTogVXR0ZXJhbmNlKTogQm9vbGVhbj8gewogICAgcmV0dXJuIGZ1cmhhdC5hc2tZTih1dHRlcmFuY2UsIHRpbWVvdXQgPSBMSVNURU5fVElNRU9VVF9NUykKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -355,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cled</last-search>
+      <last-search>noResponse</last-search>
       <last-offset />
-      <last-pattern>\cled</last-pattern>
+      <last-pattern>noResponse</last-pattern>
       <last-replace>4px</last-replace>
       <last-substitute>10px</last-substitute>
       <last-dir>1</last-dir>
@@ -365,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Icon</entry>
         <entry>depende</entry>
         <entry>includeFont</entry>
         <entry>red</entry>
@@ -385,6 +391,7 @@
         <entry>Led</entry>
         <entry>\led</entry>
         <entry>\cled</entry>
+        <entry>noResponse</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^val //</entry>
