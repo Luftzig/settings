@@ -26,12 +26,12 @@
         <mark key="'" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" timestamp="1542792578239" />
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1542808505156">
-        <mark key="'" line="293" column="12" />
-        <mark key="[" line="546" column="30" />
-        <mark key="]" line="546" column="34" />
-        <mark key="^" line="546" column="34" />
-        <mark key="." line="546" column="34" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" timestamp="1542810497702">
+        <mark key="'" line="551" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="72" column="45" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/RNKeychainManager/RNKeychainManager.m" timestamp="1540372187701">
         <mark key="'" line="19" column="28" />
@@ -68,7 +68,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542808436937">
+      <file name="/Dummy.txt" timestamp="1542809379590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -87,7 +87,7 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="236" />
       </file>
-      <file name="/fragment.java" timestamp="1542728680543">
+      <file name="/fragment.java" timestamp="1542809946891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" />
-      <jump line="6" column="102" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="16" column="88" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" />
       <jump line="68" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
@@ -299,63 +297,65 @@
       <jump line="476" column="36" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="477" column="36" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="58" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.4.1/d14ccc67a69eecf528b477045c9c914e1f1cb40/furhat-commons-1.4.1.jar!/furhatos/flow/kotlin/Furhat.class" />
-      <jump line="551" column="23" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="522" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="553" column="47" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="106" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="293" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="67" column="20" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
+      <jump line="551" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAudmlld3Moc2VsZiA9PiAoewogICAgLy8gVE9ETzogbWlzc2luZyB2YWxpZGF0aW9uIG9yIGNsZWFuaW5nIG9mIHBob25lIG51bWJlcnNbCiAgICBnZXQgaXNWYWxpZCgpIHsKICAgICAgcmV0dXJuIHNlbGYubmFtZS50cmltKCkubGVuZ3RoID4gMCAmJiBzZWxmLnBob25lTnVtYmVyLnRyaW0oKS5sZW5ndGggPiAwCiAgICB9LAogIH0pKQogIC5hY3Rpb25zKHNlbGYgPT4gKHsKICAgIHNldE5hbWUobmV3TmFtZSkgewogICAgICBzZWxmLm5hbWUgPSBuZXdOYW1lCiAgICB9LAogICAgc2V0UGhvbmVOdW1iZXIobmV3TnVtYmVyKSB7CiAgICAgIHNlbGYucGhvbmVOdW1iZXIgPSBuZXdOdW1iZXIKICAgIH0sCiAgfSkpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wYWdhdGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>ListenEnd</text>
       </register>
       <register name="/" type="4">
         <text>noResponse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIEZsb3dDb250cm9sUnVubmVyLmFza1lOKHV0dGVyYW5jZTogVXR0ZXJhbmNlKTogQm9vbGVhbj8gewogICAgcmV0dXJuIGZ1cmhhdC5hc2tZTih1dHRlcmFuY2UsIHRpbWVvdXQgPSBMSVNURU5fVElNRU9VVF9NUykKfQo=</text>
+        <text encoding="base64">ICAgIHNlbmQoTGVkTGlnaHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wYWdhdGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpb25TZXRMRURTdHJpcC5CdWlsZGVyKCkucGl4ZWxzKGxpc3RPZihQaXhlbCgpKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudFN5c3RlbS4K</text>
+        <text encoding="base64">ICAgIG9uRXZlbnQ8TW9uaXRvcj4gewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kKExFRCkK</text>
+        <text encoding="base64">dmFsIExlZExpZ2h0ID0gQWN0aW9uU2V0U29saWRMRUQuQnVpbGRlcigpLnJlZCgyMCkuZ3JlZW4oNSkuYmx1ZSg0MCkuYnVpbGRFdmVudCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc3RvcFNwZWFraW5nKCkK</text>
+        <text encoding="base64">ICAgIHNlbmQoTGVkTGlnaHQpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc3RvcFNwZWFraW5nKCkK</text>
+        <text encoding="base64">ICAgIHNlbmQoTGVkTGlnaHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc3RvcFNwZWFraW5nKCkK</text>
+        <text encoding="base64">ICAgIHNlbmQoTGVkTGlnaHQpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uRXhpdChwcmlvcml0eSA9IHRydWUpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
