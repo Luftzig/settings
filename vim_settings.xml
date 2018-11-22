@@ -686,11 +686,11 @@
         <mark key="^" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/WhatIs.kt" timestamp="1542898483539">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/WhatIs.kt" timestamp="1542900531870">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/view/top-bar.tsx" timestamp="1520007294170">
         <mark key="[" line="38" column="17" />
@@ -743,11 +743,11 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1541686898457">
         <mark key="'" line="60" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542890711598">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1542900575970">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="106" />
+        <mark key="." line="0" column="106" />
+        <mark key="^" line="0" column="106" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
         <mark key="[" line="56" column="0" />
@@ -1693,18 +1693,24 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IGlz</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IGlz</text>
       </register>
       <register name="/" type="4">
         <text>Lazy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIndoYXQgZG9lcyBAeCBtZWFucz8iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndoYXQgaXMgQHgiLAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIndoYXQgZG9lcyBAeCBtZWFuPyIsCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>text
 text
 text
@@ -1730,13 +1736,13 @@ text
 text
 text</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHggPT0gbnVsbCAtPiBudWxsCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="8">
         <text>x
 x
 x
@@ -1762,29 +1768,23 @@ x
 x
 x</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dAo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydChJbnRlcmFjdGlvbldpdGhCYWRSZXNwb25zZSkKICAgIGltcG9ydChzdGF0ZShzdGF0ZURlZmluaXRpb24gPSBhYm9ydGFibGVTdGF0ZURlZihHb29kYnllLCBudWxsKSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydChJbnRlcmFjdGlvbldpdGhCYWRSZXNwb25zZSkKICAgIGltcG9ydChzdGF0ZShzdGF0ZURlZmluaXRpb24gPSBhYm9ydGFibGVTdGF0ZURlZihHb29kYnllLCBudWxsKSkpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uUmVzcG9uc2U8V2hhdElzWD4gewogICAgICAgIHZhbCBkZWZpbml0aW9uID0gaXQuaW50ZW50LmdldERlZmluaXRpb24oKQogICAgICAgIGlmIChkZWZpbml0aW9uICE9IG51bGwpIHsKICAgICAgICAgICAgZnVyaGF0LnNheShkZWZpbml0aW9uKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJhaXNlKGl0LCBOdWxsSW50ZW50KQogICAgICAgIH0KICAgICAgICByZWVudHJ5KCkKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
