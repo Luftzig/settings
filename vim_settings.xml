@@ -336,11 +336,7 @@
         <mark key="^" line="16" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" timestamp="1543325068950">
-        <mark key="'" line="38" column="18" />
-        <mark key="[" line="41" column="53" />
-        <mark key="]" line="41" column="57" />
-        <mark key="." line="41" column="57" />
-        <mark key="^" line="41" column="57" />
+        <mark key="'" line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/Profile.tsx" timestamp="1536745262923">
         <mark key="[" line="5" column="4" />
@@ -817,12 +813,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543325594571">
-        <mark key="'" line="174" column="6" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="127" column="41" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543326650802">
+        <mark key="'" line="124" column="19" />
+        <mark key="[" line="256" column="31" />
+        <mark key="]" line="256" column="31" />
+        <mark key="." line="256" column="31" />
+        <mark key="^" line="256" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1557,11 +1553,13 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/axios/index.d.ts" timestamp="1542028489961">
         <mark key="'" line="66" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/map-helpers.ts" timestamp="1543326151679">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="45" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
-      <jump line="118" column="40" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" />
-      <jump line="144" column="23" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="183" column="20" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="213" column="26" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="298" column="52" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
@@ -1659,16 +1657,19 @@
       <jump line="127" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="182" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="174" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="179" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="218" column="27" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="124" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldFJvb3Q8Um9vdFN0b3JlPihzZWxmKS51aVN0YXRlU3RvcmUuc2hvd0ZhaWx1cmVNb2RhbCgiZXJyb3JzLm1pc3NpbmdDb250YWN0cyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>self.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;errors.missingContacts&quot;</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
