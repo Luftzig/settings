@@ -286,12 +286,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1543488445836">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="48" column="80" />
-        <mark key="]" line="42" column="85" />
-        <mark key="." line="48" column="85" />
-        <mark key="^" line="42" column="85" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1543505714513">
+        <mark key="'" line="28" column="17" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" timestamp="1542891986225">
         <mark key="'" line="86" column="17" />
@@ -836,12 +835,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543503946459">
-        <mark key="'" line="46" column="14" />
-        <mark key="[" line="173" column="23" />
-        <mark key="]" line="174" column="15" />
-        <mark key="^" line="174" column="15" />
-        <mark key="." line="174" column="15" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543505958728">
+        <mark key="'" line="94" column="24" />
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+        <mark key="." line="14" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1582,13 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="38" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
-      <jump line="73" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/WhatIs.kt" />
-      <jump line="31" column="63" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/environment-variables.ts" />
-      <jump line="43" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="25" column="59" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="89" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
-      <jump line="1203" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-navigation/index.d.ts" />
       <jump line="611" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-navigation/index.d.ts" />
       <jump line="90" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
       <jump line="44" column="37" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/back-button-handler.tsx" />
@@ -1682,67 +1674,77 @@
       <jump line="43" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="50" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="46" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="180" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="173" column="68" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="195" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="28" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
+      <jump line="201" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="67" column="5" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="94" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2V0VGltZXJXaXRoTG9jYXRpb24gPSAobG9jYXRpb246IFBvc2l0aW9uKSA9PiB7CiAgICAgICAgc2VsZi5zZXRUaW1lcih7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlOiAiSW5hY3RpdmUiLAogICAgICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbjogewogICAgICAgICAgICAgICAgICAgICAgICAgIGxhdGl0dWRlOiBsb2NhdGlvbi5jb29yZHMubGF0aXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlOiBsb2NhdGlvbi5jb29yZHMubG9uZ2l0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbjogZHVyYXRpb24sCiAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LOCATION</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LOCATION</text>
       </register>
       <register name="/" type="4">
-        <text>isStartingLoading</text>
+        <text>Permi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFsbG93UGVyc29uYWxEYXRhOiB0eXBlcy5ib29sZWFuLAo=</text>
+      <register name="0" type="4">
+        <text>{
+              state: &quot;Triggered&quot;,
+              duration: Time.seconds(0),
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2V0VGltZXJXaXRoTG9jYXRpb24gPSAobG9jYXRpb246IFBvc2l0aW9uKSA9PiB7CiAgICAgICAgc2VsZi5zZXRUaW1lcih7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlOiAiSW5hY3RpdmUiLAogICAgICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbjogewogICAgICAgICAgICAgICAgICAgICAgICAgIGxhdGl0dWRlOiBsb2NhdGlvbi5jb29yZHMubGF0aXR1ZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlOiBsb2NhdGlvbi5jb29yZHMubG9uZ2l0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbjogZHVyYXRpb24sCiAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICwK</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OgogICAgICAgICAgcmV0dXJuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXJyb3IgPT4gewogICAgICAgICAgICBzZWxmLnRvZ2dsZVN0YXR1cygiRmFpbHVyZSIpCiAgICAgICAgICAgIGdldFJvb3Q8Um9vdFN0b3JlPihzZWxmKS51aVN0YXRlU3RvcmUuc2hvd0ZhaWx1cmVNb2RhbCgidGltZXIubm8tbG9jYXRpb24iKQogICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoZXJyb3IpCiAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBFTVBUWV9SRVNQT05TRSA9ICJlbXB0eS1yZXNwb25zZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKCkK</text>
+        <text encoding="base64">ICAudm9sYXRpbGUoc2VsZiA9PiAoewogICAgdGltZUxlZnQ6IFRpbWUuc2Vjb25kcygwKSwKICB9KSkKICAuYWN0aW9ucyhzZWxmID0+ICh7CiAgICBzZXRUaW1lTGVmdCh2YWx1ZSkgewogICAgICBzZWxmLnRpbWVMZWZ0ID0gdmFsdWUKICAgIH0sCiAgICBhZGRUb1RpbWVMZWZ0KHRpbWU6IFRpbWUuVGltZVVuaXQpIHsKICAgICAgc2VsZi50aW1lTGVmdCA9IG1hcE92ZXJFbXB0eShjdXJyZW50ID0+IFRpbWUuYWRkKGN1cnJlbnQsIHRpbWUpLCBzZWxmLnRpbWVMZWZ0KQogICAgfSwKICB9KSkK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAuYWN0aW9ucyhzZWxmID0+ICh7CiAgICBzZXRUaW1lTGVmdCh2YWx1ZSkgewogICAgICBzZWxmLnRpbWVMZWZ0ID0gdmFsdWUKICAgIH0sCiAgICBhZGRUb1RpbWVMZWZ0KHRpbWU6IFRpbWUuVGltZVVuaXQpIHsKICAgICAgc2VsZi50aW1lTGVmdCA9IG1hcE92ZXJFbXB0eShjdXJyZW50ID0+IFRpbWUuYWRkKGN1cnJlbnQsIHRpbWUpLCBzZWxmLnRpbWVMZWZ0KQogICAgfSwKICB9KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUtCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2FybigiRXJyb3Igd2hpbGUgcmV0cmlldmluZyBhbGFybSBzdGF0ZSAoVE9ETykiLCBlcnJvcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isStartingLoading</last-search>
+      <last-search>Permi</last-search>
       <last-offset />
-      <last-pattern>isStartingLoading</last-pattern>
+      <last-pattern>Permi</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1750,7 +1752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Led</entry>
         <entry>\led</entry>
         <entry>\cled</entry>
         <entry>noResponse</entry>
@@ -1770,6 +1771,7 @@
         <entry>contacts</entry>
         <entry>\cdismiss</entry>
         <entry>isStartingLoading</entry>
+        <entry>Permi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMjXENcKFw8XHVbYS16MC05XVwrXHxbYS16MC05XVwrXClcKFx1XCkjXFVcMV9cVVwyI2cg</entry>
