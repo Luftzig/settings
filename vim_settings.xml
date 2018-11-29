@@ -231,12 +231,11 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/onboarding/onboarding.tsx" timestamp="1543315565622">
-        <mark key="'" line="52" column="9" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="52" column="3" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="12" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/onboarding/onboarding.tsx" timestamp="1543501575988">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="17" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/KattisTests/Robots/sample2.txt" timestamp="1526803556837">
         <mark key="[" line="7" column="8" />
@@ -751,7 +750,7 @@
         <mark key="^" line="41" column="112" />
         <mark key="." line="41" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543498234455">
+      <file name="/Dummy.txt" timestamp="1543501640961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
@@ -1052,11 +1051,6 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contact-card.tsx" timestamp="1543410759292">
-        <mark key="[" line="3" column="63" />
-        <mark key="]" line="3" column="63" />
-        <mark key="." line="3" column="63" />
-      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/userDetection.kt" timestamp="1542730951935">
         <mark key="'" line="55" column="35" />
         <mark key="[" line="27" column="0" />
@@ -1114,6 +1108,12 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="8" column="15" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/user.kt" timestamp="1542974095908">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -1179,13 +1179,13 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" timestamp="1543499649484">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" timestamp="1543501146337">
         <mark key="a" line="68" column="13" />
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="20" />
-        <mark key="^" line="71" column="35" />
-        <mark key="." line="121" column="0" />
+        <mark key="'" line="105" column="13" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/sponsors.ts" timestamp="1520012666264">
         <mark key="[" line="0" column="42" />
@@ -1578,9 +1578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="12" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
-      <jump line="228" column="14" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
-      <jump line="169" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
       <jump line="229" column="35" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="237" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="221" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
@@ -1678,13 +1675,16 @@
       <jump line="122" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="68" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
+      <jump line="71" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/onboarding/onboarding.tsx" />
+      <jump line="105" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
+      <jump line="81" column="9" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/onboarding/onboarding.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2V0KCkK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUtCg==</text>
       </register>
       <register name="-" type="4">
         <text>abort</text>
@@ -1696,40 +1696,40 @@
         <text encoding="base64">ICAgIGFsbG93UGVyc29uYWxEYXRhOiB0eXBlcy5ib29sZWFuLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2V0KCkK</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFBlcnNvbmFsRGF0YShmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNvbnRhY3RzU3RvcmUuZWRpdGVkQ29udGFjdCA9PSB1bmRlZmluZWQpIHsKICAgICAgdGhpcy5wcm9wcy5jb250YWN0c1N0b3JlLm5ld0NvbnRhY3QoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0aW5nID0gTmV0d29ya1N0YXR1cy5TVUNDRVNTCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGFsaWduU2VsZjogImNlbnRlciIsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2V0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbnM6IDIwLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFBlcnNvbmFsRGF0YShmYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
