@@ -721,6 +721,10 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-draggable-flatlist/index.js" timestamp="1543403122931">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="152" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/KattisTests/Robots/Generate.hs" timestamp="1526797841310">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="19" />
@@ -739,11 +743,11 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyappdev/MainActivity.java" timestamp="1540457764922">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyappdev/MainActivity.java" timestamp="1543508185331">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1543487612034">
         <mark key="'" line="60" column="1" />
@@ -1064,8 +1068,9 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.props.ts" timestamp="1543333623967">
         <mark key="'" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1542293680699">
-        <mark key="[" line="8" column="81" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1543508150329">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/type-helpers.ts" timestamp="1542619193226">
         <mark key="'" line="0" column="11" />
@@ -1350,6 +1355,10 @@
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="/general.kt" timestamp="1542975916708">
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="566" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Named arguments/src/Task.kt" timestamp="1535015580080">
         <mark key="[" line="0" column="80" />
@@ -1687,52 +1696,49 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LOCATION</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>LOCATION</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Permi</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-              state: &quot;Triggered&quot;,
-              duration: Time.seconds(0),
-            }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlNZU1RFTV9BTEVSVF9XSU5ET1ciLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0NPQVJTRV9MT0NBVElPTiIgLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFQURfQ09OVEFDVFMiLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uR0VUX0FDQ09VTlRTIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmMyZG0ucGVybWlzc2lvbi5SRUNFSVZFIiAvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5WSUJSQVRFIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgTWFuaWZlc3QucGVybWlzc2lvbi5SRUFEX0NPTlRBQ1RTLAogICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLkFDQ0VTU19GSU5FX0xPQ0FUSU9OLAogICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLkFDQ0VTU19DT0FSU0VfTE9DQVRJT04sCiAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uSU5URVJORVQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OgogICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1Blcm1pc3Npb25zKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBFTVBUWV9SRVNQT05TRSA9ICJlbXB0eS1yZXNwb25zZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAudm9sYXRpbGUoc2VsZiA9PiAoewogICAgdGltZUxlZnQ6IFRpbWUuc2Vjb25kcygwKSwKICB9KSkKICAuYWN0aW9ucyhzZWxmID0+ICh7CiAgICBzZXRUaW1lTGVmdCh2YWx1ZSkgewogICAgICBzZWxmLnRpbWVMZWZ0ID0gdmFsdWUKICAgIH0sCiAgICBhZGRUb1RpbWVMZWZ0KHRpbWU6IFRpbWUuVGltZVVuaXQpIHsKICAgICAgc2VsZi50aW1lTGVmdCA9IG1hcE92ZXJFbXB0eShjdXJyZW50ID0+IFRpbWUuYWRkKGN1cnJlbnQsIHRpbWUpLCBzZWxmLnRpbWVMZWZ0KQogICAgfSwKICB9KSkK</text>
+        <text encoding="base64">ICAgICAgTWFuaWZlc3QucGVybWlzc2lvbi5JTlRFUk5FVCwK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuYWN0aW9ucyhzZWxmID0+ICh7CiAgICBzZXRUaW1lTGVmdCh2YWx1ZSkgewogICAgICBzZWxmLnRpbWVMZWZ0ID0gdmFsdWUKICAgIH0sCiAgICBhZGRUb1RpbWVMZWZ0KHRpbWU6IFRpbWUuVGltZVVuaXQpIHsKICAgICAgc2VsZi50aW1lTGVmdCA9IG1hcE92ZXJFbXB0eShjdXJyZW50ID0+IFRpbWUuYWRkKGN1cnJlbnQsIHRpbWUpLCBzZWxmLnRpbWVMZWZ0KQogICAgfSwKICB9KSkK</text>
+        <text encoding="base64">ICAgICAgImFuZHJvaWQucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2FybigiRXJyb3Igd2hpbGUgcmV0cmlldmluZyBhbGFybSBzdGF0ZSAoVE9ETykiLCBlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX0VYVEVSTkFMX1NUT1JBR0UiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
