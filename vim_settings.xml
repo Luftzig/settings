@@ -1591,6 +1591,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/axios/index.d.ts" timestamp="1542028489961">
         <mark key="'" line="66" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/map-helpers.ts" timestamp="1543575900240">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="179" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -1699,10 +1705,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>OverEmpty</text>
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>OverEmpty</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
