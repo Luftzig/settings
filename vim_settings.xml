@@ -1584,6 +1584,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/axios/index.d.ts" timestamp="1542028489961">
         <mark key="'" line="66" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/map-helpers.ts" timestamp="1543585156821">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="124" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -1691,53 +1697,53 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAoZGVmYXVsdFZhbHVlICE9PSB1bmRlZmluZWQgJiYgdmFsdWUgIT09IHVuZGVmaW5lZCkgewogICAgCiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>R.curry(</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>R.curry(</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG1hcFdpdGhEZWZhdWx0PFQsIFI+KGZuOiAoVCkgPT4gUiwgZGVmYXVsdFZhbHVlOiBSLCB2YWx1ZTogRW1wdHk8VD4pOiBSCg==</text>
+        <text encoding="base64">ICAoYTE6IEExLCBhMjogQTIpOiAoYTM6IEEzKSA9PiBSCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoZGVmYXVsdFZhbHVlICE9PSB1bmRlZmluZWQgJiYgdmFsdWUgIT09IHVuZGVmaW5lZCkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBDdXJyeTM8QTEsIEEyLCBBMywgUj4gPSB7CiAgKGExOiBBMSwgYTI6IEEyLCBhMzogQTMpOiBSOwogIChhMTogQTEsIGEyOiBBMik6ICgoYTM6IEEzKSA9PiBSKTsKICAoYTE6IEExKTogKGEyOiBBMikgPT4gKChhMzogQTMpID0+IFIpOwp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICh2YWx1ZSkgPT4gX21hcFdpdGhEZWZhdWx0KGZuLCBkZWZhdWx0VmFsdWUsIHZhbHVlKQo=</text>
+        <text encoding="base64">ZGVjbGFyZSBjb25zdCBtYXBXaXRoRGVmYXVsdDogQ3VycnkzPChhcmc6IFQpID0+IFIsIFIsIEVtcHR5PFQ+LCBSPgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBfbWFwV2l0aERlZmF1bHQoZm4sIGRlZmF1bHRWYWx1ZSwgdmFsdWUpCg==</text>
+        <text encoding="base64">ICBpZiAoZGVmYXVsdFZhbHVlICE9PSB1bmRlZmluZWQgJiYgdmFsdWUgIT09IHVuZGVmaW5lZCkgewogICAgCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIChkZWZhdWx0VmFsdWUpID0+ICh2YWx1ZSkgPT4gX21hcFdpdGhEZWZhdWx0KGZuLCBkZWZhdWx0VmFsdWUsIHZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICh2YWx1ZSkgPT4gX21hcFdpdGhEZWZhdWx0KGZuLCBkZWZhdWx0VmFsdWUsIHZhbHVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIF9tYXBXaXRoRGVmYXVsdChmbiwgZGVmYXVsdFZhbHVlLCB2YWx1ZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBfbWFwV2l0aERlZmF1bHQoZm4sIGRlZmF1bHRWYWx1ZSwgdmFsdWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIChkZWZhdWx0VmFsdWUpID0+ICh2YWx1ZSkgPT4gX21hcFdpdGhEZWZhdWx0KGZuLCBkZWZhdWx0VmFsdWUsIHZhbHVlKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXJndW1lbnRzLmxlbmd0aCA9PT0gMyA/CiAgICBfbWFwV2l0aERlZmF1bHQoZm4sIGRlZmF1bHRWYWx1ZSwgdmFsdWUpCiAgICA6IGFyZ3VtZW50cy5sZW5ndGggPT09IDIgPwogICAgICAodmFsdWUpID0+IF9tYXBXaXRoRGVmYXVsdChmbiwgZGVmYXVsdFZhbHVlLCB2YWx1ZSkKICAgICAgOiAoZGVmYXVsdFZhbHVlKSA9PiAodmFsdWUpID0+IF9tYXBXaXRoRGVmYXVsdChmbiwgZGVmYXVsdFZhbHVlLCB2YWx1ZSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
