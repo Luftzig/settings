@@ -743,11 +743,12 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyappdev/MainActivity.java" timestamp="1543508185331">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
-        <mark key="^" line="34" column="5" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyappdev/MainActivity.java" timestamp="1543569942012">
+        <mark key="'" line="56" column="20" />
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1543487612034">
         <mark key="'" line="60" column="1" />
@@ -1590,8 +1591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="611" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-navigation/index.d.ts" />
-      <jump line="90" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
       <jump line="44" column="37" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/back-button-handler.tsx" />
       <jump line="30" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" />
       <jump line="17" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" />
@@ -1690,22 +1689,24 @@
       <jump line="201" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="67" column="5" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="94" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="70" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyappdev/MainActivity.java" />
+      <jump line="56" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyappdev/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Permi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlNZU1RFTV9BTEVSVF9XSU5ET1ciLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0NPQVJTRV9MT0NBVElPTiIgLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFQURfQ09OVEFDVFMiLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uR0VUX0FDQ09VTlRTIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmMyZG0ucGVybWlzc2lvbi5SRUNFSVZFIiAvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5WSUJSQVRFIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiQ2Fubm90IGRyYXcgb3ZlcmxheXMiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgTWFuaWZlc3QucGVybWlzc2lvbi5SRUFEX0NPTlRBQ1RTLAogICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLkFDQ0VTU19GSU5FX0xPQ0FUSU9OLAogICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLkFDQ0VTU19DT0FSU0VfTE9DQVRJT04sCiAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uSU5URVJORVQsCg==</text>
