@@ -286,10 +286,10 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1543505714513">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1543827332614">
         <mark key="'" line="28" column="17" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="12" />
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" timestamp="1542891986225">
@@ -1320,6 +1320,9 @@
         <mark key="^" line="23" column="5" />
         <mark key="." line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" timestamp="1543827376394">
+        <mark key="'" line="90" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/agenda.json" timestamp="1530117442202">
         <mark key="[" line="225" column="138" />
         <mark key="]" line="225" column="138" />
@@ -1592,7 +1595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="100" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
       <jump line="43" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-reorder-screen.tsx" />
@@ -1692,13 +1694,14 @@
       <jump line="151" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="260" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="209" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="90" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>R.curry(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaCgoKSA9PiB7CiAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgicm9vdFN0YWNrIikKICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>R.curry(</text>
@@ -1707,7 +1710,7 @@
         <text>throw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoYTE6IEExLCBhMjogQTIpOiAoYTM6IEEzKSA9PiBSCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaCgoKSA9PiB7CiAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgicm9vdFN0YWNrIikKICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
