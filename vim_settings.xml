@@ -147,6 +147,12 @@
         <mark key="^" line="24" column="62" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" timestamp="1543932304266">
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.presets.ts" timestamp="1543488731767">
         <mark key="'" line="56" column="11" />
       </file>
@@ -743,8 +749,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543931166184">
-        <mark key="'" line="310" column="34" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543932233504">
+        <mark key="'" line="469" column="28" />
+        <mark key="[" line="469" column="56" />
+        <mark key="]" line="470" column="67" />
+        <mark key="." line="470" column="67" />
+        <mark key="^" line="470" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1369,7 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="208" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="155" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="164" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -1469,58 +1478,59 @@
       <jump line="26" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" />
       <jump line="289" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="310" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="468" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="&quot;" type="4">
+        <text>Duration</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Duration</text>
       </register>
       <register name="/" type="4">
         <text>timeLeft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB2YWwyID0+IG1hcE92ZXJFbXB0eSgKICAgICAgKF92YWwxKSA9PiBtYXBPdmVyRW1wdHkoCiAgICAgICAgKF92YWwyKSA9PiBmbihfdmFsMSwgX3ZhbDIpLAogICAgICAgIHZhbDIpLAogICAgICB2YWwxKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHNlbGYudGltZWRBbGFybSA9PSBudWxsKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJJbiBjb25zaXN0ZW50IHN0YXRlLCB0aW1lci1zdG9yZSB0aW1lciBpcyBudWxsIHdoaWxlIHRpbWVyIGlzIHJ1bm5pbmciKQogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIC8vIElmIHRoZSBoYWxmd2F5cG9pbnQgaXNuJ3QgcmVhY2hlZCB5ZXQsIHRoZSBhbmltYXRpb25QZXJjZW50YWdlIGlzIDAKICAgICAgLy8gQmVjYXVzZSB3ZSBkb24ndCBoYXZlIGFueSBncmFkaWVudCBhdCBhbGwgdW50aWwgdGhlIGhhbGZ3YXlwb2ludCBpcyBjcm9zc2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZHVyYXRpb24gPSBjYWxjdWxhdGVEdXJhdGlvbih7IGVuZFRpbWUsIHN0YXJ0VGltZSB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFRpbWUuZ3Qoc2VsZi50aW1lTGVmdCwgaGFsZndheVBvaW50KSkgewogICAgICAgIGFuaW1hdGlvblBlcmNlbnRhZ2UgPSAwCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnRpbWVkQWxhcm0hLnNldER1cmF0aW9uKFRpbWUuc2Vjb25kcygwKSkK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWxmLnRpbWVkQWxhcm0hLnNldER1cmF0aW9uKGR1cmF0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIC8vIFdoZW4gdGhlIHRpbWUgbGVmdCBpcyBsZXNzIHRoYW4gdGhlIGhhbGZ3YXlQb2ludCwgd2Ugd2FudCB0byBzdGFydCB0aGUgYW5pbWF0aW9uIGltbWVkaWF0ZWx5CiAgICAgIGlmIChUaW1lLmx0KHNlbGYudGltZUxlZnQsIGhhbGZ3YXlQb2ludCkpIHsKICAgICAgICBhbmltYXRpb25EZWxheSA9IFRpbWUuc2Vjb25kcygwKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGltZWRBbGFybSA9IG1hcE92ZXJFbXB0eSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVMZWZ0ID0gVGltZS5zZWNvbmRzKDApCiAgICAgICAgc2VsZi5leGNlc3NEdXJhdGlvbiA9IFRpbWUuc2Vjb25kcygwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG1hcE92ZXJFbXB0eSgKICAgICAgICBzdGFydFRpbWUgPT4gbWFwT3ZlckVtcHR5KAogICAgICAgICAgZW5kVGltZSA9PiApLCBzZWxmLmVuZFRpbWUsCiAgICAgICAgKSwgc2VsZi5zdGFydFRpbWUsCiAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgaWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
