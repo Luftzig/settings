@@ -748,12 +748,11 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1544003370576">
-        <mark key="'" line="276" column="69" />
-        <mark key="[" line="277" column="37" />
-        <mark key="]" line="277" column="51" />
-        <mark key="." line="277" column="51" />
-        <mark key="^" line="277" column="51" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1544004078768">
+        <mark key="[" line="308" column="22" />
+        <mark key="]" line="308" column="33" />
+        <mark key="." line="308" column="33" />
+        <mark key="^" line="308" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1502,10 +1501,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>halfwayPoint</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>halfwayPoint</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
@@ -1514,46 +1513,40 @@
         <text encoding="base64">KGE6IFRpbWVVbml0LCBiOiBUaW1lVW5pdCkgPT4gUg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVtYWluaW5nRHVyYXRpb246IFRpbWVVbml0IHwgdW5kZWZpbmVkID0gdGltZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBoYWxmd2F5UG9pbnQsCiAgICAgICAgZHVyYXRpb25Ub0hhbGZ3YXlQb2ludCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbGlmdEEyOiA8Uj4oZm46ICh2YWwxOiBudW1iZXIsIHZhbDI6IG51bWJlcikgPT4gUiwgYTogVGltZVVuaXQsIGI6IFRpbWVVbml0KSA9PiBSID0gKAogIGZuLAogIGEsCiAgYiwKKSA9PiAK</text>
+        <text encoding="base64">ICAgICAgLy8gVGhlIGFuaW1hdGlvblBlcmNlbnRhZ2UgaXMgdXNlZCBmb3Igc2hvd2luZyB0aGUgZ3JhZGllbnQgaW4gdGhlIGNvdW50ZG93biB2aWV3LgogICAgICAvLyBUaGUgZ3JhZGllbnQgc3RhcnRzIGF0IHRoZSBoYWxmd2F5IHBvaW50IG1hcmsgYXQgMCUgYW5kIGdyYWR1YWxseSBpbmNyZWFzZXMgdG8gMTAwJSB1bnRpbCB0aGUgdGltZSBsZWZ0IGlzIDAuCiAgICAgIC8vIDAlOiBub3QgcGFzc2VkIHRoZSBoYWxmd2F5UG9pbnQgeWV0CiAgICAgIC8vIDUwJTogNTAlIG9mIHRoZSB0aW1lIGJldHdlZW4gdGhlIGhhbGZ3YXlQb2ludCBhbmQgdGhlIHRpbWVMZWZ0IGhhcyBwYXNzZWQKICAgICAgLy8gMTAwJTogYWxhcm0K</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  const mostRefinedUnit = mostRefined(a.kind, b.kind)
-  const valueExtractor = extractorOfKind(mostRefinedUnit)
-  return fn(valueExtractor(a), valueExtractor(b))
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gVGhlIGFuaW1hdGlvbkRlbGF5IGlzIHRoZSB0aW1lIHRvIHdhaXQgYmVmb3JlIHN0YXJ0aW5nIHRoZSBncmFkdWFsbHkgY2hhbmdpbmcgYmFja2dyb3VuZCwgd2Ugc3RhcnQgaXQgYXQgdGhlIGhhbGZ3YXlQb2ludCBvZiB0aGUgdGltZXIKICAgICAgY29uc3QgZHVyYXRpb25Ub0hhbGZ3YXlQb2ludCA9IG1hcDJPdmVyRW1wdHkoCiAgICAgICAgKHJlbWFpbmluZ0R1cmF0aW9uOiBEdXJhdGlvbiwgaGFsZndheVBvaW50KSA9PiByZW1haW5pbmdEdXJhdGlvbi5zdWJ0cmFjdChoYWxmd2F5UG9pbnQpLAogICAgICAgIHRpbWVyLnJlbWFpbmluZ1RpbWUsCiAgICAgICAgaGFsZndheVBvaW50LAogICAgICApCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaGFsZndheVBvaW50OiBUaW1lVW5pdCB8IHVuZGVmaW5lZCA9IGhhbGZEdXJhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRoaXMgZnVuY3Rpb24gcmVsaWVzIGFsb3Qgb24gaW50ZXJuYWwgc3RhdGUgaW4gdGhlIHN0b3JlLi4uCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text>Time.div(
-        
-      )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gVGhlIGhhbGZ3YXlQb2ludCBpcyBhbHdheXMgaGFsZiBvZiB0aGUgVElNRVJzIGR1cmF0aW9uICsgdGhlIGV4Y2VzcyBkdXJhdGlvbiAobm90ISB0aGUgdGltZSBsZWZ0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy8gYW5pbWF0aW9uX2RlbGF5ID0gbWF4KHJlbWFpbmluZ190aW1lIC0gKHRvdGFsX2R1cmF0aW9uIC8gMiksIDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdWJ0cmFjdChhLCBtaWxsaXNlY29uZHMoYXNNaWxsaXNlY29uZHMoYSkgLyBiKSkK</text>
+        <text encoding="base64">ICAgICAgLy8gYW5pbWF0aW9uX3BlcmNlbnQgPSBtYXgoKGhhbGZfZHVyYXRpb24gLSByZW1haW5pbmdfdGltZSkvIChoYWxmX2R1cmF0aW9uKSAqIDEwMCwgMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
