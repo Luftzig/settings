@@ -514,6 +514,11 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen-style.tsx" timestamp="1543331513475">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/ui-state-store.ts" timestamp="1543939625385">
         <mark key="'" line="39" column="6" />
         <mark key="[" line="17" column="29" />
@@ -718,6 +723,11 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/back-button-handler.tsx" timestamp="1543842691397">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1542966782538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -727,11 +737,10 @@
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1543936595672">
-        <mark key="[" line="193" column="24" />
-        <mark key="]" line="193" column="39" />
-        <mark key="." line="193" column="39" />
-        <mark key="^" line="193" column="39" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" timestamp="1543943282179">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="/fragment.tsx" timestamp="1543417505942">
         <mark key="[" line="0" column="0" />
@@ -739,12 +748,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543941761248">
-        <mark key="'" line="344" column="13" />
-        <mark key="[" line="269" column="74" />
-        <mark key="]" line="269" column="74" />
-        <mark key="." line="269" column="74" />
-        <mark key="^" line="269" column="59" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1543943443159">
+        <mark key="'" line="276" column="69" />
+        <mark key="[" line="278" column="113" />
+        <mark key="]" line="279" column="25" />
+        <mark key="." line="279" column="25" />
+        <mark key="^" line="279" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1387,7 +1396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-navigation/index.d.ts" />
       <jump line="445" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-navigation/index.d.ts" />
       <jump line="245" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-navigation/index.d.ts" />
       <jump line="36" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/stateful-navigator.tsx" />
@@ -1487,58 +1495,65 @@
       <jump line="98" column="74" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="334" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="329" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="275" column="69" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0gaGFsZl9kdXJhdGlvbg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcmVtYWluaW5nRHVyYXRpb246IFRpbWVVbml0IHwgdW5kZWZpbmVkID0gdGltZXIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gaGFsZl9kdXJhdGlvbg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGlmZkR1cmF0aW9uID0gbWFwT3ZlckVtcHR5KG1vbWVudC5kdXJhdGlvbikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">KGE6IFRpbWVVbml0LCBiOiBUaW1lVW5pdCkgPT4gUg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJSZW1haW5pbmcgdGltZTogIiwgc3RvcmUudHJhY2tlZFJlbWFpbmluZ1RpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVtYWluaW5nRHVyYXRpb246IFRpbWVVbml0IHwgdW5kZWZpbmVkID0gdGltZXIuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0Um9vdDxSb290U3RvcmU+KHNlbGYpLnVzZXJTdG9yZS5kZXZpY2VJZCwK</text>
+        <text encoding="base64">Y29uc3QgbGlmdEEyOiA8Uj4oZm46ICh2YWwxOiBudW1iZXIsIHZhbDI6IG51bWJlcikgPT4gUiwgYTogVGltZVVuaXQsIGI6IFRpbWVVbml0KSA9PiBSID0gKAogIGZuLAogIGEsCiAgYiwKKSA9PiAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lZEFsYXJtLAo=</text>
+      <register name="3" type="4">
+        <text>{
+  const mostRefinedUnit = mostRefined(a.kind, b.kind)
+  const valueExtractor = extractorOfKind(mostRefinedUnit)
+  return fn(valueExtractor(a), valueExtractor(b))
+}</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0aW1lcjogVGltZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdXJhdGlvbjogZHVyYXRpb24sCg==</text>
+      <register name="6" type="4">
+        <text>Time.div(
+        
+      )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aW1lZEFsYXJtIS5jYW5jZWwoKQo=</text>
+        <text encoding="base64">ICBzdWJ0cmFjdChhLCBtaWxsaXNlY29uZHMoYXNNaWxsaXNlY29uZHMoYSkgLyBiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlbWFpbmluZ1RpbWUgPSBtYXBPdmVyRW1wdHkoVGltZS5mcm9tRHVyYXRpb24sIHJlbWFpbmluZ1RpbWUpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
