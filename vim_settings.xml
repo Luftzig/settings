@@ -628,12 +628,12 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/environment-variables.ts" timestamp="1544008287580">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/environment-variables.ts" timestamp="1544173494115">
         <mark key="'" line="31" column="63" />
-        <mark key="[" line="31" column="78" />
-        <mark key="]" line="31" column="98" />
-        <mark key="^" line="31" column="98" />
-        <mark key="." line="31" column="98" />
+        <mark key="[" line="34" column="96" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/src/board.ts" timestamp="1507458921978">
         <mark key="[" line="4" column="1" />
@@ -741,7 +741,7 @@
         <mark key="^" line="41" column="112" />
         <mark key="." line="41" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544172203617">
+      <file name="/Dummy.txt" timestamp="1544173618228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
@@ -832,12 +832,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1544172075484">
-        <mark key="'" line="155" column="12" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
-        <mark key="^" line="275" column="69" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1544173451599">
+        <mark key="'" line="189" column="30" />
+        <mark key="[" line="240" column="57" />
+        <mark key="]" line="240" column="58" />
+        <mark key="." line="240" column="58" />
+        <mark key="^" line="236" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1618,11 +1618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="550" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="93" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
-      <jump line="113" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
-      <jump line="135" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="136" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="205" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="89" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
@@ -1718,19 +1713,24 @@
       <jump line="509" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="13" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="152" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="542" column="57" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="235" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="236" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="240" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="189" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbmF2aWdhdG9yLmdlb2xvY2F0aW9uLmNsZWFyV2F0Y2god2F0Y2hJZCkK</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>ion</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>setEndTime</text>
+        <text>setInterval</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG1hcE92ZXJFbXB0eShuYXZpZ2F0b3IuZ2VvbG9jYXRpb24uY2xlYXJXYXRjaC5iaW5kKG5hdmlnYXRvci5nZW9sb2NhdGlvbiksIHdhdGNoSWQpCg==</text>
@@ -1776,9 +1776,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setEndTime</last-search>
+      <last-search>setInterval</last-search>
       <last-offset />
-      <last-pattern>setEndTime</last-pattern>
+      <last-pattern>setInterval</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1786,7 +1786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set the tim</entry>
         <entry>setTimer</entry>
         <entry>reset</entry>
         <entry>animate</entry>
@@ -1803,9 +1802,10 @@
         <entry>create</entry>
         <entry>Adding 10 minutes</entry>
         <entry>setTimeLeft</entry>
-        <entry>cb</entry>
         <entry>add</entry>
         <entry>setEndTime</entry>
+        <entry>cb</entry>
+        <entry>setInterval</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMjXENcKFw8XHVbYS16MC05XVwrXHxbYS16MC05XVwrXClcKFx1XCkjXFVcMV9cVVwyI2cg</entry>
