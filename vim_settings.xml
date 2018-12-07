@@ -741,6 +741,9 @@
         <mark key="^" line="41" column="112" />
         <mark key="." line="41" column="112" />
       </file>
+      <file name="/Dummy.txt" timestamp="1544172203617">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/ops/uploadItems.ts" timestamp="1514300778717">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -804,6 +807,9 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
+      <file name="/fragment.java" timestamp="1542966782538">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Collections/Filter map/src/Task.kt" timestamp="1535028841118">
         <mark key="[" line="4" column="81" />
         <mark key="]" line="4" column="85" />
@@ -812,6 +818,9 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/test/setup.ts" timestamp="1544086457799">
         <mark key="'" line="10" column="15" />
+      </file>
+      <file name="/fragment.tsx" timestamp="1543417505942">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
@@ -823,12 +832,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1544104197252">
-        <mark key="'" line="13" column="43" />
-        <mark key="[" line="411" column="46" />
-        <mark key="]" line="411" column="44" />
-        <mark key="." line="411" column="44" />
-        <mark key="^" line="411" column="44" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1544172075484">
+        <mark key="'" line="155" column="12" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="275" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1609,7 +1618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="59" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="503" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="550" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
@@ -1709,25 +1717,26 @@
       <jump line="151" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="509" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="13" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="152" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>moment.utc(startTime, SERVER_TIME_FORMAT)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbmF2aWdhdG9yLmdlb2xvY2F0aW9uLmNsZWFyV2F0Y2god2F0Y2hJZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>moment.utc(startTime, SERVER_TIME_FORMAT)</text>
+        <text>ion</text>
       </register>
       <register name="/" type="4">
         <text>setEndTime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgU0VSVkVSX1RJTUVfRk9STUFUID0gIk1NL0REL1lZWVkgaDptbTpzcyBBIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcE92ZXJFbXB0eShuYXZpZ2F0b3IuZ2VvbG9jYXRpb24uY2xlYXJXYXRjaC5iaW5kKG5hdmlnYXRvci5nZW9sb2NhdGlvbiksIHdhdGNoSWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgbmF2aWdhdG9yLmdlb2xvY2F0aW9uLmNsZWFyV2F0Y2god2F0Y2hJZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1736,31 +1745,31 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgU0VSVkVSX0RBVEVfRk9STUFUCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBmb3JtYXREYXRlczogKCkgPT4gCg==</text>
+        <text encoding="base64">Y29uc3QgU0VSVkVSX0RBVEVfRk9STUFUCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IFNFUlZFUl9EQVRFX0ZPUk1BVCA9ICIiCg==</text>
+        <text encoding="base64">ICBjb25zdCBmb3JtYXREYXRlczogKCkgPT4gCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IFNFUlZFUl9EQVRFX0ZPUk1BVCA9ICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewogIGludGVyZmFjZSBOYXZpZ2F0b3IgewogICAgZ2VvbG9jYXRpb246IEdlb2xvY2F0aW9uU3RhdGljCiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewogIGludGVyZmFjZSBOYXZpZ2F0b3IgewogICAgZ2VvbG9jYXRpb246IEdlb2xvY2F0aW9uU3RhdGljCiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
