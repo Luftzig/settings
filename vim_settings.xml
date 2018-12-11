@@ -167,6 +167,11 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.presets.ts" timestamp="1544534395899">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Collections/FlatMap/src/Task.kt" timestamp="1535029486690">
         <mark key="[" line="4" column="104" />
         <mark key="]" line="4" column="105" />
@@ -742,7 +747,7 @@
         <mark key="^" line="41" column="112" />
         <mark key="." line="41" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544529967247">
+      <file name="/Dummy.txt" timestamp="1544534420327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -755,9 +760,9 @@
         <mark key="^" line="49" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.props.ts" timestamp="1544452173648">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Nexar/challenge.getnexar.com/.gitignore" timestamp="1513684898298">
         <mark key="[" line="5" column="0" />
@@ -1107,13 +1112,6 @@
         <mark key="]" line="118" column="0" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" timestamp="1544529034880">
-        <mark key="'" line="78" column="41" />
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/elm-package.json" timestamp="1506771728174">
         <mark key="[" line="19" column="46" />
@@ -1526,7 +1524,6 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.tsx" timestamp="1544526579973" />
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/about.ts" timestamp="1520010877312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="17" />
@@ -1611,8 +1608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="147" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="157" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="179" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="40" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
@@ -1711,67 +1706,69 @@
       <jump line="97" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
       <jump line="98" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
       <jump line="104" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
+      <jump line="23" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
+      <jump line="88" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/header/header.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>76</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGZsZXhEaXJlY3Rpb246ICJyb3ciLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>76</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>google</text>
+        <text encoding="base64">XDxMRUZUXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICJmbGV4LXN0YXJ0IiwKICAgIHBhZGRpbmdIb3Jpem9udGFsOiBzcGFjaW5nLm5vbmUsCiAgICBwYWRkaW5nVmVydGljYWw6IHNwYWNpbmcubm9uZSwKICAgIGJvcmRlckNvbG9yOiBjb2xvci5TdmV2aWFDb2xvcnMud2hpdGUsCiAgICBiYWNrZ3JvdW5kQ29sb3I6IGNvbG9yLnRyYW5zcGFyZW50LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmbGV4R3JvdzogMSwK</text>
+        <text encoding="base64">ICAgIC8vIGZsZXhEaXJlY3Rpb246ICJyb3ciLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmbGV4R3JvdzogMSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aXRoTGVmdEljb246IHsgLi4uQkFTRV9WSUVXLAogIH0sCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICJyb3ciLAo=</text>
+        <text encoding="base64">ICB3aXRoTGVmdEljb246IHsgLi4uQkFTRV9WSUVXLAogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICJmbGV4LXN0YXJ0IiwKICAgIHBhZGRpbmdIb3Jpem9udGFsOiBzcGFjaW5nLm5vbmUsCiAgICBwYWRkaW5nVmVydGljYWw6IHNwYWNpbmcubm9uZSwKICAgIGJvcmRlckNvbG9yOiBjb2xvci5TdmV2aWFDb2xvcnMud2hpdGUsCiAgICBiYWNrZ3JvdW5kQ29sb3I6IGNvbG9yLnRyYW5zcGFyZW50LAo=</text>
+        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICJyb3ciLAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmbGV4RGlyZWN0aW9uOiAicm93IiwK</text>
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICJmbGV4LXN0YXJ0IiwKICAgIHBhZGRpbmdIb3Jpem9udGFsOiBzcGFjaW5nLm5vbmUsCiAgICBwYWRkaW5nVmVydGljYWw6IHNwYWNpbmcubm9uZSwKICAgIGJvcmRlckNvbG9yOiBjb2xvci5TdmV2aWFDb2xvcnMud2hpdGUsCiAgICBiYWNrZ3JvdW5kQ29sb3I6IGNvbG9yLnRyYW5zcGFyZW50LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbGV4RGlyZWN0aW9uOiAicm93IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBsZWZ0SWNvblN0eWxlID0gewogICAgbWFyZ2luSG9yaXpvbnRhbDogLTQsCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICBjb25zdCBsZWZ0SWNvblN0eWxlID0gewogICAgbWFyZ2luSG9yaXpvbnRhbDogLTQsCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>google</last-search>
+      <last-search encoding="base64">XDxMRUZUXD4=</last-search>
       <last-offset />
-      <last-pattern>google</last-pattern>
+      <last-pattern encoding="base64">XDxMRUZUXD4=</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1779,7 +1776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>modal</entry>
         <entry>\c</entry>
         <entry>moment\(\)</entry>
         <entry>moment()</entry>
@@ -1799,6 +1795,7 @@
         <entry>webview</entry>
         <entry>setTimeLeft</entry>
         <entry>google</entry>
+        <entry encoding="base64">XDxMRUZUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMjXENcKFw8XHVbYS16MC05XVwrXHxbYS16MC05XVwrXClcKFx1XCkjXFVcMV9cVVwyI2cg</entry>
