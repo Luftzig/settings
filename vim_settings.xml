@@ -297,11 +297,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1544696749505">
-        <mark key="[" line="74" column="3" />
-        <mark key="]" line="75" column="1" />
-        <mark key="." line="75" column="1" />
-        <mark key="^" line="75" column="1" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1544698780027">
+        <mark key="[" line="23" column="73" />
+        <mark key="]" line="23" column="92" />
+        <mark key="." line="23" column="92" />
+        <mark key="^" line="23" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" timestamp="1542891986225">
         <mark key="'" line="86" column="17" />
@@ -1334,8 +1334,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/root-navigator.ts" timestamp="1543835287248">
-        <mark key="'" line="10" column="29" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/root-navigator.ts" timestamp="1544698458043">
+        <mark key="'" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/agenda.json" timestamp="1530117442202">
         <mark key="[" line="225" column="138" />
@@ -1621,7 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="64" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="188" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
@@ -1721,31 +1720,32 @@
       <jump line="451" column="108" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="494" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="267" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="13" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/root-navigator.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Will leave app loading</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbiA9IA==</text>
+        <text>Will leave app loading</text>
       </register>
       <register name="/" type="4">
         <text>cb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IGFjY3VyYWN5OiBudW1iZXI7CiAgICByZWFkb25seSBhbHRpdHVkZTogbnVtYmVyIHwgbnVsbDsKICAgIHJlYWRvbmx5IGFsdGl0dWRlQWNjdXJhY3k6IG51bWJlciB8IG51bGw7CiAgICByZWFkb25seSBoZWFkaW5nOiBudW1iZXIgfCBudWxsOwogICAgcmVhZG9ubHkgbGF0aXR1ZGU6IG51bWJlcjsKICAgIHJlYWRvbmx5IGxvbmdpdHVkZTogbnVtYmVyOwogICAgcmVhZG9ubHkgc3BlZWQ6IG51bWJlciB8IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigid2lsbEJsdXIiLCBldmVudCA9PiBjb25zb2xlLndhcm4oIldpbGwgbGVhdmUgYXBwIGxvYWRpbmciLCBldmVudCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkRm9jdXMiLCBldmVudCA9PiBjb25zb2xlLndhcm4oIldpbGwgbGVhdmUgYXBwIGxvYWRpbmciLCBldmVudCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgiaG9tZVNjcmVlbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgiaG9tZVNjcmVlbiIpCg==</text>
@@ -1753,28 +1753,28 @@
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgiaG9tZVNjcmVlbiIpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
       
     }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgIGNvbnNvbGUubG9nKCJGYWlsZWQgdG8gZ2V0IGxvY2F0aW9uLCBzZW5kaW5nIGludmFsaWQgbG9jYXRpb246IiwgZXJyb3IpCiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKElOVkFMSURfUE9TSVRJT04gYXMgUG9zaXRpb24pCiAgfSk=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGludmFsaWRQb3NpdGlvbiA9IHsKICAgICAgY29vcmRzOiB7CiAgICAgICAgYWNjdXJhY3k6IDAsCiAgICAgICAgYWx0aXR1ZGU6IG51bGwsCiAgICAgICAgYWx0aXR1ZGVBY2N1cmFjeTogbnVsbCwKICAgICAgICBoZWFkaW5nOiBudWxsLAogICAgICAgIGxhdGl0dWRlOiBJTlZBTElEX0xBVF9MT05HX1ZBTFVFLAogICAgICAgIGxvbmdpdHVkZTogSU5WQUxJRF9MQVRfTE9OR19WQUxVRSwKICAgICAgICBzcGVlZDogbnVsbCwKICAgICAgfSwKICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgSU5WQUxJRF9MQVRfTE9OR19WQUxVRSA9IC0xMDAwCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgSU5WQUxJRF9MQVRfTE9OR19WQUxVRSA9IC0xMDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
