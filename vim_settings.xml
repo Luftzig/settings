@@ -297,11 +297,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1544698780027">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="92" />
-        <mark key="." line="23" column="92" />
-        <mark key="^" line="23" column="92" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1544699148993">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/alcoholism.kt" timestamp="1542891986225">
         <mark key="'" line="86" column="17" />
@@ -1621,8 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
-      <jump line="24" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="188" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="10" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/test/setup.ts" />
@@ -1721,34 +1719,36 @@
       <jump line="494" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="267" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="13" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/root-navigator.ts" />
+      <jump line="25" column="39" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Will leave app loading</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkRm9jdXMiLCBldmVudCA9PiBjb25zb2xlLndhcm4oImVudGVyaW5nIGFwcCBsb2FkaW5nIiwgZXZlbnQpKQogICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKCJ3aWxsQmx1ciIsIGV2ZW50ID0+IGNvbnNvbGUud2FybigiV2lsbCBsZWF2ZSBhcHAgbG9hZGluZyIsIGV2ZW50KSkKICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkQmx1ciIsIGV2ZW50ID0+IGNvbnNvbGUud2FybigiV2lsbCBsZWF2ZSBhcHAgbG9hZGluZyIsIGV2ZW50KSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Will leave app loading</text>
+        <text>willBlur</text>
       </register>
       <register name="/" type="4">
-        <text>cb</text>
+        <text encoding="base64">XDxkaWRCbHVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigid2lsbEJsdXIiLCBldmVudCA9PiBjb25zb2xlLndhcm4oIldpbGwgbGVhdmUgYXBwIGxvYWRpbmciLCBldmVudCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkRm9jdXMiLCBldmVudCA9PiBjb25zb2xlLndhcm4oIldpbGwgbGVhdmUgYXBwIGxvYWRpbmciLCBldmVudCkpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkRm9jdXMiLCBldmVudCA9PiBjb25zb2xlLndhcm4oImVudGVyaW5nIGFwcCBsb2FkaW5nIiwgZXZlbnQpKQogICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKCJ3aWxsQmx1ciIsIGV2ZW50ID0+IGNvbnNvbGUud2FybigiV2lsbCBsZWF2ZSBhcHAgbG9hZGluZyIsIGV2ZW50KSkKICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkQmx1ciIsIGV2ZW50ID0+IGNvbnNvbGUud2FybigiV2lsbCBsZWF2ZSBhcHAgbG9hZGluZyIsIGV2ZW50KSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigiZGlkRm9jdXMiLCBldmVudCA9PiBjb25zb2xlLndhcm4oIldpbGwgbGVhdmUgYXBwIGxvYWRpbmciLCBldmVudCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgiaG9tZVNjcmVlbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -1756,34 +1756,34 @@
       <register name="4" type="2">
         <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgiaG9tZVNjcmVlbiIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgiaG9tZVNjcmVlbiIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text>{
+      
+    }</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgIGNvbnNvbGUubG9nKCJGYWlsZWQgdG8gZ2V0IGxvY2F0aW9uLCBzZW5kaW5nIGludmFsaWQgbG9jYXRpb246IiwgZXJyb3IpCiAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKElOVkFMSURfUE9TSVRJT04gYXMgUG9zaXRpb24pCiAgfSk=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGludmFsaWRQb3NpdGlvbiA9IHsKICAgICAgY29vcmRzOiB7CiAgICAgICAgYWNjdXJhY3k6IDAsCiAgICAgICAgYWx0aXR1ZGU6IG51bGwsCiAgICAgICAgYWx0aXR1ZGVBY2N1cmFjeTogbnVsbCwKICAgICAgICBoZWFkaW5nOiBudWxsLAogICAgICAgIGxhdGl0dWRlOiBJTlZBTElEX0xBVF9MT05HX1ZBTFVFLAogICAgICAgIGxvbmdpdHVkZTogSU5WQUxJRF9MQVRfTE9OR19WQUxVRSwKICAgICAgICBzcGVlZDogbnVsbCwKICAgICAgfSwKICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgSU5WQUxJRF9MQVRfTE9OR19WQUxVRSA9IC0xMDAwCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludmFsaWRQb3NpdGlvbiA9IHsKICAgICAgY29vcmRzOiB7CiAgICAgICAgYWNjdXJhY3k6IDAsCiAgICAgICAgYWx0aXR1ZGU6IG51bGwsCiAgICAgICAgYWx0aXR1ZGVBY2N1cmFjeTogbnVsbCwKICAgICAgICBoZWFkaW5nOiBudWxsLAogICAgICAgIGxhdGl0dWRlOiBJTlZBTElEX0xBVF9MT05HX1ZBTFVFLAogICAgICAgIGxvbmdpdHVkZTogSU5WQUxJRF9MQVRfTE9OR19WQUxVRSwKICAgICAgICBzcGVlZDogbnVsbCwKICAgICAgfSwKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cb</last-search>
+      <last-search encoding="base64">XDxkaWRCbHVyXD4=</last-search>
       <last-offset />
-      <last-pattern>cb</last-pattern>
+      <last-pattern encoding="base64">XDxkaWRCbHVyXD4=</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1791,7 +1791,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\c</entry>
         <entry>moment\(\)</entry>
         <entry>moment()</entry>
         <entry>This function</entry>
@@ -1811,6 +1810,7 @@
         <entry>google</entry>
         <entry encoding="base64">XDxMRUZUXD4=</entry>
         <entry>cb</entry>
+        <entry encoding="base64">XDxkaWRCbHVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMjXENcKFw8XHVbYS16MC05XVwrXHxbYS16MC05XVwrXClcKFx1XCkjXFVcMV9cVVwyI2cg</entry>
