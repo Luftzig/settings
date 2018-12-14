@@ -767,10 +767,11 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1544795190745">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1544805116387">
+        <mark key="[" line="110" column="25" />
+        <mark key="]" line="110" column="33" />
+        <mark key="." line="110" column="33" />
+        <mark key="^" line="110" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1544803317951">
         <mark key="[" line="0" column="0" />
@@ -1304,7 +1305,7 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" timestamp="1544803432884">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" timestamp="1544804920142">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="30" column="26" />
         <mark key="." line="30" column="26" />
@@ -1759,10 +1760,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>&quot;Notification Settings:&quot;, env.notificationHubManager</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>&quot;Notification Settings:&quot;, env.notificationHubManager</text>
       </register>
       <register name="/" type="4">
         <text>createUser</text>
