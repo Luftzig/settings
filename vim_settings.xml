@@ -462,6 +462,13 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="51" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" timestamp="1544793073251">
+        <mark key="'" line="13" column="20" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Conventions/Operators overloading/src/Task.kt" timestamp="1535027495036">
         <mark key="[" line="6" column="101" />
         <mark key="]" line="6" column="99" />
@@ -473,6 +480,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1544792989892">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Tests.elm" timestamp="1506767793966">
         <mark key="[" line="1" column="0" />
@@ -617,11 +627,6 @@
         <mark key="]" line="22" column="46" />
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" timestamp="1544525606342">
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.ios.ts" timestamp="1543849598792">
         <mark key="'" line="84" column="20" />
@@ -809,11 +814,6 @@
         <mark key="]" line="221" column="56" />
         <mark key="." line="221" column="56" />
         <mark key="^" line="221" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/messages/message-item-screen.tsx" timestamp="1544525643899">
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506527041392">
         <mark key="[" line="7" column="29" />
@@ -1649,9 +1649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
-      <jump line="194" column="57" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/time.ts" />
-      <jump line="102" column="54" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.test.ts" />
       <jump line="323" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="279" column="66" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="283" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -1749,6 +1746,9 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
       <jump line="20" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
       <jump line="21" column="70" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
+      <jump line="190" column="43" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="13" column="20" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1761,7 +1761,7 @@
         <text>R.path([&quot;routeName&quot;]),</text>
       </register>
       <register name="/" type="4">
-        <text>timer</text>
+        <text>applicationId</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Ui5waXBlV2l0aChtYXBPdmVyRW1wdHksIFsKICAgIFIudmlldyhuYXZpZ2F0aW9uU3RhdGVMZW5zKSwKICAgIGdldEFjdGl2ZVJvdXRlLAogICAgcm91dGUgPT4gcm91dGVbInJvdXRlTmFtZSJdLAogIF0p</text>
@@ -1807,9 +1807,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timer</last-search>
+      <last-search>applicationId</last-search>
       <last-offset />
-      <last-pattern>timer</last-pattern>
+      <last-pattern>applicationId</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1817,7 +1817,6 @@
     </search>
     <history>
       <history-search>
-        <entry>This function</entry>
         <entry>gt</entry>
         <entry>TimerStore</entry>
         <entry>tracked</entry>
@@ -1837,6 +1836,7 @@
         <entry encoding="base64">XDxkaWRCbHVyXD4=</entry>
         <entry>recover</entry>
         <entry>timer</entry>
+        <entry>applicationId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMjXENcKFw8XHVbYS16MC05XVwrXHxbYS16MC05XVwrXClcKFx1XCkjXFVcMV9cVVwyI2cg</entry>
