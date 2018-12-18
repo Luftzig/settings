@@ -410,8 +410,8 @@
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" timestamp="1545121245575">
-        <mark key="'" line="13" column="20" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" timestamp="1545127783459">
+        <mark key="'" line="32" column="34" />
         <mark key="[" line="32" column="22" />
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
@@ -429,8 +429,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1544792989892">
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1545127675813">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Tests.elm" timestamp="1506767793966">
         <mark key="[" line="1" column="0" />
@@ -518,6 +521,10 @@
         <mark key="]" line="12" column="45" />
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
+      </file>
+      <file name="/countdown.tsx" timestamp="1544433801551">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="131" column="14" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/records/GenericRecord.class" timestamp="1538997287256">
         <mark key="'" line="415" column="11" />
@@ -687,6 +694,10 @@
         <mark key="]" line="7" column="39" />
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" timestamp="1545127777912">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Conventions/Destructuring declarations/src/Task.kt" timestamp="1535028399471">
         <mark key="[" line="0" column="0" />
@@ -865,6 +876,10 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.props.ts" timestamp="1543333623967">
         <mark key="'" line="17" column="16" />
+      </file>
+      <file name="/timer-store.ts" timestamp="1544185475639">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/prototyp/src/Ports.elm" timestamp="1527589503099">
         <mark key="[" line="8" column="37" />
@@ -1325,7 +1340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="236" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="240" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="189" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -1425,13 +1439,14 @@
       <jump line="11" column="38" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-navigation.ts" />
       <jump line="96" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="80" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
+      <jump line="32" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;2.3.0&quot;</text>
+        <text>com</text>
       </register>
       <register name="-" type="4">
         <text>&quot;2.3.0&quot;</text>
@@ -1439,44 +1454,44 @@
       <register name="/" type="4">
         <text>failed to get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhcHBWZXJzaW9uOiBEZXZpY2VJbmZvLmdldFZlcnNpb24oKSwgLy8gQXBwIHZlcnNpb24gbnVtYmVyLCBlLmcuICIzLjAuMCIK</text>
+      <register name="0" type="4">
+        <text>com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcFZlcnNpb246IERldmljZUluZm8uZ2V0VmVyc2lvbigpLCAvLyBBcHAgdmVyc2lvbiBudW1iZXIsIGUuZy4gIjMuMC4wIgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZGV2aWNlLWluZm8nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWZjbScpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCiAgICBjb21waWxlIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmNtJykKICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYXBwbGljYXRpb25JZCAnY29tLnN2ZXZpYWFwcC5hbHBoYScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnRpbWVyU3RvcmUudGltZWRBbGFybS5zdGF0ZSAhPT0gIiIpCg==</text>
+        <text encoding="base64">ICAgIGFwcFZlcnNpb246IERldmljZUluZm8uZ2V0VmVyc2lvbigpLCAvLyBBcHAgdmVyc2lvbiBudW1iZXIsIGUuZy4gIjMuMC4wIgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9kaWRGb2N1c0xpc3RlbmVyCiAgICBfd2lsbEJsdXJMaXN0ZW5lcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFBsYXRmb3JtLk9TID09PSAiYW5kcm9pZCIpIHsKICAgICAgICBQZXJtaXNzaW9uc0FuZHJvaWQuY2hlY2soUGVybWlzc2lvbnNBbmRyb2lkLlBFUk1JU1NJT05TLkFDQ0VTU19GSU5FX0xPQ0FUSU9OKQogICAgICAgICAgLnRoZW4od2F0Y2hMb2NhdGlvbikKICAgICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJVc2VyIGRpZCBub3QgcGVybWl0IHdhdGNoaW5nIGxvY2F0aW9uIiwgZXJyb3IpCiAgICAgICAgICB9KQogICAgICB9IGVsc2UgewogICAgICAgIHdhdGNoTG9jYXRpb24oKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnRpbWVyU3RvcmUudGltZWRBbGFybS5zdGF0ZSAhPT0gIiIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLnN0YXJ0VGltZXIoKSkK</text>
+        <text encoding="base64">ICAgIF9kaWRGb2N1c0xpc3RlbmVyCiAgICBfd2lsbEJsdXJMaXN0ZW5lcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKFBsYXRmb3JtLk9TID09PSAiYW5kcm9pZCIpIHsKICAgICAgICBQZXJtaXNzaW9uc0FuZHJvaWQuY2hlY2soUGVybWlzc2lvbnNBbmRyb2lkLlBFUk1JU1NJT05TLkFDQ0VTU19GSU5FX0xPQ0FUSU9OKQogICAgICAgICAgLnRoZW4od2F0Y2hMb2NhdGlvbikKICAgICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJVc2VyIGRpZCBub3QgcGVybWl0IHdhdGNoaW5nIGxvY2F0aW9uIiwgZXJyb3IpCiAgICAgICAgICB9KQogICAgICB9IGVsc2UgewogICAgICAgIHdhdGNoTG9jYXRpb24oKQogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLnN0YXJ0VGltZXIoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
