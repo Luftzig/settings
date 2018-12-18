@@ -429,8 +429,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1545127675813">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1545141679187">
+        <mark key="'" line="148" column="47" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="0" />
         <mark key="." line="201" column="0" />
@@ -521,10 +521,6 @@
         <mark key="]" line="12" column="45" />
         <mark key="." line="12" column="45" />
         <mark key="^" line="12" column="45" />
-      </file>
-      <file name="/countdown.tsx" timestamp="1544433801551">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="131" column="14" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.0.1-beta/958c7ccd9f024ef9acb940f2f87384a7530529d1/furhat-commons-1.0.1-beta.jar!/furhatos/records/GenericRecord.class" timestamp="1538997287256">
         <mark key="'" line="415" column="11" />
@@ -695,7 +691,8 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" timestamp="1545127777912">
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" timestamp="1545141911200">
+        <mark key="'" line="71" column="20" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="10" />
       </file>
@@ -876,10 +873,6 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.props.ts" timestamp="1543333623967">
         <mark key="'" line="17" column="16" />
-      </file>
-      <file name="/timer-store.ts" timestamp="1544185475639">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/prototyp/src/Ports.elm" timestamp="1527589503099">
         <mark key="[" line="8" column="37" />
@@ -1343,10 +1336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="39" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
-      <jump line="24" column="45" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
-      <jump line="40" column="45" filename="$USER_HOME$/Projects/SveviaSafetyApp/package.json" />
       <jump line="160" column="53" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="42" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" />
       <jump line="36" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" />
@@ -1443,6 +1432,10 @@
       <jump line="32" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
       <jump line="25" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Home.js" />
       <jump line="31" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Home.js" />
+      <jump line="152" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="147" column="14" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="148" column="47" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="71" column="20" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1455,7 +1448,7 @@
         <text>&quot;2.3.0&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>failed to get</text>
+        <text>alpha</text>
       </register>
       <register name="0" type="4">
         <text>com</text>
@@ -1501,9 +1494,9 @@
       </register>
     </registers>
     <search>
-      <last-search>failed to get</last-search>
+      <last-search>alpha</last-search>
       <last-offset />
-      <last-pattern>failed to get</last-pattern>
+      <last-pattern>alpha</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1511,7 +1504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tracked</entry>
         <entry>location</entry>
         <entry>create</entry>
         <entry>Adding 10 minutes</entry>
@@ -1531,6 +1523,7 @@
         <entry>applicationId</entry>
         <entry>createUser</entry>
         <entry>failed to get</entry>
+        <entry>alpha</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMjXENcKFw8XHVbYS16MC05XVwrXHxbYS16MC05XVwrXClcKFx1XCkjXFVcMV9cVVwyI2cg</entry>
