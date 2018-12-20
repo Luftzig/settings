@@ -696,19 +696,19 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1545300591987">
-        <mark key="'" line="47" column="32" />
-        <mark key="[" line="128" column="74" />
-        <mark key="]" line="128" column="77" />
-        <mark key="." line="128" column="77" />
-        <mark key="^" line="128" column="77" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1545302971886">
+        <mark key="'" line="106" column="56" />
+        <mark key="[" line="127" column="28" />
+        <mark key="]" line="127" column="35" />
+        <mark key="." line="127" column="35" />
+        <mark key="^" line="127" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Icon.js" timestamp="1545299268861">
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Icon.js" timestamp="1545302559670">
         <mark key="'" line="21" column="43" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="23" column="63" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="63" />
+        <mark key="^" line="22" column="63" />
+        <mark key="." line="22" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506527041392">
         <mark key="[" line="7" column="29" />
@@ -751,6 +751,12 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-keychain/typings/react-native-keychain.d.ts" timestamp="1540378797899">
         <mark key="'" line="76" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/models/attestation.js" timestamp="1545302844067">
+        <mark key="[" line="73" column="65" />
+        <mark key="]" line="73" column="74" />
+        <mark key="." line="73" column="74" />
+        <mark key="^" line="73" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1363,7 +1369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.test.ts" />
       <jump line="479" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
       <jump line="20" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
@@ -1463,19 +1468,20 @@
       <jump line="31" column="25" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/api.js" />
       <jump line="50" column="79" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="47" column="32" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
+      <jump line="106" column="56" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXR0ZXN0YXRpb25zWzBdLm1lc3NhZ2UgPSAiJ2xvISIK</text>
+      <register name="&quot;" type="4">
+        <text>Date</text>
       </register>
       <register name="-" type="4">
-        <text>.png</text>
+        <text>Date</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHlsZXNcPg==</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBxdWVzdGlvbk1hcmtJbkNpcmNsZTogcmVxdWlyZSgiLi4vLi4vYXNzZXRzL2ltYWdlcy9zdmV2aWEySWNvbnMvcXVlc3Rpb24yLnBuZyIpLAo=</text>
@@ -1521,9 +1527,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHlsZXNcPg==</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHlsZXNcPg==</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>),</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1531,7 +1537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setEndTime</entry>
         <entry>setInterval</entry>
         <entry>route</entry>
         <entry>navigation</entry>
@@ -1551,6 +1556,7 @@
         <entry>console.log</entry>
         <entry>export</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">cyNcQ1woXDxcdVthLXowLTldXCtcfFthLXowLTldXCtcKVwoXHVcKSNcVVwxX1xVXDIjZyA=</entry>
