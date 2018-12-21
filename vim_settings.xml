@@ -963,6 +963,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" timestamp="1545398224690">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/why-i-fell-from-elm.asciidoc" timestamp="1508240515183">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="12" column="0" />
@@ -1382,9 +1388,13 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/map-helpers.ts" timestamp="1544005865616">
         <mark key="'" line="69" column="86" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/ConfirmAttestModal.js" timestamp="1545397747126">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="53" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="214" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="19" column="9" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="212" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
@@ -1484,58 +1494,59 @@
       <jump line="183" column="29" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="39" column="12" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="118" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Start/Start.js" />
+      <jump line="16" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/ConfirmAttestModal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Red</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Red</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMywK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3R5bGVTaGVldCwgVGV4dCwgVmlldyB9IGZyb20gInJlYWN0LW5hdGl2ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMTAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBzdmV2aWEyQ29sb3JzLmJsYWNrLAo=</text>
+        <text encoding="base64">ICB0aGlzLgp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvbnRTaXplOiAxNSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGJhY2tncm91bmRDb2xvcjogc3ZldmlhMkNvbG9ycy53aGl0ZSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuNSwK</text>
+        <text encoding="base64">ICAgIG1hcmdpblRvcDogMTAsCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBzdmV2aWEyQ29sb3JzLmJsYWNrLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMiwK</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiAxNSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMiwK</text>
+        <text encoding="base64">ICAgIC8vIGJhY2tncm91bmRDb2xvcjogc3ZldmlhMkNvbG9ycy53aGl0ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNoYWRvd0NvbG9yOiAiIzAwMCIsCiAgICBzaGFkb3dPZmZzZXQ6IHsgaGVpZ2h0OiAxIH0sCiAgICBzaGFkb3dSYWRpdXM6IDMsCg==</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuNSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
