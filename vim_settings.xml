@@ -18,6 +18,12 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/README.md" timestamp="1545645598647">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="160" />
+        <mark key="." line="5" column="160" />
+        <mark key="^" line="5" column="160" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/TwoD/Mouse.elm" timestamp="1506765881074">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="3" />
@@ -1000,8 +1006,8 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545643500533">
-        <mark key="'" line="44" column="13" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545645782372">
+        <mark key="'" line="51" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-device-info/deviceinfo.d.ts" timestamp="1539697669792">
         <mark key="'" line="4" column="5" />
@@ -1447,7 +1453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="32" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
       <jump line="25" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Home.js" />
       <jump line="31" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Home.js" />
@@ -1547,16 +1552,17 @@
       <jump line="9" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
       <jump line="5" column="65" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
       <jump line="44" column="13" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="51" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3R5bGU9e3N0eWxlcy5tb2RhbH0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBbXSBFeHRyYWN0IGRhdGEgb24gZGlyZWN0IGRlcGVuZGVuY2llcwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3R5bGU9e3N0eWxlcy5tb2RhbH0g</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb29rdXBFbnZcPg==</text>
@@ -1565,40 +1571,40 @@
         <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucGFyYWdyYXBofT4KICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0fT4KICAgICAgICAgICAgICBEdSBzZXIgZW5kYXN0IGJlc3TDpGxsbmluZ2FyIHNvbSBkdSBza2EgaGFudGVyYSBpIHJvbGxlbiBhdHRlc3RhbnQuIFJlZGFuIGhhbnRlcmFkZQogICAgICAgICAgICAgIGJlc3TDpGxsbmluZ2FyIHZpc2FzIGVqLnsiICJ9CiAgICAgICAgICAgIDwvVGV4dD4KICAgICAgICAgIDwvVmlldz4sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0fT5lbGxlcjwvVGV4dD4KICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0fT4uPC9UZXh0Pgo=</text>
+        <text encoding="base64">LSBbXSBFeHRyYWN0IGRhdGEgb24gZGlyZWN0IGRlcGVuZGVuY2llcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e1tzdHlsZXMudGV4dCwgc3R5bGVzLnRleHRSZWRdfT5BdnNsw6U8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0fT5lbGxlcjwvVGV4dD4KICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0fT4uPC9UZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e1tzdHlsZXMudGV4dCwgc3R5bGVzLnRleHRHcmVlbl19PkdvZGvDpG5uPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e1tzdHlsZXMudGV4dCwgc3R5bGVzLnRleHRSZWRdfT5BdnNsw6U8L1RleHQ+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e1tzdHlsZXMudGV4dCwgc3R5bGVzLnRleHRHcmVlbl19PkdvZGvDpG5uPC9UZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBEdSBzZXIgZW5kYXN0IGJlc3TDpGxsbmluZ2FyIHNvbSBkdSBza2EgaGFudGVyYSBpIHJvbGxlbiBhdHRlc3RhbnQuIFJlZGFuIGhhbnRlcmFkZQogICAgICAgICAgICAgIGJlc3TDpGxsbmluZ2FyIHZpc2FzIGVqLnsiICJ9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFZpZXcgPgogICAgICAgICAgPFRleHQgCiAgICAgICAgPC9WaWV3Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBEdSBzZXIgZW5kYXN0IGJlc3TDpGxsbmluZ2FyIHNvbSBkdSBza2EgaGFudGVyYSBpIHJvbGxlbiBhdHRlc3RhbnQuIFJlZGFuIGhhbnRlcmFkZQogICAgICAgICAgICAgIGJlc3TDpGxsbmluZ2FyIHZpc2FzIGVqLnsiICJ9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PFZpZXcgPgogICAgICAgICAgPFRleHQgCiAgICAgICAgPC9WaWV3Pg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
