@@ -427,6 +427,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/moment/moment.d.ts" timestamp="1544026535601">
         <mark key="'" line="401" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/stack.yaml" timestamp="1545646781509">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/luftzig.com/gae/www/index.html" timestamp="1524915646547">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="49" />
@@ -1006,8 +1012,12 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545645782372">
-        <mark key="'" line="51" column="37" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545646132029">
+        <mark key="'" line="132" column="31" />
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-device-info/deviceinfo.d.ts" timestamp="1539697669792">
         <mark key="'" line="4" column="5" />
@@ -1047,6 +1057,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="20" column="26" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545646066343">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" timestamp="1545126625277">
         <mark key="'" line="80" column="33" />
@@ -1453,7 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
       <jump line="25" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Home.js" />
       <jump line="31" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Home.js" />
       <jump line="152" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
@@ -1553,16 +1568,17 @@
       <jump line="5" column="65" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
       <jump line="44" column="13" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="51" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="132" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBbXSBFeHRyYWN0IGRhdGEgb24gZGlyZWN0IGRlcGVuZGVuY2llcwo=</text>
+      <register name="&quot;" type="4">
+        <text>11.3</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>11.3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb29rdXBFbnZcPg==</text>
