@@ -350,12 +350,12 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545734006637">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545736986649">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="13" column="64" />
-        <mark key="^" line="13" column="64" />
-        <mark key="." line="13" column="64" />
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/Libraries/Lists/ListView/ListView.js" timestamp="1545298341996">
         <mark key="'" line="112" column="16" />
@@ -714,7 +714,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545662728973">
+      <file name="/Dummy.txt" timestamp="1545738294371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -1028,12 +1028,12 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545660319419">
-        <mark key="'" line="50" column="49" />
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="48" />
-        <mark key="^" line="21" column="48" />
-        <mark key="." line="21" column="48" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545743732744">
+        <mark key="'" line="131" column="27" />
+        <mark key="[" line="131" column="19" />
+        <mark key="]" line="131" column="19" />
+        <mark key="." line="131" column="29" />
+        <mark key="^" line="123" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-device-info/deviceinfo.d.ts" timestamp="1539697669792">
         <mark key="'" line="4" column="5" />
@@ -1424,12 +1424,12 @@
         <mark key="." line="80" column="75" />
         <mark key="^" line="80" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1545734450526">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1545738232727">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="34" column="66" />
+        <mark key="]" line="34" column="78" />
+        <mark key="." line="34" column="78" />
+        <mark key="^" line="34" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/phaser-tutorial/index.html" timestamp="1512838426794">
         <mark key="[" line="8" column="19" />
@@ -1482,8 +1482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="29" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
-      <jump line="21" column="43" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Icon.js" />
       <jump line="90" column="40" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="196" column="23" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="216" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
@@ -1582,40 +1580,42 @@
       <jump line="107" column="23" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="17" column="25" filename="$USER_HOME$/Projects/js-analyzer/js-parser/index.js" />
+      <jump line="126" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="131" column="27" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>process.stdout.</text>
+        <text>strOption</text>
       </register>
       <register name="-" type="4">
-        <text>process.stdout.</text>
+        <text>strOption</text>
       </register>
       <register name="/" type="4">
         <text>Text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLCAgICAgICBieXRlc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIDw+IHNob3dEZWZhdWx0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdXRTdHJMbiAkICJQcm9jZXNzaW5nIGZpbGUgIgo=</text>
+        <text encoding="base64">ICAgICwgcGVyUGFnZSA6OiBJbnQKICAgICwgcGFnZSA6OiBJbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXNwcmltYSA6OiBDcmVhdGVQcm9jZXNzCmVzcHJpbWEgPQogIHByb2MgIm5vZGUiIFtzaG93ICgianMtcGFyc2VyIiA8Lz4gImluZGV4LmpzIildCgoK</text>
+        <text encoding="base64">ICA8Kj4gb3B0aW9uIGF1dG8KICAgICggbG9uZyAicGVyLXBhZ2UiCiAgICA8PiB2YWx1ZSAxMDAKICAgIDw+IHNob3dEZWZhdWx0CiAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICwgc2VhcmNoIDo6IEJvb2xlYW4K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuQnl0ZVN0cmluZyAoQnl0ZVN0cmluZywgdW5wYWNrKQo=</text>
+        <text encoding="base64">ICAgICggbG9uZyAicmVwb3MiCiAgICA8PiBzaG9ydCAncicKICAgIDw+IGhlbHAgInBhdGggdG8gYSBjb21tYSBvciBuZXctbGluZSBkZWxpbWl0ZWQgbGlzdCBvZiByZXBvc2l0b3JpZXMgdG8gcHJvY2Vzcy4gSW1wbGllcyBgcHJvY2Vzc2AiCiAgICApCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1624,7 +1624,7 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXh0cmFjdFN0YXRzIDo6IEVpdGhlciBQLlBhcnNlRXJyb3IgKEpTLkphdmFTY3JpcHQgSlMuU291cmNlUG9zKSAtPiBFaXRoZXIgUC5QYXJzZUVycm9yIEZpbGVTdGF0cwpleHRyYWN0U3RhdHMgKExlZnQgZXJyb3IpID0gTGVmdCBlcnJvcgpleHRyYWN0U3RhdHMgKFJpZ2h0IGNvZGUpID0gUmlnaHQgZW1wdHlTdGF0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1633,7 +1633,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBMYW5ndWFnZS5FQ01BU2NyaXB0My5QYXJzZXIgYXMgSlMKaW1wb3J0IHF1YWxpZmllZCBMYW5ndWFnZS5FQ01BU2NyaXB0My5TeW50YXggYXMgSlMKaW1wb3J0IHF1YWxpZmllZCBUZXh0LlBhcnNlYyBhcyBQCmltcG9ydCBxdWFsaWZpZWQgVGV4dC5QYXJzZWMuRXJyb3IgYXMgUAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
