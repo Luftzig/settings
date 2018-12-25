@@ -350,8 +350,8 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545650459783">
-        <mark key="'" line="60" column="53" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545729140887">
+        <mark key="'" line="41" column="19" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="31" />
         <mark key="^" line="6" column="20" />
@@ -1369,11 +1369,11 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/js-analyzer.cabal" timestamp="1545666522163">
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="45" column="29" />
-        <mark key="^" line="45" column="29" />
+      <file name="$USER_HOME$/Projects/js-analyzer/js-analyzer.cabal" timestamp="1545732776549">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="30" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/utils/time-utils.js" timestamp="1545321661684">
         <mark key="[" line="3" column="16" />
@@ -1423,11 +1423,11 @@
         <mark key="." line="80" column="75" />
         <mark key="^" line="80" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1545647210181">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
-        <mark key="^" line="19" column="64" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1545733209349">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/phaser-tutorial/index.html" timestamp="1512838426794">
         <mark key="[" line="8" column="19" />
@@ -1480,9 +1480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="26" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" />
-      <jump line="124" column="60" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/index.js" />
       <jump line="0" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/index.js" />
       <jump line="6" column="27" filename="$USER_HOME$/Projects/svevia-inkopsappen/index.js" />
       <jump line="15" column="19" filename="$USER_HOME$/Projects/svevia-inkopsappen/index.js" />
@@ -1580,31 +1577,34 @@
       <jump line="120" column="38" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="49" column="49" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="23" column="14" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
+      <jump line="67" column="21" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
+      <jump line="41" column="19" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">TW9uYWRJTyBtLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">TW9uYWRJTyBtLCA=</text>
       </register>
       <register name="/" type="4">
         <text>FilePath</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJvY2Vzcy5zdGRpbi5yZXN1bWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLCAgICAgICBieXRlc3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgcmVzdWx0LCByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiQ29kZSByZWFkOiAiLCBnZXREYXRhKCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuQnl0ZVN0cmluZyAoQnl0ZVN0cmluZywgdW5wYWNrKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1613,7 +1613,7 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uCg==</text>
+        <text encoding="base64">ZXh0cmFjdFN0YXRzIDo6IEVpdGhlciBQLlBhcnNlRXJyb3IgKEpTLkphdmFTY3JpcHQgSlMuU291cmNlUG9zKSAtPiBFaXRoZXIgUC5QYXJzZUVycm9yIEZpbGVTdGF0cwpleHRyYWN0U3RhdHMgKExlZnQgZXJyb3IpID0gTGVmdCBlcnJvcgpleHRyYWN0U3RhdHMgKFJpZ2h0IGNvZGUpID0gUmlnaHQgZW1wdHlTdGF0cwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1622,16 +1622,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICwgc3RhcnMgPSAtMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFN5c3RlbS5JTyAoRmlsZVBhdGgsICg8Lz4pKQo=</text>
+        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBMYW5ndWFnZS5FQ01BU2NyaXB0My5QYXJzZXIgYXMgSlMKaW1wb3J0IHF1YWxpZmllZCBMYW5ndWFnZS5FQ01BU2NyaXB0My5TeW50YXggYXMgSlMKaW1wb3J0IHF1YWxpZmllZCBUZXh0LlBhcnNlYyBhcyBQCmltcG9ydCBxdWFsaWZpZWQgVGV4dC5QYXJzZWMuRXJyb3IgYXMgUAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgcmVzdWx0LCByZXN1bHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
