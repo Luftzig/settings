@@ -257,11 +257,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" timestamp="1545840366491">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" timestamp="1545843672311">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="17" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1545754363686">
         <mark key="[" line="20" column="15" />
@@ -1379,7 +1380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="28" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="42" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationsListView.js" />
       <jump line="26" column="13" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
@@ -1479,16 +1479,17 @@
       <jump line="82" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" />
+      <jump line="5" column="10" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWFpbiAK</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
       </register>
       <register name="-" type="4">
-        <text>, visitNode</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Text</text>
@@ -1497,40 +1498,40 @@
         <text encoding="base64">ey0jIExBTkdVQUdFIE92ZXJsb2FkZWRTdHJpbmdzICMtfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFpbiAK</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlIFNwZWMgd2hlcmUK</text>
+        <text encoding="base64">bWFpbiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y291bnROb2RlCg==</text>
+        <text encoding="base64">bW9kdWxlIFNwZWMgd2hlcmUK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
+        <text encoding="base64">Y291bnROb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmlzaXROb2RlIDo6IChNYXliZSBUZXh0IC0+IE9iamVjdCAtPiBhKSAtPiBWYWx1ZSAtPiBbYV0KdmlzaXROb2RlIGYgbiA9CiAgY2FzZSBuIG9mCiAgICBPYmplY3QgbyAtPgogICAgICBsZXQKICAgICAgICB0ID0gbm9kZVR5cGUgbwogICAgICAgIHJlcyA9IGYgdCBvCiAgICAgIGluCiAgICAgICAgcmVzIDogKGNvbmNhdE1hcCAodmlzaXROb2RlIGYpICQgTS5lbGVtcyBvKQogICAgQXJyYXkgYSAtPiBjb25jYXRNYXAgKHZpc2l0Tm9kZSBmKSBhCiAgICBfIC0+IFtdCgogIHdoZXJlCiAgICBub2RlVHlwZSBvID0KICAgICAgY2FzZSBNLmxvb2t1cCAidHlwZSIgbyBvZgogICAgICAgIEp1c3QgKFN0cmluZyBzKSAtPiBKdXN0IHMKICAgICAgICBvdGhlcndpc2UgLT4gTm90aGluZwo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW4K</text>
+        <text encoding="base64">dmlzaXROb2RlIDo6IChNYXliZSBUZXh0IC0+IE9iamVjdCAtPiBhKSAtPiBWYWx1ZSAtPiBbYV0KdmlzaXROb2RlIGYgbiA9CiAgY2FzZSBuIG9mCiAgICBPYmplY3QgbyAtPgogICAgICBsZXQKICAgICAgICB0ID0gbm9kZVR5cGUgbwogICAgICAgIHJlcyA9IGYgdCBvCiAgICAgIGluCiAgICAgICAgcmVzIDogKGNvbmNhdE1hcCAodmlzaXROb2RlIGYpICQgTS5lbGVtcyBvKQogICAgQXJyYXkgYSAtPiBjb25jYXRNYXAgKHZpc2l0Tm9kZSBmKSBhCiAgICBfIC0+IFtdCgogIHdoZXJlCiAgICBub2RlVHlwZSBvID0KICAgICAgY2FzZSBNLmxvb2t1cCAidHlwZSIgbyBvZgogICAgICAgIEp1c3QgKFN0cmluZyBzKSAtPiBKdXN0IHMKICAgICAgICBvdGhlcndpc2UgLT4gTm90aGluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0Cg==</text>
+        <text encoding="base64">ICAgICAgaW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICAgbGV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
