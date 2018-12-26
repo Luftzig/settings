@@ -998,11 +998,11 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545831799065">
-        <mark key="'" line="102" column="50" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="102" column="50" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545844782962">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="102" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/sponsors.ts" timestamp="1520012666264">
@@ -1273,11 +1273,10 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/js-analyzer.cabal" timestamp="1545838874373">
-        <mark key="[" line="23" column="78" />
-        <mark key="]" line="23" column="80" />
-        <mark key="." line="23" column="80" />
-        <mark key="^" line="23" column="80" />
+      <file name="$USER_HOME$/Projects/js-analyzer/js-analyzer.cabal" timestamp="1545845488938">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/utils/time-utils.js" timestamp="1545321661684">
         <mark key="[" line="3" column="16" />
@@ -1380,7 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationsListView.js" />
       <jump line="26" column="13" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
       <jump line="82" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
@@ -1480,67 +1478,68 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" />
       <jump line="5" column="10" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
+        <text encoding="base64">ICAgICwgQW5hbHl6ZS5XYWxrQXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Text</text>
+        <text>Parsec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ey0jIExBTkdVQUdFIE92ZXJsb2FkZWRTdHJpbmdzICMtfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLCBnaXRodWIgPj0gMC4xOQogICAgICAgICAgICAgICAsIHRleHQKICAgICAgICAgICAgICAgLCBieXRlc3RyaW5nCiAgICAgICAgICAgICAgICwgc3RyZWFtaW5nLWJ5dGVzdHJpbmcKICAgICAgICAgICAgICAgLCBvcHRwYXJzZS1hcHBsaWNhdGl2ZQogICAgICAgICAgICAgICAsIGNvbmR1aXQgPj0gMS4zLjAKICAgICAgICAgICAgICAgLCBjb25kdWl0LWV4dHJhCiAgICAgICAgICAgICAgICwgaHR0cC1jb25kdWl0CiAgICAgICAgICAgICAgICwgbmV0d29yay11cmkKICAgICAgICAgICAgICAgLCB0YXItY29uZHVpdCA+PSAwLjIuMwogICAgICAgICAgICAgICAsIGV4Y2VwdGlvbnMKICAgICAgICAgICAgICAgLCBwcmltaXRpdmUKICAgICAgICAgICAgICAgLCByZXNvdXJjZXQKICAgICAgICAgICAgICAgLCB0cmFuc2Zvcm1lcnMtYmFzZSA+PSAwLjQuNAogICAgICAgICAgICAgICAsIGFlc29uCiAgICAgICAgICAgICAgICwgZmlsZXBhdGgKICAgICAgICAgICAgICAgLCB2ZWN0b3IKICAgICAgICAgICAgICAgLCBkaXJlY3RvcnkKICAgICAgICAgICAgICAgLCB0aW1lCiAgICAgICAgICAgICAgICwgcHJvY2VzcwogICAgICAgICAgICAgICAsIGVpdGhlcgogICAgICAgICAgICAgICAsIGxlbnMtYWVzb24KICAgICAgICAgICAgICAgLCBsZW5zCiAgICAgICAgICAgICAgICwgYmFzZTY0LWJ5dGVzdHJpbmcKICAgICAgICAgICAgICAgLCBjb250YWluZXJzCiAgICAgICAgICAgICAgICwgdW5vcmRlcmVkLWNvbnRhaW5lcnMKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
+        <text encoding="base64">ICAgICwgQW5hbHl6ZS5XYWxrQXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFpbiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCBBbmFseXplLldhbGtBc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kdWxlIFNwZWMgd2hlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y291bnROb2RlCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuQWVzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBUZXh0LlBhcnNlYy5FcnJvciBhcyBQYXJzZWMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmlzaXROb2RlIDo6IChNYXliZSBUZXh0IC0+IE9iamVjdCAtPiBhKSAtPiBWYWx1ZSAtPiBbYV0KdmlzaXROb2RlIGYgbiA9CiAgY2FzZSBuIG9mCiAgICBPYmplY3QgbyAtPgogICAgICBsZXQKICAgICAgICB0ID0gbm9kZVR5cGUgbwogICAgICAgIHJlcyA9IGYgdCBvCiAgICAgIGluCiAgICAgICAgcmVzIDogKGNvbmNhdE1hcCAodmlzaXROb2RlIGYpICQgTS5lbGVtcyBvKQogICAgQXJyYXkgYSAtPiBjb25jYXRNYXAgKHZpc2l0Tm9kZSBmKSBhCiAgICBfIC0+IFtdCgogIHdoZXJlCiAgICBub2RlVHlwZSBvID0KICAgICAgY2FzZSBNLmxvb2t1cCAidHlwZSIgbyBvZgogICAgICAgIEp1c3QgKFN0cmluZyBzKSAtPiBKdXN0IHMKICAgICAgICBvdGhlcndpc2UgLT4gTm90aGluZwo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW4K</text>
+        <text encoding="base64">ICBidWlsZC1kZXBlbmRzOiAgICAgICBiYXNlID49IDQuNyAmJiA8IDUKICAgICAgICAgICAgICAgLCAgICAgICBnaXRodWIgPj0gMC4xOQogICAgICAgICAgICAgICAsICAgICAgIHRleHQKICAgICAgICAgICAgICAgLCAgICAgICBieXRlc3RyaW5nCiAgICAgICAgICAgICAgICwgICAgICAgc3RyZWFtaW5nLWJ5dGVzdHJpbmcKICAgICAgICAgICAgICAgLCAgICAgICBvcHRwYXJzZS1hcHBsaWNhdGl2ZQogICAgICAgICAgICAgICAsICAgICAgIGNvbmR1aXQgPj0gMS4zLjAKICAgICAgICAgICAgICAgLCAgICAgICBjb25kdWl0LWV4dHJhCiAgICAgICAgICAgICAgICwgICAgICAgaHR0cC1jb25kdWl0CiAgICAgICAgICAgICAgICwgICAgICAgbmV0d29yay11cmkKICAgICAgICAgICAgICAgLCAgICAgICB0YXItY29uZHVpdCA+PSAwLjIuMwogICAgICAgICAgICAgICAsICAgICAgIGV4Y2VwdGlvbnMKICAgICAgICAgICAgICAgLCAgICAgICBwcmltaXRpdmUKICAgICAgICAgICAgICAgLCAgICAgICByZXNvdXJjZXQKICAgICAgICAgICAgICAgLCAgICAgICB0cmFuc2Zvcm1lcnMtYmFzZSA+PSAwLjQuNAogICAgICAgICAgICAgICAsICAgICAgIGFlc29uCiAgICAgICAgICAgICAgICwgICAgICAgZmlsZXBhdGgKICAgICAgICAgICAgICAgLCAgICAgICB2ZWN0b3IKICAgICAgICAgICAgICAgLCAgICAgICBkaXJlY3RvcnkKICAgICAgICAgICAgICAgLCAgICAgICB0aW1lCiAgICAgICAgICAgICAgICwgICAgICAgcHJvY2VzcwogICAgICAgICAgICAgICAsICAgICAgIGVpdGhlcgogICAgICAgICAgICAgICAsICAgICAgIGxlbnMtYWVzb24KICAgICAgICAgICAgICAgLCAgICAgICBsZW5zCiAgICAgICAgICAgICAgICwgICAgICAgYmFzZTY0LWJ5dGVzdHJpbmcKICAgICAgICAgICAgICAgLCAgICAgICBjb250YWluZXJzCiAgICAgICAgICAgICAgICwgICAgICAgdW5vcmRlcmVkLWNvbnRhaW5lcnMKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0Cg==</text>
+        <text encoding="base64">ICAgICwganMtYW5hbHl6ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Text</last-search>
+      <last-search>Parsec</last-search>
       <last-offset />
-      <last-pattern>Text</last-pattern>
+      <last-pattern>Parsec</last-pattern>
       <last-replace>Right</last-replace>
       <last-substitute>Left</last-substitute>
       <last-dir>1</last-dir>
@@ -1548,7 +1547,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timer</entry>
         <entry>applicationId</entry>
         <entry>createUser</entry>
         <entry>failed to get</entry>
@@ -1568,6 +1566,7 @@
         <entry encoding="base64">XDxsb29rdXBFbnZcPg==</entry>
         <entry>FilePath</entry>
         <entry>Text</entry>
+        <entry>Parsec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0RJQUJFVEVTL0hZUE9USFlST0lESVNJTQ==</entry>
