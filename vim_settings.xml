@@ -975,8 +975,8 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545824497925">
-        <mark key="'" line="97" column="15" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Main.hs" timestamp="1545924760917">
+        <mark key="'" line="196" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="20" column="45" />
@@ -1012,12 +1012,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545844782962">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545924855429">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="102" column="50" />
+        <mark key="[" line="85" column="5" />
+        <mark key="]" line="86" column="3" />
+        <mark key="." line="86" column="3" />
+        <mark key="^" line="86" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/sponsors.ts" timestamp="1520012666264">
         <mark key="[" line="0" column="42" />
@@ -1394,7 +1394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="13" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="51" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="132" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="57" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1494,16 +1493,17 @@
       <jump line="31" column="6" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/for-each-method.json" />
       <jump line="348" column="0" filename="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/complex-for-each-for-in.json" />
+      <jump line="196" column="16" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
