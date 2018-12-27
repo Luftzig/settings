@@ -313,12 +313,11 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545736986649">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="18" />
-        <mark key="^" line="67" column="18" />
-        <mark key="." line="67" column="18" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545928261195">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/Profile.tsx" timestamp="1536745262923">
         <mark key="[" line="5" column="4" />
@@ -1012,12 +1011,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545924855429">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="86" column="3" />
-        <mark key="." line="86" column="3" />
-        <mark key="^" line="86" column="3" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1545928321445">
+        <mark key="'" line="124" column="6" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="3" />
+        <mark key="." line="124" column="3" />
+        <mark key="^" line="124" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/data/sponsors.ts" timestamp="1520012666264">
         <mark key="[" line="0" column="42" />
@@ -1348,12 +1347,12 @@
         <mark key="." line="80" column="75" />
         <mark key="^" line="80" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1545838898023">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="1" column="47" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1545928655356">
+        <mark key="'" line="0" column="33" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/phaser-tutorial/index.html" timestamp="1512838426794">
         <mark key="[" line="8" column="19" />
@@ -1394,11 +1393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="132" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="57" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="110" column="35" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="116" column="20" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="103" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="118" column="10" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="95" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1494,16 +1488,21 @@
       <jump line="78" column="0" filename="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/for-each-method.json" />
       <jump line="348" column="0" filename="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/complex-for-each-for-in.json" />
       <jump line="196" column="16" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="40" column="9" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
+      <jump line="39" column="9" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="124" column="6" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="0" column="33" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
@@ -1512,40 +1511,40 @@
         <text encoding="base64">ICAgICAgICBpdCAiZmluZHMgMSBmb3JFYWNoIiAkIGRvCiAgICAgICAgICBnZXRDb3VudCBmb3JFYWNoQ291bnQgbWogYHNob3VsZEJlYCBKdXN0IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAufCAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaiA8LSBnZXRKc29uICJjb21wbGV4LWZvci1lYWNoLWZvci1pbi5qc29uIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtaiA8LSBnZXRKc29uICJjb21wbGV4LWZvci1lYWNoLWZvci1pbi5qc29uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbkZhaWx1cmUgInRvIGJlIGRvbmUiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm9kZUNvdW50cyA9IHZpc2l0Tm9kZSAoY291bnRQYXR0ZXJucykKICAgICAgICBsZXQgc3VtQ291bnRzID0gZm9sZGwgc3VtRmlsZVN0YXRzIGVtcHR5U3RhdHMK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbkZhaWx1cmUgInRvIGJlIGRvbmUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGpzb24gPSAoZGVjb2RlRmlsZVN0cmljdCAidGVzdC9hc3Qtc25pcHBldHMvZm9yLmpzb24iIDo6IElPIChNYXliZSBWYWx1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
