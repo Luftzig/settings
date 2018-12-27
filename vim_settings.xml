@@ -257,12 +257,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" timestamp="1545905956993">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="54" />
-        <mark key="^" line="17" column="54" />
+      <file name="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" timestamp="1545917715497">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="32" />
+        <mark key="." line="48" column="32" />
+        <mark key="^" line="48" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1545754363686">
         <mark key="[" line="20" column="15" />
@@ -1060,12 +1060,11 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="178" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" timestamp="1545906226774">
-        <mark key="'" line="32" column="9" />
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="36" />
-        <mark key="." line="32" column="36" />
-        <mark key="^" line="32" column="36" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" timestamp="1545917223238">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/.gitignore" timestamp="1507640932537">
         <mark key="[" line="1" column="0" />
@@ -1380,10 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
-      <jump line="108" column="23" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
-      <jump line="32" column="13" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
-      <jump line="58" column="6" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/Libraries/react-native/react-native-implementation.js" />
       <jump line="9" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
       <jump line="5" column="65" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
       <jump line="44" column="13" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1480,22 +1475,26 @@
       <jump line="5" column="10" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
       <jump line="18" column="7" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" />
       <jump line="30" column="9" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" />
+      <jump line="19" column="37" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
+      <jump line="17" column="37" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
+      <jump line="38" column="9" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" />
+      <jump line="31" column="6" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Value</text>
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
-        <text>Parsec</text>
+        <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLCBnaXRodWIgPj0gMC4xOQogICAgICAgICAgICAgICAsIHRleHQKICAgICAgICAgICAgICAgLCBieXRlc3RyaW5nCiAgICAgICAgICAgICAgICwgc3RyZWFtaW5nLWJ5dGVzdHJpbmcKICAgICAgICAgICAgICAgLCBvcHRwYXJzZS1hcHBsaWNhdGl2ZQogICAgICAgICAgICAgICAsIGNvbmR1aXQgPj0gMS4zLjAKICAgICAgICAgICAgICAgLCBjb25kdWl0LWV4dHJhCiAgICAgICAgICAgICAgICwgaHR0cC1jb25kdWl0CiAgICAgICAgICAgICAgICwgbmV0d29yay11cmkKICAgICAgICAgICAgICAgLCB0YXItY29uZHVpdCA+PSAwLjIuMwogICAgICAgICAgICAgICAsIGV4Y2VwdGlvbnMKICAgICAgICAgICAgICAgLCBwcmltaXRpdmUKICAgICAgICAgICAgICAgLCByZXNvdXJjZXQKICAgICAgICAgICAgICAgLCB0cmFuc2Zvcm1lcnMtYmFzZSA+PSAwLjQuNAogICAgICAgICAgICAgICAsIGFlc29uCiAgICAgICAgICAgICAgICwgZmlsZXBhdGgKICAgICAgICAgICAgICAgLCB2ZWN0b3IKICAgICAgICAgICAgICAgLCBkaXJlY3RvcnkKICAgICAgICAgICAgICAgLCB0aW1lCiAgICAgICAgICAgICAgICwgcHJvY2VzcwogICAgICAgICAgICAgICAsIGVpdGhlcgogICAgICAgICAgICAgICAsIGxlbnMtYWVzb24KICAgICAgICAgICAgICAgLCBsZW5zCiAgICAgICAgICAgICAgICwgYmFzZTY0LWJ5dGVzdHJpbmcKICAgICAgICAgICAgICAgLCBjb250YWluZXJzCiAgICAgICAgICAgICAgICwgdW5vcmRlcmVkLWNvbnRhaW5lcnMKCg==</text>
+        <text encoding="base64">ICAgICAgICBtaiA8LSBnZXRKc29uICJtYXAtZnVuY3Rpb24uanNvbiIKICAgICAgICBnZXRDb3VudCBtYXBDb3VudCBtaiBgc2hvdWxkQmVgIEp1c3QgMQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1504,52 +1503,50 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJCBkbwogICAgICAgICAgdmFsIDwtIG1qCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbkZhaWx1cmUgInRvIGJlIGRvbmUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgbWoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uID4+PSAoXG1Kc29uIC0+IG1Kc29uID4+PQogICAgICAgICBcaiAtPgogICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm9kZUNvdW50cyA9IHZpc2l0Tm9kZSAoY291bnRQYXR0ZXJucykKICAgICAgICBsZXQgc3VtQ291bnRzID0gZm9sZGwgc3VtRmlsZVN0YXRzIGVtcHR5U3RhdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlXyAoKQo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGpzb24gPSAoZGVjb2RlRmlsZVN0cmljdCAidGVzdC9hc3Qtc25pcHBldHMvZm9yLmpzb24iIDo6IElPIChNYXliZSBWYWx1ZSkpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IChKdXN0IGpzb24pID0gcmF3Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmF3IDwtCg==</text>
+        <text encoding="base64">ICB0cmFjZSAoIkxvb2tpbmcgYXQgbm9kZSAiICsrIHNob3cgbm9kZVR5cGUpICQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwgQW5hbHl6ZS5XYWxrQXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCBBbmFseXplLldhbGtBc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2luL29mL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>Parsec</last-search>
+      <last-search>in</last-search>
       <last-offset />
-      <last-pattern>Parsec</last-pattern>
-      <last-replace>Right</last-replace>
-      <last-substitute>Left</last-substitute>
+      <last-pattern>in</last-pattern>
+      <last-replace>of</last-replace>
+      <last-substitute>in</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>applicationId</entry>
-        <entry>createUser</entry>
         <entry>failed to get</entry>
         <entry>alpha</entry>
         <entry>\cloca</entry>
@@ -1568,10 +1565,10 @@
         <entry>FilePath</entry>
         <entry>Text</entry>
         <entry>Parsec</entry>
+        <entry>In</entry>
+        <entry>in</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0RJQUJFVEVTL0hZUE9USFlST0lESVNJTQ==</entry>
-        <entry>s/,/,\r/g</entry>
         <entry encoding="base64">JzwsJz5zLzEwcHgvNHB4Lw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>g</entry>
@@ -1590,6 +1587,8 @@
         <entry encoding="base64">JzwsJz5zL1NIT1dfLy9n</entry>
         <entry>s/Left/Right</entry>
         <entry>w</entry>
+        <entry>s/In/Of</entry>
+        <entry encoding="base64">JzwsJz5zL2luL29mL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
