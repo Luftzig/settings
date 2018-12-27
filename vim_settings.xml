@@ -15,12 +15,6 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/README.md" timestamp="1545753748876">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-        <mark key="^" line="51" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/TwoD/Mouse.elm" timestamp="1506765881074">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="3" />
@@ -251,18 +245,25 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/for-each-method.json" timestamp="1545920433529">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/KattisTests/Cups/Cups.hs" timestamp="1526733583413">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" timestamp="1545917715497">
+      <file name="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" timestamp="1545921765312">
         <mark key="'" line="31" column="6" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="32" />
-        <mark key="." line="48" column="32" />
-        <mark key="^" line="48" column="32" />
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="62" column="9" />
+        <mark key="." line="62" column="9" />
+        <mark key="^" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/.gitignore" timestamp="1545754363686">
         <mark key="[" line="20" column="15" />
@@ -458,6 +459,12 @@
         <mark key="]" line="51" column="27" />
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/for-in.json" timestamp="1545918312305">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/DontKnow.kt" timestamp="1537270966761">
         <mark key="[" line="14" column="29" />
@@ -907,6 +914,13 @@
         <mark key="^" line="10" column="59" />
         <mark key="." line="10" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/complex-for-each-for-in.json" timestamp="1545920769756">
+        <mark key="'" line="348" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="349" column="0" />
+        <mark key="^" line="349" column="0" />
+        <mark key="." line="349" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/prototyp/src/Ports.elm" timestamp="1527589503099">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="10" column="54" />
@@ -1060,11 +1074,12 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="178" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" timestamp="1545917223238">
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" timestamp="1545921621087">
         <mark key="'" line="38" column="9" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="58" column="69" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="59" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/.gitignore" timestamp="1507640932537">
         <mark key="[" line="1" column="0" />
@@ -1379,8 +1394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
-      <jump line="5" column="65" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" />
       <jump line="44" column="13" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="51" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="132" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1479,22 +1492,24 @@
       <jump line="17" column="37" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
       <jump line="38" column="9" filename="$USER_HOME$/Projects/js-analyzer/src/Analyze/WalkAst.hs" />
       <jump line="31" column="6" filename="$USER_HOME$/Projects/js-analyzer/test/AstSpec.hs" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/for-each-method.json" />
+      <jump line="348" column="0" filename="$USER_HOME$/Projects/js-analyzer/test/ast-snippets/complex-for-each-for-in.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>function</text>
+        <text>forEachCount</text>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>forEachCount</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaiA8LSBnZXRKc29uICJtYXAtZnVuY3Rpb24uanNvbiIKICAgICAgICBnZXRDb3VudCBtYXBDb3VudCBtaiBgc2hvdWxkQmVgIEp1c3QgMQo=</text>
+        <text encoding="base64">ICAgICAgICBpdCAiZmluZHMgMSBmb3JFYWNoIiAkIGRvCiAgICAgICAgICBnZXRDb3VudCBmb3JFYWNoQ291bnQgbWogYHNob3VsZEJlYCBKdXN0IDEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1503,37 +1518,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbkZhaWx1cmUgInRvIGJlIGRvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICBtaiA8LSBnZXRKc29uICJjb21wbGV4LWZvci1lYWNoLWZvci1pbi5qc29uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm9kZUNvdW50cyA9IHZpc2l0Tm9kZSAoY291bnRQYXR0ZXJucykKICAgICAgICBsZXQgc3VtQ291bnRzID0gZm9sZGwgc3VtRmlsZVN0YXRzIGVtcHR5U3RhdHMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGpzb24gPSAoZGVjb2RlRmlsZVN0cmljdCAidGVzdC9hc3Qtc25pcHBldHMvZm9yLmpzb24iIDo6IElPIChNYXliZSBWYWx1ZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbkZhaWx1cmUgInRvIGJlIGRvbmUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0cmFjZSAoIkxvb2tpbmcgYXQgbm9kZSAiICsrIHNob3cgbm9kZVR5cGUpICQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbm9kZUNvdW50cyA9IHZpc2l0Tm9kZSAoY291bnRQYXR0ZXJucykKICAgICAgICBsZXQgc3VtQ291bnRzID0gZm9sZGwgc3VtRmlsZVN0YXRzIGVtcHR5U3RhdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGpzb24gPSAoZGVjb2RlRmlsZVN0cmljdCAidGVzdC9hc3Qtc25pcHBldHMvZm9yLmpzb24iIDo6IElPIChNYXliZSBWYWx1ZSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2luL29mL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1586,9 +1601,9 @@
         <entry>s/ATTESTATIONS/DELIVERABLE_ORDERS/g</entry>
         <entry encoding="base64">JzwsJz5zL1NIT1dfLy9n</entry>
         <entry>s/Left/Right</entry>
-        <entry>w</entry>
         <entry>s/In/Of</entry>
         <entry encoding="base64">JzwsJz5zL2luL29mL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
