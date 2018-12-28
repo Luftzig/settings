@@ -15,6 +15,12 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/js-analyzer/README.md" timestamp="1545753748876">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/TwoD/Mouse.elm" timestamp="1506765881074">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="3" />
@@ -313,11 +319,11 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545929315441">
-        <mark key="'" line="82" column="29" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" timestamp="1545991081039">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="81" column="55" />
+        <mark key="." line="81" column="55" />
+        <mark key="^" line="81" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/Profile.tsx" timestamp="1536745262923">
         <mark key="[" line="5" column="4" />
@@ -1499,10 +1505,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnwgCg==</text>
+        <text encoding="base64">Z2V0SlNGaWxlIDo6IE1vbmFkIG0gPT4gQ1QuSGVhZGVyIC0+IENvbmR1aXRUIEJ5dGVTdHJpbmcgKEZpbGVQYXRoLCBCeXRlU3RyaW5nKSBtICgpCmdldEpTRmlsZSBoZWFkZXIgPSB3aGVuIChpc0pzRmlsZSBoZWFkZXIgJiYgKG5vdCAuIGlzTWluSnMpIGhlYWRlcikgJCBkbwogICAgY29udGVudCA8LSBDTC5mb2xkICg8PikgbWVtcHR5CiAgICB5aWVsZCAoQ1QuaGVhZGVyRmlsZVBhdGggaGVhZGVyLCBjb250ZW50KQogICAgd2hlcmUKICAgICAgaXNKc0ZpbGUgaGVhZGVyID0gIi5qcyIgYFQuaXNTdWZmaXhPZmAgKFQudG9DYXNlRm9sZCAuIFQucGFjayAuIENULmhlYWRlckZpbGVQYXRoKSBoZWFkZXIKICAgICAgaXNNaW5KcyBoZWFkZXIgPSAiLm1pbi5qcyIgYFQuaXNTdWZmaXhPZmAgKFQudG9DYXNlRm9sZCAuIFQucGFjayAuIENULmhlYWRlckZpbGVQYXRoKSBoZWFkZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
@@ -1511,7 +1517,7 @@
         <text>`T.isSuffixOf` (T.toCaseFold . T.pack . CT.headerFilePath) header</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnwgCg==</text>
+        <text encoding="base64">Z2V0SlNGaWxlIDo6IE1vbmFkIG0gPT4gQ1QuSGVhZGVyIC0+IENvbmR1aXRUIEJ5dGVTdHJpbmcgKEZpbGVQYXRoLCBCeXRlU3RyaW5nKSBtICgpCmdldEpTRmlsZSBoZWFkZXIgPSB3aGVuIChpc0pzRmlsZSBoZWFkZXIgJiYgKG5vdCAuIGlzTWluSnMpIGhlYWRlcikgJCBkbwogICAgY29udGVudCA8LSBDTC5mb2xkICg8PikgbWVtcHR5CiAgICB5aWVsZCAoQ1QuaGVhZGVyRmlsZVBhdGggaGVhZGVyLCBjb250ZW50KQogICAgd2hlcmUKICAgICAgaXNKc0ZpbGUgaGVhZGVyID0gIi5qcyIgYFQuaXNTdWZmaXhPZmAgKFQudG9DYXNlRm9sZCAuIFQucGFjayAuIENULmhlYWRlckZpbGVQYXRoKSBoZWFkZXIKICAgICAgaXNNaW5KcyBoZWFkZXIgPSAiLm1pbi5qcyIgYFQuaXNTdWZmaXhPZmAgKFQudG9DYXNlRm9sZCAuIFQucGFjayAuIENULmhlYWRlckZpbGVQYXRoKSBoZWFkZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1520,31 +1526,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnRFcnJvcnMgOjogTW9uYWRJTyBtID0+IENvbmR1aXRUIChFaXRoZXIgUGFyc2VFcnJvciBGaWxlU3RhdHMpIEZpbGVTdGF0cyBtICgpCnByaW50RXJyb3JzID0KICBDTC5tYXBNIHByaW50RXJyb3JzIC58IENMLmNhdE1heWJlcwogIHdoZXJlCiAgICBwcmludEVycm9ycyAoTGVmdCBlKSA9IGxpZnRJTyAkIHByaW50IGUgPj4gcmV0dXJuIE5vdGhpbmcKICAgIHByaW50RXJyb3JzIChSaWdodCBzKSA9IGxpZnRJTyAkIHJldHVybiAkIEp1c3Qgcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnwgcHJpbnRFcnJvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gIG9iaiA8LSB2YWwgXj8gX09iamVjdAotLSAgbm9kZVR5cGUgPC0gdmFsIF4/IGtleSAidHlwZSIgLiBfU3RyaW5nCi0tICBjb250YWluZWRBcnJheSA8LSBvYmogXi4uIF8yIC4gX0FycmF5Ci0tICBjb250YWluZWRPYmpzIDwtIG9iaiBeLi4gXzIgLiBfT2JqZWN0Cg==</text>
+        <text encoding="base64">Y291bnRKU0ZpbGVzIDo6IENvbmR1aXRUIGEgVm9pZCAoUmVzb3VyY2VUIElPKSBJbnRlZ2VyCmNvdW50SlNGaWxlcyA9CiAgQ0wubWFwIChjb25zdCAoMSA6OiBJbnRlZ2VyKSkKICAgIC58IENMLmZvbGQgKCspIDAKCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAufCAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLnwgd3JpdGVGaWxlcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50IGNvdW50Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaiA8LSBnZXRKc29uICJjb21wbGV4LWZvci1lYWNoLWZvci1pbi5qc29uIgo=</text>
+        <text encoding="base64">ICAgICAgLnwgY291bnRKU0ZpbGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
