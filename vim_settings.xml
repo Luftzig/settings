@@ -1361,12 +1361,12 @@
         <mark key="." line="80" column="75" />
         <mark key="^" line="80" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1546008361495">
-        <mark key="'" line="72" column="53" />
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" timestamp="1546009922113">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="50" column="126" />
+        <mark key="]" line="50" column="126" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/phaser-tutorial/index.html" timestamp="1512838426794">
         <mark key="[" line="8" column="19" />
@@ -1407,8 +1407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="25" filename="$USER_HOME$/Projects/js-analyzer/js-parser/index.js" />
-      <jump line="126" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="131" column="27" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="65" column="10" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="136" column="32" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1507,13 +1505,15 @@
       <jump line="64" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="72" column="53" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBoQ2xvc2UgaW5TdHJlYW0K</text>
+      <register name="&quot;" type="4">
+        <text>createProcess (esprima { std_in = CreatePipe, std_out = CreatePipe, std_err = CreatePipe })</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -1521,44 +1521,44 @@
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">d3JpdGVSZXN1bHRzIDo6IE1vbmFkUmVzb3VyY2UgbSA9PiBGaWxlUGF0aCAtPiBQcm9qZWN0SW5mbyAtPiBDb25kdWl0VCAoRmlsZVN0YXRzKSBvIG0gKCkKd3JpdGVSZXN1bHRzIG91dERpciByZXBvID0KICAgIENMLm1hcCAodG9TdHJpY3QgLiBlbmNvZGUpCiAgICAufCBDQy5pbnRlcnNwZXJzZSAiLFxuIgogICAgLnwgc2lua0ZpbGUgKG91dERpciA8Lz4gKFQudW5wYWNrICQgcHJvamVjdElkIHJlcG8pIDwuPiAianNvbiIpCg==</text>
+      <register name="0" type="4">
+        <text>createProcess (esprima { std_in = CreatePipe, std_out = CreatePipe, std_err = CreatePipe })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoQ2xvc2UgaW5TdHJlYW0K</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoQ2xvc2UgaW5TdHJlYW0K</text>
+        <text encoding="base64">ICBwcmludCByZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ICQgIlByb2Nlc3NpbmcgIiA8PiBwcm9qZWN0TmFtZSByZXBvIDw+ICIgYXQgIiA8PiBULnBhY2sgKCBzaG93IChhcmNoaXZlVXJsIHJlcG8pKSA8PiAiOiAiCg==</text>
+        <text encoding="base64">ICBwcmludCByZXN1bHQK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBEYXRhLkNvbmR1aXQuQ29tYmluYXRvcnMgYXMgQ0MK</text>
+        <text encoding="base64">ICBwcmludCBjb250ZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ0wubWFwIChlbmNvZGUpCg==</text>
+        <text encoding="base64">ICBoQ2xvc2UgaW5TdHJlYW0K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEuQ29uZHVpdC5Db21iaW5hdG9ycwo=</text>
+        <text encoding="base64">ICBoQ2xvc2UgaW5TdHJlYW0K</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">LCAKLCAKLCAKLCAKLCAKLCAKLCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50ICQgIlByb2Nlc3NpbmcgIiA8PiBwcm9qZWN0TmFtZSByZXBvIDw+ICIgYXQgIiA8PiBULnBhY2sgKCBzaG93IChhcmNoaXZlVXJsIHJlcG8pKSA8PiAiOiAiCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">UHJvamVjdEluZm8KICAgICAgPCQ+IChmc3QgLiBicmVha09uICIvIikgKG8gLjogImlkIikKICAgICAgPCo+IChzbmQgLiBicmVha09uICIvIikgKG8gLjogImlkIik=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHF1YWxpZmllZCBEYXRhLkNvbmR1aXQuQ29tYmluYXRvcnMgYXMgQ0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgb2xkTm90VXBkYXRlcyA9IERhdGEuVmVjdG9yLmZpbHRlciAoKQo=</text>
+        <text encoding="base64">ICAgICAgQ0wubWFwIChlbmNvZGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
