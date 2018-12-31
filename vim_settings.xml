@@ -200,8 +200,8 @@
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" timestamp="1542814266985">
         <mark key="'" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" timestamp="1546253264562">
-        <mark key="'" line="72" column="0" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" timestamp="1546268380409">
+        <mark key="'" line="39" column="21" />
         <mark key="[" line="29" column="11" />
         <mark key="]" line="30" column="22" />
         <mark key="." line="30" column="22" />
@@ -1037,11 +1037,11 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1546251150537">
-        <mark key="'" line="133" column="31" />
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Data.hs" timestamp="1546268393130">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="63" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" timestamp="1545126625277">
@@ -1233,12 +1233,12 @@
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" timestamp="1546262089872">
-        <mark key="'" line="88" column="1" />
-        <mark key="[" line="84" column="26" />
-        <mark key="]" line="84" column="27" />
-        <mark key="." line="84" column="27" />
-        <mark key="^" line="57" column="20" />
+      <file name="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" timestamp="1546268817711">
+        <mark key="'" line="35" column="49" />
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/elm-package.json" timestamp="1506771723925">
         <mark key="[" line="16" column="46" />
@@ -1450,10 +1450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="15" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="66" column="51" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
-      <jump line="21" column="10" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
-      <jump line="39" column="24" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
       <jump line="80" column="37" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
       <jump line="82" column="30" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
       <jump line="83" column="26" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
@@ -1550,25 +1546,29 @@
       <jump line="6" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" />
       <jump line="24" column="44" filename="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" />
       <jump line="27" column="1" filename="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" />
+      <jump line="39" column="21" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
+      <jump line="6" column="2" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
+      <jump line="33" column="4" filename="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" />
+      <jump line="34" column="49" filename="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4563029b46bcbc480168d5b9497b8d1627287b4c</text>
+        <text encoding="base64">PC0=</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text encoding="base64">PC0=</text>
       </register>
       <register name="/" type="4">
         <text>Revision</text>
       </register>
-      <register name="0" type="4">
-        <text>4563029b46bcbc480168d5b9497b8d1627287b4c</text>
+      <register name="0" type="2">
+        <text encoding="base64">ey0jIExBTkdVQUdFIFJlY29yZFdpbGRDYXJkcyAjLX0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMDgifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAwOSJ9CiAgICAgICAgICAgICR7Y29tbWl0c0ZvclF1YXJ0ZXJzICIyMDEwIn0KICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMTEifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAxMiJ9CiAgICAgICAgICAgICR7Y29tbWl0c0ZvclF1YXJ0ZXJzICIyMDEzIn0KICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMTQifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAxNSJ9CiAgICAgICAgICAgICR7Y29tbWl0c0ZvclF1YXJ0ZXJzICIyMDE2In0KICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMTcifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAxOCJ9</text>
+      <register name="1" type="2">
+        <text encoding="base64">dG9Qcm9qZWN0SW5mbyAoSnVzdCB2KSA9IExlZnQgJCAiRXhwZWN0ZWQgSlNPTiBvYmplY3QgYnV0IGdvdCAiICsrIChzaG93IHYpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1577,16 +1577,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvamVjdEluZm9Gcm9tT2JqZWN0IDo6IE9iamVjdAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgeWVhcjIwMTA6IGhpc3Rvcnkoc2luY2U6ICIyMDEwLTAxLTAxVDAwOjAwOjAwKzAwOjAwIiwgdW50aWw6ICIyMDEwLTA2LTMwVDAwOjAwOjAwKzAwOjAwIiwgZmlyc3Q6IDEpIHsKICAgICAgICAgICAgICAuLi5jb21taXRzCiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMDgifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAwOSJ9CiAgICAgICAgICAgICR7Y29tbWl0c0ZvclF1YXJ0ZXJzICIyMDEwIn0KICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMTEifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAxMiJ9CiAgICAgICAgICAgICR7Y29tbWl0c0ZvclF1YXJ0ZXJzICIyMDEzIn0KICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMTQifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAxNSJ9CiAgICAgICAgICAgICR7Y29tbWl0c0ZvclF1YXJ0ZXJzICIyMDE2In0KICAgICAgICAgICAgJHtjb21taXRzRm9yUXVhcnRlcnMgIjIwMTcifQogICAgICAgICAgICAke2NvbW1pdHNGb3JRdWFydGVycyAiMjAxOCJ9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -1594,11 +1594,11 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVhcl9xCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgeWVhcjIwMTA6IGhpc3Rvcnkoc2luY2U6ICIyMDEwLTAxLTAxVDAwOjAwOjAwKzAwOjAwIiwgdW50aWw6ICIyMDEwLTA2LTMwVDAwOjAwOjAwKzAwOjAwIiwgZmlyc3Q6IDEpIHsKICAgICAgICAgICAgICAuLi5jb21taXRzCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWVhcjIwMDhfMDM6IGhpc3Rvcnkoc2luY2U6ICIyMDA3LTA5LTAxVDAwOjAwOjAwKzAwOjAwIiwgdW50aWw6ICIyMDA4LTAzLTAxVDAwOjAwOjAwKzAwOjAwIiwgZmlyc3Q6IDEpIHsKICAgICAgICAgICAgICAuLi5jb21taXRzCiAgICAgICAgICAgIH0KICAgICAgICAgICAgeWVhcjIwMDhfMDk6IGhpc3Rvcnkoc2luY2U6ICIyMDA4LTAzLTAxVDAwOjAwOjAwKzAwOjAwIiwgdW50aWw6ICIyMDA4LTA5LTAxVDAwOjAwOjAwKzAwOjAwIiwgZmlyc3Q6IDEpIHsKICAgICAgICAgICAgICAuLi5jb21taXRzCiAgICAgICAgICAgIH0KICAgICAgICAgICAgeWVhcjIwMDlfMDM6IGhpc3Rvcnkoc2luY2U6ICIyMDA4LTA5LTAxVDAwOjAwOjAwKzAwOjAwIiwgdW50aWw6ICIyMDA5LTAzLTAxVDAwOjAwOjAwKzAwOjAwIiwgZmlyc3Q6IDEpIHsKICAgICAgICAgICAgICAuLi5jb21taXRzCiAgICAgICAgICAgIH0KICAgICAgICAgICAgeWVhcjIwMDlfMDk6IGhpc3Rvcnkoc2luY2U6ICIyMDA5LTAzLTAxVDAwOjAwOjAwKzAwOjAwIiwgdW50aWw6ICIyMDA5LTA5LTAxVDAwOjAwOjAwKzAwOjAwIiwgZmlyc3Q6IDEpIHsKICAgICAgICAgICAgICAuLi5jb21taXRzCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
