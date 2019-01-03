@@ -198,8 +198,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapdb/mapdb/3.0.7/e3863eeb1bfcba135f792b1886fe1e62d602e251/mapdb-3.0.7-sources.jar!/org/mapdb/DB.kt" timestamp="1541601268911">
         <mark key="'" line="1185" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/styles.js" timestamp="1546436061728">
-        <mark key="'" line="41" column="21" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/styles.js" timestamp="1546510898588">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="33" />
+        <mark key="^" line="33" column="33" />
+        <mark key="." line="33" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" timestamp="1542814266985">
         <mark key="'" line="14" column="22" />
@@ -711,7 +715,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546505922386">
+      <file name="/Dummy.txt" timestamp="1546511045307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -1038,8 +1042,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" timestamp="1546419636687">
-        <mark key="'" line="23" column="15" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" timestamp="1546510974485">
+        <mark key="'" line="139" column="7" />
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="15" />
+        <mark key="." line="111" column="15" />
+        <mark key="^" line="112" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/why-i-fell-from-elm.asciidoc" timestamp="1508240515183">
         <mark key="[" line="10" column="27" />
@@ -1488,8 +1496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="36" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
-      <jump line="87" column="27" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="83" column="15" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
@@ -1588,22 +1594,24 @@
       <jump line="85" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Header.js" />
       <jump line="139" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
       <jump line="78" column="12" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
+      <jump line="107" column="38" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
+      <jump line="137" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsZXZhdGlvbjogMiwK</text>
+        <text encoding="base64">ICAgIC4uLnR5cG9ncmFwaHkuYm9sZCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1612,34 +1620,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsZXg6ICwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsZXg6ICwK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsZXhTaHJpbms6IDEsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsZXhTaHJpbms6IDEsCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiA4LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiA4LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgYm90dG9tOiAwLAogICAgbGVmdDogMCwKICAgIHJpZ2h0OiAwLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
