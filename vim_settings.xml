@@ -711,7 +711,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546520847784">
+      <file name="/Dummy.txt" timestamp="1546522383412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -836,6 +836,13 @@
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546522375073">
+        <mark key="'" line="259" column="4" />
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+        <mark key="^" line="12" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Collections/Get used to new style/src/Task.kt" timestamp="1535030530066">
         <mark key="[" line="6" column="56" />
@@ -1491,7 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="177" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="14" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="198" column="38" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1591,16 +1597,17 @@
       <jump line="41" column="59" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
       <jump line="30" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="106" column="67" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
+      <jump line="259" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnVwZGF0ZSgiaW5zdHJ1Y3Rpb25zTW9kYWwiLCAoKSA9PiBpbnN0cnVjdGlvbnNNb2RhbEVudW0uSElEREVOKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Field</text>
       </register>
       <register name="-" type="4">
-        <text>update(</text>
+        <text>Field</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
