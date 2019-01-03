@@ -744,8 +744,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1546520816075">
-        <mark key="'" line="106" column="67" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1546523289808">
+        <mark key="'" line="107" column="67" />
+        <mark key="[" line="86" column="3" />
+        <mark key="]" line="87" column="1" />
+        <mark key="." line="87" column="1" />
+        <mark key="^" line="87" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506527041392">
         <mark key="[" line="7" column="29" />
@@ -837,8 +841,8 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546522375073">
-        <mark key="'" line="259" column="4" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546523057299">
+        <mark key="'" line="126" column="60" />
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="71" />
         <mark key="." line="12" column="71" />
@@ -1179,8 +1183,12 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" timestamp="1546444192720">
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" timestamp="1546523344865">
         <mark key="'" line="20" column="4" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="13" />
+        <mark key="^" line="82" column="13" />
+        <mark key="." line="82" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/screens/Presentation.tsx" timestamp="1536745252833">
         <mark key="[" line="6" column="4" />
@@ -1498,7 +1506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="14" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="198" column="38" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="203" column="2" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1598,16 +1605,17 @@
       <jump line="30" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="106" column="67" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="259" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
+      <jump line="126" column="60" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Field</text>
+        <text>line: row,</text>
       </register>
       <register name="-" type="4">
-        <text>Field</text>
+        <text>line: row,</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
@@ -1616,25 +1624,25 @@
         <text encoding="base64">dXBkYXRlKCJpbnN0cnVjdGlvbnNNb2RhbCIsICgpID0+IGluc3RydWN0aW9uc01vZGFsRW51bS5ISURERU4p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnVwZGF0ZSgiaW5zdHJ1Y3Rpb25zTW9kYWwiLCAoKSA9PiBpbnN0cnVjdGlvbnNNb2RhbEVudW0uSElEREVOKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPUkU6IFBvc3NpYmx5IGV4dHJhY3QgdGhpcyBjb2RlIGFuZCBtYWtlIGl0IHJldXNhYmxlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvblByZXNzPXsoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgLnVwZGF0ZSgiaW5zdHJ1Y3Rpb25zTW9kYWwiLCAoKSA9PiBpbnN0cnVjdGlvbnNNb2RhbEVudW0uSElEREVOKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBvblByZXNzPXsoKSA9PiB7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2hvd09yZGVyTGluZU1vZGFsKHJvdykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2hvd09yZGVyTGluZU1vZGFsKHJvdykK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -1643,13 +1651,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsZXg6ICwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZsZXg6ICwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsZXhTaHJpbms6IDEsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
