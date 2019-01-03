@@ -715,7 +715,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546441432281">
+      <file name="/Dummy.txt" timestamp="1546505922386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -847,12 +847,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546444375824">
-        <mark key="'" line="62" column="36" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="19" />
-        <mark key="." line="65" column="19" />
-        <mark key="^" line="65" column="19" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546505602882">
+        <mark key="'" line="78" column="12" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="17" />
+        <mark key="." line="296" column="0" />
+        <mark key="^" line="272" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Collections/Get used to new style/src/Task.kt" timestamp="1535030530066">
         <mark key="[" line="6" column="56" />
@@ -1254,12 +1254,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Header.js" timestamp="1546439609190">
-        <mark key="'" line="42" column="12" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="13" column="34" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Header.js" timestamp="1546505821218">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="81" column="24" />
+        <mark key="]" line="81" column="24" />
+        <mark key="^" line="81" column="24" />
+        <mark key="." line="81" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1545127390077">
         <mark key="'" line="36" column="2" />
@@ -1498,9 +1498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="16" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
-      <jump line="116" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
-      <jump line="17" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="18" column="36" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="87" column="27" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
@@ -1598,75 +1595,77 @@
       <jump line="30" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="28" column="67" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="20" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Header.js" />
+      <jump line="139" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
+      <jump line="78" column="12" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>undefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>nextTab</text>
+        <text>styles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAo=</text>
+        <text encoding="base64">ICAgIGVsZXZhdGlvbjogMiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiA4LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsZXg6ICwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgYm90dG9tOiAwLAogICAgbGVmdDogMCwKICAgIHJpZ2h0OiAwLAo=</text>
+        <text encoding="base64">ICAgIGZsZXhTaHJpbms6IDEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAic3RyZXRjaCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiA4LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7TnVtYmVyKGF0dGVzdGF0aW9uLm9yZGVyVmFsdWUpLnRvTG9jYWxlU3RyaW5nKCJzdi1TRSIpfSBTRUsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmFjdGlvbkJ1dHRvbnN9PgogICAgICAgICAgPFRvdWNoYWJsZU9wYWNpdHkgc3R5bGU9e3N0eWxlcy5yZWplY3RCdXR0b259IG9uUHJlc3M9e3RoaXMuX3JlamVjdEF0dGVzdGF0aW9ufT4KICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5yZWplY3RCdXR0b25UZXh0fT5BdnNsw6U8L1RleHQ+CiAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CiAgICAgICAgICA8VG91Y2hhYmxlT3BhY2l0eSBzdHlsZT17c3R5bGVzLmFjY2VwdEJ1dHRvbn0gb25QcmVzcz17dGhpcy5fYWNjZXB0QXR0ZXN0YXRpb259PgogICAgICAgICAgICA8SWNvbiBzdHlsZT17c3R5bGVzLmFjY2VwdEljb259IGljb249eyJsaWtlIn0gLz4KICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5hY2NlcHRCdXR0b25UZXh0fT5Hb2Rrw6RubjwvVGV4dD4KICAgICAgICAgIDwvVG91Y2hhYmxlT3BhY2l0eT4KICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgYm90dG9tOiAwLAogICAgbGVmdDogMCwKICAgIHJpZ2h0OiAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nextTab</last-search>
+      <last-search>styles</last-search>
       <last-offset />
-      <last-pattern>nextTab</last-pattern>
-      <last-replace>of</last-replace>
-      <last-substitute>in</last-substitute>
+      <last-pattern>styles</last-pattern>
+      <last-replace>actionsStyle</last-replace>
+      <last-substitute>styles</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SHOW_</entry>
         <entry>api</entry>
         <entry>Left</entry>
         <entry encoding="base64">XDxsb29rdXBFbnZcPg==</entry>
@@ -1686,10 +1685,9 @@
         <entry>justi</entry>
         <entry>Style</entry>
         <entry>nextTab</entry>
+        <entry>styles</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEwcHgvNHB4Lw==</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>g</entry>
         <entry encoding="base64">JzwsJz5zL0B4Ly8=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlVGV4dA==</entry>
@@ -1707,6 +1705,8 @@
         <entry>s/In/Of</entry>
         <entry encoding="base64">JzwsJz5zL2luL29mL2c=</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL3N0eWxlcy9yb3dTdHlsZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3N0eWxlcy9hY3Rpb25zU3R5bGUvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
