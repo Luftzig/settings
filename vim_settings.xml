@@ -198,11 +198,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapdb/mapdb/3.0.7/e3863eeb1bfcba135f792b1886fe1e62d602e251/mapdb-3.0.7-sources.jar!/org/mapdb/DB.kt" timestamp="1541601268911">
         <mark key="'" line="1185" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/tabRouter.js" timestamp="1546519475679">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/styles.js" timestamp="1546514168646">
         <mark key="'" line="42" column="21" />
       </file>
@@ -716,7 +711,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546514546416">
+      <file name="/Dummy.txt" timestamp="1546520847784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -749,8 +744,8 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1546444088958">
-        <mark key="'" line="28" column="67" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1546520816075">
+        <mark key="'" line="106" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/tsconfig.json" timestamp="1506527041392">
         <mark key="[" line="7" column="29" />
@@ -972,6 +967,12 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/tabRouter.js" timestamp="1546520726602">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/Guy Prives/Automator/server/api/rules-engine/no-budget-rule.ts" timestamp="1506257050695">
         <mark key="[" line="8" column="65" />
         <mark key="]" line="8" column="71" />
@@ -1036,12 +1037,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" timestamp="1546510974485">
-        <mark key="'" line="139" column="7" />
-        <mark key="[" line="111" column="15" />
-        <mark key="]" line="111" column="15" />
-        <mark key="." line="111" column="15" />
-        <mark key="^" line="112" column="16" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" timestamp="1546520677865">
+        <mark key="'" line="41" column="59" />
+        <mark key="[" line="65" column="40" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/cat-racing-elm/why-i-fell-from-elm.asciidoc" timestamp="1508240515183">
         <mark key="[" line="10" column="27" />
@@ -1490,8 +1491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="170" filename="$USER_HOME$/Projects/js-analyzer/out/lodash/lodash.json" />
-      <jump line="201" column="63" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
       <jump line="177" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="14" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -1575,7 +1574,6 @@
       <jump line="90" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="66" column="25" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/TabContent.js" />
       <jump line="65" column="25" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/TabContent.js" />
-      <jump line="30" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="28" column="67" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="20" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Header.js" />
@@ -1590,6 +1588,9 @@
       <jump line="118" column="32" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
       <jump line="193" column="30" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
       <jump line="197" column="3" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
+      <jump line="41" column="59" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/InstructionsModal.js" />
+      <jump line="30" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
+      <jump line="106" column="67" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
