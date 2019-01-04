@@ -244,11 +244,11 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" timestamp="1543416367848">
         <mark key="'" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" timestamp="1546593683818">
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="48" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="48" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" timestamp="1546594541604">
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="18" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/elm-package.json" timestamp="1508770640723">
         <mark key="[" line="20" column="52" />
@@ -1598,10 +1598,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
@@ -1609,41 +1609,41 @@
       <register name="0" type="4">
         <text encoding="base64">dXBkYXRlKCJpbnN0cnVjdGlvbnNNb2RhbCIsICgpID0+IGluc3RydWN0aW9uc01vZGFsRW51bS5ISURERU4p</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNvbnN0IGFjdGlvbnNNYXAgPSB7CiAgdG9nZ2xlTW9kYWwoc3RhdGUsIGFjdGlvbikgewogICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgibW9kYWwiLCAoKSA9PiBhY3Rpb24ubW9kYWwpCiAgfSwKICBzaG93T3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lU2hvd24oYWN0aW9uLm9yZGVyTGluZSwgYWN0aW9uLmxpbmVJbmRleCkpCiAgfSwKICBoaWRlT3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lSGlkZGVuKCkpCiAgfSwKICBuZXh0T3JkZXJMaW5lKHsgYXR0ZXN0YXRp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmNvbnN0IGFjdGlvbnNNYXAgPSB7CiAgdG9nZ2xlTW9kYWwoc3RhdGUsIGFjdGlvbikgewogICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgibW9kYWwiLCAoKSA9PiBhY3Rpb24ubW9kYWwpCiAgfSwKICBzaG93T3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lU2hvd24oYWN0aW9uLm9yZGVyTGluZSwgYWN0aW9uLmxpbmVJbmRleCkpCiAgfSwKICBoaWRlT3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lSGlkZGVuKCkpCiAgfSwKICBuZXh0T3JkZXJMaW5lKHsgYXR0ZXN0YXRp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvcmRlckxpbmVNb2RhbFN0YXRlOiBtb2RhbEVudW0uSElERSwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgLnVwZGF0ZSgib3JkZXJMaW5lTW9kYWxTdGF0ZSIsICgpID0+IGFjdGlvbi5vcmRlckxpbmVNb2RhbFN0YXRlKQogICAgICAudXBkYXRlKCJzZWxlY3RlZFJvdyIsICgpID0+IGFjdGlvbi5zZWxlY3RlZFJvdyk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvcmRlckxpbmVNb2RhbFN0YXRlOiBtb2RhbEVudW0uSElERSwK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgLnVwZGF0ZSgib3JkZXJMaW5lTW9kYWxTdGF0ZSIsICgpID0+IGFjdGlvbi5vcmRlckxpbmVNb2RhbFN0YXRlKQogICAgICAudXBkYXRlKCJzZWxlY3RlZFJvdyIsICgpID0+IGFjdGlvbi5zZWxlY3RlZFJvdyk=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Y29uc3Qgb3JkZXJMaW5lU3RhdGVzID0gewogIEhpZGRlbjogKCkgPT4gKHt9KSwKICBTaG93bjogKGxpbmUsIGluZGV4KSA9PiAoeyBsaW5lLCBpbmRleCB9KSwKfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Y2xhc3MgT3JkZXJMaW5lU3RhdGUge30KCmNsYXNzIE9yZGVyTGluZUhpZGRlbiBleHRlbmRzIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
