@@ -244,7 +244,8 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" timestamp="1543416367848">
         <mark key="'" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" timestamp="1546594541604">
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" timestamp="1546595915351">
+        <mark key="'" line="40" column="12" />
         <mark key="[" line="18" column="57" />
         <mark key="]" line="18" column="57" />
         <mark key="." line="18" column="57" />
@@ -479,6 +480,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" timestamp="1546596417710">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Tests.elm" timestamp="1506767793966">
         <mark key="[" line="1" column="0" />
@@ -835,8 +842,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546593115725">
-        <mark key="'" line="118" column="60" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" timestamp="1546596466126">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="127" column="65" />
+        <mark key="]" line="127" column="64" />
+        <mark key="^" line="127" column="64" />
+        <mark key="." line="127" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Collections/Get used to new style/src/Task.kt" timestamp="1535030530066">
         <mark key="[" line="6" column="56" />
@@ -1492,8 +1503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="198" column="38" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="203" column="2" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="18" column="40" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="52" column="28" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
@@ -1592,22 +1601,24 @@
       <jump line="106" column="67" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" />
       <jump line="259" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
       <jump line="126" column="60" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
+      <jump line="40" column="12" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" />
+      <jump line="41" column="35" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Modal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Modal</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dXBkYXRlKCJpbnN0cnVjdGlvbnNNb2RhbCIsICgpID0+IGluc3RydWN0aW9uc01vZGFsRW51bS5ISURERU4p</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCwgUHJvcFR5cGVzIH0gZnJvbSAicmVhY3QiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1615,35 +1626,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNvbnN0IGFjdGlvbnNNYXAgPSB7CiAgdG9nZ2xlTW9kYWwoc3RhdGUsIGFjdGlvbikgewogICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgibW9kYWwiLCAoKSA9PiBhY3Rpb24ubW9kYWwpCiAgfSwKICBzaG93T3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lU2hvd24oYWN0aW9uLm9yZGVyTGluZSwgYWN0aW9uLmxpbmVJbmRleCkpCiAgfSwKICBoaWRlT3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lSGlkZGVuKCkpCiAgfSwKICBuZXh0T3JkZXJMaW5lKHsgYXR0ZXN0YXRp</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gPFZpZXc+CiAgICA8VGV4dD5HT1RDSFlBITwvVGV4dD4KICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwpCg==</text>
+        <text encoding="base64">Y2xhc3MgQXR0ZXN0YXRpb25JdGVtVmlldyBleHRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvcmRlckxpbmVNb2RhbFN0YXRlOiBtb2RhbEVudW0uSElERSwK</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkUm93OiBzdGF0ZS5hdHRlc3RhdGlvblNpbmdsZVZpZXcuZ2V0KCJzZWxlY3RlZFJvdyIpLAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgLnVwZGF0ZSgib3JkZXJMaW5lTW9kYWxTdGF0ZSIsICgpID0+IGFjdGlvbi5vcmRlckxpbmVNb2RhbFN0YXRlKQogICAgICAudXBkYXRlKCJzZWxlY3RlZFJvdyIsICgpID0+IGFjdGlvbi5zZWxlY3RlZFJvdyk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9yZGVyTGluZU1vZGFsU3RhdGU6IHN0YXRlLmF0dGVzdGF0aW9uU2luZ2xlVmlldy5nZXQoIm9yZGVyTGluZU1vZGFsU3RhdGUiKSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgb3JkZXJMaW5lU3RhdGVzID0gewogIEhpZGRlbjogKCkgPT4gKHt9KSwKICBTaG93bjogKGxpbmUsIGluZGV4KSA9PiAoeyBsaW5lLCBpbmRleCB9KSwKfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmNvbnN0IGFjdGlvbnNNYXAgPSB7CiAgdG9nZ2xlTW9kYWwoc3RhdGUsIGFjdGlvbikgewogICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgibW9kYWwiLCAoKSA9PiBhY3Rpb24ubW9kYWwpCiAgfSwKICBzaG93T3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lU2hvd24oYWN0aW9uLm9yZGVyTGluZSwgYWN0aW9uLmxpbmVJbmRleCkpCiAgfSwKICBoaWRlT3JkZXJMaW5lKHN0YXRlLCBhY3Rpb24pIHsKICAgIHJldHVybiBzdGF0ZS5zZXQoIm9yZGVyTGluZVN0YXRlIiwgT3JkZXJMaW5lSGlkZGVuKCkpCiAgfSwKICBuZXh0T3JkZXJMaW5lKHsgYXR0ZXN0YXRp</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xhc3MgT3JkZXJMaW5lU3RhdGUge30KCmNsYXNzIE9yZGVyTGluZUhpZGRlbiBleHRlbmRzIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
