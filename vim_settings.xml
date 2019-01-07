@@ -484,12 +484,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" timestamp="1546851804619">
-        <mark key="'" line="66" column="18" />
-        <mark key="[" line="146" column="33" />
-        <mark key="]" line="147" column="24" />
-        <mark key="." line="147" column="24" />
-        <mark key="^" line="147" column="24" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" timestamp="1546856805539">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Tests.elm" timestamp="1506767793966">
         <mark key="[" line="1" column="0" />
@@ -1527,13 +1525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="13" filename="$USER_HOME$/Projects/js-analyzer/src/JsAnalyze.hs" />
-      <jump line="132" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
-      <jump line="205" column="68" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="204" column="7" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
-      <jump line="36" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
-      <jump line="8" column="10" filename="$USER_HOME$/Projects/js-analyzer/src/Projects/GraphQL.hs" />
       <jump line="133" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Data.hs" />
       <jump line="49" column="11" filename="$USER_HOME$/Projects/js-analyzer/src/AnalyzeContent.hs" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Projects.hs" />
@@ -1626,68 +1617,77 @@
       <jump line="111" column="31" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
       <jump line="85" column="35" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
       <jump line="52" column="33" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
-      <jump line="66" column="18" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="66" column="26" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="40" column="58" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="77" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="79" column="82" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="83" column="31" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="86" column="25" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>flexShrink</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX3Njcm9sbFgKICAgICAgLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiB0aGlzLnByb3BzLmF0dGVzdGF0aW9uLm9yZGVyTGluZXMubWFwKChpZ25vcmVkLCBpKSA9PiBzY3JlZW5XaWR0aCAqIGkpLAogICAgICAgIG91dHB1dFJhbmdlOiB0aGlzLnByb3BzLmF0dGVzdGF0aW9uLm9yZGVyTGluZXMubWFwKChpZ25vcmVkLCBpKSA9PiBpKSwKICAgICAgICBleHRyYXBvbGF0ZTogImNsYW1wIiwKICAgICAgfSkKICAgICAgLmFkZExpc3RlbmVyKHRoaXMuX29uU2Nyb2xsKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>flexShrink</text>
+        <text>currentIndex</text>
       </register>
       <register name="/" type="4">
-        <text>ListView</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwaW5raXNoR3JleTE1OiAicmdiYSgyMDcsIDE5NiwgMTk2LCAwLjE1KSIsCg==</text>
+        <text encoding="base64">ICAgICAgaW5wdXRSYW5nZTogW3NjcmVlbldpZHRoICogKGluZGV4IC0gMSksIHNjcmVlbldpZHRoICogaW5kZXgsIHNjcmVlbldpZHRoICogKGluZGV4ICsgMSldLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX3Njcm9sbFgKICAgICAgLmludGVycG9sYXRlKHsKICAgICAgICBpbnB1dFJhbmdlOiB0aGlzLnByb3BzLmF0dGVzdGF0aW9uLm9yZGVyTGluZXMubWFwKChpZ25vcmVkLCBpKSA9PiBzY3JlZW5XaWR0aCAqIGkpLAogICAgICAgIG91dHB1dFJhbmdlOiB0aGlzLnByb3BzLmF0dGVzdGF0aW9uLm9yZGVyTGluZXMubWFwKChpZ25vcmVkLCBpKSA9PiBpKSwKICAgICAgICBleHRyYXBvbGF0ZTogImNsYW1wIiwKICAgICAgfSkKICAgICAgLmFkZExpc3RlbmVyKHRoaXMuX29uU2Nyb2xsKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiAwLAogICAgcGFkZGluZ1ZlcnRpY2FsOiAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXJ0cyIsIHBhcnRzKQo=</text>
+        <text encoding="base64">ICBfb25TY3JvbGwgPSBldmVudCA9PiB7CiAgICBjb25zb2xlLmxvZygiY3VycmVudCBpbmRleDogIiwgZXZlbnQpCiAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleQo=</text>
+      <register name="4" type="4">
+        <text>{
+            listener: this._onScroll,
+          }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMSwK</text>
+        <text encoding="base64">ICBjb25zdCBjdXJyZW50SW5kZXggPSB0aGlzLl9zY3JvbGxYLmludGVycG9sYXRlKHsKICAgIGlucHV0UmFuZ2U6IHRoaXMucHJvcHMuYXR0ZXN0YXRpb24ub3JkZXJMaW5lcy5tYXAoKGlnbm9yZWQsIGkpID0+IHNjcmVlbldpZHRoICogaSksCiAgICBvdXRwdXRSYW5nZTogdGhpcy5wcm9wcy5hdHRlc3RhdGlvbi5vcmRlckxpbmVzLm1hcCgoaWdub3JlZCwgaSkgPT4gaSksCiAgICBleHRyYXBvbGF0ZTogImNsYW1wIiwKICB9KQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsZXhCYXNpczogMSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRJbmRleCA9IHRoaXMuX3Njcm9sbFguaW50ZXJwb2xhdGUoewogICAgICBpbnB1dFJhbmdlOiB0aGlzLnByb3BzLmF0dGVzdGF0aW9uLm9yZGVyTGluZXMubWFwKChpZ25vcmVkLCBpKSA9PiBzY3JlZW5XaWR0aCAqIGkpLAogICAgICBvdXRwdXRSYW5nZTogdGhpcy5wcm9wcy5hdHRlc3RhdGlvbi5vcmRlckxpbmVzLm1hcCgoaWdub3JlZCwgaSkgPT4gaSksCiAgICAgIGV4dHJhcG9sYXRlOiAiY2xhbXAiLAogICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsZXhTaHJpbms6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdWZXJ0aWNhbDogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6IDEzLAo=</text>
+        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgc3RhcnRpbmdJbmRleDogcHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ListView</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>ListView</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>actionsStyle</last-replace>
       <last-substitute>styles</last-substitute>
       <last-dir>1</last-dir>
@@ -1695,7 +1695,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb29rdXBFbnZcPg==</entry>
         <entry>FilePath</entry>
         <entry>Text</entry>
         <entry>Parsec</entry>
@@ -1715,6 +1714,7 @@
         <entry>styles</entry>
         <entry>show</entry>
         <entry>ListView</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>g</entry>
