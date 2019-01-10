@@ -1,11 +1,11 @@
 <keymap version="1" name="Mac OS X + IdeaVim" parent="Mac OS X">
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Educational.PreviousTask">
     <keyboard-shortcut first-keystroke="ctrl comma" />
@@ -28,8 +28,14 @@
     <keyboard-shortcut first-keystroke="shift meta alt n" />
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
   </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta l" />
