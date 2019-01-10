@@ -466,6 +466,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" timestamp="1547133694478">
+        <mark key="'" line="102" column="48" />
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="31" column="72" />
+        <mark key="^" line="31" column="72" />
+        <mark key="." line="31" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/elm-2d-game/tests/Game/Tests.elm" timestamp="1506767793966">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="53" />
@@ -603,11 +610,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/OrderLineWithIcon.js" timestamp="1546614293936">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="41" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/OrderLineWithIcon.js" timestamp="1547132072396">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/FuncCon/site/src/style-helpers.ts" timestamp="1521283612944">
         <mark key="[" line="9" column="68" />
@@ -1505,14 +1512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="14" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
-      <jump line="103" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
-      <jump line="38" column="73" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
-      <jump line="45" column="10" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
-      <jump line="89" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
-      <jump line="112" column="18" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
-      <jump line="140" column="11" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
-      <jump line="138" column="41" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
       <jump line="152" column="28" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
       <jump line="135" column="13" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" />
       <jump line="5" column="49" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
@@ -1605,67 +1604,75 @@
       <jump line="102" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/DeliverableOrders.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/DeliverableOrders.js" />
       <jump line="63" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/DeliverableOrders.js" />
+      <jump line="19" column="72" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="81" column="18" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="67" column="29" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="44" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="65" column="29" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="105" column="29" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
+      <jump line="96" column="48" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">WwogICAgICA8VGV4dD5TdmVwIGbDtnIgcHJldjwvVGV4dD4sCiAgICAgIDxUZXh0PiAKICAgIF0=</text>
+        <text>Animated.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Animated.</text>
       </register>
       <register name="/" type="4">
-        <text>warning</text>
+        <text>attestation\.orderLines</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgb3JkZXJMaW5lcyB9ID0gdGhpcy5wcm9wcy5hdHRlc3RhdGlvbgogICAgcmV0dXJuIG9yZGVyTGluZXMubGVuZ3RoID4gNyA/IHRoaXMuX3JlbmRlck51bWVyaWNhbEluZGljYXRvcnMoKSA6IG9yZGVyTGluZXMubWFwKHRoaXMuX3JlbmRlclNjcm9sbEluZGljYXRvci5iaW5kKHRoaXMpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9wYWNpdHkgPSB0aGlzLl9zY3JvbGxYLmludGVycG9sYXRlKHsKICAgICAgaW5wdXRSYW5nZTogW3NjcmVlbldpZHRoICogKGluZGV4IC0gMSksIHNjcmVlbldpZHRoICogaW5kZXgsIHNjcmVlbldpZHRoICogKGluZGV4ICsgMSldLAogICAgICBvdXRwdXRSYW5nZTogWzAuMzIsIDEsIDAuMzJdLAogICAgICBleHRyYXBvbGF0ZTogImNsYW1wIiwKICAgIH0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">WwogICAgICA8VGV4dD5TdmVwIGbDtnIgcHJldjwvVGV4dD4sCiAgICAgIDxUZXh0PiAKICAgIF0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnRvVmFsdWUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgaW5wdXRSYW5nZTogWzAsIHNjcmVlbldpZHRoICogb3JkZXJMaW5lcy5sZW5ndGhdLAogICAgICBvdXRwdXRSYW5nZTogWzAuMzIsIDEsIDAuMzJdLAogICAgICBleHRyYXBvbGF0ZTogImNsYW1wIiw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17cy5pbmRpY2F0b3JzfT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLmF0dGVzdGF0aW9uLm9yZGVyTGluZXMubWFwKHRoaXMuX3JlbmRlclNjcm9sbEluZGljYXRvci5iaW5kKHRoaXMpKX0K</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17cy5pbmRpY2F0b3JzfT4KICAgICAgICAgIHtvcmRlckxpbmVzLm1hcCh0aGlzLl9yZW5kZXJTY3JvbGxJbmRpY2F0b3IuYmluZCh0aGlzKSl9CiAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcmRlckxpbmVzLmxlbmd0aCA+IDcgPyB0aGlzLl9yZW5kZXJOdW1lcmljYWxJbmRpY2F0b3JzKCkgOiBvcmRlckxpbmVzLm1hcCh0aGlzLl9yZW5kZXJTY3JvbGxJbmRpY2F0b3IuYmluZCh0aGlzKSkK</text>
+        <text encoding="base64">ICAgICAgICB7dGV4dCAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9Pnt0ZXh0fTwvVGV4dD59CiAgICAgICAge2NoaWxkcmVufQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyhwcm9wcy5pY29uICE9IG51bGwgfHwgcHJvcHMuaWNvblNwYWNpbmcgIT0gbnVsbCkgJiYgKAogICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuaWNvbkNvbnRhaW5lcn0+CiAgICAgICAgICB7aWNvbiAhPSBudWxsICYmIDxJY29uIGljb249e2ljb259IHN0eWxlPXtzdHlsZXMuaWNvblN0eWxlfSAvPn0KICAgICAgICA8L1ZpZXc+CiAgICAgICl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7dGV4dCAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLnRleHR9Pnt0ZXh0fTwvVGV4dD59CiAgICAgICAge2NoaWxkcmVufQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyp7Y2hpbGRyZW59Ki99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5fcmVuZGVySW5kaWNhdG9ycyhvcmRlckxpbmVzKX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>warning</last-search>
+      <last-search>attestation\.orderLines</last-search>
       <last-offset />
-      <last-pattern>warning</last-pattern>
+      <last-pattern>attestation\.orderLines</last-pattern>
       <last-replace>actionsStyle</last-replace>
       <last-substitute>styles</last-substitute>
       <last-dir>1</last-dir>
@@ -1673,8 +1680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stringf</entry>
-        <entry>string</entry>
         <entry>Revision</entry>
         <entry>textG</entry>
         <entry>Ting</entry>
@@ -1693,9 +1698,10 @@
         <entry>confir</entry>
         <entry>navBlocked</entry>
         <entry>warning</entry>
+        <entry>props\.orderLine</entry>
+        <entry>attestation\.orderLines</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wpIC1cPi8sLw==</entry>
         <entry encoding="base64">JzwsJz5zL1wpIC0+Lywv</entry>
         <entry encoding="base64">JzwsJz5zLykgLT4vLC8=</entry>
         <entry encoding="base64">JzwsJz5zLyQvKSwv</entry>
@@ -1709,11 +1715,12 @@
         <entry encoding="base64">JzwsJz5zL2luL29mL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9yb3dTdHlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9hY3Rpb25zU3R5bGUvZw==</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>actionlist doc</entry>
         <entry>actionlist documentation</entry>
         <entry>actionlist quick</entry>
+        <entry>actionlist surround</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
