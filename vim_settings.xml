@@ -953,8 +953,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1544454077885">
-        <mark key="'" line="181" column="24" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1547210899778">
+        <mark key="'" line="186" column="24" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="185" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/metoogather/app/reducers/index.ts" timestamp="1536927526744">
         <mark key="[" line="31" column="74" />
@@ -1013,6 +1017,12 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.props.ts" timestamp="1543333623967">
         <mark key="'" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1547211021692">
+        <mark key="[" line="43" column="62" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/prototyp/src/Ports.elm" timestamp="1527589503099">
         <mark key="[" line="8" column="37" />
@@ -1171,6 +1181,12 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="178" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1547210450589">
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/once-mvp/once-web/.gitignore" timestamp="1507640932537">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1289,6 +1305,9 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/build.gradle" timestamp="1547210830766">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.4.1/d14ccc67a69eecf528b477045c9c914e1f1cb40/furhat-commons-1.4.1.jar!/furhatos/records/Location.class" timestamp="1542791945536">
         <mark key="'" line="155" column="4" />
@@ -1523,7 +1542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersList.js" />
       <jump line="72" column="34" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" />
       <jump line="74" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/IncomingDeliverableOrders.js" />
       <jump line="60" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/DeliverableOrders.js" />
@@ -1623,16 +1641,17 @@
       <jump line="104" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="75" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="23" column="51" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtbWFwcycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>2.1&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
@@ -1640,41 +1659,55 @@
       <register name="0" type="4">
         <text encoding="base64">QWNrbm93bGVkZ2VBbGFybVN0b3JlIA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHJldHVybiA8U2NyZWVuPgogICAgICA8Vmlldz48VGV4dD5Nb2NrIHVzZXIncyBwb3NpdGlvbjwvVGV4dD48L1ZpZXc+CiAgICAgIDxNYXBWaWV3Lz4KICAgICAgPEJ1dHRvbiB0eD17ImFja25vd2xlZGdlLWFsYXJtLmlnbm9yZSJ9Lz4KICAgIDwvU2NyZWVuPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtbWFwcycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGlmICgpCiAgfQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKQo=</text>
+      <register name="3" type="8">
+        <text>compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile
+compile</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHJldHVybiA8U2NyZWVuPgogICAgICA8Vmlldz48VGV4dD5Nb2NrIHVzZXIncyBwb3NpdGlvbjwvVGV4dD48L1ZpZXc+CiAgICAgIDxNYXBWaWV3Lz4KICAgICAgPEJ1dHRvbiB0eD17ImFja25vd2xlZGdlLWFsYXJtLmlnbm9yZSJ9Lz4KICAgIDwvU2NyZWVuPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGlmICgpCiAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAiLi4vc2hhcmVkL2hlYWRlciIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYWNrbm93bGVkZ2UtYWxhcm0iOiB7CiAgICAidGl0bGUiCiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
