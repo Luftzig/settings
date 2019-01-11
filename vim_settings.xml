@@ -242,11 +242,6 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.test.ts" timestamp="1543416367848">
         <mark key="'" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" timestamp="1547049135722">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Spirits-elm/elm-package.json" timestamp="1508770640723">
         <mark key="[" line="20" column="52" />
         <mark key="]" line="20" column="50" />
@@ -616,11 +611,6 @@
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/api.js" timestamp="1545298592376">
         <mark key="'" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/home.js" timestamp="1547040129096">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/OrderLineWithIcon.js" timestamp="1547196919868">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="14" />
@@ -811,6 +801,9 @@
         <mark key="]" line="110" column="3" />
         <mark key="^" line="110" column="3" />
         <mark key="." line="109" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1547204600709">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1224,6 +1217,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" timestamp="1547204624307">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Hello, world!/src/Task.kt" timestamp="1535014850720">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="24" />
@@ -1305,8 +1304,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1545127390077">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" timestamp="1547204738021">
         <mark key="'" line="36" column="2" />
+        <mark key="[" line="162" column="41" />
+        <mark key="]" line="162" column="49" />
+        <mark key="^" line="162" column="49" />
+        <mark key="." line="162" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/Kotlin Koans/Introduction/Named arguments/src/Task.kt" timestamp="1535015580080">
         <mark key="[" line="0" column="80" />
@@ -1523,11 +1526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="17" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" />
-      <jump line="106" column="26" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/DeliverableOrders.js" />
-      <jump line="5" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/tabRouter.js" />
-      <jump line="1" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/tabRouter.js" />
       <jump line="6" column="14" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/tabRouter.js" />
       <jump line="93" column="23" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" />
       <jump line="82" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/components/DeliverableOrders.js" />
@@ -1623,67 +1621,72 @@
       <jump line="12" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.tsx" />
       <jump line="57" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="26" column="5" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" />
+      <jump line="229" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="95" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="56" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>edContact</text>
       </register>
       <register name="/" type="4">
-        <text>Platform</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgU2NyZWVuIH0gZnJvbSAiLi4vc2hhcmVkL3NjcmVlbiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAiLi4vc2hhcmVkL2hlYWRlciIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiYWNrbm93bGVkZ2UtYWxhcm0iOiB7CiAgICAidGl0bGUiCiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGluamVjdCgiY29udGFjdHNTdG9yZSIpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5qZWN0LCBvYnNlcnZlciB9IGZyb20gIm1vYngtcmVhY3QvbmF0aXZlIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UHJldmVudCBrZXlib2FyZCBmcm9tIGhpZGluZyB0aGUgYnV0dG9uIG9mIHRoZSBsaXN0IHdoZW4gc2VhcmNoaW5nIGRlbGl2ZXJpZXMK</text>
+        <text encoding="base64">aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAiLi4vc2hhcmVkL2hlYWRlciIK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiYWNrbm93bGVkZ2UtYWxhcm0iOiB7CiAgICAidGl0bGUiCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiAzLAo=</text>
+        <text encoding="base64">QGluamVjdCgiY29udGFjdHNTdG9yZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldHRlclNwYWNpbmc6IDAuNSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgaW5qZWN0LCBvYnNlcnZlciB9IGZyb20gIm1vYngtcmVhY3QvbmF0aXZlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhhdAo=</text>
+        <text encoding="base64">UHJldmVudCBrZXlib2FyZCBmcm9tIGhpZGluZyB0aGUgYnV0dG9uIG9mIHRoZSBsaXN0IHdoZW4gc2VhcmNoaW5nIGRlbGl2ZXJpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Platform</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>Platform</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>actionsStyle</last-replace>
       <last-substitute>styles</last-substitute>
       <last-dir>1</last-dir>
@@ -1691,7 +1694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ting</entry>
         <entry>Tint</entry>
         <entry>shadowBlur</entry>
         <entry>justi</entry>
@@ -1711,6 +1713,7 @@
         <entry>attestation\.orderLines</entry>
         <entry>react</entry>
         <entry>Platform</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NIT1dfLy9n</entry>
