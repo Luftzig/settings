@@ -423,7 +423,13 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" timestamp="1547470332374" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" timestamp="1547471930629">
+        <mark key="'" line="14" column="40" />
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/moment/moment.d.ts" timestamp="1544026535601">
         <mark key="'" line="401" column="38" />
       </file>
@@ -709,7 +715,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547455591747">
+      <file name="/Dummy.txt" timestamp="1547472065594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="37" />
         <mark key="^" line="2" column="37" />
@@ -804,6 +810,9 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" timestamp="1547471905292">
+        <mark key="'" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/js-analyzer/test/Spec.hs" timestamp="1545840120728">
         <mark key="[" line="0" column="0" />
@@ -1495,9 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="22" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" />
-      <jump line="4" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/tabRouter.js" />
-      <jump line="9" column="16" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/tabRouter.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/attestationSingleView.js" />
       <jump line="58" column="87" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
       <jump line="120" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationSingleView.js" />
@@ -1581,7 +1587,6 @@
       <jump line="81" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/navigation-store.ts" />
       <jump line="11" column="37" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/countdown.tsx" />
       <jump line="55" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
-      <jump line="39" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="70" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="51" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="50" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
@@ -1595,16 +1600,20 @@
       <jump line="65" column="51" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="43" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="39" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.props.ts" />
+      <jump line="39" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
+      <jump line="14" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
+      <jump line="15" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/add-contact/add-contact.tsx" />
+      <jump line="15" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>trans</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBuYXZpZ2F0aW9uU3RvcmU/OiBOYXZpZ2F0aW9uU3RvcmUK</text>
       </register>
       <register name="-" type="4">
-        <text>trans</text>
+        <text>, &quot;navigationStore&quot;</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
@@ -1613,40 +1622,40 @@
         <text encoding="base64">ICAgICJhbGFybWVlUG9zaXRpb24iOiAiJXtmaXJzdE5hbWV9ICV7bGFzdE5hbWV9J3MgcG9zaXRpb24iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBuYXZpZ2F0aW9uU3RvcmU/OiBOYXZpZ2F0aW9uU3RvcmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXtzLmhlYWRlcn0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGhvbmVOdW1iZXIgPSBSLnByb3AoInBob25lTnVtYmVyIikK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsZXgK</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXtzLmhlYWRlcn0+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogIiNmZmZmZmYiLAo=</text>
+        <text encoding="base64">ICAgICAgcGhvbmVOdW1iZXIgPSBSLnByb3AoInBob25lTnVtYmVyIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogY29sb3IuU3ZldmlhQ29sb3JzLndoaXRlLAo=</text>
+        <text encoding="base64">ICAgIGZsZXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsZXhECg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogIiNmZmZmZmYiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogY29sb3IuU3ZldmlhQ29sb3JzLndoaXRlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1703,8 +1712,8 @@
         <entry encoding="base64">bWFwIGdlIDpTaG93RXJyb3JEZXNjcmlwdGlvbjxDUj4=</entry>
         <entry>ShowErrorDescription</entry>
         <entry encoding="base64">JzwsJz5zL2Fja25vd2xlZGdlLWEvYWNrbm93bGVkZ2VBLw==</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
