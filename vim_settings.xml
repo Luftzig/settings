@@ -809,10 +809,11 @@
       <file name="$USER_HOME$/Projects/js-analyzer/test/archives/Script.js" timestamp="1546011923182">
         <mark key="'" line="103" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/react-native-play-sound/android/src/main/java/com/soundapp/SoundModule.java" timestamp="1547482398385">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/react-native-play-sound/android/src/main/java/com/soundapp/SoundModule.java" timestamp="1547543160458">
+        <mark key="[" line="79" column="82" />
+        <mark key="]" line="79" column="82" />
+        <mark key="." line="79" column="82" />
+        <mark key="^" line="79" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/KattisTests/run-flags" timestamp="1526725126135">
         <mark key="[" line="0" column="0" />
@@ -1624,11 +1625,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>play siren!</text>
