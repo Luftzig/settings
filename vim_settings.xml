@@ -782,7 +782,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1547559728131">
         <mark key="'" line="106" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547644727383">
+      <file name="/Dummy.txt" timestamp="1547645241266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
@@ -1139,6 +1139,9 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="111" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="/yarn.lock" timestamp="1547646120411">
+        <mark key="'" line="9285" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/prototyp/src/Ports.elm" timestamp="1527589503099">
         <mark key="[" line="8" column="37" />
@@ -1699,15 +1702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="640" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="641" column="38" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="104" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="75" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="23" column="51" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/build.gradle" />
-      <jump line="96" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/push-notification-bridge.tsx" />
-      <jump line="13" column="60" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/push-notification-bridge.tsx" />
-      <jump line="98" column="37" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/push-notification-bridge.tsx" />
       <jump line="34" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
       <jump line="149" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/sv.json" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
@@ -1799,6 +1793,15 @@
       <jump line="32" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/yarn.lock" />
       <jump line="57" column="98" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
       <jump line="144" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="429" column="2" filename="/yarn.lock" />
+      <jump line="489" column="34" filename="/yarn.lock" />
+      <jump line="491" column="112" filename="/yarn.lock" />
+      <jump line="2283" column="83" filename="/yarn.lock" />
+      <jump line="2285" column="117" filename="/yarn.lock" />
+      <jump line="2436" column="36" filename="/yarn.lock" />
+      <jump line="2489" column="36" filename="/yarn.lock" />
+      <jump line="9287" column="58" filename="/yarn.lock" />
+      <jump line="9285" column="14" filename="/yarn.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1811,7 +1814,7 @@
         <text>arm</text>
       </register>
       <register name="/" type="4">
-        <text>PlaySou</text>
+        <text>azure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyByZXR1cm4gInlvYXZzX2Zha2VfZGV2aWNlMyIK</text>
@@ -1857,9 +1860,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PlaySou</last-search>
+      <last-search>azure</last-search>
       <last-offset />
-      <last-pattern>PlaySou</last-pattern>
+      <last-pattern>azure</last-pattern>
       <last-replace>acknowledgeA</last-replace>
       <last-substitute>acknowledge-a</last-substitute>
       <last-dir>1</last-dir>
@@ -1867,9 +1870,6 @@
     </search>
     <history>
       <history-search>
-        <entry>helpButton</entry>
-        <entry>zI</entry>
-        <entry encoding="base64">XDx0YWJUb1w+</entry>
         <entry>confir</entry>
         <entry>navBlocked</entry>
         <entry>warning</entry>
@@ -1887,6 +1887,9 @@
         <entry>addEvent</entry>
         <entry>react-native-az</entry>
         <entry>PlaySou</entry>
+        <entry>play</entry>
+        <entry>play-sound</entry>
+        <entry>azure</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luL29mL2c=</entry>
