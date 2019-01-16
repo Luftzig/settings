@@ -385,11 +385,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="13" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1547568627821">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-        <mark key="^" line="4" column="77" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1547633556379">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="4" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/diabetes.kt" timestamp="1537431500556">
         <mark key="[" line="15" column="50" />
@@ -779,7 +779,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1547559728131">
         <mark key="'" line="106" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547562719382">
+      <file name="/Dummy.txt" timestamp="1547633215735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
@@ -806,12 +806,12 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" timestamp="1547629525227">
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" timestamp="1547632796816">
         <mark key="'" line="58" column="89" />
-        <mark key="[" line="57" column="127" />
-        <mark key="]" line="58" column="132" />
-        <mark key="^" line="58" column="132" />
-        <mark key="." line="58" column="132" />
+        <mark key="[" line="100" column="64" />
+        <mark key="]" line="100" column="81" />
+        <mark key="." line="100" column="81" />
+        <mark key="^" line="100" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native-mock/src/components/TouchableOpacity.js" timestamp="1545408857412">
         <mark key="'" line="5" column="65" />
@@ -1071,6 +1071,12 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" timestamp="1547633626940">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="47" />
+        <mark key="^" line="68" column="47" />
+        <mark key="." line="68" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/utils.ts" timestamp="1540288245761">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="16" column="18" />
@@ -1295,12 +1301,12 @@
         <mark key="." line="178" column="17" />
         <mark key="^" line="178" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationHandler.java" timestamp="1547629562455">
-        <mark key="'" line="23" column="25" />
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="38" />
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationHandler.java" timestamp="1547633868368">
+        <mark key="'" line="22" column="25" />
+        <mark key="[" line="24" column="75" />
+        <mark key="]" line="24" column="82" />
+        <mark key="." line="24" column="82" />
+        <mark key="^" line="24" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1547567219334">
         <mark key="[" line="40" column="78" />
@@ -1792,10 +1798,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>27</text>
+        <text>We got a notification</text>
       </register>
       <register name="-" type="4">
-        <text>27</text>
+        <text>We got a notification</text>
       </register>
       <register name="/" type="4">
         <text>addEvent</text>
@@ -1804,25 +1810,25 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25SZWNlaXZlKENvbnRleHQgY29udGV4dCwgQnVuZGxlIGJ1bmRsZSkgewogICAgICAgIHRoaXMuY29udGV4dCA9IGNvbnRleHQ7CiAgICAgICAgTG9nLmkoVEFHLCAiV2UgZ290IGEgbm90aWZpY2F0aW9uIik7CiAgICAgICAgc2VuZFRvQmFja2dyb3VuZChjb250ZXh0LCBidW5kbGUpOwogICAgICAgIHNlbmROb3RpZmljYXRpb24oYnVuZGxlKTsKICAgICAgICBzZW5kQnJvYWRjYXN0KGNvbnRleHQsIGJ1bmRsZSwgMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJhY2tncm91bmRUYXNrID0gbm90aWZpY2F0aW9uSHViVXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJXZSBnb3QgYSBub3RpZmljYXRpb24iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kVG9CYWNrZ3JvdW5kKGNvbnRleHQsIGJ1bmRsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJhY2tncm91bmRUYXNrID0gbm90aWZpY2F0aW9uSHViVXRpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5IZWFkbGVzc0pzVGFza1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -1831,13 +1837,13 @@
         <text encoding="base64">ICAgICAgICBzZW5kVG9CYWNrZ3JvdW5kKGNvbnRleHQsIGJ1bmRsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc2VuZFRvQmFja2dyb3VuZChDb250ZXh0IGNvbnRleHQsIGZpbmFsIEJ1bmRsZSBidW5kbGUpIHsKICAgICAgICBIZWFkbGVzc0pzVGFza1NlcnZpY2UuYWNxdWlyZVdha2VMb2NrTm93KGNvbnRleHQpOwogICAgICAgIEludGVudCBzZXJ2aWNlID0gbmV3IEludGVudChjb250ZXh0LCBSZWFjdE5hdGl2ZUJhY2tncm91bmROb3RpZmljYXRpb25TZXJ2aWNlLmNsYXNzKTsKICAgICAgICBCdW5kbGUgc2VydmljZUJ1bmRsZSA9IG5ldyBCdW5kbGUoYnVuZGxlKTsKICAgICAgICBzZXJ2aWNlQnVuZGxlLnB1dFN0cmluZygidGFza05hbWUiLCAiTm90aWZpY2F0aW9uQmFja2dyb3VuZEhhbmRsZXIiKTsKICAgICAgICBzZXJ2aWNlLnB1dEV4dHJhcyhzZXJ2aWNlQnVuZGxlKTsKICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShzZXJ2aWNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kTm90aWZpY2F0aW9uKGJ1bmRsZSk7CiAgICAgICAgc2VuZEJyb2FkY2FzdChjb250ZXh0LCBidW5kbGUsIDApOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5IZWFkbGVzc0pzVGFza1NlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kVG9CYWNrZ3JvdW5kKGNvbnRleHQsIGJ1bmRsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
