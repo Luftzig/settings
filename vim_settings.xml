@@ -1117,8 +1117,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.props.ts" timestamp="1543333623967">
         <mark key="'" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/build.gradle" timestamp="1547567993760">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/build.gradle" timestamp="1547630900693">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1547566076092">
         <mark key="[" line="36" column="0" />
@@ -1682,7 +1686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" />
       <jump line="190" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" />
       <jump line="612" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="613" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -1782,16 +1785,17 @@
       <jump line="23" column="25" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationHandler.java" />
       <jump line="58" column="89" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
       <jump line="185" column="71" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJhY2tncm91bmRUYXNrID0gbm90aWZpY2F0aW9uSHViVXRpbAo=</text>
+      <register name="&quot;" type="4">
+        <text>27</text>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text>27</text>
       </register>
       <register name="/" type="4">
         <text>addEvent</text>
