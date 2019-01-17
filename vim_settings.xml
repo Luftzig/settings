@@ -836,11 +836,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1547738416014">
-        <mark key="'" line="121" column="32" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1547740649922">
+        <mark key="'" line="137" column="32" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationListView.js" timestamp="1547047776598">
         <mark key="'" line="92" column="4" />
@@ -901,8 +901,11 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="109" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1547735522384">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1547739899625">
+        <mark key="[" line="343" column="19" />
+        <mark key="]" line="343" column="37" />
+        <mark key="^" line="343" column="37" />
+        <mark key="." line="343" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Weight.kt" timestamp="1537271008915">
         <mark key="[" line="12" column="17" />
@@ -1621,12 +1624,12 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1547735618110">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="48" column="33" />
-        <mark key="^" line="48" column="33" />
-        <mark key="." line="48" column="33" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1547740630425">
+        <mark key="'" line="37" column="40" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="59" column="6" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/AboutFurhat.kt" timestamp="1538667145624">
         <mark key="[" line="13" column="21" />
@@ -1699,10 +1702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api.ts" />
-      <jump line="116" column="38" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="33" column="61" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" />
-      <jump line="206" column="54" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
       <jump line="55" column="76" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
       <jump line="49" column="12" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
       <jump line="56" column="89" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
@@ -1799,58 +1798,62 @@
       <jump line="28" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.tsx" />
       <jump line="39" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/button/button.presets.ts" />
       <jump line="122" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="190" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="172" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="352" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OiAxLCBmbGV4U2hyaW5rOiAwLjF9fSAvPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">cG9zaXRpb24gPT4gdGhpcy5zZXRTdGF0ZSh7IHVzZXJQb3NpdGlvbjogcG9zaXRpb24gfSk=</text>
       </register>
       <register name="/" type="4">
         <text>latitude</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGF0aXR1ZGU6IHRoaXMuc3RhdGUudXNlclBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZSwK</text>
+        <text encoding="base64">ICAgICAgICBtYXBPdmVyRW1wdHkoKG5hdmlnYXRvci5nZW9sb2NhdGlvbi5jbGVhcldhdGNoLmJpbmQobmF2aWdhdG9yLmdlb2xvY2F0aW9uKSksIHNlbGYud2F0Y2hJZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OiAxLCBmbGV4U2hyaW5rOiAwLjF9fSAvPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsZXhHcm93OiAxLAo=</text>
+        <text encoding="base64">ICBjbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlIC0gc3RvcE9ic2VydmluZyBpcyBkZWZpbmVkLCB0aGlzIGlzIHNvbWUgZXJyb3IgaW4gdHlwZXNjcmlwdAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50ZXJmCg==</text>
+        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUgLSBzdG9wT2JzZXJ2aW5nIGlzIGRlZmluZWQsIHRoaXMgaXMgc29tZSBlcnJvciBpbiB0eXBlc2NyaXB0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IGZha2VQb3NpdGlvbiA9IHsKICAgICAgbGF0aXR1ZGU6IDAuMCwKICAgICAgbG9uZ2l0dWRlOiAwLjAsCiAgICAgIGxhdGl0dWRlRGVsdGE6IDAuMDUsCiAgICAgIGxvbmdpdHVkZURlbHRhOiAwLjA1LAogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5hdmlnYXRvci5nZW9sb2NhdGlvbi5zdG9wT2JzZXJ2aW5nKCkK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0b3IuZ2VvbG9jYXRpb24uc3RvcE9ic2VydmluZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbmF2aWdhdG9yLmdlb2xvY2F0aW9uLmNsZWFyV2F0Y2goc2VsZi53YXRjaElkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
