@@ -403,7 +403,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1547559728131">
         <mark key="'" line="106" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548338385266">
+      <file name="/Dummy.txt" timestamp="1548343004555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -485,14 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="98" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="144" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="429" column="2" filename="/yarn.lock" />
-      <jump line="489" column="34" filename="/yarn.lock" />
-      <jump line="491" column="112" filename="/yarn.lock" />
-      <jump line="2283" column="83" filename="/yarn.lock" />
-      <jump line="2285" column="117" filename="/yarn.lock" />
-      <jump line="2436" column="36" filename="/yarn.lock" />
       <jump line="2489" column="36" filename="/yarn.lock" />
       <jump line="9287" column="58" filename="/yarn.lock" />
       <jump line="9285" column="14" filename="/yarn.lock" />
@@ -585,67 +577,75 @@
       <jump line="64" column="18" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="244" column="12" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="109" column="54" filename="$USER_HOME$/Projects/speechvas/server/server.py" />
+      <jump line="180" column="4" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="50" column="7" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="51" column="7" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="111" column="9" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="49" column="7" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="56" column="9" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="55" column="9" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1760</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>1760</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>normalize</text>
+        <text>redraw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgY2hlY2tQb3NpdGlvblBlcm1pc3Npb24gfSBmcm9tICIuLi9zZXJ2aWNlcy9wb3NpdGlvbiIK</text>
+        <text encoding="base64">ICBtY3R4LmNsZWFyUmVjdCgwLCAwLCBtYWluLndpZHRoKCksIG1haW4uaGVpZ2h0KCkpOwogIGRjdHguY2xlYXJSZWN0KDAsIDAsIG1haW4ud2lkdGgoKSwgbWFpbi5oZWlnaHQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICQoIiNmaWxlIikudHJpZ2dlcigiY2xpY2siKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ0aW1lcyIsIGRhdGEubWFwKHggPT4geC50aW1lKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YnV0dG9uIGlkPSJsb2FkZXIiIHR5cGU9ImJ1dHRvbiI+TG9hZCBTcGVlY2g8L2J1dHRvbj4K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RvcE9ic2VydmluZ0xvY2F0aW9uIH0gZnJvbSAiLi4vLi4vc2VydmljZXMvcG9zaXRpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZ2V0Q3VycmVudFBvcyB9IGZyb20gIi4uL3NlcnZpY2VzL3Bvc2l0aW9uIgpleHBvcnQgeyBtYWtlSW52YWxpZFBvc2l0aW9uIH0gZnJvbSAiLi4vc2VydmljZXMvcG9zaXRpb24iCmV4cG9ydCB7IHdhdGNoTG9jYXRpb24gfSBmcm9tICIuLi9zZXJ2aWNlcy9wb3NpdGlvbiIKZXhwb3J0IHsgV2F0Y2hMb2NhdGlvbkxlbnMgfSBmcm9tICIuLi9zZXJ2aWNlcy9wb3NpdGlvbiIK</text>
+        <text encoding="base64">bGV0IAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgSU5WQUxJRF9MQVRfTE9OR19WQUxVRSB9IGZyb20gIi4uL3NlcnZpY2VzL3Bvc2l0aW9uIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJVcGRhdGluZyBlcXVhdGlvbiBzdGFydC14IiwgZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgY2hlY2tQb3NpdGlvblBlcm1pc3Npb24sIGdldFBvc2l0aW9uUGVybWlzc2lvbiAgfSBmcm9tICIuLi9zZXJ2aWNlcy9wb3NpdGlvbiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgLy8gQHRzLWlnbm9yZSAtIGFjdHVhbGx5IGRlZmluZWQKICAgICAgbmF2aWdhdG9yLmdlb2xvY2F0aW9uLnN0b3BPYnNlcnZpbmcoKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>normalize</last-search>
+      <last-search>redraw</last-search>
       <last-offset />
-      <last-pattern>normalize</last-pattern>
+      <last-pattern>redraw</last-pattern>
       <last-replace>longitude</last-replace>
       <last-substitute>latitude</last-substitute>
       <last-dir>1</last-dir>
@@ -653,8 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%</entry>
-        <entry>router</entry>
         <entry>GRANT</entry>
         <entry>play siren!</entry>
         <entry>PlaySound</entry>
@@ -673,6 +671,8 @@
         <entry>latitude</entry>
         <entry>stopOb</entry>
         <entry>normalize</entry>
+        <entry>clear</entry>
+        <entry>redraw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9hY3Rpb25zU3R5bGUvZw==</entry>
