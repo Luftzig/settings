@@ -70,6 +70,13 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/jest/index.d.ts" timestamp="1544089245419">
         <mark key="'" line="450" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/speechvas/content/speechvas.css" timestamp="1548412214945">
+        <mark key="'" line="119" column="16" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" timestamp="1547037846338">
         <mark key="'" line="102" column="33" />
         <mark key="[" line="226" column="55" />
@@ -101,12 +108,12 @@
         <mark key="^" line="80" column="54" />
         <mark key="." line="80" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/speechvas/content/speechvas.js" timestamp="1548408879211">
-        <mark key="'" line="121" column="2" />
-        <mark key="[" line="121" column="25" />
-        <mark key="]" line="122" column="24" />
-        <mark key="^" line="122" column="24" />
-        <mark key="." line="122" column="24" />
+      <file name="$USER_HOME$/Projects/speechvas/content/speechvas.js" timestamp="1548412488419">
+        <mark key="'" line="75" column="13" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="76" />
+        <mark key="^" line="27" column="76" />
+        <mark key="." line="27" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/index.ts" timestamp="1547741445201">
         <mark key="[" line="4" column="0" />
@@ -338,11 +345,10 @@
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-navigation/src/views/Header/Header.js" timestamp="1546605596027">
         <mark key="'" line="582" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548408947904">
-        <mark key="[" line="13" column="67" />
-        <mark key="]" line="13" column="77" />
-        <mark key="." line="13" column="77" />
-        <mark key="^" line="13" column="77" />
+      <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548412072564">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/screen/screen.tsx" timestamp="1547734735806">
         <mark key="'" line="15" column="18" />
@@ -416,7 +422,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1547559728131">
         <mark key="'" line="106" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548343996870">
+      <file name="/Dummy.txt" timestamp="1548412270611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -498,9 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="59" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" />
-      <jump line="91" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" />
       <jump line="540" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="59" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="10" column="38" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-navigation.ts" />
@@ -598,58 +601,61 @@
       <jump line="76" column="23" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="36" column="9" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="121" column="2" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="248" column="12" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="75" column="13" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="115" column="16" filename="$USER_HOME$/Projects/speechvas/content/speechvas.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>`hsl(${(120 - t0.f3 * 360) % 360}, ${100}%, ${50}%)`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qd2lkdGg6IDE1JTsqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>`hsl(${(120 - t0.f3 * 360) % 360}, ${100}%, ${50}%)`</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>redraw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj5jb2xvcjwvc3Bhbj48aW5wdXQgaWQ9ImNvbG9yLW1hcCIgdHlwZT0idGV4dCIgdmFsdWU9ImBoc2woJHsoMTIwIC0gdDAuZjMgKiAzNjApICUgMzYwfSwgJHsxMDB9JSwgJHs1MH0lKWAiIC8+Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkKCJ3aWR0aC1tYXAiKS5jaGFuCg==</text>
+        <text encoding="base64">ICAgIC8qd2lkdGg6IDE1JTsqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJDb2xvciBtYXAgY2hhbmdlZCB0byIsIGUudGFyZ2V0LnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxODBweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJDb2xvciBtYXAgY2hhbmdlZCB0byIsIGUudGFyZ2V0LnZhbHVlKQo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkKCJ3aWR0aC1tYXAiKS5jaGFuCg==</text>
+        <text encoding="base64">PGRpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiQ29sb3IgaXMiLCBjb2xvciwgY29sb3JGdW5jKQo=</text>
+        <text encoding="base64">PGJyLz4K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQoIiNmaWxlIikudHJpZ2dlcigiY2xpY2siKTsK</text>
+        <text encoding="base64">PGlucHV0IGlkPSJmaWxlIiB0eXBlPSJmaWxlIiBuYW1lPSJuYW1lIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJ1dHRvbiBpZD0iY2xlYXIiIHR5cGU9ImJ1dHRvbiI+Q2xlYXI8L2J1dHRvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8YnV0dG9uIGlkPSJsb2FkZXIiIHR5cGU9ImJ1dHRvbiI+TG9hZCBTcGVlY2g8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDAgMCA2cHggbGlnaHRncmF5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDAgMCA2cHggbGlnaHRncmF5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
