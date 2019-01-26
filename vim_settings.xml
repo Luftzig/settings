@@ -98,12 +98,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="168" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" timestamp="1548525650572">
+      <file name="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" timestamp="1548526864177">
         <mark key="'" line="92" column="1032" />
-        <mark key="[" line="175" column="5" />
-        <mark key="]" line="175" column="5" />
-        <mark key="." line="175" column="5" />
-        <mark key="^" line="172" column="7" />
+        <mark key="[" line="220" column="1" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="221" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1545408830940">
         <mark key="'" line="58" column="6" />
@@ -624,10 +624,11 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>|
+[source, javascript</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>hard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3RpdmF0aW9uc1w+</text>
@@ -635,8 +636,9 @@
       <register name="0" type="2">
         <text encoding="base64">KHQxLnggfHwgc3RhcnQueCkgKyAoY29zKHQwLmYxICogOCAqIFBJKSAqIDIwMCkgJSBwb3J0LngK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>|
+[source, javascript</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -645,28 +647,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QnV0IG5vdCBhbGwgaXMgbG9zdDogQSBjb21tb24gdXNlIGluIGphdmFzY3JpcHQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QnV0IG5vdCBhbGwgaXMgbG9zdDogQSBjb21tb24gdXNlIGluIGphdmFzY3JpcHQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V2hpbGUgdGhlcmUgYXJlIHNvbWUgbG91ZGx5IHNwb2tlbiBwZW9wbGUgd2hvIGNvbQo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lYW4oLi4uZGF0YS5zbGljZSgtMzApLm1hcChwID0+IHAuZjEpKSkK</text>
+        <text encoding="base64">V2hpbGUgdGhlcmUgYXJlIHNvbWUgbG91ZGx5IHNwb2tlbiBwZW9wbGUgd2hvIGNvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lYW4oLi4uZGF0YS5zbGljZSgtMzApLm1hcChwID0+IHAuZjEpKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
