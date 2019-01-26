@@ -98,11 +98,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="168" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" timestamp="1548505177044">
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="16" />
-        <mark key="^" line="57" column="16" />
-        <mark key="." line="57" column="16" />
+      <file name="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" timestamp="1548508171249">
+        <mark key="'" line="92" column="1032" />
+        <mark key="[" line="139" column="76" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1545408830940">
         <mark key="'" line="58" column="6" />
@@ -517,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="80" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/sv.json" />
       <jump line="567" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="124" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" />
       <jump line="37" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
@@ -617,34 +617,35 @@
       <jump line="100" column="15" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="164" column="80" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="249" column="26" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
+      <jump line="91" column="1032" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZmluYWxseSwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZmluYWxseSwg</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDxtb3RpdmF0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KHQxLnggfHwgc3RhcnQueCkgKyAoY29zKHQwLmYxICogOCAqIFBJKSAqIDIwMCkgJSBwb3J0LngK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V2hpbGUgdGhlcmUgYXJlIHNvbWUgbG91ZGx5IHNwb2tlbiBwZW9wbGUgd2hvIGNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lYW4oLi4uZGF0YS5zbGljZSgtMzApLm1hcChwID0+IHAuZjEpKSkK</text>
+        <text encoding="base64">QnV0IG5vdCBhbGwgaXMgbG9zdDogQSBjb21tb24gdXNlIGluIGphdmFzY3JpcHQgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -653,39 +654,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcmljYWwK</text>
+        <text encoding="base64">V2hpbGUgdGhlcmUgYXJlIHNvbWUgbG91ZGx5IHNwb2tlbiBwZW9wbGUgd2hvIGNvbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRlbXBbMV0uZjEgLSAwLjAyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lYW4oLi4uZGF0YS5zbGljZSgtMzApLm1hcChwID0+IHAuZjEpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBbdDEsIHQwXSA9IHRlbXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHQwLmYxLCB0MC5mMiwgdDAuZjMsIG1lYW4odDAuZjEsIHQwLmYyLCB0MC5mMyksIHZhcmlhbmNlKHQwLmYxLCB0MC5mMiwgdDAuZjMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDxtb3RpdmF0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDxtb3RpdmF0aW9uc1w+</last-pattern>
       <last-replace>longitude</last-replace>
       <last-substitute>latitude</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>play siren!</entry>
         <entry>PlaySound</entry>
         <entry>addEvent</entry>
         <entry>react-native-az</entry>
@@ -705,6 +705,7 @@
         <entry>clear</entry>
         <entry>redraw</entry>
         <entry>console</entry>
+        <entry encoding="base64">XDxtb3RpdmF0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9hY3Rpb25zU3R5bGUvZw==</entry>
