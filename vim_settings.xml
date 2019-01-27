@@ -98,12 +98,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="168" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" timestamp="1548527330635">
-        <mark key="'" line="92" column="1032" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="27" />
-        <mark key="." line="251" column="27" />
-        <mark key="^" line="251" column="27" />
+      <file name="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" timestamp="1548584339757">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="277" column="213" />
+        <mark key="]" line="277" column="201" />
+        <mark key="." line="277" column="201" />
+        <mark key="^" line="277" column="212" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1545408830940">
         <mark key="'" line="58" column="6" />
@@ -518,11 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="124" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" />
-      <jump line="37" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
-      <jump line="16" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/icon/icon.tsx" />
-      <jump line="39" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="46" column="89" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="78" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
       <jump line="81" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
@@ -618,25 +613,30 @@
       <jump line="164" column="80" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="249" column="26" filename="$USER_HOME$/Projects/speechvas/content/speechvas.js" />
       <jump line="91" column="1032" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
+      <jump line="218" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
+      <jump line="219" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
+      <jump line="228" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
+      <jump line="234" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
+      <jump line="242" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>each</text>
+        <text>all this talk.</text>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>all this talk.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3RpdmF0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KHQxLnggfHwgc3RhcnQueCkgKyAoY29zKHQwLmYxICogOCAqIFBJKSAqIDIwMCkgJSBwb3J0LngK</text>
+        <text encoding="base64">fD09PT09PT09PT09PT09PT09PT0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fD09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -644,15 +644,15 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>|
-[source, javascript</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>|
+[source, javascript</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -661,16 +661,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QnV0IG5vdCBhbGwgaXMgbG9zdDogQSBjb21tb24gdXNlIGluIGphdmFzY3JpcHQgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">QnV0IG5vdCBhbGwgaXMgbG9zdDogQSBjb21tb24gdXNlIGluIGphdmFzY3JpcHQgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V2hpbGUgdGhlcmUgYXJlIHNvbWUgbG91ZGx5IHNwb2tlbiBwZW9wbGUgd2hvIGNvbQo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -727,8 +727,8 @@
         <entry>help</entry>
         <entry>s/latitude/longitude/s</entry>
         <entry>s/latitude/longitude/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
