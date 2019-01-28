@@ -302,11 +302,12 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" timestamp="1548681977249">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="2" />
-        <mark key="." line="39" column="2" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" timestamp="1548684343004">
+        <mark key="'" line="59" column="22" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/moment/moment.d.ts" timestamp="1544026535601">
         <mark key="'" line="401" column="38" />
@@ -413,7 +414,7 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" timestamp="1547559728131">
         <mark key="'" line="106" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548673954468">
+      <file name="/Dummy.txt" timestamp="1548684346332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
@@ -489,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="89" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="78" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
       <jump line="81" column="47" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
@@ -589,58 +589,59 @@
       <jump line="228" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
       <jump line="234" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
       <jump line="242" column="0" filename="$USER_HOME$/Projects/js-analyzer/talk/talk.asciidoc" />
+      <jump line="59" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3RpdmF0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fD09PT09PT09PT09PT09PT09PT0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFja25vd2xlZGdlQWxhcm1TdG9yZSA9IHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlCiAgICBjb25zdCBhbGFybWVlID0gbWFwT3ZlckVtcHR5KHMgPT4gcy5hbGFybWVlLCBhY2tub3dsZWRnZUFsYXJtU3RvcmUpCiAgICBjb25zdCBsb2NhdGlvbiA9IG1hcE92ZXJFbXB0eShzID0+IHMuYWxhcm1lZUxvY2F0aW9uLCBhY2tub3dsZWRnZUFsYXJtU3RvcmUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvc2l0aW9uID0gewogICAgICBsYXRpdHVkZTogbGF0aXR1ZGUobG9jYXRpb24pLAogICAgICBsb25naXR1ZGU6IGxvbmdpdHVkZShsb2NhdGlvbiksCiAgICAgIGxhdGl0dWRlRGVsdGE6IFNUQVJUX0xBVF9ERUxUQSwKICAgICAgbG9uZ2l0dWRlRGVsdGE6IFNUQVJUX0xPTkdfREVMVEEsCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpCiAgfQo=</text>
+        <text encoding="base64">ICBfcG9zaXRpb246IEFuaW1hdGVkUmVnaW9uIHwgbnVsbCA9IG51bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNUQVJUX0RFTFRBCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFja25vd2xlZGdlQWxhcm1TdG9yZSA9IHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlCiAgICBjb25zdCBsb2NhdGlvbiA9IG1hcE92ZXJFbXB0eShzID0+IHMuYWxhcm1lZUxvY2F0aW9uLCBhY2tub3dsZWRnZUFsYXJtU3RvcmUpCiAgICB0aGlzLl9wb3NpdGlvbiA9IG5ldyBBbmltYXRlZFJlZ2lvbih7CiAgICAgIGxhdGl0dWRlOiBsYXRpdHVkZShsb2NhdGlvbiksCiAgICAgIGxvbmdpdHVkZTogbG9uZ2l0dWRlKGxvY2F0aW9uKSwKICAgICAgbGF0aXR1ZGVEZWx0YTogU1RBUlRfTEFUX0RFTFRBLAogICAgICBsb25naXR1ZGVEZWx0YTogU1RBUlRfTE9OR19ERUxUQSwKICAgIH0pCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxSZWdpb249e3Bvc2l0aW9ufQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TG9va2luZwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Tm93LCB0aGUgZmlyc3QgaW50ZXJlc3RpbmcgdGhpbmcgd2UgY2FuIG5vdGljZSBpcyB0aGF0IHRoZSByYXRpbyBvZiBjb250cm9sIGNvbnN0cnVjdHMgdG8gbGluZXMgb2YgY29kZSBpcyBkZWNsYWluaW5nLiBUaGlzIHRlYWNoZXMgdXMgdGhhdCBtb3N0IG5ldyBvciByZWZhY3RvcmVkIGNvZGUgaXMgbm90IGNvbnRyb2wgZmxvdyBjb25zdHJ1Y3RzIG9yIGxvb3BpbmcgZnVuY3Rpb25zLiBUaGlzIHNob3VsZG4ndCBzdXByaXNlIHVzLCBjb250cm9sIGZsb3cgY29uc3RydWN0cyBhcmUgb25seSBhIGNlcnRhaW4gcGVyY2VudCBvZiB0aGUgY29kZS4K</text>
+        <text encoding="base64">ICAgIHRoaXMuX3Bvc2l0aW9uLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LkNvbnRyb2wgQ29uc3RydWN0cyBwZXIgTGluZXMgb2YgQ29kZSBpbiBFYWNoIFNhbXBsZQppbWFnZTo6aW1hZ2VzL2NvbnN0cnVjdHNfbG9jX3Blcl95ZWFyLnBuZ1tdCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFsYXJtZWUgPSBtYXBPdmVyRW1wdHkocyA9PiBzLmFsYXJtZWUsIGFja25vd2xlZGdlQWxhcm1TdG9yZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fD09PT09PT09PT09PT09PT09PQo=</text>
+        <text encoding="base64">ICBfem9vbUFuaW1hdGlvbiA9IG5ldyBBbmltYXRlZFJlZ2lvbih7bG9uZ2l0dWRlRGVsdGE6IFNUQVJUX0xBVF9ERUxUQSwgbGF0aXR1ZGU6IFNUQVJUX0xPTkdfREVMVEF9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
