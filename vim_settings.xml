@@ -33,6 +33,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/react-native-play-sound/android/src/main/java/com/soundapp/SoundModule.java" timestamp="1548841598316">
+        <mark key="'" line="36" column="96" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="86" column="59" />
+        <mark key="." line="98" column="101" />
+        <mark key="^" line="98" column="101" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1547656644678">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -86,6 +93,13 @@
         <mark key="]" line="13" column="12" />
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-native-play-sound/PlaySound.js" timestamp="1548841647849">
+        <mark key="'" line="32" column="40" />
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="9" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm.tsx" timestamp="1547201558947">
         <mark key="[" line="0" column="30" />
@@ -143,11 +157,11 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1547657052282">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1548841718051">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1548774910853">
         <mark key="'" line="145" column="36" />
@@ -294,53 +308,53 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5zZXRBY2tub3dsZWRnZWQoZmFsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>clearAlarmee</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\cavs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJhY2tub3dsZWRnZUFsYXJtIjogIkFja25vd2xlZGdlIGFsYXJtIgo=</text>
+      <register name="0" type="4">
+        <text>&quot;ALARM&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5zZXRBY2tub3dsZWRnZWQoZmFsKQo=</text>
+        <text encoding="base64">Y2FzZSAiTVVTSUMiOiByZXR1cm4gQXVkaW9NYW5hZ2VyLlNUUkVBTV9NVVNJQzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5jbGVhckFsYXJtZWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5jbGVhckFsYXJtZWUoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5jbGVhckFsYXJtZWUoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5zZXRBY2tub3dsZWRnZWQoZmFsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5jbGVhckFsYXJtZWUoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IF9zZXRBY2tub3dsZWRnZWQgPSAodmFsdWU6IGJvb2xlYW4pID0+IChzZWxmLmlzQWNrbm93bGVkZ2VkID0gdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5jbGVhckFsYXJtZWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NldEFja25vd2xlZGdlZCh0cnVlKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuYWNrbm93bGVkZ2VBbGFybVN0b3JlIS5jbGVhckFsYXJtZWUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IF9zZXRBY2tub3dsZWRnZWQgPSAodmFsdWU6IGJvb2xlYW4pID0+IChzZWxmLmlzQWNrbm93bGVkZ2VkID0gdmFsdWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
