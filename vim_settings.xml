@@ -33,12 +33,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/react-native-play-sound/android/src/main/java/com/soundapp/SoundModule.java" timestamp="1548843083951">
+      <file name="$USER_HOME$/Projects/react-native-play-sound/android/src/main/java/com/soundapp/SoundModule.java" timestamp="1548855461216">
         <mark key="'" line="36" column="96" />
-        <mark key="[" line="92" column="88" />
-        <mark key="]" line="92" column="93" />
-        <mark key="." line="92" column="93" />
-        <mark key="^" line="92" column="93" />
+        <mark key="[" line="99" column="71" />
+        <mark key="]" line="99" column="71" />
+        <mark key="." line="99" column="71" />
+        <mark key="^" line="99" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1547656644678">
         <mark key="[" line="40" column="0" />
@@ -94,7 +94,8 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/react-native-play-sound/PlaySound.js" timestamp="1548841647849">
+      <file name="$USER_HOME$/Projects/react-native-play-sound/PlaySound.js" timestamp="1548855272957">
+        <mark key="'" line="32" column="39" />
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="9" />
         <mark key="^" line="29" column="20" />
@@ -132,7 +133,7 @@
         <mark key="^" line="167" column="43" />
         <mark key="." line="167" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548845521319">
+      <file name="/Dummy.txt" timestamp="1548855262662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -156,8 +157,11 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1548844533658">
-        <mark key="^" line="21" column="53" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1548855342579">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1548774910853">
         <mark key="'" line="145" column="36" />
@@ -194,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="342" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="343" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -294,16 +297,17 @@
       <jump line="82" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="39" column="32" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="7517" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" />
+      <jump line="32" column="39" filename="$USER_HOME$/Projects/react-native-play-sound/PlaySound.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;android.permission.ACCESS_NOTIFICATION_POLICY&quot;</text>
+        <text encoding="base64">aWdub3JlTXV0ZSA/IEF1ZGlvTWFuYWdlci5BREpVU1RfVU5NVVRFIDog</text>
       </register>
       <register name="-" type="4">
-        <text>PermissionsAndroid.PERMISSIONS.ACCESS_NOTIFICATION_POLICY</text>
+        <text encoding="base64">aWdub3JlTXV0ZSA/IEF1ZGlvTWFuYWdlci5BREpVU1RfVU5NVVRFIDog</text>
       </register>
       <register name="/" type="4">
         <text>\cavs</text>
