@@ -15,11 +15,12 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" timestamp="1548949466236">
-        <mark key="[" line="107" column="47" />
-        <mark key="]" line="109" column="15" />
-        <mark key="^" line="109" column="15" />
-        <mark key="." line="109" column="15" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" timestamp="1548951998647">
+        <mark key="'" line="96" column="20" />
+        <mark key="[" line="112" column="27" />
+        <mark key="]" line="112" column="28" />
+        <mark key="^" line="112" column="28" />
+        <mark key="." line="112" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1548336213740">
         <mark key="[" line="0" column="0" />
@@ -62,10 +63,11 @@
         <mark key="." line="3" column="91" />
         <mark key="^" line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" timestamp="1548926848967">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/device-id.ts" timestamp="1548951409824">
+        <mark key="[" line="11" column="81" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/text/text.presets.ts" timestamp="1548767901443">
         <mark key="'" line="34" column="29" />
@@ -218,7 +220,7 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548948605192">
+      <file name="/Dummy.txt" timestamp="1548952111164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -311,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="10" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
       <jump line="184" column="30" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
@@ -411,22 +412,23 @@
       <jump line="130" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/settings-screen.tsx" />
       <jump line="111" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
       <jump line="120" column="39" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
+      <jump line="94" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-screen.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>button</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Tänk</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgcHJlc2V0PXsiZmxleEljb24ifQogICAgICAgICAgICBzdHlsZT17cy5idXR0b259CiAgICAgICAgICAgIHRleHRTdHlsZT17cy5idXR0b25UZXh0fQogICAgICAgICAgICB0eD17ImFja25vd2xlZGdlQWxhcm0uY2xvc2UifQogICAgICAgICAgICBsZWZ0SWNvbj17ImNoZWNrTWFyayJ9CiAgICAgICAgICAgIG9uUHJlc3M9e3RoaXMuY2xvc2VJc3N1ZX0KICAgICAgICAgIC8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBrZXk9eyJjbG9zZS1idXR0b24ifQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
