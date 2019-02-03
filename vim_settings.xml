@@ -35,14 +35,6 @@
         <mark key="^" line="110" column="3" />
         <mark key="." line="109" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1548947139735">
-        <mark key="a" line="350" column="0" />
-        <mark key="'" line="350" column="6" />
-        <mark key="[" line="349" column="6" />
-        <mark key="]" line="349" column="32" />
-        <mark key="." line="349" column="32" />
-        <mark key="^" line="349" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationItemView.js" timestamp="1547136696742">
         <mark key="'" line="173" column="18" />
         <mark key="[" line="64" column="29" />
@@ -150,6 +142,7 @@
         <mark key="^" line="96" column="51" />
         <mark key="." line="96" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationService.java" timestamp="1549134454214" />
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/theme/color.ts" timestamp="1548768386167">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="12" />
@@ -242,8 +235,16 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/main.tsx" timestamp="1549133703749">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="92" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/countdown/ImmediateAlarmCountdownScreen.tsx" timestamp="1548771012008">
         <mark key="'" line="69" column="0" />
+      </file>
+      <file name="/sv.json" timestamp="1548931134812">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="177" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1549030412912">
         <mark key="[" line="0" column="0" />
@@ -263,6 +264,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="99" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" timestamp="1548930009040">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="178" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.ts" timestamp="1548930847292">
         <mark key="'" line="0" column="0" />
@@ -286,6 +292,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1549133374584">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" timestamp="1548931088771">
         <mark key="'" line="146" column="24" />
@@ -344,9 +356,18 @@
         <mark key="^" line="46" column="37" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/licenses-modal.tsx" timestamp="1548766791953">
+        <mark key="'" line="77" column="13" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="163" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" timestamp="1549135013505">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="59" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="29" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/text/text.presets.ts" />
       <jump line="97" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-modal.tsx" />
       <jump line="87" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-modal.tsx" />
       <jump line="106" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-modal.tsx" />
@@ -446,13 +467,14 @@
       <jump line="245" column="46" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="76" column="23" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Start/Start.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/approveDelivery.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICE9IG51bGw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBydW5CYWNrZ3JvdW5kVGFzayhDb250ZXh0IGNvbnRleHQsIEJ1bmRsZSBidW5kbGUpIHsKICAgICAgICB0aGlzLmNvbnRleHQgPSBjb250ZXh0OwogICAgICAgIFN0cmluZyB0YXNrTmFtZSA9IE5vdGlmaWNhdGlvbkh1YlV0aWwuZ2V0SW5zdGFuY2UoKS5nZXRCYWNrZ3JvdW5kVGFza05hbWUoY29udGV4dCk7CiAgICAgICAgTG9nLmkoVEFHLCAiR290IGEgbm90aWZpY2F0aW9uIHRvIHJ1biB3aXRoIGJhY2tncm91bmQgdGFzayAiICsgdGFza05hbWUpOwogICAgICAgIGlmICh0YXNrTmFtZSAhPSBudWxsKSB7CiAgICAgICAgICAgIExvZy5pKFRBRywgIkdvdCBhIG5vdGlmaWNhdGlvbiB0byBydW4gd2l0aCBiYWNrZ3JvdW5kIHRhc2sgIiArIHRhc2tOYW1lKTsKICAgICAgICAgICAgc2VuZFRvQmFja2dyb3VuZChjb250ZXh0LCBidW5kbGUsIHRhc2tOYW1lKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZChUQUcsICJObyB0YXNrIG5hbWUiKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICE9IG51bGw=</text>
@@ -461,7 +483,7 @@
         <text>configUpdated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEltbXV0YWJsZSBmcm9tICJpbW11dGFibGUiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBydW5CYWNrZ3JvdW5kVGFzayhDb250ZXh0IGNvbnRleHQsIEJ1bmRsZSBidW5kbGUpIHsKICAgICAgICB0aGlzLmNvbnRleHQgPSBjb250ZXh0OwogICAgICAgIFN0cmluZyB0YXNrTmFtZSA9IE5vdGlmaWNhdGlvbkh1YlV0aWwuZ2V0SW5zdGFuY2UoKS5nZXRCYWNrZ3JvdW5kVGFza05hbWUoY29udGV4dCk7CiAgICAgICAgTG9nLmkoVEFHLCAiR290IGEgbm90aWZpY2F0aW9uIHRvIHJ1biB3aXRoIGJhY2tncm91bmQgdGFzayAiICsgdGFza05hbWUpOwogICAgICAgIGlmICh0YXNrTmFtZSAhPSBudWxsKSB7CiAgICAgICAgICAgIExvZy5pKFRBRywgIkdvdCBhIG5vdGlmaWNhdGlvbiB0byBydW4gd2l0aCBiYWNrZ3JvdW5kIHRhc2sgIiArIHRhc2tOYW1lKTsKICAgICAgICAgICAgc2VuZFRvQmFja2dyb3VuZChjb250ZXh0LCBidW5kbGUsIHRhc2tOYW1lKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMb2cuZChUQUcsICJObyB0YXNrIG5hbWUiKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
