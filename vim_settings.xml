@@ -159,6 +159,10 @@
         <mark key="." line="170" column="97" />
         <mark key="^" line="170" column="97" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/configservice/ConfigServicePackage.java" timestamp="1549284714023">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Start/Start.js" timestamp="1549030395955">
         <mark key="'" line="76" column="23" />
         <mark key="[" line="95" column="12" />
@@ -175,6 +179,10 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" timestamp="1548860259350">
         <mark key="'" line="103" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/configservice/ConfigServiceModule.java" timestamp="1549285032072">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1547629729552">
         <mark key="'" line="197" column="71" />
         <mark key="[" line="166" column="0" />
@@ -189,6 +197,14 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
+      <file name="/home-screen.tsx" timestamp="1548931086009">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/attestationSingleView.js" timestamp="1549014516633">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/components/Field.js" timestamp="1546513655183">
         <mark key="'" line="35" column="17" />
         <mark key="[" line="37" column="29" />
@@ -198,6 +214,10 @@
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1548843836620">
         <mark key="'" line="7517" column="48" />
+      </file>
+      <file name="/timer-screen.tsx" timestamp="1548931549706">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Attestation/AttestationApproveRejectView.js" timestamp="1547048989549">
         <mark key="'" line="201" column="8" />
@@ -470,7 +490,7 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RvcmUKICAgICAgICAuc3RhcnRJbW1lZGlhdGVUaW1lcigpCiAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCJDb3VudERvd25fbm9UcmFuc2l0aW9uIikpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHRoaXMucHJvcHMudWlTdGF0ZVN0b3JlLnNob3dGYWlsdXJlTW9kYWwoZXJyb3IpKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiQ29uZmlnU2VydmljZU1vZHVsZSI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RVTEVfTkFNRSA9ICJDb25maWdTZXJ2aWNlIjsK</text>
       </register>
       <register name="-" type="4">
         <text>.timerStore!.</text>
@@ -479,7 +499,7 @@
         <text>configUpdated</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRhY3RzID0gdGhpcy5wcm9wcy5jb250YWN0c1N0b3JlLmNvbnRhY3RzCiAgICBpZiAoY29udGFjdHMubGVuZ3RoID09PSAwKSB7CiAgICAgIHRoaXMucHJvcHMudWlTdGF0ZVN0b3JlLnNob3dGYWlsdXJlTW9kYWwoImVycm9ycy5taXNzaW5nQ29udGFjdHMiKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCJJbW1lZGlhdGVBbGFybUNvdW50RG93biIpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiQ29uZmlnU2VydmljZU1vZHVsZSI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBNT0RVTEVfTkFNRSA9ICJDb25maWdTZXJ2aWNlIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc3RvcmUKICAgICAgICAuc3RhcnRJbW1lZGlhdGVUaW1lcigpCiAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCJDb3VudERvd25fbm9UcmFuc2l0aW9uIikpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHRoaXMucHJvcHMudWlTdGF0ZVN0b3JlLnNob3dGYWlsdXJlTW9kYWwoZXJyb3IpKQo=</text>
