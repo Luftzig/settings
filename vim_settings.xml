@@ -82,12 +82,12 @@
         <mark key="." line="96" column="50" />
         <mark key="^" line="96" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" timestamp="1549291705853">
-        <mark key="'" line="80" column="18" />
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="51" />
-        <mark key="." line="81" column="51" />
-        <mark key="^" line="81" column="51" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" timestamp="1549292459261">
+        <mark key="'" line="76" column="6" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="80" column="76" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="106" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/content/speechvas.css" timestamp="1548414475833">
         <mark key="'" line="119" column="16" />
@@ -199,11 +199,6 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/info-modal/info-modal.tsx" timestamp="1548764727327">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/TabContentWrapper.js" timestamp="1548687602627">
         <mark key="'" line="31" column="35" />
         <mark key="[" line="16" column="17" />
@@ -270,7 +265,7 @@
         <mark key="[" line="173" column="0" />
         <mark key="]" line="177" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549278831283">
+      <file name="/Dummy.txt" timestamp="1549292910890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -314,10 +309,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1549289998014">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1549292902480">
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" timestamp="1549278758220">
         <mark key="'" line="76" column="51" />
@@ -397,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="329" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="132" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
@@ -497,58 +492,59 @@
       <jump line="98" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/push-notification-bridge.tsx" />
       <jump line="78" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
       <jump line="80" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
+      <jump line="76" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DnDService</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">cmV0dXJuIApyZXR1cm4g</text>
       </register>
       <register name="-" type="4">
-        <text>DnDService</text>
+        <text>PlaySoundStreamVolume(1, &quot;NOTIFICATION&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>PlaySound</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFEbkRTZXJ2aWNlLmlzRG9Ob3REaXN0dXJiQWN0aXZlKCkgfHwgRG5EU2VydmljZS5jYW5DaGFuZ2VEb05vdERpc3R1cmJTZXR0aW5ncygpKSB7CiAgICAgICAgUGxheVNvdW5kU3RyZWFtVm9sdW1lKDEsICJOT1RJRklDQVRJT04iKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhbkluY3JlYXNlVm9sdW1lID0gKCkgPT4KICAgICAgUHJvbWlzZS5hbGwoWwogICAgICAgIERvTm90RGlzdHVyYlNlcnZpY2UuaXNEb05vdERpc3R1cmJBY3RpdmUoKSwKICAgICAgICBEb05vdERpc3R1cmJTZXJ2aWNlLmNhbkNoYW5nZURvTm90RGlzdHVyYlNldHRpbmdzKCksCiAgICAgIF0pLnRoZW4oKFtpc0RvTm90RGlzdHVyYiwgY2FuQ2hhbmdlXSkgPT4gIWlzRG9Ob3REaXN0dXJiIHx8IGNhbkNoYW5nZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQbGF5U291bmRTdHJlYW1Wb2x1bWUoMSwgIk5PVElGSUNBVElPTiIpCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">cmV0dXJuIApyZXR1cm4g</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFBsYXlTb3VuZCgiYWxlcnQiLCAiTk9USUZJQ0FUSU9OIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUGxheVNvdW5kU3RyZWFtVm9sdW1lKDEsICJOT1RJRklDQVRJT04iKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCFEbkRTZXJ2aWNlLmlzRG9Ob3REaXN0dXJiQWN0aXZlKCkgfHwgRG5EU2VydmljZS5jYW5DaGFuZ2VEb05vdERpc3R1cmJTZXR0aW5ncygpKSB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRG5EU2VydmljZSB9IGZyb20gIi4uLy4uL3NlcnZpY2VzL2RvLW5vdC1kaXN0cnViL2RvLW5vdC1kaXN0cnViLXNlcnZpY2UiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2FuSW5jcmVhc2VWb2x1bWUgPSAoKSA9PgogICAgICAgIFByb21pc2UuYWxsKFsKICAgICAgICAgICAgICAgICAgICAgIERvTm90RGlzdHVyYlNlcnZpY2UuaXNEb05vdERpc3R1cmJBY3RpdmUoKSwKICAgICAgICAgICAgICAgICAgICAgIERvTm90RGlzdHVyYlNlcnZpY2UuY2FuQ2hhbmdlRG9Ob3REaXN0dXJiU2V0dGluZ3MoKSwKICAgICAgICAgICAgICAgICAgICBdKS50aGVuKChbaXNEb05vdERpc3R1cmIsIGNhbkNoYW5nZV0pID0+ICFpc0RvTm90RGlzdHVyYiB8fCBjYW5DaGFuZ2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERuRFNlcnZpY2UuZ2V0RG9Ob3REaXN0dXJiUGVybWlzc2lvbigpLmNhdGNoKGUgPT4KICAgICAgY29uc29sZS5sb2coIlVzZXIgcmVmdXNlZCB0byBjaGFuZ2UgZG8gbm90IGRpc3R1cmIgcnVsZXMiLCBlKSwKICAgICkK</text>
+        <text encoding="base64">ICBEbkRTZXJ2aWNlLAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXREb05vdERpc3R1cmJQZXJtaXNzaW9ucygpIHsKICAgIGlmIChwbGF0KQogICAgQWxlcnQuYWxlcnQoIiIpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVBsYXRmb3JtLk9TID09PSAiYW5kcm9pZCIpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3RvcmUKICAgICAgICAuc3RhcnRJbW1lZGlhdGVUaW1lcigpCiAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCJDb3VudERvd25fbm9UcmFuc2l0aW9uIikpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHRoaXMucHJvcHMudWlTdGF0ZVN0b3JlLnNob3dGYWlsdXJlTW9kYWwoZXJyb3IpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJTdGFydGluZyB0aW1lciB3aXRoIiwgc3RvcmUuc2VsZWN0ZWRIb3VyLCBzdG9yZS5zZWxlY3RlZE1pbikK</text>
+        <text encoding="base64">ICAgICAgICAgIFBsYXlTb3VuZFN0cmVhbVZvbHVtZSgxLCAiTk9USUZJQ0FUSU9OIikKICAgICAgICAgIFBsYXlTb3VuZCgiYWxlcnQiLCAiTk9USUZJQ0FUSU9OIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRG9Ob3REaXN0dXJiU2VydmljZS5pc0RvTm90RGlzdHVyYkFjdGl2ZSgpLnRoZW4oCiAgICAgICAgaXNEb05vdERpc3R1cmIgPT4KICAgICAgICAgIGlzRG9Ob3REaXN0dXJiCiAgICAgICAgICAgID8gRG9Ob3REaXN0dXJiU2VydmljZS5jYW5DaGFuZ2VEb05vdERpc3R1cmJTZXR0aW5ncygpLnRoZW4oCiAgICAgICAgICAgICAgICBjYW5DaGFuZ2UgPT4gKGNhbkNoYW5nZSA/IFByb21pc2UucmVzb2x2ZSgpIDogUHJvbWlzZS5yZWplY3QoKSksCiAgICAgICAgICAgICAgKQogICAgICAgICAgICA6IFByb21pc2UucmVzb2x2ZSgpLAogICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
