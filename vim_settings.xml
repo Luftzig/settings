@@ -20,12 +20,6 @@
         <mark key="." line="349" column="32" />
         <mark key="^" line="349" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/kommersfetch/KommersFetchModule.java" timestamp="1549458858698">
-        <mark key="[" line="67" column="60" />
-        <mark key="]" line="69" column="62" />
-        <mark key="." line="69" column="62" />
-        <mark key="^" line="69" column="62" />
-      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/text/text.presets.ts" timestamp="1548767901443">
         <mark key="'" line="34" column="29" />
       </file>
@@ -159,6 +153,13 @@
         <mark key="." line="18" column="91" />
         <mark key="^" line="18" column="91" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" timestamp="1549461560085">
+        <mark key="'" line="158" column="33" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="157" column="116" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/theme/color.ts" timestamp="1548768386167">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="12" />
@@ -253,10 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
-      <jump line="103" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" />
-      <jump line="167" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/i18n/en.json" />
-      <jump line="82" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="142" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" />
@@ -291,7 +288,6 @@
       <jump line="49" column="57" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/App.js" />
       <jump line="56" column="31" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/App.js" />
       <jump line="0" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" />
-      <jump line="130" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="73" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="96" column="30" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="73" column="20" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" />
@@ -353,67 +349,72 @@
       <jump line="31" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/validate/validate.ts" />
       <jump line="21" column="16" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/navigation/back-button-handler.tsx" />
       <jump line="139" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
+      <jump line="106" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
+      <jump line="165" column="20" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
+      <jump line="158" column="33" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKgogIGNvbnN0IGhhcmRDb2RlZENvbmZpZyA9IHthcGl1cmw6J2h0dHA6Ly93d3cua29tbWVyc3Rlc3Quc2UvdGVzdC9rb21tZXJzL2FwaS8nLGlzX3dyYXBwZWQ6MCxzc291cmw6J2h0dHA6Ly93d3cua29tbWVyc3Rlc3Quc2UvdGVzdC93ZWJzc28vYXBpL3RpY2tldHMvJ30KICByZXR1cm4gewogICAgc3NvdXJsOiBoYXJkQ29kZWRDb25maWcuc3NvdXJsLAogICAgYXBpdXJsOiBoYXJkQ29kZWRDb25maWcuYXBpdXJsLAogICAgdGlja2V0OiBzdGF0ZS5ob21lLmdldCgidGlja2V0IiksCiAgICBkZXZpY2VUb2tlbjogc3RhdGUuaG9tZS5nZXQoImRldmljZVRva2VuIiksCiAgICBpc190aGVfYXBwX3dyYXBwZWQ6IGhhcmRDb2RlZENvbmZpZy5pc193cmFwcGVkLAogIH0qLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getPositionPermission</text>
+        <text>theFetch</text>
       </register>
       <register name="/" type="4">
-        <text>PlaySound</text>
+        <text>sveviaFetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldFBvc2l0aW9uUGVybWlzc2lvbigpCiAgICAgIC50aGVuKGdldEN1cnJlbnRQb3MpCiAgICAgIC50aGVuKHVwZGF0ZVBvc2l0aW9uKQogICAgICAudGhlbigoKSA9PgogICAgICAgIHdhdGNoTG9jYXRpb24oCiAgICAgICAgICB3YXRjaElkTGVucywKICAgICAgICAgIHVwZGF0ZVBvc2l0aW9uLAogICAgICAgICAgY29uc29sZS5sb2cuYmluZChjb25zb2xlLCAiV2F0Y2ggbG9jYXRpb24gZmFpbGVkIiksCiAgICAgICAgKSwKICAgICAgKQogICAgICAudGhlbihzdGFydEFuaW1hdGlvbikKICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICBjb25zb2xlLndhcm4oIkZhaWxlZCB0byBnZXQgdXNlciBsb2NhdGlvbiwgcmVhc29uOiIsIGVycm9yKQogICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzaG93TWFwOiBmYWxzZSB9KQogICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKgogIGNvbnN0IGhhcmRDb2RlZENvbmZpZyA9IHthcGl1cmw6J2h0dHA6Ly93d3cua29tbWVyc3Rlc3Quc2UvdGVzdC9rb21tZXJzL2FwaS8nLGlzX3dyYXBwZWQ6MCxzc291cmw6J2h0dHA6Ly93d3cua29tbWVyc3Rlc3Quc2UvdGVzdC93ZWJzc28vYXBpL3RpY2tldHMvJ30KICByZXR1cm4gewogICAgc3NvdXJsOiBoYXJkQ29kZWRDb25maWcuc3NvdXJsLAogICAgYXBpdXJsOiBoYXJkQ29kZWRDb25maWcuYXBpdXJsLAogICAgdGlja2V0OiBzdGF0ZS5ob21lLmdldCgidGlja2V0IiksCiAgICBkZXZpY2VUb2tlbjogc3RhdGUuaG9tZS5nZXQoImRldmljZVRva2VuIiksCiAgICBpc190aGVfYXBwX3dyYXBwZWQ6IGhhcmRDb2RlZENvbmZpZy5pc193cmFwcGVkLAogIH0qLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Byb21pc2UucmVqZWN0KEVfQVBQUk9PVl9FUlJPUiwgIkZhaWxlZCB0byBmZXRjaCBBcHByb292IFRva2VuIik7Cg==</text>
+        <text encoding="base64">ICBpZih0eXBlb2YoTmF0aXZlTW9kdWxlcy5Lb21tZXJzRmV0Y2gpICE9PSAidW5kZWZpbmVkIil7CiAgICB0aGVGZXRjaCA9IE5hdGl2ZU1vZHVsZXMuS29tbWVyc0ZldGNoLmZldGNoCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdhdGNoTG9jYXRpb24odGhpcy53YXRjaElkTGVucywgKHIpID0+IGNvbnNvbGUubG9nKCJHb3QgcG9zaXRpb24iLCByKSwgKGUpID0+IGNvbnNvbGUubG9nKCJObyBwb3NpdGlvbiwiLCBlKSkK</text>
+        <text encoding="base64">ICB2YXIgdGhlRmV0Y2ggPSBmZXRjaDsK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4KICAgICAgICB3YXRjaExvY2F0aW9uKAogICAgICAgICAgdGhpcy53YXRjaElkTGVucywKICAgICAgICAgIHRoaXMudXBkYXRlUG9zaXRpb24sCiAgICAgICAgICBjb25zb2xlLmxvZy5iaW5kKGNvbnNvbGUsICJXYXRjaCBsb2NhdGlvbiBmYWlsZWQiKSwKICAgICAgICApLAogICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5zZXRTdGF0ZSh7IHNob3dNYXA6IHRydWUgfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3Byb21pc2UucmVqZWN0KEVfQVBQUk9PVl9FUlJPUiwgIkZhaWxlZCB0byBmZXRjaCBBcHByb292IFRva2VuIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIHdhdGNoTG9jYXRpb24odGhpcy53YXRjaElkTGVucywgKHIpID0+IGNvbnNvbGUubG9nKCJHb3QgcG9zaXRpb24iLCByKSwgKGUpID0+IGNvbnNvbGUubG9nKCJObyBwb3NpdGlvbiwiLCBlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4odGhpcy51cGRhdGVQb3NpdGlvbikK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4KICAgICAgICB3YXRjaExvY2F0aW9uKAogICAgICAgICAgdGhpcy53YXRjaElkTGVucywKICAgICAgICAgIHRoaXMudXBkYXRlUG9zaXRpb24sCiAgICAgICAgICBjb25zb2xlLmxvZy5iaW5kKGNvbnNvbGUsICJXYXRjaCBsb2NhdGlvbiBmYWlsZWQiKSwKICAgICAgICApLAogICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb25naXR1ZGU6Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5zZXRTdGF0ZSh7IHNob3dNYXA6IHRydWUgfSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25naXR1ZGVEZWx0YTogcmVnaW9uLmxvbmdpdHVkZURlbHRhLAogICAgICAgIGxhdGl0dWRlRGVsdGE6IHJlZ2lvbi5sYXRpdHVkZURlbHRhLAo=</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PlaySound</last-search>
+      <last-search>sveviaFetch</last-search>
       <last-offset />
-      <last-pattern>PlaySound</last-pattern>
+      <last-pattern>sveviaFetch</last-pattern>
       <last-replace>longitude</last-replace>
       <last-substitute>latitude</last-substitute>
       <last-dir>1</last-dir>
@@ -421,8 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stopOb</entry>
-        <entry>normalize</entry>
         <entry>clear</entry>
         <entry>redraw</entry>
         <entry>console</entry>
@@ -441,6 +440,8 @@
         <entry>Tänk</entry>
         <entry>configUpdated</entry>
         <entry>PlaySound</entry>
+        <entry>getTh</entry>
+        <entry>sveviaFetch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9hY3Rpb25zU3R5bGUvZw==</entry>
