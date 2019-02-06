@@ -99,6 +99,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" timestamp="1549468075342">
+        <mark key="[" line="76" column="13" />
+        <mark key="]" line="76" column="13" />
+        <mark key="." line="76" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/do-not-distrub/do-not-distrub-service.ts" timestamp="1549291806964">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="52" />
@@ -150,6 +155,13 @@
         <mark key="]" line="18" column="91" />
         <mark key="." line="18" column="91" />
         <mark key="^" line="18" column="91" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" timestamp="1549468057379">
+        <mark key="'" line="170" column="45" />
+        <mark key="[" line="157" column="20" />
+        <mark key="]" line="157" column="20" />
+        <mark key="." line="157" column="30" />
+        <mark key="^" line="156" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/theme/color.ts" timestamp="1548768386167">
         <mark key="[" line="13" column="6" />
@@ -260,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/home-screen.tsx" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" />
       <jump line="62" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-modal.tsx" />
@@ -360,16 +371,17 @@
       <jump line="165" column="20" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="130" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="158" column="33" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
+      <jump line="170" column="45" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IHRhcCA9IGYgPT4gdiA9PiB7CiAgZih2KQogIHJldHVybiB2Cn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>sveviaFetch</text>
