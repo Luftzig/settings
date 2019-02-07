@@ -22,6 +22,9 @@
         <mark key="." line="96" column="50" />
         <mark key="^" line="96" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" timestamp="1549533730984">
+        <mark key="'" line="86" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/index.ts" timestamp="1547741445201">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -256,6 +259,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" timestamp="1549532363534">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/validate/rules.ts" timestamp="1549297558602">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="19" />
@@ -272,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.txt" />
       <jump line="62" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-modal.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/home/info-text-safety-app.ts" />
@@ -372,16 +380,17 @@
       <jump line="130" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="158" column="33" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
       <jump line="170" column="45" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/config/connections.js" />
+      <jump line="86" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/DeliverableOrdersSearch.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>always</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>always</text>
       </register>
       <register name="/" type="4">
         <text>sveviaFetch</text>
@@ -390,40 +399,40 @@
         <text encoding="base64">ICAvLyBjb25zdCByZXF1ZXN0VXJsID0gY29uZmlnLmFwaXVybCArICJvcmRlcnMvZGVsaXZlcnlzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IHRhcCA9IGYgPT4gdiA9PiB7CiAgZih2KQogIHJldHVybiB2Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxTY3JvbGxWaWV3IGtleWJvYXJkU2hvdWxkUGVyc2lzdFRhcHM9ImFsd2F5cyIgc2Nyb2xsRW5hYmxlZD17dHJ1ZX0gY29udGVudENvbnRhaW5lclN0eWxlPXtzLnNlYXJjaENvbnRhaW5lcn0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbih0YXAociA9PiBjb25zb2xlLmRlYnVnKCJHb3QgcmVzcG9uc2UiLCByKSkpCg==</text>
+        <text encoding="base64">CmNvbnN0IHRhcCA9IGYgPT4gdiA9PiB7CiAgZih2KQogIHJldHVybiB2Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZXF1ZXN0VXJsID0gY29uZmlnLmFwaXVybCArICJvcmRlcnMvZGVsaXZlcnlzIgo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbih0YXAociA9PiBjb25zb2xlLmRlYnVnKCJHb3QgcmVzcG9uc2UiLCByKSkpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhudWxsUmVxdWVzdCwgY29uZmlnKTsK</text>
+        <text encoding="base64">ICBjb25zdCByZXF1ZXN0VXJsID0gY29uZmlnLmFwaXVybCArICJvcmRlcnMvZGVsaXZlcnlzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCByZXF1ZXN0VXJsID0gY29uZmlnLmFwaXVybCArICJvcmRlcnMvIiArIGlkICsgIi9kZWxpdmVyeSIK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhudWxsUmVxdWVzdCwgY29uZmlnKTsK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiVXNpbmcgS29tbWVyc0ZldGNoPyIsIE5hdGl2ZU1vZHVsZXMuS29tbWVyc0ZldGNoICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCByZXF1ZXN0VXJsID0gY29uZmlnLmFwaXVybCArICJvcmRlcnMvIiArIGlkICsgIi9kZWxpdmVyeSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpY2tldDogc3RhdGUuaG9tZS5nZXQoInRpY2tldCIpLAogICAgY29uZmlnOiBzdGF0ZS5ob21lLmdldCgiY29uZmlnIiksCiAgICBpc190aGVfYXBwX3dyYXBwZWQ6IHN0YXRlLmhvbWUuZ2V0KCJpc190aGVfYXBwX3dyYXBwZWQiKSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiVXNpbmcgS29tbWVyc0ZldGNoPyIsIE5hdGl2ZU1vZHVsZXMuS29tbWVyc0ZldGNoICE9IG51bGwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpY2tldDogc3RhdGUuaG9tZS5nZXQoInRpY2tldCIpLAogICAgY29uZmlnOiBzdGF0ZS5ob21lLmdldCgiY29uZmlnIiksCiAgICBpc190aGVfYXBwX3dyYXBwZWQ6IHN0YXRlLmhvbWUuZ2V0KCJpc190aGVfYXBwX3dyYXBwZWQiKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29uZmlnLCB0aWNrZXQsIGZldGNoaW5nLCBpc190aGVfYXBwX3dyYXBwZWQgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -434,7 +443,7 @@
       <last-offset />
       <last-pattern>sveviaFetch</last-pattern>
       <last-replace>longitude</last-replace>
-      <last-substitute>latitude</last-substitute>
+      <last-substitute>sveviaFetch</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
