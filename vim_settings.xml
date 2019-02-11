@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" timestamp="1549295213553">
         <mark key="'" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1549880382014">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="269" column="40" />
-        <mark key="]" line="270" column="36" />
-        <mark key="^" line="270" column="36" />
-        <mark key="." line="270" column="36" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1549887424023">
+        <mark key="'" line="92" column="4" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="165" column="13" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/text/text.presets.ts" timestamp="1548767901443">
         <mark key="'" line="34" column="29" />
@@ -176,11 +176,11 @@
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/utils/ConfigEmitter.js" timestamp="1549011684961">
         <mark key="'" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1549617810703">
-        <mark key="[" line="47" column="64" />
-        <mark key="]" line="48" column="37" />
-        <mark key="." line="48" column="37" />
-        <mark key="^" line="48" column="37" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" timestamp="1549887578578">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="5" />
+        <mark key="." line="48" column="5" />
+        <mark key="^" line="48" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationService.java" timestamp="1547649257287">
         <mark key="[" line="19" column="20" />
@@ -407,8 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
-      <jump line="22" column="21" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" />
       <jump line="41" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/validate/rules.ts" />
       <jump line="10" column="35" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/validate/validate-contact.ts" />
       <jump line="140" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
@@ -507,16 +505,18 @@
       <jump line="364" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="24" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="39" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="533" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="92" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.length</text>
+        <text>then</text>
       </register>
       <register name="/" type="4">
         <text>watch</text>
@@ -525,40 +525,40 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNldEFsYXJtU291bmRJbnRlcnZhbFJlZnMgd2l0aCIsIHJlZiwgIm9sZCB2YWx1ZSBpcyIsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykKICAgICAgbWFwT3ZlckVtcHR5KGNsZWFySW50ZXJ2YWwsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNldEFsYXJtU291bmRJbnRlcnZhbFJlZnMgd2l0aCIsIHJlZiwgIm9sZCB2YWx1ZSBpcyIsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykKICAgICAgbWFwT3ZlckVtcHR5KGNsZWFySW50ZXJ2YWwsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykK</text>
+        <text encoding="base64">ICAgICAgICAgIF9yZXN1bHQgPT4gewogICAgICAgICAgICBzZWxmLnRpbWVkQWxhcm0hLnNldExvY2F0aW9uKGxvY2F0aW9uKQogICAgICAgICAgfSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5hbGFybVNvdW5kSW50ZXJ2YWxSZWZzLm1hcChjbGVhckludGVydmFsKQogICAgICBzZWxmLmFsYXJtU291bmRJbnRlcnZhbFJlZnMgPSBbXQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Z2V0RW52KHNlbGYpCiAgICAgICAgLmFwaS51cGRhdGVMb2NhdGlvbk9mVGltZXIoZ2V0Um9vdDxSb290U3RvcmU+KHNlbGYpLnVzZXJTdG9yZS5kZXZpY2VJZCwgewogICAgICAgICAgbGF0aXR1ZGU6IGxvY2F0aW9uLmNvb3Jkcy5sYXRpdHVkZSwKICAgICAgICAgIGxvbmdpdHVkZTogbG9jYXRpb24uY29vcmRzLmxvbmdpdHVkZSwKICAgICAgICB9KQ==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNldEFsYXJtU291bmRJbnRlcnZhbFJlZnMgd2l0aCIsIHJlZikK</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKCkgPT4gY29uc29sZS5sb2coIkVycm9yICIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInJlZ2lzdGVyZWQgcGxheVNpcmVuIGludGVydmFsIiwgcmVmKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNldEFsYXJtU291bmRJbnRlcnZhbFJlZnMgd2l0aCIsIHJlZiwgIm9sZCB2YWx1ZSBpcyIsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykKICAgICAgbWFwT3ZlckVtcHR5KGNsZWFySW50ZXJ2YWwsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInJlZ2lzdGVyZWQgcGxheVNpcmVuIGludGVydmFsIiwgcmVmKQo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5hbGFybVNvdW5kSW50ZXJ2YWxSZWZzLm1hcChjbGVhckludGVydmFsKQogICAgICBzZWxmLmFsYXJtU291bmRJbnRlcnZhbFJlZnMgPSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2hlbigoKSA9PiAhc2VsZi5zaG91bGRQbGF5QWxhcm0sICgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygic2hvdWxkUGxheUFsYXJtIGNoYW5nZWQgdG8gZmFsc2UsIGNhbmNlbGxpbmcgdGltZXIiLCByZWYpCiAgICAgICAgY2xlYXJJbnRlcnZhbChyZWYpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNldEFsYXJtU291bmRJbnRlcnZhbFJlZnMgd2l0aCIsIHJlZikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbFNob3VsZFBsYXlBbGFybSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
