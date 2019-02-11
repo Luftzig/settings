@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" timestamp="1549295213553">
         <mark key="'" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1549637312525">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="99" column="52" />
-        <mark key="]" line="99" column="56" />
-        <mark key="^" line="99" column="56" />
-        <mark key="." line="99" column="56" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1549877704848">
+        <mark key="'" line="325" column="10" />
+        <mark key="[" line="269" column="40" />
+        <mark key="]" line="270" column="36" />
+        <mark key="^" line="270" column="36" />
+        <mark key="." line="270" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/text/text.presets.ts" timestamp="1548767901443">
         <mark key="'" line="34" column="29" />
@@ -339,7 +339,7 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549630779052">
+      <file name="/Dummy.txt" timestamp="1549877942804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -423,10 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="9" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="189" column="69" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="190" column="13" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="98" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/push-notification-bridge.tsx" />
       <jump line="78" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
       <jump line="80" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/acknowledge-alarm/acknowledge-alarm-store.ts" />
@@ -513,7 +509,6 @@
       <jump line="107" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/models/user.ts" />
       <jump line="288" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="619" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="183" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="197" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="365" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -523,6 +518,11 @@
       <jump line="261" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="96" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="44" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="259" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="127" column="37" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="67" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="330" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -535,7 +535,7 @@
         <text>.length</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGFybVNvdW5kSW50ZXJ2YWxSZWZzXD4=</text>
+        <text>timeLeft</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNldEFsYXJtU291bmRJbnRlcnZhbFJlZnMgd2l0aCIsIHJlZiwgIm9sZCB2YWx1ZSBpcyIsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykKICAgICAgbWFwT3ZlckVtcHR5KGNsZWFySW50ZXJ2YWwsIHNlbGYuYWxhcm1Tb3VuZEludGVydmFsUmVmcykK</text>
@@ -581,9 +581,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGFybVNvdW5kSW50ZXJ2YWxSZWZzXD4=</last-search>
+      <last-search>timeLeft</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGFybVNvdW5kSW50ZXJ2YWxSZWZzXD4=</last-pattern>
+      <last-pattern>timeLeft</last-pattern>
       <last-replace>Blur</last-replace>
       <last-substitute>Focus</last-substitute>
       <last-dir>1</last-dir>
@@ -603,7 +603,6 @@
         <entry>sveviaFetch</entry>
         <entry>color</entry>
         <entry>clearCountdownTimerRefs</entry>
-        <entry>timeLeft</entry>
         <entry encoding="base64">XDxhbGFybVNvdW5kQWN0aXZlXD4=</entry>
         <entry>contacts</entry>
         <entry>Focus</entry>
@@ -611,6 +610,7 @@
         <entry encoding="base64">XDxyZW1pbmRVc2VyXD4=</entry>
         <entry encoding="base64">XDxwbGF5U2lyZW5cPg==</entry>
         <entry encoding="base64">XDxhbGFybVNvdW5kSW50ZXJ2YWxSZWZzXD4=</entry>
+        <entry>timeLeft</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
