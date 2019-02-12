@@ -247,7 +247,7 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549894719581">
+      <file name="/Dummy.txt" timestamp="1549983070572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -303,12 +303,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1549976215746">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1549985608602">
         <mark key="'" line="121" column="0" />
-        <mark key="[" line="209" column="53" />
-        <mark key="]" line="209" column="53" />
-        <mark key="." line="209" column="53" />
-        <mark key="^" line="209" column="53" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="31" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="159" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/licenses-modal.tsx" timestamp="1548766791953">
         <mark key="'" line="77" column="13" />
@@ -426,10 +426,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQmFja2dyb3VuZEdlb2xvY2F0aW9uLmNvbmZpZ3VyZSh7aW50ZXJ2YWw6IDEwMDB9KQo=</text>
+        <text encoding="base64">ICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uc3RhcnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>extracted</text>
       </register>
       <register name="/" type="4">
         <text>Promise</text>
@@ -438,40 +438,40 @@
         <text encoding="base64">ICAgICAgQmFja2dyb3VuZEdlb2xvY2F0aW9uLmNvbmZpZ3VyZSh7aW50ZXJ2YWw6IDEwMDB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uc3RhcnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuYXZpZ2F0b3IuZ2VvbG9jYXRpb24uY2xlYXJXYXRjaC5iaW5kKG5hdmlnYXRvci5nZW9sb2NhdGlvbikK</text>
+        <text encoding="base64">ICAgIEJhY2tncm91bmRHZW9sb2NhdGlvbi5vbigibG9jYXRpb24iLCBsb2NhdGlvbiA9PiB7CiAgICAgIGNvbnN0IHBvc2l0aW9uID0gdG9Qb3NpdGlvbihsb2NhdGlvbikKICAgICAgQmFja2dyb3VuZEdlb2xvY2F0aW9uLnN0YXJ0VGFzayh0YXNrS2V5ID0+IHsKICAgICAgICBjb25zdCB3YXRjaGVycyA9IGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy52YWx1ZXMoKQogICAgICAgIEFycmF5LmZyb20od2F0Y2hlcnMpCiAgICAgICAgICAuZmlsdGVyKCh7IGJhY2tncm91bmQgfSkgPT4gIWxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS5pc0luQmFja2dyb3VuZCB8fCBiYWNrZ3JvdW5kKQogICAgICAgICAgLmZvckVhY2goKHsgY2FsbGJhY2sgfSkgPT4gY2FsbGJhY2socG9zaXRpb24pKQogICAgICAgIEJhY2tncm91bmRHZW9sb2NhdGlvbi5lbmRUYXNrKHRhc2tLZXkpCiAgICAgIH0pCiAgICB9KQogICAgQmFja2dyb3VuZEdlb2xvY2F0aW9uLm9uKCJlcnJvciIsIGUgPT4gewogICAgICBjb25zb2xlLmxvZygiQmFja2dyb3VuZExvY2F0aW9uOiBlcnJvciIsIGUpCiAgICAgIGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy5mb3JFYWNoKCh7IGVycm9yIH0pID0+IGVycm9yKGUpKQogICAgfSkKICAgIEJhY2tncm91bmRHZW9sb2NhdGlvbi5vbigiYmFja2dyb3VuZCIsICgpID0+IHsKICAgICAgbG9jYXRpb25XYXRjaGVyc1N0YXRlLmlzSW5CYWNrZ3JvdW5kID0gdHJ1ZQogICAgICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uY29uZmlndXJlKHsgaW50ZXJ2YWw6IDEwMDAwIH0pCiAgICAgIGlmIChBcnJheS5mcm9tKGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy52YWx1ZXMoKSkuZXZlcnkoKHtiYWNrZ3JvdW5kfSkgPT4gIWJhY2tncm91bmQpKSB7CiAgICAgICAgQmFja2dyb3VuZEdlb2xvY2F0aW9uLnN0b3AoKQogICAgICB9CiAgICB9KQogICAgQmFja2dyb3VuZEdlb2xvY2F0aW9uLm9uKCJmb3JlZ3JvdW5kIiwgKCkgPT4gewogICAgICBsb2NhdGlvbldhdGNoZXJzU3RhdGUuaXNJbkJhY2tncm91bmQgPSBmYWxzZQogICAgICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uY29uZmlndXJlKHsgaW50ZXJ2YWw6IDIwMDAgfSkKICAgICAgaWYgKGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy5zaXplID4gMCkgewogICAgICAgIEJhY2tncm91bmRHZW9sb2NhdGlvbi5zdGFydCgpCiAgICAgIH0KICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheS5wcm90b3R5cGUuCg==</text>
+        <text encoding="base64">ICBjb25maWd1cmVCYWNrZ3JvdW5kTG9jYXRpb24oKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkJhY2tncm91bmRHZW9sb2NhdGlvbjogbm8gbW9yZSBsaXN0ZW5lcnMsIHN0b3BwaW5nIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAogICAgICBgQmFja2dyb3VuZExvY2F0aW9uOiBzZXJ2aWNlIGlzUnVubmluZzogJHtpc1J1bm5pbmd9LCBhdXRob3JpemF0aW9uOiAke2F1dGhvcml6YXRpb24gIT0KICAgICAgICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uTk9UX0FVVEhPUklaRUR9YCwKICAgICkK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkJhY2tncm91bmRMb2NhdGlvbjogR290IGxvY2F0aW9uIikK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y29uc3QgbG9jYXRpb25XYXRjaGVyczogTWFwPAogIG51bWJlciw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkJhY2tncm91bmRMb2NhdGlvbjogTW92aW5nIHRvIGJhY2tncm91bmQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQmFja2dyb3VuZExvY2F0aW9uOiBubyB3YXRjaGVyIHRoYXQgbmVlZCBiYWNrZ3JvdW5kIHVwZGF0ZXMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXAuCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiQmFja2dyb3VuZExvY2F0aW9uOiBSZWdpc3RlcmluZyBuZXcgbG9jYXRpb24gd2F0Y2hlciIsIGtleSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
