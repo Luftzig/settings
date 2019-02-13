@@ -22,12 +22,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" timestamp="1549295213553">
         <mark key="'" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1550048321205">
-        <mark key="'" line="170" column="11" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="46" column="21" />
-        <mark key="." line="46" column="21" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1550049954934">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="169" column="62" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/shared/text/text.presets.ts" timestamp="1548767901443">
         <mark key="'" line="34" column="29" />
@@ -320,8 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
-      <jump line="287" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="116" column="18" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="146" column="38" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="323" column="38" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
@@ -419,68 +417,70 @@
       <jump line="121" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="160" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="310" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="170" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="170" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="503" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdG9wV2F0Y2hpbmcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>watchLocation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkJhY2tncm91bmRMb2NhdGlvbjogR29pbmcgdG8gYmFja2dyb3VuZCB3aXRob3V0IHdhdGNoZXJzIHRoYXQgbmVlZCB0byBydW4gaW4gYmFja2dyb3VuZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdhdGNoSWQ6IHR5cGVzLm1heWJlKHR5cGVzLm51bWJlciksCg==</text>
+        <text encoding="base64">ICBzdG9wV2F0Y2hpbmcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzdG9wT2JzZXJ2aW5nTG9jYXRpb24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgZ2V0V2F0Y2hJZDogKCkgPT4gc2VsZi53YXRjaElkLCBzZXRXYXRjaElkIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdG9wT2JzZXJ2aW5nTG9jYXRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlRGVzdHJveSwK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc2V0V2F0Y2hJZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc3RvcE9ic2VydmluZ0xvY2F0aW9uKCkgewogIC8vIEB0cy1pZ25vcmUKICBuYXZpZ2F0b3IuZ2VvbG9jYXRpb24uc3RvcE9ic2VydmluZygpCn0K</text>
+        <text encoding="base64">ICAgICAgcGxheVNpcmVuLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdHJpZ2dlckFsYXJtLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RvcE9ic2VydmluZ0xvY2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgZGVjcmVtZW50RHVyYXRpb25CeVNlY29uZCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>watchLocation</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>watchLocation</last-pattern>
       <last-replace>stop</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -488,7 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>libraries</entry>
         <entry>Libraries</entry>
         <entry>Tänk</entry>
         <entry>configUpdated</entry>
@@ -508,6 +507,7 @@
         <entry>watch</entry>
         <entry>Promise</entry>
         <entry>start</entry>
+        <entry>watchLocation</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist doc</entry>
