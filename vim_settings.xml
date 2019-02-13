@@ -327,12 +327,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1550055380243">
-        <mark key="'" line="115" column="4" />
-        <mark key="[" line="115" column="24" />
-        <mark key="]" line="115" column="30" />
-        <mark key="." line="115" column="30" />
-        <mark key="^" line="115" column="30" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1550059417041">
+        <mark key="'" line="127" column="19" />
+        <mark key="[" line="125" column="140" />
+        <mark key="]" line="125" column="140" />
+        <mark key="." line="125" column="140" />
+        <mark key="^" line="125" column="138" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/settings/licenses-modal.tsx" timestamp="1548766791953">
         <mark key="'" line="77" column="13" />
@@ -350,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="61" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="211" column="55" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="242" column="66" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
       <jump line="247" column="69" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Delivery/ApproveDelivery.js" />
@@ -450,31 +449,32 @@
       <jump line="22" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="309" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="115" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" />
+      <jump line="127" column="19" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>01</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>01</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXRjaExvY2F0aW9uXD4=</text>
+        <text encoding="base64">XDxiYWNrZ3JvdW5kXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2FsbGJhY2s6IFBvc2l0aW9uQ2FsbGJhY2ssCiAgZXJyb3JIYW5kbGVyOiBQb3NpdGlvbkVycm9yQ2FsbGJhY2ssCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">KHsgYmFja2dyb3VuZCB9KSA9PiAhbG9jYXRpb25XYXRjaGVyc1N0YXRlLmlzSW5CYWNrZ3JvdW5kIHx8IGJhY2tncm91bmQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgQXJyYXkuZnJvbSh3YXRjaGVycykKICAgICAgICAuZmlsdGVyKCh7IGJhY2tncm91bmQgfSkgPT4gIWxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS5pc0luQmFja2dyb3VuZCB8fCBiYWNrZ3JvdW5kKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -486,31 +486,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uY2hlY2tTdGF0dXMoKHsgaXNSdW5uaW5nLCBhdXRob3JpemF0aW9uIH0pID0+IHsKICAgIGlmIChhdXRob3JpemF0aW9uICE9IEJhY2tncm91bmRHZW9sb2NhdGlvbi5OT1RfQVVUSE9SSVpFRCAmJiAhaXNSdW5uaW5nKSB7CiAgICAgIEJhY2tncm91bmRHZW9sb2NhdGlvbi5zdGFydCgpCiAgICB9CiAgfSkKICBjb25zdCB3YXRjaGVycyA9IGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycwogIGNvbnN0IGtleSA9IG5leHRLZXkod2F0Y2hlcnMpCiAgd2F0Y2hlcnMuc2V0KGtleSwgewogICAgY2FsbGJhY2ssCiAgICBlcnJvcjogZXJyb3JIYW5kbGVyLAogICAgYmFja2dyb3VuZDogcnVuSW5CYWNrZ3JvdW5kLAogIH0pCiAgcmV0dXJuIHsKICAgIHJlbW92ZSgpIHsKICAgICAgc3RvcFdhdGNoaW5nKGtleSkKICAgIH0sCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBCYWNrZ3JvdW5kR2VvbG9jYXRpb24uY2hlY2tTdGF0dXMoKHsgaXNSdW5uaW5nLCBhdXRob3JpemF0aW9uIH0pID0+IHsKICAgIGlmIChhdXRob3JpemF0aW9uICE9IEJhY2tncm91bmRHZW9sb2NhdGlvbi5OT1RfQVVUSE9SSVpFRCAmJiAhaXNSdW5uaW5nKSB7CiAgICAgIEJhY2tncm91bmRHZW9sb2NhdGlvbi5zdGFydCgpCiAgICB9CiAgfSkKICBjb25zdCB3YXRjaGVycyA9IGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycwogIGNvbnN0IGtleSA9IG5leHRLZXkod2F0Y2hlcnMpCiAgd2F0Y2hlcnMuc2V0KGtleSwgewogICAgY2FsbGJhY2ssCiAgICBlcnJvcjogZXJyb3JIYW5kbGVyLAogICAgYmFja2dyb3VuZDogcnVuSW5CYWNrZ3JvdW5kLAogIH0pCiAgcmV0dXJuIHsKICAgIHJlbW92ZSgpIHsKICAgICAgc3RvcFdhdGNoaW5nKGtleSkKICAgIH0sCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0dXBCYWNrZ3JvdW5kTG9jYXRpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YXRjaExvY2F0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxiYWNrZ3JvdW5kXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXRjaExvY2F0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiYWNrZ3JvdW5kXD4=</last-pattern>
       <last-replace>stop</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -518,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tänk</entry>
         <entry>configUpdated</entry>
         <entry>PlaySound</entry>
         <entry>getTh</entry>
@@ -538,6 +537,7 @@
         <entry>start</entry>
         <entry>watchLocation</entry>
         <entry encoding="base64">XDx3YXRjaExvY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxiYWNrZ3JvdW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist doc</entry>
