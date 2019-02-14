@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" timestamp="1549295213553">
         <mark key="'" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1550141615201">
-        <mark key="'" line="300" column="40" />
-        <mark key="[" line="639" column="0" />
-        <mark key="]" line="640" column="36" />
-        <mark key="." line="639" column="0" />
-        <mark key="^" line="303" column="33" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1550149275289">
+        <mark key="'" line="327" column="34" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+        <mark key="^" line="327" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1550055339525">
         <mark key="[" line="48" column="21" />
@@ -227,7 +227,7 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550142103399">
+      <file name="/Dummy.txt" timestamp="1550149288354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -353,9 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="316" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="36" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="176" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="276" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="282" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -452,68 +449,71 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="44" column="28" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="117" column="26" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="300" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="640" column="27" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="118" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="300" column="50" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="332" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcE92ZXJFbXB0eSh3YXRjaElkID0+IHdhdGNoSWQucmVtb3ZlKCksIHNlbGYud2F0Y2hJZCkKICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>self.watchId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG1hcE92ZXJFbXB0eSh3YXRjaElkID0+IHdhdGNoSWQucmVtb3ZlKCksIHNlbGYud2F0Y2hJZCkKICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWFwT3ZlckVtcHR5KHdhdGNoSWQgPT4gd2F0Y2hJZC5yZW1vdmUoKSwgc2VsZi53YXRjaElkKQogICAgICBzZWxmLndhdGNoSWQgPSB1bmRlZmluZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIC8vIFN0b3Agd2F0Y2hpbmcgcG9zaXRpb24KICAgICAgdHJ5IHsKICAgICAgICBtYXBPdmVyRW1wdHkod2F0Y2hJZCA9PiB3YXRjaElkLnJlbW92ZSgpLCBzZWxmLndhdGNoSWQpCiAgICAgICAgc2VsZi53YXRjaElkID0gdW5kZWZpbmVkCiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS53YXJuKCJDb3VsZG50IHN0b3Agd2F0Y2hpbmcgcG9zaXRpb24iKQogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgbWFwT3ZlckVtcHR5KHdhdGNoSWQgPT4gd2F0Y2hJZC5yZW1vdmUoKSwgc2VsZi53YXRjaElkKQogICAgICBzZWxmLndhdGNoSWQgPSB1bmRlZmluZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKCJCYWNrZ3JvdW5kTG9jYXRpb246IHdhdGNoTG9jYXRpb24sIiwgY2FsbGJhY2ssIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">CiAgICAgIC8vIFN0b3Agd2F0Y2hpbmcgcG9zaXRpb24KICAgICAgdHJ5IHsKICAgICAgICBtYXBPdmVyRW1wdHkod2F0Y2hJZCA9PiB3YXRjaElkLnJlbW92ZSgpLCBzZWxmLndhdGNoSWQpCiAgICAgICAgc2VsZi53YXRjaElkID0gdW5kZWZpbmVkCiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS53YXJuKCJDb3VsZG50IHN0b3Agd2F0Y2hpbmcgcG9zaXRpb24iKQogICAgICB9Cgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKCJCYWNrZ3JvdW5kTG9jYXRpb246IHdhdGNoTG9jYXRpb24sIiwgY2FsbGJhY2ssIG9wdGlvbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGdvaW5nIHRvIGJhY2tncm91bmQsIHdhdGNoZXJzOiIsIHdhdGNoZXJzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBydW5JbkJhY2tncm91bmQ6IGJvb2xlYW4gPSBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGdvaW5nIHRvIGJhY2tncm91bmQsIHdhdGNoZXJzOiIsIHdhdGNoZXJzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cnVuSW5CYWNrZ3JvdW5kCg==</text>
+        <text encoding="base64">ICBydW5JbkJhY2tncm91bmQ6IGJvb2xlYW4gPSBmYWxzZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyB1c2UgYmFja2dyb3VuZExvY2F0aW9uIGZvciBnZXR0aW5nIHRoZSBwb3NpdGlvbgo=</text>
+        <text encoding="base64">cnVuSW5CYWNrZ3JvdW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gUGxhdGZvcm0uc2VsZWN0KHsKICAgIGFuZHJvaWQ6IAogICAgaW9zOiBhbmRyb2lkV2F0Y2hMb2NhdGlvbihjYWxsYmFjaywgZXJyb3JIYW5kbGVyLCBydW5JbkJhY2tncm91bmQpLAogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyB1c2UgYmFja2dyb3VuZExvY2F0aW9uIGZvciBnZXR0aW5nIHRoZSBwb3NpdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>self.watchId</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>self.watchId</last-pattern>
       <last-replace>stop</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +521,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTh</entry>
         <entry>sveviaFetch</entry>
         <entry>color</entry>
         <entry>clearCountdownTimerRefs</entry>
@@ -541,6 +540,7 @@
         <entry encoding="base64">XDxiYWNrZ3JvdW5kXD4=</entry>
         <entry>remove()</entry>
         <entry>remove</entry>
+        <entry>self.watchId</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist doc</entry>
