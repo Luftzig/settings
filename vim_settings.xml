@@ -208,6 +208,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/libphonenumber-js/min/index.d.ts" timestamp="1549296021857">
         <mark key="'" line="30" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/promise-helpers.ts" timestamp="1550150476389">
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="1" column="81" />
+        <mark key="^" line="1" column="81" />
+        <mark key="." line="1" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/loading/app-loading.tsx" timestamp="1549289742023">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="2" column="52" />
@@ -311,12 +317,12 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1550141231822">
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1550150710018">
         <mark key="'" line="192" column="2" />
-        <mark key="[" line="141" column="64" />
-        <mark key="]" line="141" column="92" />
-        <mark key="." line="141" column="92" />
-        <mark key="^" line="141" column="92" />
+        <mark key="[" line="160" column="80" />
+        <mark key="]" line="160" column="119" />
+        <mark key="." line="160" column="119" />
+        <mark key="^" line="160" column="119" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-play-sound/README.md" timestamp="1547546766663">
         <mark key="[" line="24" column="63" />
@@ -459,52 +465,52 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgIC8vIEJhY2tncm91bmRHZW9sb2NhdGlvbi5jb25maWd1cmUoeyBpbnRlcnZhbDogMjAwMCB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>saved</text>
       </register>
       <register name="/" type="4">
         <text>self.watchId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcE92ZXJFbXB0eSh3YXRjaElkID0+IHdhdGNoSWQucmVtb3ZlKCksIHNlbGYud2F0Y2hJZCkKICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
+      <register name="0" type="4">
+        <text>&quot;BackgroundLocation: configuration saved&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgIC8vIEJhY2tncm91bmRHZW9sb2NhdGlvbi5jb25maWd1cmUoeyBpbnRlcnZhbDogMjAwMCB9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWFwT3ZlckVtcHR5KHdhdGNoSWQgPT4gd2F0Y2hJZC5yZW1vdmUoKSwgc2VsZi53YXRjaElkKQogICAgICBzZWxmLndhdGNoSWQgPSB1bmRlZmluZWQK</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGNvbmZpZ3VyYXRpb24gc2F2ZWQiKSkKICAgIC5jYXRjaChlID0+IGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGNvbmZpZ3VyYXRpb24gZmFpbGVkIiwgZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIC8vIFN0b3Agd2F0Y2hpbmcgcG9zaXRpb24KICAgICAgdHJ5IHsKICAgICAgICBtYXBPdmVyRW1wdHkod2F0Y2hJZCA9PiB3YXRjaElkLnJlbW92ZSgpLCBzZWxmLndhdGNoSWQpCiAgICAgICAgc2VsZi53YXRjaElkID0gdW5kZWZpbmVkCiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS53YXJuKCJDb3VsZG50IHN0b3Agd2F0Y2hpbmcgcG9zaXRpb24iKQogICAgICB9Cgo=</text>
+        <text encoding="base64">ICBpZiAoYXJncykK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKCJCYWNrZ3JvdW5kTG9jYXRpb246IHdhdGNoTG9jYXRpb24sIiwgY2FsbGJhY2ssIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYud2F0Y2hJZCA9IHVuZGVmaW5lZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbWFwT3ZlckVtcHR5KHdhdGNoSWQgPT4gd2F0Y2hJZC5yZW1vdmUoKSwgc2VsZi53YXRjaElkKQogICAgICBzZWxmLndhdGNoSWQgPSB1bmRlZmluZWQK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGdvaW5nIHRvIGJhY2tncm91bmQsIHdhdGNoZXJzOiIsIHdhdGNoZXJzKQo=</text>
+        <text encoding="base64">CiAgICAgIC8vIFN0b3Agd2F0Y2hpbmcgcG9zaXRpb24KICAgICAgdHJ5IHsKICAgICAgICBtYXBPdmVyRW1wdHkod2F0Y2hJZCA9PiB3YXRjaElkLnJlbW92ZSgpLCBzZWxmLndhdGNoSWQpCiAgICAgICAgc2VsZi53YXRjaElkID0gdW5kZWZpbmVkCiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS53YXJuKCJDb3VsZG50IHN0b3Agd2F0Y2hpbmcgcG9zaXRpb24iKQogICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBydW5JbkJhY2tncm91bmQ6IGJvb2xlYW4gPSBmYWxzZSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKCJCYWNrZ3JvdW5kTG9jYXRpb246IHdhdGNoTG9jYXRpb24sIiwgY2FsbGJhY2ssIG9wdGlvbnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cnVuSW5CYWNrZ3JvdW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyB1c2UgYmFja2dyb3VuZExvY2F0aW9uIGZvciBnZXR0aW5nIHRoZSBwb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGdvaW5nIHRvIGJhY2tncm91bmQsIHdhdGNoZXJzOiIsIHdhdGNoZXJzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
