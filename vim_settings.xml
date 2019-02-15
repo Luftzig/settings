@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" timestamp="1549295213553">
         <mark key="'" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1550149275289">
-        <mark key="'" line="327" column="34" />
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="0" />
-        <mark key="." line="328" column="0" />
-        <mark key="^" line="327" column="34" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" timestamp="1550228313019">
+        <mark key="'" line="243" column="41" />
+        <mark key="[" line="217" column="24" />
+        <mark key="]" line="218" column="33" />
+        <mark key="." line="218" column="33" />
+        <mark key="^" line="218" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1550055339525">
         <mark key="[" line="48" column="21" />
@@ -361,11 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="55" column="5" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="64" column="18" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="268" column="36" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="62" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="122" column="24" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" />
       <jump line="221" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-store.ts" />
       <jump line="87" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/contacts-screen.tsx" />
@@ -461,6 +456,11 @@
       <jump line="12" column="5" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-mauron85-background-geolocation/index.d.ts" />
       <jump line="420" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-mauron85-background-geolocation/index.d.ts" />
       <jump line="423" column="52" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-mauron85-background-geolocation/index.d.ts" />
+      <jump line="653" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="207" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="227" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="237" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
+      <jump line="243" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -473,7 +473,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>AUTHORI</text>
+        <text>polling</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oc2V0dXBCYWNrZ3JvdW5kTG9jYXRpb24pCg==</text>
@@ -519,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AUTHORI</last-search>
+      <last-search>polling</last-search>
       <last-offset />
-      <last-pattern>AUTHORI</last-pattern>
+      <last-pattern>polling</last-pattern>
       <last-replace>stop</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -529,7 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clearCountdownTimerRefs</entry>
         <entry encoding="base64">XDxhbGFybVNvdW5kQWN0aXZlXD4=</entry>
         <entry>contacts</entry>
         <entry>Focus</entry>
@@ -549,6 +548,7 @@
         <entry>self.watchId</entry>
         <entry>Åtgärden kunde inte slutföras</entry>
         <entry>AUTHORI</entry>
+        <entry>polling</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist doc</entry>
