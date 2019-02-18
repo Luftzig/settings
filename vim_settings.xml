@@ -224,7 +224,7 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550243798862">
+      <file name="/Dummy.txt" timestamp="1550485463721">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -309,12 +309,12 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="114" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1550482984993">
-        <mark key="'" line="294" column="2" />
-        <mark key="[" line="126" column="58" />
-        <mark key="]" line="126" column="76" />
-        <mark key="." line="126" column="76" />
-        <mark key="^" line="126" column="76" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" timestamp="1550485454154">
+        <mark key="'" line="292" column="2" />
+        <mark key="[" line="123" column="76" />
+        <mark key="]" line="124" column="39" />
+        <mark key="." line="124" column="39" />
+        <mark key="^" line="124" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-play-sound/README.md" timestamp="1547546766663">
         <mark key="[" line="24" column="63" />
@@ -456,11 +456,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>polling</text>
@@ -468,17 +468,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oc2V0dXBCYWNrZ3JvdW5kTG9jYXRpb24pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>{
+      remove() {
+        stopWatching(oldWatcher[0])
+      },
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oc2V0dXBCYWNrZ3JvdW5kTG9jYXRpb24pCg==</text>
+      <register name="2" type="4">
+        <text>{
+      remove() {
+        stopWatching(key)
+      },
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oc2V0dXBCYWNrZ3JvdW5kTG9jYXRpb24pCg==</text>
+        <text encoding="base64">ICBjb25zdCB3YXRjaGVySWRlbnRpY2FsVG8gPSAobmV3Q2IsIG5ld0JnLCBuZXdFcikgPT4gKFtrZXksIHsgY2FsbGJhY2s6IGNiLCBiYWNrZ3JvdW5kV2F0Y2hlcjogYmcsIGVycm9yOiBlciB9XSkgPT4KICAgIG5ld0NiID09PSBjYiAmJiBuZXdCZyA9PT0gYmcgJiYgbmV3RXIgPT09IGVyCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -487,22 +495,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICByb290U3RvcmU6IGF3YWl0IHNldHVwUm9vdFN0b3JlKHt9KSwKICAgIH0pCg==</text>
+        <text encoding="base64">ICBjb25zdCBrZXkgPSBuZXh0S2V5KHdhdGNoZXJzKQogIHdhdGNoZXJzLnNldChrZXksIHsKICAgIGNhbGxiYWNrLAogICAgZXJyb3I6IGVycm9ySGFuZGxlciwKICAgIGJhY2tncm91bmRXYXRjaGVyOiBvcHRpb25zLnJ1bkluQmFja2dyb3VuZCwKICB9KQogIGNvbnNvbGUuZGVidWcoIkJhY2tncm91bmRMb2NhdGlvbjogd2F0Y2hMb2NhdGlvbiwiLCBjYWxsYmFjaywgb3B0aW9ucywga2V5KQogIHJldHVybiB7CiAgICByZW1vdmUoKSB7CiAgICAgIHN0b3BXYXRjaGluZyhrZXkpCiAgICB9LAogIH0K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3YXRjaGVycy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBhd2FpdCBzZXR1cEJhY2tncm91bmRMb2NhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy5jbGVhcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkJhY2tncm91bmRMb2NhdGlvbjogY29uZmlndXJhdGlvbiBzYXZlZCwgY2xlYXJpbmcgd2F0Y2hlcnMiKQogICAgICByZXR1cm4gbG9jYXRpb25XYXRjaGVyc1N0YXRlLndhdGNoZXJzLmNsZWFyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJCYWNrZ3JvdW5kTG9jYXRpb246IGF1dGhvcml6YXRpb24gY2hhbmdlZCB0byIsIGF1dGgsIEJhY2tncm91bmRHZW9sb2NhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
