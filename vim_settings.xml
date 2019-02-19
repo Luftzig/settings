@@ -208,7 +208,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.7.3/48f166dd8410d7859d4887985417ac8e0d03ad18/furhat-commons-1.7.3.jar!/furhatos/flow/kotlin/voice/Voice.class" timestamp="1550567404829">
         <mark key="'" line="40" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550571510639">
+      <file name="/Dummy.txt" timestamp="1550574202754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -306,11 +306,14 @@
         <mark key="^" line="141" column="66" />
         <mark key="." line="141" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/robot_registry.kt" timestamp="1550571492981">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="0" />
+      <file name="/fragment.java" timestamp="1550573914576">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/robot_registry.kt" timestamp="1550574200421">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -420,7 +423,7 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiVE5HXzEiIC0+ICJGMjIyIiAvLyBUTkcgMSAjdG9kby1maWxsLWluLXJlYWwtbWFjaGluZUlkCg==</text>
+        <text encoding="base64">ICAgICAgICAiVE5HXzMiIC0+ICJGMjE4IiAvLyBUTkcgMyAjdG9kby1maWxsLWluLXJlYWwtbWFjaGluZUlkCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -432,48 +435,48 @@
         <text encoding="base64">ICAgICAgLnRoZW4oc2V0dXBCYWNrZ3JvdW5kTG9jYXRpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiVE5HXzEiIC0+ICJGMjIyIiAvLyBUTkcgMSAjdG9kby1maWxsLWluLXJlYWwtbWFjaGluZUlkCg==</text>
+        <text encoding="base64">ICAgICAgICAiVE5HXzMiIC0+ICJGMjE4IiAvLyBUTkcgMyAjdG9kby1maWxsLWluLXJlYWwtbWFjaGluZUlkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAiVE5HXzEiIC0+ICJGMjIyIiAvLyBUTkcgMSAjdG9kby1maWxsLWluLXJlYWwtbWFjaGluZUlkCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>{
       remove() {
         stopWatching(oldWatcher[0])
       },
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="4">
         <text>{
       remove() {
         stopWatching(key)
       },
     }</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB3YXRjaGVySWRlbnRpY2FsVG8gPSAobmV3Q2IsIG5ld0JnLCBuZXdFcikgPT4gKFtrZXksIHsgY2FsbGJhY2s6IGNiLCBiYWNrZ3JvdW5kV2F0Y2hlcjogYmcsIGVycm9yOiBlciB9XSkgPT4KICAgIG5ld0NiID09PSBjYiAmJiBuZXdCZyA9PT0gYmcgJiYgbmV3RXIgPT09IGVyCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB3YXRjaGVySWRlbnRpY2FsVG8gPSAobmV3Q2IsIG5ld0JnLCBuZXdFcikgPT4gKFtrZXksIHsgY2FsbGJhY2s6IGNiLCBiYWNrZ3JvdW5kV2F0Y2hlcjogYmcsIGVycm9yOiBlciB9XSkgPT4KICAgIG5ld0NiID09PSBjYiAmJiBuZXdCZyA9PT0gYmcgJiYgbmV3RXIgPT09IGVyCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBrZXkgPSBuZXh0S2V5KHdhdGNoZXJzKQogIHdhdGNoZXJzLnNldChrZXksIHsKICAgIGNhbGxiYWNrLAogICAgZXJyb3I6IGVycm9ySGFuZGxlciwKICAgIGJhY2tncm91bmRXYXRjaGVyOiBvcHRpb25zLnJ1bkluQmFja2dyb3VuZCwKICB9KQogIGNvbnNvbGUuZGVidWcoIkJhY2tncm91bmRMb2NhdGlvbjogd2F0Y2hMb2NhdGlvbiwiLCBjYWxsYmFjaywgb3B0aW9ucywga2V5KQogIHJldHVybiB7CiAgICByZW1vdmUoKSB7CiAgICAgIHN0b3BXYXRjaGluZyhrZXkpCiAgICB9LAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3YXRjaGVycy4K</text>
+        <text encoding="base64">ICBjb25zdCBrZXkgPSBuZXh0S2V5KHdhdGNoZXJzKQogIHdhdGNoZXJzLnNldChrZXksIHsKICAgIGNhbGxiYWNrLAogICAgZXJyb3I6IGVycm9ySGFuZGxlciwKICAgIGJhY2tncm91bmRXYXRjaGVyOiBvcHRpb25zLnJ1bkluQmFja2dyb3VuZCwKICB9KQogIGNvbnNvbGUuZGVidWcoIkJhY2tncm91bmRMb2NhdGlvbjogd2F0Y2hMb2NhdGlvbiwiLCBjYWxsYmFjaywgb3B0aW9ucywga2V5KQogIHJldHVybiB7CiAgICByZW1vdmUoKSB7CiAgICAgIHN0b3BXYXRjaGluZyhrZXkpCiAgICB9LAogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy5jbGVhcigpCg==</text>
+        <text encoding="base64">ICB3YXRjaGVycy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkJhY2tncm91bmRMb2NhdGlvbjogY29uZmlndXJhdGlvbiBzYXZlZCwgY2xlYXJpbmcgd2F0Y2hlcnMiKQogICAgICByZXR1cm4gbG9jYXRpb25XYXRjaGVyc1N0YXRlLndhdGNoZXJzLmNsZWFyKCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGxvY2F0aW9uV2F0Y2hlcnNTdGF0ZS53YXRjaGVycy5jbGVhcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
