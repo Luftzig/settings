@@ -86,6 +86,9 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/server.ts" timestamp="1551280827710">
+        <mark key="'" line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/.api-key" timestamp="1551255976714">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -96,6 +99,9 @@
         <mark key="]" line="29" column="9" />
         <mark key="^" line="29" column="20" />
         <mark key="." line="29" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/connection/ConnectionOptions.d.ts" timestamp="1551281228194">
+        <mark key="'" line="16" column="93" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/en/Feeling.kt" timestamp="1550587789955">
         <mark key="[" line="14" column="24" />
@@ -124,11 +130,19 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/helloworld.test.ts" timestamp="1551281514555">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/secrets.properties" timestamp="1551266795021">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/driver/sqlite/SqliteConnectionOptions.d.ts" timestamp="1551281245460">
+        <mark key="'" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1548843836620">
         <mark key="'" line="7517" column="48" />
@@ -164,8 +178,8 @@
         <mark key="^" line="1" column="81" />
         <mark key="." line="1" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" timestamp="1551279676990">
-        <mark key="'" line="10" column="27" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" timestamp="1551280747712">
+        <mark key="'" line="10" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.7.3/48f166dd8410d7859d4887985417ac8e0d03ad18/furhat-commons-1.7.3.jar!/furhatos/flow/kotlin/voice/Voice.class" timestamp="1550567404829">
         <mark key="'" line="40" column="20" />
@@ -194,14 +208,21 @@
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/utils/ConfigEmitter.js" timestamp="1549011684961">
         <mark key="'" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/index.d.ts" timestamp="1551279679546">
-        <mark key="'" line="186" column="24" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/index.d.ts" timestamp="1551280976635">
+        <mark key="'" line="168" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-store-instance.ts" timestamp="1549888972283">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="41" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.test.ts" timestamp="1551281626864">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationService.java" timestamp="1547649257287">
         <mark key="[" line="19" column="20" />
@@ -238,12 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="39" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="533" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="92" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="39" column="48" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/main.tsx" />
-      <jump line="29" column="23" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-component.tsx" />
       <jump line="52" column="43" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" />
       <jump line="53" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" />
       <jump line="54" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-background-handler.ts" />
@@ -336,69 +351,75 @@
       <jump line="33" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" />
       <jump line="35" column="20" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/general.kt" />
       <jump line="36" column="20" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/general.kt" />
-      <jump line="10" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" />
       <jump line="186" column="24" filename="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/index.d.ts" />
+      <jump line="10" column="40" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" />
+      <jump line="7" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/server.ts" />
+      <jump line="2" column="22" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.test.ts" />
+      <jump line="168" column="50" filename="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/index.d.ts" />
+      <jump line="16" column="93" filename="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/connection/ConnectionOptions.d.ts" />
+      <jump line="4" column="49" filename="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/driver/sqlite/SqliteConnectionOptions.d.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/helloworld.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZ0xvZ2dlci5sb2dJbmZvKCJTdGFydGluZyBBdXRvbWF0ZWQgU2Vzc2lvbiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXV0b21hdGVkOiA=</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
-        <text>phone</text>
+        <text>storage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZWNyZXRzRmlsZSA9IFRlbmdhaUF1dG9tYXRlZFNraWxsOjpjbGFzcy5qYXZhLmdldFJlc291cmNlKCIvc2VjcmV0cy5wcm9wZXJ0aWVzIikKICAgIHZhbCBzZWNyZXRzID0gUHJvcGVydGllcygpCiAgICBzZWNyZXRzRmlsZT8ucnVuIHsKICAgICAgICBzZWNyZXRzLmxvYWQoc2VjcmV0c0ZpbGUub3BlblN0cmVhbSgpKQogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcmVxdWVzdCBmcm9tICJzdXBlcnRlc3QiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZ0xvZ2dlci5sb2dJbmZvKCJTdGFydGluZyBBdXRvbWF0ZWQgU2Vzc2lvbiIpCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnZhbCBzZWNyZXRzRmlsZSA9IFRlbmdhaUF1dG9tYXRlZFNraWxsOjpjbGFzcy5qYXZhLmdldFJlc291cmNlKCIvc2VjcmV0cy5wcm9wZXJ0aWVzIikKdmFsIHNlY3JldHMgPSBQcm9wZXJ0aWVzKCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdCB9IGZyb20gImV4cHJlc3MiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VjcmV0c0ZpbGU/LnJ1biB7CiAgICBzZWNyZXRzLmxvYWQoc2VjcmV0c0ZpbGUub3BlblN0cmVhbSgpKQp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgIGl0KCJEb2Vzbid0IGNyYXNoPz8iLCAoKSA9PiB7CgogICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmZsb3cua290bGluLmRpYWxvZ0xvZ2dlcgo=</text>
+        <text encoding="base64">ICAgIGRpYWxvZ0xvZ2dlci5sb2dJbmZvKCJTdGFydGluZyBBdXRvbWF0ZWQgU2Vzc2lvbiIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnZhbCBzZWNyZXRzRmlsZSA9IFRlbmdhaUF1dG9tYXRlZFNraWxsOjpjbGFzcy5qYXZhLmdldFJlc291cmNlKCIvc2VjcmV0cy5wcm9wZXJ0aWVzIikKdmFsIHNlY3JldHMgPSBQcm9wZXJ0aWVzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIHNldHVwRGlhbG9nTG9nZ2VyKGxvZ2dpbmdJZDogU3RyaW5nKSB7CiAgICB2YWwgc2VjcmV0c0ZpbGUgPSBUZW5nYWlBdXRvbWF0ZWRTa2lsbDo6Y2xhc3MuamF2YS5nZXRSZXNvdXJjZSgiL3NlY3JldHMucHJvcGVydGllcyIpCiAgICB2YWwgc2VjcmV0cyA9IFByb3BlcnRpZXMoKQogICAgc2VjcmV0c0ZpbGU/LnJ1biB7CiAgICAgICAgc2VjcmV0cy5sb2FkKHNlY3JldHNGaWxlLm9wZW5TdHJlYW0oKSkKICAgIH0KICAgIGRpYWxvZ0xvZ2dlci5zdGFydFNlc3Npb24obmFtZSA9IGxvZ2dpbmdJZCwgY2xvdWRUb2tlbiA9IHNlY3JldHMuZ2V0UHJvcGVydHkoIkZVUkhBVF9BUElfVE9LRU4iKSkKfQo=</text>
+        <text encoding="base64">c2VjcmV0c0ZpbGU/LnJ1biB7CiAgICBzZWNyZXRzLmxvYWQoc2VjcmV0c0ZpbGUub3BlblN0cmVhbSgpKQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmZsb3cua290bGluLmRpYWxvZ0xvZ2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>phone</last-search>
+      <last-search>storage</last-search>
       <last-offset />
-      <last-pattern>phone</last-pattern>
+      <last-pattern>storage</last-pattern>
       <last-replace>stop</last-replace>
       <last-substitute>start</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contacts</entry>
         <entry>Focus</entry>
         <entry>playSiren</entry>
         <entry encoding="base64">XDxyZW1pbmRVc2VyXD4=</entry>
@@ -426,6 +446,7 @@
         <entry>AUTHORI</entry>
         <entry>polling</entry>
         <entry>phone</entry>
+        <entry>storage</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist doc</entry>
