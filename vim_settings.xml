@@ -114,8 +114,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" timestamp="1548945465960">
         <mark key="'" line="60" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/setup.kt" timestamp="1550567305560">
-        <mark key="'" line="13" column="20" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/setup.kt" timestamp="1551257915566">
+        <mark key="'" line="15" column="20" />
+        <mark key="[" line="29" column="61" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/views/contacts/edit-contact/edit-contact.tsx" timestamp="1549618102702">
         <mark key="'" line="122" column="24" />
@@ -129,11 +133,11 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/secrets.properties" timestamp="1551255984999">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="53" />
-        <mark key="^" line="6" column="40" />
-        <mark key="." line="0" column="53" />
+      <file name="$USER_HOME$/Projects/tengai-automated/secrets.properties" timestamp="1551257117109">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1548843836620">
         <mark key="'" line="7517" column="48" />
@@ -364,10 +368,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.api-key</text>
+        <text>skillSecrets</text>
       </register>
       <register name="-" type="4">
-        <text>.api-key</text>
+        <text>skillSecrets</text>
       </register>
       <register name="/" type="4">
         <text>phone</text>
@@ -376,40 +380,42 @@
         <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmxvY2FsTG9nZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tLSBZb3UgY2FuIGFsc28gYXNrIG1lIHRvIHJlcGVhdCwgb3IgcmVwaHJhc2UsIG15IHF1ZXN0aW9ucyB0byB5b3UuIEFuZCB5b3UgY2FuIGF0IGFueSB0aW1lIGFib3J0IHRoZSBpbnRlcnZpZXcsIGlmIHlvdSB3YW50IHRvLgogICAgIAogICAgIEFyZSB5b3UgcmVhZHk/CiAgICAgCiAgICAgY2FuIHlvdSBnaXZlIG1lIHNvbWUgbW9yZSB0aW1lCiAgICAgCiAgICAgVTAKICAgICBBcmUgeW91IHJlYWR5PwogICAgIAogICAgIGJ1dCBJIG5lZWQgc29tZSBtb3JlIHRpbWUKICAgICAKICAgICBVMAogICAgIEFyZSB5b3UgcmVhZHk/CiAgICAgCiAgICAgcmVwZWF0IHRoYXQKICAgICAKICAgICBVMAogICAgIEknbSBzb3JyeSwgSSBkaWRuJ3QgcmVhbGx5IHVuZGVyc3RhbmQgd2hhdCB5b3Ugc2FpZC4gQ291bGQgeW91IHJlcGVhdCB0aGF0PwogICAgIAogICAgIG5vIGFzayB5b3UgdG8gcmVwZWF0CiAgICAgCiAgICAgVTAKICAgICBObz8gT2suCiAgICAgCiAgICAgR29vZCBieWUhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJGQUlMRUQtSU5URU5UOiIsICJGYWlsZWQgdG8gdW5kZXJ0YW5kIFwiJHtpdC5zcGVlY2h9XCIuIExhbmd1YWdlPSR7aXQubGFuZ3VhZ2V9IiApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2V0UGVyc29uYShQZXJzb25hLnN3ZWRpc2gpCg==</text>
+      <register name="4" type="4">
+        <text>secretsFile?.let {
+        
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2V0UGVyc29uYShQZXJzb25hLmVuZ2xpc2gpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXNrKCJXw7bDtmxkIGp1IGxhamsgbWkgdG8gY29uZGFjdCB0aGUgaW50ZXJ2aWV3IGluIEVuZ2xpc2g/IikK</text>
+        <text encoding="base64">LS0tLSBZb3UgY2FuIGFsc28gYXNrIG1lIHRvIHJlcGVhdCwgb3IgcmVwaHJhc2UsIG15IHF1ZXN0aW9ucyB0byB5b3UuIEFuZCB5b3UgY2FuIGF0IGFueSB0aW1lIGFib3J0IHRoZSBpbnRlcnZpZXcsIGlmIHlvdSB3YW50IHRvLgogICAgIAogICAgIEFyZSB5b3UgcmVhZHk/CiAgICAgCiAgICAgY2FuIHlvdSBnaXZlIG1lIHNvbWUgbW9yZSB0aW1lCiAgICAgCiAgICAgVTAKICAgICBBcmUgeW91IHJlYWR5PwogICAgIAogICAgIGJ1dCBJIG5lZWQgc29tZSBtb3JlIHRpbWUKICAgICAKICAgICBVMAogICAgIEFyZSB5b3UgcmVhZHk/CiAgICAgCiAgICAgcmVwZWF0IHRoYXQKICAgICAKICAgICBVMAogICAgIEknbSBzb3JyeSwgSSBkaWRuJ3QgcmVhbGx5IHVuZGVyc3RhbmQgd2hhdCB5b3Ugc2FpZC4gQ291bGQgeW91IHJlcGVhdCB0aGF0PwogICAgIAogICAgIG5vIGFzayB5b3UgdG8gcmVwZWF0CiAgICAgCiAgICAgVTAKICAgICBObz8gT2suCiAgICAgCiAgICAgR29vZCBieWUhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2RlczogTGlzdDxTdHJpbmc+ID0gbGFuZ3VhZ2VzLm1hcCB7IGl0LmNvZGUgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJGQUlMRUQtSU5URU5UOiIsICJGYWlsZWQgdG8gdW5kZXJ0YW5kIFwiJHtpdC5zcGVlY2h9XCIuIExhbmd1YWdlPSR7aXQubGFuZ3VhZ2V9IiApCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">d2hlbiAoaXQpIHsKICAgICAgICAgICAgTGFuZ3VhZ2UuRU5HTElTSF9VUyAtPiAiZW4iCiAgICAgICAgICAgIExhbmd1YWdlLkVOR0xJU0hfR0IgLT4gImVuIgogICAgICAgICAgICBlbHNlIC0+ICJzd2UiCiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2V0UGVyc29uYShQZXJzb25hLnN3ZWRpc2gpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
