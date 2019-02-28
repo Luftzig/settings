@@ -47,12 +47,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/ormconfig.json" timestamp="1551341097831">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/ormconfig.json" timestamp="1551346594931">
         <mark key="'" line="29" column="16" />
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="34" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="44" column="5" />
+        <mark key="^" line="35" column="19" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1551268087426">
         <mark key="[" line="13" column="0" />
@@ -207,12 +207,11 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" timestamp="1551282553965">
         <mark key="'" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" timestamp="1551345317473">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="67" />
-        <mark key="." line="6" column="67" />
-        <mark key="^" line="6" column="67" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" timestamp="1551346944941">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="88" />
+        <mark key="." line="6" column="88" />
+        <mark key="^" line="6" column="88" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.7.3/48f166dd8410d7859d4887985417ac8e0d03ad18/furhat-commons-1.7.3.jar!/furhatos/flow/kotlin/voice/Voice.class" timestamp="1550567404829">
         <mark key="'" line="40" column="20" />
@@ -305,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="303" column="70" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="101" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" />
@@ -405,64 +403,59 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/ormconfig.json" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/ormconfig.json" />
       <jump line="29" column="16" filename="$USER_HOME$/Projects/tng-transcription-tool/ormconfig.json" />
+      <jump line="8" column="75" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.connect()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.connect()</text>
+        <text>isConnected</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdWJzY3JpYmVycyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9zdWJzY3JpYmVyLyouanMiCiAgICBdLAo=</text>
+        <text encoding="base64">ICAgICJtaWdyYXRpb25zIjogWwogICAgICAiZGlzdC9zZXJ2ZXIvc3JjL21pZ3JhdGlvbi8qLmpzIgogICAgXSwKICAgICJjbGkiOiB7CiAgICAgICJlbnRpdGllc0RpciI6ICJkaXN0L3NlcnZlci9zcmMvZW50aXR5IiwKICAgICAgIm1pZ3JhdGlvbnNEaXIiOiAiZGlzdC9zZXJ2ZXIvc3JjL21pZ3JhdGlvbiIsCiAgICAgICJzdWJzY3JpYmVyc0RpciI6ICJkaXN0L3NlcnZlci9zcmMvc3Vic2NyaWJlciIKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gc2V0VGltZW91dChyZXNvbHZlLCAxMDAwMCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIkNvbm5lY3Rpb24gY3JlYXRlZCIsIGNvbm5lY3Rpb24uaXNDb25uZWN0ZWQpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJlbnRpdGllcyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9lbnRpdHkvKi5qcyIsCiAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW50aXRpZXM6IFtfX2Rpcm5hbWUgKyAiL2VudGl0eS8qey5qcywudHN9Il0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                                           type: &quot;sqlite&quot;,
-                                           database: &quot;:memory:&quot;,
-                                           entities: [
-                                               &quot;../entity/*.ts&quot;
-                                           ],
-                                       }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnbG9iYWxTZXR1cDogIi4vc2VydmVyL3NyYy9fX3Rlc3RfXy9zZXR1cC1vcm0udHMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3Rpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJlbnRpdGllcyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9lbnRpdHkvKi5qcyIsCiAgICBdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ29ubmVjdGlvbiB9IGZyb20gInR5cGVvcm0iCg==</text>
+        <text encoding="base64">ICAgICAgZW50aXRpZXM6IFtfX2Rpcm5hbWUgKyAiL2VudGl0eS8qey5qcywudHN9Il0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
