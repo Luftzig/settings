@@ -177,21 +177,17 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="/BaseState.kt" timestamp="1551255154979">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/Yes.kt" timestamp="1550588102789">
         <mark key="'" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" timestamp="1550678910456">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/jest.config.js" timestamp="1551342460707">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="57" />
-        <mark key="." line="3" column="57" />
-        <mark key="^" line="3" column="57" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/jest.config.js" timestamp="1551345206429">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="4" column="63" />
+        <mark key="." line="4" column="63" />
+        <mark key="^" line="4" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1549277489553">
         <mark key="[" line="6" column="78" />
@@ -211,12 +207,12 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" timestamp="1551282553965">
         <mark key="'" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" timestamp="1551342357169">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" timestamp="1551345317473">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="67" />
+        <mark key="." line="6" column="67" />
+        <mark key="^" line="6" column="67" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.7.3/48f166dd8410d7859d4887985417ac8e0d03ad18/furhat-commons-1.7.3.jar!/furhatos/flow/kotlin/voice/Voice.class" timestamp="1550567404829">
         <mark key="'" line="40" column="20" />
@@ -244,6 +240,12 @@
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/utils/ConfigEmitter.js" timestamp="1549011684961">
         <mark key="'" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/teardown-orm.ts" timestamp="1551345166558">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typeorm/index.d.ts" timestamp="1551280976635">
         <mark key="'" line="168" column="50" />
@@ -408,11 +410,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJlbnRpdGllcyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9lbnRpdHkvKi5qcyIsCiAgICBdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>.connect()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;true&quot;</text>
+        <text>.connect()</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -421,15 +423,30 @@
         <text encoding="base64">ICAgICJzdWJzY3JpYmVycyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9zdWJzY3JpYmVyLyouanMiCiAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJlbnRpdGllcyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9lbnRpdHkvKi5qcyIsCiAgICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbm5lY3Rpb24K</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJlbnRpdGllcyI6IFsKICAgICAgImRpc3Qvc2VydmVyL3NyYy9lbnRpdHkvKi5qcyIsCiAgICBdLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZW50aXRpZXM6IFtfX2Rpcm5hbWUgKyAiL2VudGl0eS8qey5qcywudHN9Il0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="u" type="4">
+        <text>@:wgUiw</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                                            type: &quot;sqlite&quot;,
                                            database: &quot;:memory:&quot;,
@@ -438,29 +455,14 @@
                                            ],
                                        }</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBnbG9iYWxTZXR1cDogIi4vc2VydmVyL3NyYy9fX3Rlc3RfXy9zZXR1cC1vcm0udHMiLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="u" type="4">
-        <text>@:wgUiw</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ29ubmVjdGlvbiB9IGZyb20gInR5cGVvcm0iCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CmJlZm9yZUFsbChhc3luYyAoKSA9PiBjcmVhdGVDb25uZWN0aW9uKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICJzcWxpdGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YWJhc2U6ICI6bWVtb3J5OiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbnRpdGllczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkaXN0L3NlcnZlci9zcmMvZW50aXR5LyouanMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvc3VwZXJ0ZXN0IjogIl4yLjAuNyIsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ29ubmVjdGlvbiB9IGZyb20gInR5cGVvcm0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
