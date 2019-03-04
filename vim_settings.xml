@@ -143,11 +143,12 @@
         <mark key="^" line="3" column="60" />
         <mark key="." line="3" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551704470890">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551705726684">
+        <mark key="'" line="58" column="26" />
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/jest.config.js" timestamp="1551441218606">
         <mark key="[" line="1" column="0" />
@@ -176,6 +177,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/.gitignore" timestamp="1551705469691">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" timestamp="1551350324672">
         <mark key="[" line="3" column="0" />
@@ -247,6 +254,12 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/.env" timestamp="1551705866911">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="61" />
+        <mark key="^" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/validate/rules.ts" timestamp="1549297558602">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="19" />
@@ -267,9 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="78" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
-      <jump line="105" column="80" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
-      <jump line="110" column="52" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="121" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="160" column="17" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/views/timer/timer-screen.tsx" />
       <jump line="310" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -367,16 +377,19 @@
       <jump line="23" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/ormconfig.json" />
       <jump line="8" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/server.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/.gitignore" />
+      <jump line="50" column="39" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
+      <jump line="54" column="37" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
+      <jump line="58" column="26" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -394,25 +407,25 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC50aGVuKGNvbm5lY3Rpb24gPT4gKHsgY29ubmVjdGlvbiB9KSwK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29ubmVjdGlvbiwK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ1VuaW1wbGVtZW50ZWQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
