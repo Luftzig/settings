@@ -186,12 +186,12 @@
       <file name="kotlinDecompiled/AcapelaVoice.decompiled.java" timestamp="1550678565857">
         <mark key="'" line="22" column="1030" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551713153694">
-        <mark key="'" line="0" column="28" />
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="55" />
-        <mark key="." line="45" column="55" />
-        <mark key="^" line="45" column="55" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551715060001">
+        <mark key="'" line="29" column="21" />
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/Yes.kt" timestamp="1550588102789">
         <mark key="'" line="3" column="11" />
@@ -353,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="318" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="340" column="45" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -453,13 +452,14 @@
       <jump line="40" column="18" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" />
       <jump line="42" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" />
       <jump line="1" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/entity/FurhatUtterance.ts" />
+      <jump line="45" column="21" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ1VuaW1wbGVtZW50ZWQnKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -471,40 +471,40 @@
         <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZWplY3QoIlVuaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ1VuaW1wbGVtZW50ZWQnKQo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldE9iamVjdHMoYnVja2V0TmFtZTogTWF5YmU8c3RyaW5nPiwgb2JqZWN0c1ByZWZpeDogTWF5YmU8c3RyaW5nPikgewogIHJldHVybiAoam9iOiBGZXRjaEpvYikgPT4gbmV3IFMzKCkKICAgIC5saXN0T2JqZWN0cyh7CiAgICAgICAgICAgICAgICAgICBCdWNrZXQ6IHdpdGhEZWZhdWx0KHByb2Nlc3MuZW52WydBV1NfTE9HU19CVUNLRVQnXSwgYnVja2V0TmFtZSksCiAgICAgICAgICAgICAgICAgICBQcmVmaXg6IHdpdGhEZWZhdWx0KHByb2Nlc3MuZW52WydBV1NfTE9HU19QUkVGSVgnXSwgb2JqZWN0c1ByZWZpeCksCiAgICAgICAgICAgICAgICAgfSkKICAgIC5wcm9taXNlKCkKICAgIC50aGVuKChvYmplY3RzOiBMaXN0T2JqZWN0c091dHB1dCkgPT4gKHsgb2JqZWN0czogb2JqZWN0cy5Db250ZW50cywgam9iIH0pKQp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC50aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4K</text>
+        <text encoding="base64">ICAgIFByb21pc2UucmVqZWN0KCdVbmltcGxlbWVudGVkJykK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBnZXRPYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZldGNoZWQK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgYXN5bmMgZnVuY3Rpb24gY2xlYXJUYWJsZXMoKSB7CiAgICBhd2FpdCBnZXRSZXBvc2l0b3J5KEZldGNoSm9iTGlzdGluZykuZGVsZXRlKHt9KS50aGVuKCgpID0+IGdldFJlcG9zaXRvcnkoRmV0Y2hKb2IpLmRlbGV0ZSh7fSkpCiAgfQo=</text>
+        <text encoding="base64">ICBpZiAoaXNKdXN0KGxvZ3NTaW5jZSkpIHsKCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC50aGVuKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTG9va2luZyBmb3IgREIgY29uZmlnJywgcHJvY2Vzcy5lbnYuTk9ERV9FTlYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKChjb25uZWN0aW9uKSA9PiBjb25uZWN0aW9uLCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
