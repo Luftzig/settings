@@ -260,12 +260,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551801135346">
-        <mark key="'" line="87" column="10" />
-        <mark key="[" line="72" column="10" />
-        <mark key="]" line="72" column="15" />
-        <mark key="^" line="72" column="15" />
-        <mark key="." line="72" column="15" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551804737688">
+        <mark key="'" line="12" column="44" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/.gitignore" timestamp="1551705469691">
         <mark key="[" line="3" column="5" />
@@ -422,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="54" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="18" column="57" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="19" column="62" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="25" column="62" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
@@ -522,16 +521,17 @@
       <jump line="8" column="16" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Result.ts" />
       <jump line="38" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
       <jump line="32" column="55" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
+      <jump line="12" column="44" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'a9cfb74b-eb86-4a03-bfa4-e733d7354983/logs/'</text>
+        <text>Buffer | string</text>
       </register>
       <register name="-" type="4">
-        <text>'a9cfb74b-eb86-4a03-bfa4-e733d7354983/logs/'</text>
+        <text>Buffer | string</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
