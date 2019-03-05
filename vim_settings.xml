@@ -243,12 +243,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551789661055">
-        <mark key="'" line="55" column="38" />
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="4" column="43" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551790230269">
+        <mark key="'" line="77" column="27" />
+        <mark key="[" line="30" column="78" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/.gitignore" timestamp="1551705469691">
         <mark key="[" line="3" column="5" />
@@ -314,6 +314,13 @@
         <mark key="'" line="186" column="68" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="156" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" timestamp="1551790712351">
+        <mark key="'" line="71" column="24" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="60" />
+        <mark key="." line="75" column="60" />
+        <mark key="^" line="75" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-store-instance.ts" timestamp="1549888972283">
         <mark key="[" line="3" column="22" />
@@ -392,9 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="52" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-mauron85-background-geolocation/index.d.ts" />
-      <jump line="653" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="207" column="12" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="227" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="237" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="243" column="41" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -492,16 +496,19 @@
       <jump line="74" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="55" column="38" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
+      <jump line="68" column="24" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
+      <jump line="43" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
+      <jump line="74" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJTYW5pdHkiLCBmYWtlTGFzdFJ1bi50b0RhdGUoKSwgbW9tZW50KGZha2VMYXN0UnVuKS5hZGQoMSwgJ21pbnV0ZScpLnRvRGF0ZSgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
@@ -510,22 +517,22 @@
         <text encoding="base64">ICBleHBvcnQgdHlwZSBCb2R5ID0gQnVmZmVyfFVpbnQ4QXJyYXl8QmxvYnxzdHJpbmd8UmVhZGFibGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRSCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJTYW5pdHkiLCBmYWtlTGFzdFJ1bi50b0RhdGUoKSwgbW9tZW50KGZha2VMYXN0UnVuKS5hZGQoMSwgJ21pbnV0ZScpLnRvRGF0ZSgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBnZXRSCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -534,16 +541,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmlsdGVyT2JqZWN0cygpIHsKICAKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldE1vY2tMb2dzVG9SZXR1cm4oZmFrZU9iamVjdHMpCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZmlsdGVyT2JqZWN0cygpIHsKICAKfQoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHNldE1vY2tMb2dzVG9SZXR1cm4oZmFrZU9iamVjdHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCA9IHJlcXVpcmUoJ21vbWVudCcpCg==</text>
+        <text encoding="base64">ICAgIHNldE1vY2tMb2dzVG9SZXR1cm4oZmFrZU9iamVjdHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
