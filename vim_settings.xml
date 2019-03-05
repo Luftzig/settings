@@ -37,7 +37,7 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="33" />
         <mark key="." line="31" column="0" />
-        <mark key="^" line="83" column="18" />
+        <mark key="^" line="84" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1548336213740">
         <mark key="[" line="0" column="0" />
@@ -186,12 +186,12 @@
       <file name="kotlinDecompiled/AcapelaVoice.decompiled.java" timestamp="1550678565857">
         <mark key="'" line="22" column="1030" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551776086374">
-        <mark key="'" line="84" column="10" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="20" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551776297214">
+        <mark key="'" line="63" column="16" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/Yes.kt" timestamp="1550588102789">
         <mark key="'" line="3" column="11" />
@@ -203,11 +203,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" timestamp="1551712993768">
-        <mark key="[" line="89" column="64" />
-        <mark key="]" line="89" column="86" />
-        <mark key="." line="89" column="86" />
-        <mark key="^" line="89" column="86" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" timestamp="1551776914428">
+        <mark key="'" line="71" column="25" />
+        <mark key="[" line="93" column="94" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1549277489553">
         <mark key="[" line="6" column="78" />
@@ -358,9 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" />
-      <jump line="126" column="33" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" />
-      <jump line="192" column="2" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/position.ts" />
       <jump line="349" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="512" column="8" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -456,18 +454,21 @@
       <jump line="1" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/entity/FurhatUtterance.ts" />
       <jump line="45" column="21" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="49" column="50" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
-      <jump line="34" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="82" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
+      <jump line="34" column="63" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
+      <jump line="63" column="16" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" />
+      <jump line="68" column="25" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getTime()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getTime()</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
@@ -476,40 +477,40 @@
         <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZWplY3QoIlVuaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgRmV0Y2hKb2JMaXN0aW5nIH0gZnJvbSAnLi9GZXRjaEpvYkxpc3RpbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoam9iLmZldGNoZWRMaXN0aW5ncy5tYXAobGlzdGluZyA9PiBsaXN0aW5nLm5hbWUpKS50b0VxdWFsKFsna2V5MScsICdrZXkyJ10pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKHIpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnTGFzdCBmZXRjaCcsIGxhc3RGZXRjaERhdGUsICdSZXN1bHRzIGZyb20gQVdTJywgcikKICAgICAgICByZXR1cm4gcgogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIExhc3RNb2RpZmllZDogY29uZmlnLmxhc3QK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b2JqZWN0cy5Db250ZW50cy5maWx0ZXIoCiAgICAgICAgICB4ID0+ICFleGlzdGluZ0tleXMuaGFzKHguS2V5KSwKICAgICAgICAp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGdldFJlcG9zaXRvcnkoRmV0Y2hKb2JMaXN0aW5nKS5pbnNlcnQoeyBqb2I6IG9sZEpvYi5pZGVudGlmaWVyc1swXSwgbmFtZTogJ29sZC1rZXknIH0pCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5OiBGaW5kTWFueU9wdGlvbnM8RmV0Y2hKb2JMaXN0aW5nPiA9IHsgd2hlcmUsIHNlbGVjdDogWyduYW1lJ10gfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmV0Y2hKb2JMaXN0aW5nIH0gZnJvbSAnLi4vZW50aXR5L0ZldGNoSm9iTGlzdGluZycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmV0Y2hKb2JMaXN0aW5nIH0gZnJvbSAnLi4vZW50aXR5L0ZldGNoSm9iTGlzdGluZycK</text>
+        <text encoding="base64">ZXhwb3J0IHsgRmV0Y2hKb2JMaXN0aW5nIH0gZnJvbSAnLi9GZXRjaEpvYkxpc3RpbmcnCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKHIpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnTGFzdCBmZXRjaCcsIGxhc3RGZXRjaERhdGUsICdSZXN1bHRzIGZyb20gQVdTJywgcikKICAgICAgICByZXR1cm4gcgogICAgICB9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBAT25lVG9NYW55KF8gPT4gRmV0Y2hKb2JMaXN0aW5nLCAobGlzdGluZzogRmV0Y2hKb2JMaXN0aW5nKSA9PiBsaXN0aW5nLmpvYikKICBmZXRjaGVkTGlzdGluZ3M6IEZldGNoSm9iTGlzdGluZ1tdCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">b2JqZWN0cy5Db250ZW50cy5maWx0ZXIoCiAgICAgICAgICB4ID0+ICFleGlzdGluZ0tleXMuaGFzKHguS2V5KSwKICAgICAgICAp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmV0Y2hKb2JMaXN0aW5nIH0gZnJvbSAnLi9GZXRjaEpvYkxpc3RpbmcnCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5OiBGaW5kTWFueU9wdGlvbnM8RmV0Y2hKb2JMaXN0aW5nPiA9IHsgd2hlcmUsIHNlbGVjdDogWyduYW1lJ10gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmV0Y2hKb2JMaXN0aW5nIH0gZnJvbSAnLi4vZW50aXR5L0ZldGNoSm9iTGlzdGluZycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
