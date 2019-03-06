@@ -214,11 +214,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551857436907">
-        <mark key="[" line="78" column="27" />
-        <mark key="]" line="78" column="37" />
-        <mark key="^" line="78" column="37" />
-        <mark key="." line="78" column="37" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551859626335">
+        <mark key="'" line="103" column="21" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="99" column="111" />
+        <mark key="^" line="99" column="111" />
+        <mark key="." line="99" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/.gitignore" timestamp="1551705469691">
         <mark key="[" line="3" column="5" />
@@ -237,7 +238,7 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551857494740">
+      <file name="/Dummy.txt" timestamp="1551859653146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -269,12 +270,6 @@
         <mark key="'" line="186" column="68" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="156" />
-      </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" timestamp="1551857488524">
-        <mark key="[" line="153" column="35" />
-        <mark key="]" line="153" column="35" />
-        <mark key="." line="153" column="35" />
-        <mark key="^" line="154" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-store-instance.ts" timestamp="1549888972283">
         <mark key="[" line="3" column="22" />
@@ -350,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="62" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="25" column="62" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="26" column="63" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
@@ -440,7 +434,6 @@
       <jump line="74" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="76" column="37" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="88" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
-      <jump line="94" column="54" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="93" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="60" column="6" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
       <jump line="91" column="11" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
@@ -450,58 +443,61 @@
       <jump line="32" column="55" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
       <jump line="49" column="43" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="12" column="44" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
+      <jump line="176" column="19" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
+      <jump line="94" column="21" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>F</text>
+        <text>ConsumeLogs</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>ConsumeLogs</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
       </register>
-      <register name="0" type="4">
-        <text>a9cfb74b-eb86-4a03-bfa4-e733d7354983/logs/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKFRBRywgJ2ZpbmFsaXppbmcgdGFzayBleGVjdXRpb24nKQogIGpvYi5lbmRlZERhdGUgPSBuZXcgRGF0ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmRlYnVnKFRBRywgJ2ZpbmFsaXppbmcgdGFzayBleGVjdXRpb24nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnT2JqZWN0IGFmdGVyIGZpbHRlcjonLCBvYmplY3RzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETzogQmUgYSBiaXQgbW9yZSBzcGVjaWZpYyBtYXliZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSW4gZmlsdGVyT2JqZWN0cycsIC4uLmFyZ3VtZW50cykK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>logsSince
+        ? { endedDate: MoreThan(logsSince), status: FetchJobStatus.Completed }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQm9keSA9IEJ1ZmZlciB8IFVpbnQ4QXJyYXkgfCBzdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdoZXJlOiBGaW5kQ29uZGl0aW9uczxGZXRjaExvZ3NKb2I+ID0gbG9nc1NpbmNlCiAgICAgID8geyBlbmRlZERhdGU6IE1vcmVUaGFuKGxvZ3NTaW5jZSksIHN0YXR1czogRmV0Y2hKb2JTdGF0dXMuQ29tcGxldGVkIH0KICAgICAgOiB7IHN0YXR1czogRmV0Y2hKb2JTdGF0dXMuQ29tcGxldGVkIH0KICAgIGNvbnN0IHF1ZXJ5OiBGaW5kTWFueU9wdGlvbnM8RmV0Y2hMb2dzSm9iPiA9IHsgd2hlcmUsIG9yZGVyOiB7IGVuZGVkRGF0ZTogJ0RFU0MnIH0sIHNlbGVjdDogWydlbmRlZERhdGUnXSB9CiAgICByZXR1cm4gZ2V0UmVwb3NpdG9yeShGZXRjaExvZ3NKb2IpCiAgICAgIC5maW5kT25lKHF1ZXJ5KQogICAgICAudGhlbigobGFzdEpvYj86IEZldGNoTG9nc0pvYikgPT4gKHsgam9iLCBsYXN0RmV0Y2hEYXRlOiBtYXAoUi5wcm9wKCdlbmRlZERhdGUnKSwgbGFzdEpvYikgfSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bih7CiAgICAgICAgICAgICAgICAgbG9nc1NpbmNlOiBtb21lbnQoZmFrZUxhc3RSdW4pLnN1YnRyYWN0KDEsICdkYXknKS50b0RhdGUoKSwKICAgICAgICAgICAgICAgICBvYmplY3RzUHJvZHVjZXI6IG1ha2VGYWtlUHJvZHVjZXIoZmFrZU9iamVjdHMpLAogICAgICAgICAgICAgICAgIGxvZ3NDb25zdW1lcjogbG9ncyA9PiBQcm9taXNlLnJlc29sdmUobG9ncyksCiAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cnVuKHsKICAKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
