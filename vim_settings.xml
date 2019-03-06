@@ -15,10 +15,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1551877639107">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="89" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1551879844327">
+        <mark key="[" line="16" column="110" />
+        <mark key="]" line="16" column="124" />
+        <mark key="." line="16" column="124" />
+        <mark key="^" line="16" column="124" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/swe.kt" timestamp="1550591158048">
         <mark key="[" line="5" column="0" />
@@ -182,11 +183,11 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/robot-names.properties" timestamp="1551878204593">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/robot-names.properties" timestamp="1551879910916">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup.ts" timestamp="1551364094272">
         <mark key="[" line="4" column="87" />
@@ -260,17 +261,18 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/README.md" timestamp="1551869879308">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="65" />
-        <mark key="." line="17" column="31" />
+      <file name="$USER_HOME$/Projects/tengai-automated/README.md" timestamp="1551879046231">
+        <mark key="[" line="30" column="102" />
+        <mark key="]" line="30" column="115" />
+        <mark key="^" line="30" column="115" />
+        <mark key="." line="30" column="115" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1551878708777">
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="27" column="106" />
-        <mark key="." line="27" column="106" />
-        <mark key="^" line="27" column="106" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1551879142657">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="30" column="66" />
+        <mark key="]" line="30" column="82" />
+        <mark key="." line="30" column="82" />
+        <mark key="^" line="30" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" timestamp="1551789406909">
         <mark key="'" line="44" column="0" />
@@ -376,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="63" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intentMaps.kt" />
       <jump line="24" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="8" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/Yes.kt" />
       <jump line="10" column="25" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/en.kt" />
@@ -476,16 +477,17 @@
       <jump line="94" column="21" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="36" column="13" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/general.kt" />
       <jump line="16" column="27" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/general.kt" />
+      <jump line="29" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>it.id</text>
+        <text>Could not find Furhat API Token in 'secrets.properties': $errorMessage</text>
       </register>
       <register name="-" type="4">
-        <text>it.id</text>
+        <text>Could not find Furhat API Token in 'secrets.properties': $errorMessage</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
@@ -494,40 +496,40 @@
         <text encoding="base64">ICAgIHZhbCBzZWNyZXRzRmlsZSA9IFRlbmdhaUF1dG9tYXRlZFNraWxsOjpjbGFzcy5qYXZhLmdldFJlc291cmNlKCIvc2VjcmV0cy5wcm9wZXJ0aWVzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cERpYWxvZ0xvZ2dlcihpdC5pZCkK</text>
+        <text encoding="base64">ICAgIGlmIChzZWNyZXRzRmlsZSA9PSBudWxsKSB7CiAgICAgICAgbG9jYWxMb2dnZXIud2FybigiQ291bGQgbm90IGZpbmQgIikKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cERpYWxvZ0xvZ2dlcihpdC5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZW4gKG1hY2hpbmVJZCkK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4gKG1hY2hpbmVJZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGZ1biBnZXROYW1lKCkgewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGZ1biBnZXROYW1lKCkgewp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lc0ZpbGUgPSBUZW5nYWlBdXRvbWF0ZWRTa2lsbDo6Y2xhc3MuamF2YS5nZXRSZXNvdXJjZSgiL3JvYm90LW5hbWVzLnByb3BlcnRpZXMiKQogICAgdmFsIG5hbWVzID0gUHJvcGVydGllcygpCiAgICBuYW1lc0ZpbGU/LnJ1biB7CiAgICAgICAgbmFtZXMubG9hZChuYW1lc0ZpbGUub3BlblN0cmVhbSgpKQogICAgfQogICAgdmFsIG1hY2hpbmVJZCA9IFN5c3RlbS5nZXRlbnYoIkZVUkhBVF9NQUNISU5FX0lEIik/LnRvTG93ZXJDYXNlKCkKICAgIHdoZW4gKG1hY2hpbmVJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zgo=</text>
+        <text encoding="base64">ICAgIHZhbCBuYW1lc0ZpbGUgPSBUZW5nYWlBdXRvbWF0ZWRTa2lsbDo6Y2xhc3MuamF2YS5nZXRSZXNvdXJjZSgiL3JvYm90LW5hbWVzLnByb3BlcnRpZXMiKQogICAgdmFsIG5hbWVzID0gUHJvcGVydGllcygpCiAgICBuYW1lc0ZpbGU/LnJ1biB7CiAgICAgICAgbmFtZXMubG9hZChuYW1lc0ZpbGUub3BlblN0cmVhbSgpKQogICAgfQogICAgdmFsIG1hY2hpbmVJZCA9IFN5c3RlbS5nZXRlbnYoIkZVUkhBVF9NQUNISU5FX0lEIik/LnRvTG93ZXJDYXNlKCkKICAgIHdoZW4gKG1hY2hpbmVJZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
