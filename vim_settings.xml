@@ -15,10 +15,10 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1551879844327">
-        <mark key="[" line="16" column="110" />
-        <mark key="]" line="16" column="124" />
-        <mark key="." line="16" column="124" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1551880656926">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="48" />
+        <mark key="." line="18" column="48" />
         <mark key="^" line="16" column="124" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/swe.kt" timestamp="1550591158048">
@@ -484,10 +484,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Could not find Furhat API Token in 'secrets.properties': $errorMessage</text>
+        <text encoding="base64">IChhdXRvbWF0ZWQp</text>
       </register>
       <register name="-" type="4">
-        <text>Could not find Furhat API Token in 'secrets.properties': $errorMessage</text>
+        <text encoding="base64">IChhdXRvbWF0ZWQp</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
