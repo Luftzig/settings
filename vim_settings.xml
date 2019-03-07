@@ -250,11 +250,11 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1551970784234">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="36" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="39" column="36" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1551973264966">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
@@ -262,8 +262,8 @@
         <mark key="." line="18" column="91" />
         <mark key="^" line="18" column="91" />
       </file>
-      <file name="/fragment.kt" timestamp="1551963369970">
-        <mark key="[" line="0" column="3" />
+      <file name="/fragment.kt" timestamp="1551973276813">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="3" />
@@ -573,58 +573,52 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>, duration = 1500</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>, duration = 1500</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBORUNLX1BBTiB0byAwLjgKICAgICAgICAgICAgICAgICAgICBORUNLX1JPTEwgdG8gMS4wCiAgICAgICAgICAgICAgICAgICAgR0FaRV9QQU4gdG8gLTEuMAo=</text>
+      <register name="0" type="4">
+        <text>runDelayed(first = 250..750, repeat = null, timeUnit = TimeUnit.MILLISECONDS, instant = true)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTkVDS19QQU4gdG8gMC44Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmFuZG9tKAovLyAgICAgICAgICAgICAgICAgICAgZnVyaGF0LmdsYW5jZShMb2NhdGlvbi5ET1dOX1JJR0hULCBkdXJhdGlvbiA9IDUwMCwgYXN5bmMgPSB0cnVlKSwKLy8gICAgICAgICAgICAgICAgICAgIGZ1cmhhdC5nbGFuY2UoTG9jYXRpb24uRE9XTl9MRUZULCBkdXJhdGlvbiA9IDUwMCwgYXN5bmMgPSB0cnVlKSwKLy8gICAgICAgICAgICAgICAgICAgIGZ1cmhhdC5nbGFuY2UoTG9jYXRpb24uVVBfUklHSFQsIGR1cmF0aW9uID0gNTAwLCBhc3luYyA9IHRydWUpCi8vICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>defineGesture {
-                frame(0.5) {
-                    NECK_PAN to 0.8
-                }
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJzLmN1cnJlbnQuaGVhZC5yb3RhdGlvbi54Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTE9PS19ET1dOX0xFRlQgdG8gMC4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT09LX0RPV05fTEVGVCB0byAwLjgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdXJoYXQuZ2VzdHVyZShHZXN0dXJlcy5HYXplQXdheSgxLjAsIDEuNSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0KCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdMQU4K</text>
+        <text encoding="base64">b25FdmVudDxTdG9wQmFja2NoYW5uZWxzPiB7CiAgICB0ZXJtaW5hdGUoKQp9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>() {
-
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBydW5EZWxheWVkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
