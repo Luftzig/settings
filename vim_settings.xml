@@ -18,8 +18,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/contact.ts" timestamp="1549295213553">
         <mark key="'" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" timestamp="1551961309493">
-        <mark key="'" line="62" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" timestamp="1551965360641">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1551952785114">
         <mark key="[" line="18" column="57" />
@@ -51,7 +55,6 @@
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ReformulateBehaviour.kt" timestamp="1551087292948">
         <mark key="'" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/package.json" timestamp="1551948831479" />
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" timestamp="1551885903264">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="1" />
@@ -61,8 +64,14 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" timestamp="1548945465960">
         <mark key="'" line="60" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/RegisterResponse.kt" timestamp="1551963424585">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/RegisterResponse.kt" timestamp="1551965792470">
         <mark key="'" line="12" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1551965421600">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="64" />
+        <mark key="." line="35" column="64" />
+        <mark key="^" line="35" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/libphonenumber-js/types.d.ts" timestamp="1549295802192">
         <mark key="'" line="51" column="13" />
@@ -125,7 +134,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1551859626335" />
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup-orm.ts" timestamp="1551350324672">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -369,13 +377,20 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" timestamp="1551349584977">
         <mark key="'" line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" timestamp="1551965826320">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="52" />
+        <mark key="^" line="60" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/storage-access.ts" timestamp="1551782941359">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="8" column="65" />
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551963435136">
+      <file name="/Dummy.txt" timestamp="1551964950441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -457,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" />
       <jump line="26" column="19" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="22" column="13" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" />
       <jump line="14" column="18" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionFour.kt" />
@@ -557,31 +571,32 @@
       <jump line="46" column="25" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
       <jump line="19" column="23" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionOne.kt" />
       <jump line="12" column="46" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/RegisterResponse.kt" />
+      <jump line="18" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>audiolength</text>
+        <text>SITUATION</text>
       </register>
       <register name="-" type="4">
-        <text>audiolength</text>
+        <text>SITUATION</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
       </register>
-      <register name="0" type="4">
-        <text>'InterviewList'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGluY2x1ZGUoQmFja2NoYW5uZWxCZWhhdmlvdXIpCiAgICBpbmNsdWRlKFJlcGVhdEJlaGF2aW91cikKICAgIGluY2x1ZGUoUmVnaXN0ZXJSZXNwb25zZShuZXh0U3RhdGUgPSBRdWVzdGlvbjJSZXN1bHQpKQoKICAgIG9uRW50cnkgewogICAgICAgIGZ1cmhhdC5jYW5kaWRhdGVEYXRhLnJlc2V0V29yZENvdW50Rm9yQ3VycmVudFF1ZXN0aW9uKCkKICAgICAgICBmdXJoYXQuYXNrT3BlbihwaHJhc2VzLlNFQ09ORF9RVUVTVElPTl9TSVRVQVRJT04pCiAgICB9CgogICAgb25SZWVudHJ5IHsKICAgICAgICBmdXJoYXQuYXNrT3BlbihwaHJhc2VzLlNFQ09ORF9RVUVTVElPTl9TSVRVQVRJT04pCiAgICB9CgogICAgaW5jbHVkZShCYXNlQmVoYXZpb3VyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KChpdCBhcyBSZXNwb25zZSkuc3BlZWNoIGFzIFNlbnNlU3BlZWNoKS5hdWRpb2xlbmd0aCAtIChpdCBhcyBTZW5zZVNwZWVjaCkubGVuZ3RjY2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdC4K</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoQmFja2NoYW5uZWxCZWhhdmlvdXIpCiAgICBpbmNsdWRlKFJlcGVhdEJlaGF2aW91cikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -590,25 +605,27 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQ8U2Vuc2VTcGVlY2hTdGFydD4oaW5zdGFudCA9IHRydWUpIHsKICAgICAgICBsb2NhbExvZ2dlci5kZWJ1ZygiU3RhcnRpbmcgYmFja2NoYW5uZWwgYmVoYXZpb3VyIikKICAgICAgICBwYXJhbGxlbCB7CiAgICAgICAgICAgIGdvdG8oYWZmaXJtYXRpdmVCYWNrY2hhbm5lbCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoUmVmb3JtdWxhdGVCZWhhdmlvdXJXaXRoUGFyYW1zKHF1ZXN0aW9uID0gcGhyYXNlcy5TRUNPTkRfUVVFU1RJT05fVkFSSUFOVCkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFsIGFmZmlybWF0aXZlQmFja2NoYW5uZWw6IFN0YXRlID0gc3RhdGUgewogICAgb25FdmVudDxTdG9wQmFja2NoYW5uZWxzPiB7CiAgICAgICAgdGVybWluYXRlKCkKICAgIH0KfQoK</text>
+      <register name="5" type="8">
+        <text>abstract
+abstract
+abstract</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KChpdCBhcyBSZXNwb25zZSkuc3BlZWNoIGFzIFNlbnNlU3BlZWNoKS5hdWRpb2xlbmd0aCAtIChpdCBhcyBTZW5zZVNwZWVjaCkubGVuZ3RjY2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQ8U2Vuc2VTcGVlY2hTdGFydD4oaW5zdGFudCA9IHRydWUpIHsKICAgICAgICBsb2NhbExvZ2dlci5kZWJ1ZygiU3RhcnRpbmcgYmFja2NoYW5uZWwgYmVoYXZpb3VyIikKICAgICAgICBwYXJhbGxlbCB7CiAgICAgICAgICAgIGdvdG8oYWZmaXJtYXRpdmVCYWNrY2hhbm5lbCkKICAgICAgICB9CiAgICB9CgogICAgb25FdmVudDxTZW5zZVNwZWVjaEVuZD4oaW5zdGFudCA9IHRydWUpIHsKICAgICAgICByYWlzZShTdG9wQmFja2NoYW5uZWxzKCkpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdC4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIG9uVGltZShyZXBlYXQgPSA0MDAwLi43MDAwKSB7Ci8vICAgICAgICBmdXJoYXQuc2F5KHBocmFzZXMuTk9OX1ZFUkJBTF9BRkZJUk0pIC8vICN0b2RvOiBzd2FwIHRoaXMgb3V0IHdpdGggcHJvcGVyIGN1c3RvbS1yZWNvcmRlZCBlbGluIGJhY2tjaGFubmVsIHdoZW4gcG9zc2libGUKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIG9uRXZlbnQ8U2Vuc2VTcGVlY2hTdGFydD4oaW5zdGFudCA9IHRydWUpIHsKICAgICAgICBsb2NhbExvZ2dlci5kZWJ1ZygiU3RhcnRpbmcgYmFja2NoYW5uZWwgYmVoYXZpb3VyIikKICAgICAgICBwYXJhbGxlbCB7CiAgICAgICAgICAgIGdvdG8oYWZmaXJtYXRpdmVCYWNrY2hhbm5lbCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
