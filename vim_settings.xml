@@ -250,6 +250,12 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1551968841780">
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="25" column="50" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="25" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="91" />
@@ -366,12 +372,12 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.ts" timestamp="1551349584977">
         <mark key="'" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" timestamp="1551965826320">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="52" />
-        <mark key="." line="17" column="52" />
-        <mark key="^" line="17" column="52" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" timestamp="1551968169920">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/storage-access.ts" timestamp="1551782941359">
         <mark key="[" line="6" column="1" />
@@ -567,16 +573,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SITUATION</text>
+        <text>if (it.target ==)</text>
       </register>
       <register name="-" type="4">
-        <text>SITUATION</text>
+        <text>if (it.target ==)</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoQmFja2NoYW5uZWxCZWhhdmlvdXIpCiAgICBpbmNsdWRlKFJlcGVhdEJlaGF2aW91cikKICAgIGluY2x1ZGUoUmVnaXN0ZXJSZXNwb25zZShuZXh0U3RhdGUgPSBRdWVzdGlvbjJSZXN1bHQpKQoKICAgIG9uRW50cnkgewogICAgICAgIGZ1cmhhdC5jYW5kaWRhdGVEYXRhLnJlc2V0V29yZENvdW50Rm9yQ3VycmVudFF1ZXN0aW9uKCkKICAgICAgICBmdXJoYXQuYXNrT3BlbihwaHJhc2VzLlNFQ09ORF9RVUVTVElPTl9TSVRVQVRJT04pCiAgICB9CgogICAgb25SZWVudHJ5IHsKICAgICAgICBmdXJoYXQuYXNrT3BlbihwaHJhc2VzLlNFQ09ORF9RVUVTVElPTl9TSVRVQVRJT04pCiAgICB9CgogICAgaW5jbHVkZShCYXNlQmVoYXZpb3VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5kZWJ1ZygiU2Vuc2UgdXNlciBhdHRlbmQiLCBpdC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -585,36 +591,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoQmFja2NoYW5uZWxCZWhhdmlvdXIpCiAgICBpbmNsdWRlKFJlcGVhdEJlaGF2aW91cikK</text>
+        <text encoding="base64">ICAgIG9uVGltZSgwLCAxMDAwLCBpbnN0YW50ID0gdHJ1ZSkgewogICAgICAgIGlmICghdXNlcnMuY3VycmVudC5pc0F0dGVuZGluZ0Z1cmhhdCkgewogICAgICAgICAgICBmdXJoYXQuZ2VzdHVyZShHZXN0dXJlcy5HYXplQXdheSkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoUmVmb3JtdWxhdGVCZWhhdmlvdXJXaXRoUGFyYW1zKHF1ZXN0aW9uID0gcGhyYXNlcy5TRUNPTkRfUVVFU1RJT05fVkFSSUFOVCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="8">
-        <text>abstract
-abstract
-abstract</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG9uRXZlbnQ8ZnVyaGF0b3MuZXZlbnQuc2Vuc2VzLlNlbnNlU3BlZWNoRGlyZWN0aW9uPiB7CiAgICAgICAgbG9jYWxMb2dnZXIuZGVidWcoIlNwZWVjaCBEaXJlY3Rpb24/Pz8iLCBpdC50b1N0cmluZygpKQogICAgfQoKICAgIG9uRXZlbnQ8ZnVyaGF0b3MuZXZlbnQuc2Vuc2VzLlNlbnNlVXNlckF0dGVuZD4gewogICAgICAgIGxvY2FsTG9nZ2VyLmRlYnVnKCJVc2VyIEF0dGVuZD8/PyIsIGl0LnRvU3RyaW5nKCkpCiAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KChpdCBhcyBSZXNwb25zZSkuc3BlZWNoIGFzIFNlbnNlU3BlZWNoKS5hdWRpb2xlbmd0aCAtIChpdCBhcyBTZW5zZVNwZWVjaCkubGVuZ3RjY2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdC4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQ8U2Vuc2VTcGVlY2hTdGFydD4oaW5zdGFudCA9IHRydWUpIHsKICAgICAgICBsb2NhbExvZ2dlci5kZWJ1ZygiU3RhcnRpbmcgYmFja2NoYW5uZWwgYmVoYXZpb3VyIikKICAgICAgICBwYXJhbGxlbCB7CiAgICAgICAgICAgIGdvdG8oYWZmaXJtYXRpdmVCYWNrY2hhbm5lbCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoQmFja2NoYW5uZWxCZWhhdmlvdXIpCiAgICBpbmNsdWRlKFJlcGVhdEJlaGF2aW91cikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -653,7 +657,6 @@ abstract</text>
         <entry>getObject</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist doc</entry>
         <entry>actionlist documentation</entry>
         <entry>actionlist quick</entry>
         <entry>actionlist surround</entry>
@@ -672,6 +675,7 @@ abstract</text>
         <entry>s/Focus/Blur/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L3N0b3AvZw==</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
