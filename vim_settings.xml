@@ -145,11 +145,11 @@
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ReformulateBehaviour.kt" timestamp="1551087292948">
         <mark key="'" line="2" column="21" />
       </file>
-      <file name="/fragment.kt" timestamp="1551973276813">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="3" />
+      <file name="/fragment.kt" timestamp="1552042043172">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/theme/color.ts" timestamp="1548768386167">
         <mark key="[" line="13" column="6" />
@@ -353,7 +353,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.7.3/48f166dd8410d7859d4887985417ac8e0d03ad18/furhat-commons-1.7.3.jar!/furhatos/flow/kotlin/voice/Voice.class" timestamp="1550567404829">
         <mark key="'" line="40" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552037599200">
+      <file name="/Dummy.txt" timestamp="1552043016697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -374,12 +374,11 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-mauron85-background-geolocation/index.d.ts" timestamp="1550155754673">
         <mark key="'" line="423" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" timestamp="1552041310339">
-        <mark key="'" line="69" column="31" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" timestamp="1552043007423">
         <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="61" column="3" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="68" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/notification-background-handler.ts" timestamp="1547563637848">
         <mark key="[" line="1" column="39" />
@@ -475,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="21" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ReformulateBehaviour.kt" />
       <jump line="52" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
       <jump line="54" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
       <jump line="16" column="43" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionSix.kt" />
@@ -575,58 +573,59 @@
       <jump line="37" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="34" column="33" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
       <jump line="51" column="31" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
+      <jump line="57" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>getObject</text>
       </register>
-      <register name="0" type="4">
-        <text>runDelayed(first = 250..750, repeat = null, timeUnit = TimeUnit.MILLISECONDS, instant = true)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdldFZvaWNlcyhWb2ljZShnZW5kZXIgPSBnZW5kZXIsIGxhbmd1YWdlID0gbGFuZ3VhZ2UpKQogICAgICAgIC5zb3J0ZWRCeSB7IHZvaWNlIC0+CiAgICAgICAgICAgIHZhbCBwcmlvcml0eSA9CiAgICAgICAgICAgICAgICBwcmlvcml0aWVzLmluZGV4T2ZGaXJzdCB7IHByaW9yaXR5IC0+IHZvaWNlLnVuaXF1ZU5hbWUuY29udGFpbnMocHJpb3JpdHksIGlnbm9yZUNhc2UgPSB0cnVlKSB9CiAgICAgICAgICAgIGlmIChwcmlvcml0eSA9PSAtMSkgSW50Lk1BWF9WQUxVRSBlbHNlIHByaW9yaXR5CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwVGhyb3cgeyBlIC0+IEV4Y2VwdGlvbigiQ291bGQgbm90IGZpbmQgYXBwcm9wcmlhdGUgdm9pY2UiLCBlKX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWNlID0gc2VsZWN0Vm9pY2UocGVyc29uYSwgdm9pY2VQcmlvcml0aWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwVGhyb3cgeyBlIC0+IEV4Y2VwdGlvbigiQ291bGQgbm90IGZpbmQgYXBwcm9wcmlhdGUgdm9pY2UiLCBlKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvaWNlID0gdm9pY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHZvaWNlID0gaWYgKGlzUnVubmluZ0xvY2FsbHkpIGxvY2FsVm9pY2UgZWxzZSBwZXJzb25hLnZvaWNlCiAgICBsb2NhbExvZ2dlci5pbmZvKCJBdmFpbGFibGUgdm9pY2VzOiAke2dldFZvaWNlcyh2b2ljZSkubWFwIHsgIiR7aXQubmFtZX0gLSAke2l0Lmxhbmd1YWdlfSIgfX0iKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuIDxUPlQubWFwVGhyb3coZjogKGU6IFRocm93YWJsZSkgLT4gVGhyb3dhYmxlKTogVCA9IHRyeSB7CiAgICB0aGlzCn0gY2F0Y2ggKGU6IFRocm93YWJsZSkgeyB0aHJvdyBmKGUpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlyc3QK</text>
+        <text encoding="base64">ZnVuIDxUPlQubWFwVGhyb3coZjogKGU6IFRocm93YWJsZSkgLT4gVGhyb3dhYmxlKTogVCA9IHRyeSB7CiAgICB0aGlzCn0gY2F0Y2ggKGU6IFRocm93YWJsZSkgeyB0aHJvdyBmKGUpfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZvaWNlIC0+CiAgICAgICAgcHJpb3JpdGllcy5pbmRleE9mRmlyc3QgeyBwcmlvcml0eSAtPiB2b2ljZS51bmlxdWVOYW1lLmNvbnRhaW5zKHByaW9yaXR5LCBpZ25vcmVDYXNlID0gdHJ1ZSkKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldFZvaWNlcygpCg==</text>
+        <text encoding="base64">Z2V0Vm9pY2VzKFZvaWNlKGdlbmRlciA9IEdlbmRlci5GRU1BTEUsIGxhbmd1YWdlID0gcGVyc29uYS5sYW5ndWFnZSkpLm1hcCB7IHZvaWNlIC0+ICIke3ZvaWNlUHJpb3JpdGllcy5pbmRleE9mRmlyc3QgeyBwcmlvcml0eSAtPiB2b2ljZS51bmlxdWVOYW1lLmNvbnRhaW5zKHByaW9yaXR5LCBpZ25vcmVDYXNlID0gdHJ1ZSkgfX0sICR7dm9pY2UubmFtZX0iICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldFZvaWNlcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
