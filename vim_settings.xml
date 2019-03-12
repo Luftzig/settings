@@ -137,12 +137,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" timestamp="1552321370363">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="68" column="26" />
-        <mark key="]" line="68" column="27" />
-        <mark key="." line="68" column="27" />
-        <mark key="^" line="44" column="24" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" timestamp="1552387148209">
+        <mark key="'" line="73" column="18" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/secrets.properties" timestamp="1551266795021">
         <mark key="[" line="1" column="0" />
@@ -523,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="34" column="63" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="63" column="16" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.test.ts" />
@@ -606,7 +605,6 @@
       <jump line="53" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="60" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="67" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="65" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="36" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="24" column="17" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="41" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
@@ -623,58 +621,62 @@
       <jump line="2" column="55" filename="$USER_HOME$/Projects/tengai-transcribe/src/Router/Routes.elm" />
       <jump line="3" column="71" filename="$USER_HOME$/Projects/tengai-transcribe/src/InterviewList/Update.elm" />
       <jump line="6" column="19" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.test.tsx" />
+      <jump line="65" column="5" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
+      <jump line="73" column="18" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ2luZGV4JyAK</text>
+      <register name="&quot;" type="4">
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>Table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3aWR0aDogJHsocHJvcHM6IHsgd2lkdGg6IHN0cmluZyB9KSA9PiBwcm9wcy53aWR0aH07Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1sZWZ0OiBzb2xpZCAxcHggI2VkZWRlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ2luZGV4JyAK</text>
+        <text encoding="base64">ICBib3JkZXI6IHNvbGlkIDFweCAjZWRlZGVkOwogIGJhY2tncm91bmQtY29sb3I6ICNmZmZmZmY7CiAgYm94LXNoYWRvdzogMCAycHggNHB4IDAgcmdiYSgxODQsIDE4NCwgMTg0LCAwLjUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KyAnJwo=</text>
+        <text encoding="base64">ICBib3JkZXI6IHNvbGlkIDFweCAjZWRlZGVkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBJbnRlcnZpZXdSb3coKSBrZXk9e2ludGVydmlldy5pZH0gaW50ZXJ2aWV3PXtpbnRlcnZpZXd9Lz4K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CmNvbnN0IEhlYWRlclJvdyA9IHN0eWxlZC5kaXZgCiAgaGVpZ2h0OiA2MHB4OwogIHBhZGRpbmctbGVmdDogNXB4OwogIHBhZGRpbmctcmlnaHQ6IDVweDsKICB3aWR0aDogMTAwJTsKYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICB3aWR0aDogJHsocHJvcHM6IHsgd2lkdGg6IHN0cmluZyB9KSA9PiBwcm9wcy53aWR0aH07CiAgbWF4LXdpZHRoOiAkeyhwcm9wczogeyB3aWR0aDogc3RyaW5nIH0pID0+IHByb3BzLndpZHRofTsK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>`
+  
+`</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwvSGVhZGVyUm93Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEJyb3dzZXIK</text>
+        <text encoding="base64">ICAgIDxIZWFkZXJSb3c+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ2luZGV4JyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
