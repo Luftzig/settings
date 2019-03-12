@@ -162,6 +162,13 @@
         <mark key="." line="61" column="12" />
         <mark key="^" line="61" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/index.tsx" timestamp="1552385819489">
+        <mark key="'" line="14" column="5" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/Yes.kt" timestamp="1550588102789">
         <mark key="'" line="3" column="11" />
       </file>
@@ -210,6 +217,12 @@
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/utils/ConfigEmitter.js" timestamp="1549011684961">
         <mark key="'" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.test.tsx" timestamp="1552385851825">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationService.java" timestamp="1547649257287">
         <mark key="[" line="19" column="20" />
@@ -390,9 +403,6 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1548843836620">
         <mark key="'" line="7517" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/public/fonts/stylesheet.css" timestamp="1552311069013">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/README.md" timestamp="1551879046231">
         <mark key="[" line="30" column="102" />
         <mark key="]" line="30" column="115" />
@@ -430,7 +440,7 @@
         <mark key="." line="8" column="65" />
         <mark key="^" line="8" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552314109630">
+      <file name="/Dummy.txt" timestamp="1552385947017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -513,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="50" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="82" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="34" column="63" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
       <jump line="63" column="16" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs.ts" />
@@ -613,16 +622,17 @@
       <jump line="26" column="14" filename="$USER_HOME$/Projects/tengai-transcribe/src/View.elm" />
       <jump line="2" column="55" filename="$USER_HOME$/Projects/tengai-transcribe/src/Router/Routes.elm" />
       <jump line="3" column="71" filename="$USER_HOME$/Projects/tengai-transcribe/src/InterviewList/Update.elm" />
+      <jump line="6" column="19" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.test.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ2luZGV4JyAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHw=</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>Table</text>
@@ -631,16 +641,16 @@
         <text encoding="base64">ICB3aWR0aDogJHsocHJvcHM6IHsgd2lkdGg6IHN0cmluZyB9KSA9PiBwcm9wcy53aWR0aH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJ2luZGV4JyAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">KyAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -649,22 +659,22 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEJyb3dzZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IEJyb3dzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
