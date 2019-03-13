@@ -283,11 +283,11 @@
         <mark key="." line="4" column="107" />
         <mark key="^" line="4" column="107" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1552495187968">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="56" />
-        <mark key="." line="38" column="56" />
-        <mark key="^" line="38" column="56" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1552495806189">
+        <mark key="[" line="74" column="16" />
+        <mark key="]" line="74" column="23" />
+        <mark key="." line="74" column="23" />
+        <mark key="^" line="74" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
@@ -388,7 +388,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552485998092">
+      <file name="/Dummy.txt" timestamp="1552495834007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -567,10 +567,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Repeat</text>
+        <text>ignore</text>
       </register>
       <register name="-" type="4">
-        <text>Repeat</text>
+        <text>ignore</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
