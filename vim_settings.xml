@@ -43,7 +43,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="^" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/Router/Routes.elm" timestamp="1552330518040">
         <mark key="'" line="2" column="55" />
@@ -101,6 +100,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" timestamp="1552485608879">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" timestamp="1552481703844">
         <mark key="'" line="93" column="55" />
         <mark key="[" line="99" column="45" />
@@ -113,13 +117,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" timestamp="1552481883584">
-        <mark key="'" line="99" column="21" />
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="17" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="36" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/index.tsx" timestamp="1552402210419">
         <mark key="'" line="13" column="5" />
@@ -161,12 +158,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.test.tsx" timestamp="1552385851825">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationService.java" timestamp="1547649257287">
         <mark key="[" line="19" column="20" />
@@ -227,6 +218,12 @@
         <mark key="]" line="48" column="21" />
         <mark key="." line="48" column="21" />
         <mark key="^" line="48" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/README.md" timestamp="1552486129678">
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/Models/Interview.elm" timestamp="1552331731137">
         <mark key="[" line="0" column="92" />
@@ -387,7 +384,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552482649454">
+      <file name="/Dummy.txt" timestamp="1552485998092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -565,8 +562,8 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>16px;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBBV1MuY29uZmlnLmNyZWRlbnRpYWxzLgo=</text>
       </register>
       <register name="-" type="4">
         <text>16px;</text>
@@ -578,7 +575,7 @@
         <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6ICR7KHByb3BzOiB7IGZpcnN0PzogYm9vbGVhbjsgbGFzdD86IGJvb2xlYW4gfSkgPT4gKHByb3BzLmZpcnN0ID8gJzIwcHgnIDogJzE1cHgnKX07CiAgcGFkZGluZy1yaWdodDogJHsocHJvcHM6IHsgbGFzdD86IGJvb2xlYW4gfSkgPT4gKHByb3BzLmxhc3QgPyAnMjBweCcgOiAnMTVweCcpfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBV1MuY29uZmlnLmNyZWRlbnRpYWxzLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -587,31 +584,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmFtZSB9IGZyb20gJy4vTmFtZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtb21lbnQiOiAiXjIuMjQuMCIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTmFtZSB9IGZyb20gJy4vTmFtZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRG9uZSB9IGZyb20gJy4vbW9kZWxzL0RvbmUnCg==</text>
+        <text encoding="base64">ICAgICJtb21lbnQiOiAiXjIuMjQuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRG9uZSB9IGZyb20gJy4vbW9kZWxzL0RvbmUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmFtZSB9IGZyb20gJy4vTmFtZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
