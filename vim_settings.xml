@@ -35,6 +35,12 @@
         <mark key="." line="18" column="57" />
         <mark key="^" line="18" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/preflightCheck.kt" timestamp="1552570968799">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/models/Email.ts" timestamp="1552059661942">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="25" />
@@ -74,11 +80,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/fillForm.kt" timestamp="1552570108263">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/fillForm.kt" timestamp="1552570932924">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1552569916291">
         <mark key="'" line="41" column="62" />
@@ -173,12 +179,12 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/test.kt" timestamp="1552570018306">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/test.kt" timestamp="1552570881160">
         <mark key="'" line="23" column="18" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="20" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/swe/TestPhrase.kt" timestamp="1552568555056">
         <mark key="[" line="4" column="14" />
@@ -588,10 +594,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Idle</text>
+        <text>TestState</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
@@ -600,40 +606,40 @@
         <text encoding="base64">ICAgICAgICByZWVudHJ5KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uUmVlbnRyeSB7ICB9Cg==</text>
+        <text encoding="base64">ICAgIG9uRXZlbnQK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG9uUmVlbnRyeSB7ICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXMK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
