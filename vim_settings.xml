@@ -22,8 +22,8 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" timestamp="1552569041191">
-        <mark key="'" line="62" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" timestamp="1552573369605">
+        <mark key="'" line="101" column="17" />
         <mark key="[" line="104" column="31" />
         <mark key="]" line="104" column="36" />
         <mark key="." line="104" column="36" />
@@ -86,12 +86,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1552569916291">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1552573575966">
         <mark key="'" line="41" column="62" />
-        <mark key="[" line="9" column="120" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="8" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/State.ts" timestamp="1552411197424">
         <mark key="'" line="2" column="30" />
@@ -142,12 +142,9 @@
         <mark key="[" line="34" column="49" />
         <mark key="]" line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/index.tsx" timestamp="1552402210419">
-        <mark key="'" line="23" column="5" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" timestamp="1552573709987">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="46" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/models/Done.ts" timestamp="1552059709542">
         <mark key="[" line="0" column="31" />
@@ -178,6 +175,12 @@
         <mark key="]" line="12" column="57" />
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1552574182366">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/test.kt" timestamp="1552570881160">
         <mark key="'" line="23" column="18" />
@@ -488,9 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
-      <jump line="60" column="6" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
-      <jump line="91" column="11" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
       <jump line="125" column="34" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" />
       <jump line="8" column="16" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Result.ts" />
       <jump line="38" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
@@ -588,58 +588,61 @@
       <jump line="18" column="27" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/general.kt" />
       <jump line="19" column="18" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/test.kt" />
       <jump line="31" column="62" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="30" column="38" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
+      <jump line="101" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" />
+      <jump line="18" column="19" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>TestState</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWVudHJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXNrIHsKICAgICAgICAgICAgcmFuZG9tIHsKICAgICAgICAgICAgICAgICtwaHJhc2VzLkNPVUxEX05PVF9VTkRFUlNUQU5ECiAgICAgICAgICAgICAgICArcGhyYXNlcy5DT1VMRF9OT1RfVU5ERVJTVEFORF9TSE9SVAogICAgICAgICAgICAgICAgK3BocmFzZXMuQ09VTERfTk9UX1VOREVSU1RBTkRfU0hPUlQyCiAgICAgICAgICAgICAgICArcGhyYXNlcy5DT1VMRF9OT1RfVU5ERVJTVEFORF9TSE9SVDMKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZWVudHJ5KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoUmVwZWF0QmVoYXZpb3VyKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2UgewogICAgICAgIAogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uUmVlbnRyeSB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG9uRXZlbnQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuYXMK</text>
+        <text encoding="base64">ICAgIG9uUmVlbnRyeSB7ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
