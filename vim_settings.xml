@@ -473,12 +473,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" timestamp="1552647947210">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" timestamp="1552648015236">
         <mark key="'" line="22" column="13" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="36" column="26" />
-        <mark key="^" line="36" column="26" />
-        <mark key="." line="36" column="26" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/View.elm" timestamp="1552330574694">
         <mark key="'" line="26" column="14" />
@@ -702,7 +702,7 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>being used</text>
@@ -714,37 +714,41 @@
         <text encoding="base64">ICAgICAgICBzZW5kKCJEb25lV2l0aFByZUZsaWdodENoZWNrIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBmaXJzdE5hbWU6IFN0cmluZyA9ICIiCiAgICB2YWwgbGFzdE5hbWU6IFN0cmluZyA9ICIiCiAgICB2YWwgcGhvbmV0aWNOYW1lOiBTdHJpbmc/ID0gbnVsbAogICAgdmFsIHdpemFyZDogU3RyaW5nID0gIiIKICAgIHZhbCBlbWFpbDogU3RyaW5nID0gIiIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="8">
+        <text>r
+r
+r
+r
+r</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm5vdygpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5JU09fTE9DQUxfREFURV9USU1FKQogICAgICAgIHNldHVwRGlhbG9nTG9nZ2VyKCIkUk9CT1RfTkFNRS0kZGF0ZVRpbWUiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRTcGVlY2hSZWNQaHJhc2VzKGxhbmc6IExhbmd1YWdlKTogTGlzdDxTdHJpbmc+IHsKICAgICAgICByZXR1cm4gZ2V0U3BlZWNoUmVjUGhyYXNlc0J5TGFuZ3VhZ2UobGFuZywgIlRlc3RQaHJhc2UiKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBTRVRVUF9URVNUX1BBU1NFRDogU3RyaW5nID0gIkJyYSEgTWlrcm9mb25lbiBmdW5nZXJhciBicmEgb2NoIGludGVybmV0IGNvbm5lY3Rpb24gw6RyIGdvdHQuICIgKwogICAgICAgICJOdSwgc27DpGxsYSBmeWxsIGkgcmVnaXN0cmF0aW9uIGZvcm11bMOkcmV0LiIKICAgIG92ZXJyaWRlIHZhbCBTRVRVUF9DT1VMRE5UX0hFQVI6IFN0cmluZyA9ICJIw7ZyZGUgamFnIGludGUgZGlnLiBQbGVhc2UgY2hlY2sgaWYgdGhlIG1pY3JvcGhvbmUgaXMgY29ubmVjdGVkOyBJbiAiICsKICAgICAgICAidGhlIFNraWxsIEdVSSwgY2hlY2sgdGhhdCB0aGUgZXh0ZXJuYWwgbWljcm9waG9uZSBpcyBiZWluZyB1c2VkLiIKICAgIG92ZXJyaWRlIHZhbCBTRVRVUF9GQUlMRUQ6IFN0cmluZyA9ICJJIGNvdWxkIG5vdCB1c2UgdGhlIHNwZWVjaCByZWNvZ25pemVyLiBUaGlzIGNvdWxkIGJlIGR1ZSBhbiBpbnRlcm5ldCAiICsKICAgICAgICAiY29ubmVjdGlvbiBwcm9ibGVtLiBZb3UnbGwgZmluZCB0aGUgY29tcGxldGUgZXJyb3IgbWVzc2FnZSBpbiB0aGUgU2tpbGwgR1VJLiIKICAgIG92ZXJyaWRlIHZhbCBTRVRVUF9XRUxDT01FID0gIllvdSB3aWxsIG5vdyBzZXR1cCB0aGUgcm9ib3QuIFBvc2l0aW9uIHRoZSBtaWNyb3Bob25lLCBhbmQgdGhlbiBmcm9tIHNwZWFrIHRvIGl0IGZyb20gIiArCiAgICAgICAgInRoZSBpbnRlcnZpZXdlZSdzIHBvc2l0aW9uIgogICAgb3ZlcnJpZGUgdmFsIFNFVFVQX0FTS19GT1JfUEhSQVNFOiBTdHJpbmcgPSAiU27DpGxsYSBzw6RnICdCbMOlYsOkcnNwYWonLiIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGF0ZVRpbWUgPSBMb2NhbERhdGVUaW1lLm5vdygpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5JU09fTE9DQUxfREFURV9USU1FKQogICAgICAgIHNldHVwRGlhbG9nTG9nZ2VyKCIkUk9CT1RfTkFNRS0kZGF0ZVRpbWUiKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
