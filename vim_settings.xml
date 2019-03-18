@@ -256,6 +256,12 @@
         <mark key="." line="4" column="107" />
         <mark key="^" line="4" column="107" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1552916665895">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="27" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
         <mark key="]" line="18" column="91" />
@@ -534,11 +540,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZShpdCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>#</text>
@@ -547,22 +553,22 @@
         <text encoding="base64">ICAgIGxpc3RlbigKICAgICAgICBlbmRTaWwgPSBTSUxFTkNFX0FNT1VOVF9CRUZPUkVfRU5EX09GX0xJU1RFTklOR19NUywKICAgICAgICBtYXhTcGVlY2ggPSBNQVhfTElTVEVOSU5HX1RJTUVfTVMsCiAgICAgICAgdGltZW91dCA9IE1BWF9MSVNURU5JTkdfVElNRV9GT1JfU0lMRU5DRV9NUwogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZShpdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVVc2VyU3RvcHBlZFNwZWFraW5nKGJyaWRnZSwgbmV4dFN0YXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9uRXZlbnQ8TW9uaXRvckxpc3RlblN0YXJ0PiB7CiAgICAgICAgbGFzdEludGVycnVwdFRpbWUgPSAwCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -571,16 +577,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDQ1MDAgLy8gRGVmYXVsdDogODAwLiBtcyBvZiBzaWxlbmNlIHRoYXQgc2hvdWxkIHBhc3MgYWZ0ZXIgdXNlciBoYXMgc3Bva2VuIGJlZm9yZSBhbiBgb25SZXNwb25zZWAgaGFuZGxlciBpcyB0cmlnZ2VyZWQuCg==</text>
+        <text encoding="base64">ICAgIG9uRXZlbnQ8U2Vuc2VTcGVlY2hTdGFydD4gewogICAgICAgIGxhc3RJbnRlcnJ1cHRUaW1lID0gMAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBlbmRTaWwgPSA0NTAwIC8vIERlZmF1bHQ6IDgwMC4gbXMgb2Ygc2lsZW5jZSB0aGF0IHNob3VsZCBwYXNzIGFmdGVyIHVzZXIgaGFzIHNwb2tlbiBiZWZvcmUgYW4gYG9uUmVzcG9uc2VgIGhhbmRsZXIgaXMgdHJpZ2dlcmVkLgogICAgdmFsIG1heFNwZWVjaCA9IDU5MDAwIC8vIERlZmF1bHQ6IDE1MDAwLiBNYXhpbXVtIG1zIG9mIGFuIHV0dGVyYW5jZSBiZWZvcmUgRnVyaGF0IHdpbGwgaW50ZXJydXB0IHRoZSB1c2VyIChpLmUuLCBhbiBgb25SZXNwb25zZWAgaXMgdHJpZ2dlcmVkIHdpdGggd2hhdCBoYXMgYmVlbiBzYWlkIHNvIGZhcikuIChtYXggNjBzKQogICAgdmFsIHRpbWVvdXQgPSA4MDAwIC8vIERlZmF1bHQ6IDUwMDAuIG1zIG9mIHNpbGVuY2UgdGhhdCBzaG91bGQgcGFzcyBiZWZvcmUgYW4gYG9uTm9SZXNwb25zZWAgaGFuZGxlciBpcyB0cmlnZ2VyZWQuCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIEZ1cmhhdC5hc2tPcGVuCg==</text>
+        <text encoding="base64">ICAgICAgICBoYW5kbGVVc2VyU3RvcHBlZFNwZWFraW5nKGJyaWRnZSwgbmV4dFN0YXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
