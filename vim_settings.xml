@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/node_modules/@types/react/index.d.ts" timestamp="1552302870303">
         <mark key="'" line="85" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/logsCreationConsumer.ts" timestamp="1553010887374">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/logsCreationConsumer.ts" timestamp="1553011904466">
+        <mark key="[" line="14" column="103" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/node_modules/hydux-react-router/lib/index.d.ts" timestamp="1551886656079">
         <mark key="'" line="29" column="75" />
@@ -602,7 +602,7 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/.env" timestamp="1551803270861">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/.env" timestamp="1553010977023">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="52" />
         <mark key="^" line="3" column="52" />
@@ -744,10 +744,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>Och hur</text>
@@ -755,8 +755,8 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGxpZnQ8QTEsIEEyLCBBMywgQTQsIEE1LCBBNiwgQTcsIEE4LCBSPigKICBmOiAoYTE/OiBBMSwgYTI/OiBBMiwgYTM/OiBBMywgYTQ/OiBBNCwgYTU/OiBBNSwgYTY/OiBBNiwgYTc/OiBBNywgYTg/OiBBOCkgPT4gUiwKKTogKGExPzogQTEsIGEyPzogQTIsIGEzPzogQTMsIGE0PzogQTQsIGE1PzogQTUsIGE2PzogQTYsIGE3PzogQTcsIGE4PzogQTgpID0+IFByb21pc2U8Uj4gewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bG9nID0+IGxpZnQobG9nID0+IEpTT04ucGFyc2UobG9nLmNvbnRlbnQpKShsb2cpCiAgICAgICAgLmNhdGNoKChlKSA9PiBjb25zb2xlLmxvZygnRmFpbGVkIHRvIHBhcnNlIGZpbGU6JywgZSwgJzpcbicsIGxvZykp</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -765,7 +765,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -780,16 +780,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBGaXJzdCBsb2dcbmAsIGxvZ3NbMF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bG9ncyA9PiB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgRmlyc3QgbG9nXG5gLCBsb2dzWzBdKQogICAgICAgICAgICAgICAgcmV0dXJuIHBhcnRpdGlvbihsb2dzLm1hcChsb2cgPT4gSlNPTi5wYXJzZShsb2cpKS5tYXAoY3JlYXRlSW50ZXJ2aWV3RnJvbUxvZykpCiAgICAgICAgICAgICAgICAgIC50aGVuKCh7IHJlc29sdmVkLCByZWplY3RlZCB9KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coCiAgICAgICAgICAgICAgICAgICAgICBgVHJpZWQgdG8gY3JlYXRlICR7bG9ncy5sZW5ndGh9IGxvZ3M6CiAgICAgICR7cmVzb2x2ZWQubGVuZ3RofSBzdWNjZWVkZWQsICR7cmVqZWN0ZWQubGVuZ3RofSBmYWlsZWQuCiAgICAgIEZpcnN0IHJlamVjdGlvbiBpczogJHtyZWplY3RlZFswXSBpbnN0YW5jZW9mIEVycm9yID8gKDxFcnJvcj5yZWplY3RlZFswXSkuc3RhY2sgOiByZWplY3RlZFswXX0KICAgICAgUmVqZWN0aW9ucyBhcmU6ICR7cmVqZWN0ZWR9YCwKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGxvZ3MubGVuZ3RoID4gMCAmJiByZWplY3RlZC5sZW5ndGggPiAwCiAgICAgICAgICAgICAgICAgICAgICA/IFByb21pc2UucmVqZWN0KGAke3JlamVjdGVkLmxlbmd0aH0gb3V0IG9mICR7bG9ncy5sZW5ndGh9IGxvZ3MgZmFpbGVkIHRvIHBhcnNlLmApCiAgICAgICAgICAgICAgICAgICAgICA6IFByb21pc2UucmVzb2x2ZSgpCiAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
