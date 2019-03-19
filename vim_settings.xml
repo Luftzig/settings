@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/node_modules/@types/react/index.d.ts" timestamp="1552302870303">
         <mark key="'" line="85" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/logsCreationConsumer.ts" timestamp="1552993382424">
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="7" column="75" />
-        <mark key="." line="7" column="75" />
-        <mark key="^" line="7" column="75" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/logsCreationConsumer.ts" timestamp="1553010887374">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/node_modules/hydux-react-router/lib/index.d.ts" timestamp="1551886656079">
         <mark key="'" line="29" column="75" />
@@ -208,11 +208,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1553001646337">
-        <mark key="[" line="75" column="54" />
-        <mark key="]" line="76" column="15" />
-        <mark key="." line="76" column="15" />
-        <mark key="^" line="76" column="15" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" timestamp="1553010767211">
+        <mark key="[" line="80" column="3" />
+        <mark key="]" line="80" column="3" />
+        <mark key="." line="80" column="3" />
+        <mark key="^" line="80" column="1" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.8.0/45ade2703e7c8050a0a371926803dfbf7016d56f/furhat-commons-1.8.0.jar!/furhatos/event/responses/ResponseRecognizer.class" timestamp="1552574610951">
         <mark key="'" line="85" column="0" />
@@ -554,8 +554,8 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/entity/FurhatUtterance.ts" timestamp="1551708535807">
         <mark key="'" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" timestamp="1552992184052">
-        <mark key="'" line="8" column="14" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" timestamp="1553010817777">
+        <mark key="'" line="9" column="36" />
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="43" />
         <mark key="." line="8" column="43" />
@@ -726,7 +726,6 @@
       <jump line="40" column="4" filename="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typescript/lib/lib.es2015.promise.d.ts" />
       <jump line="16" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/types/interview.d.ts" />
       <jump line="17" column="15" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
-      <jump line="9" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
       <jump line="10" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
       <jump line="28" column="19" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.test.ts" />
       <jump line="46" column="64" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
@@ -738,16 +737,17 @@
       <jump line="33" column="26" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
       <jump line="52" column="8" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
       <jump line="12" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="9" column="36" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Och hur</text>
