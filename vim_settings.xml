@@ -567,6 +567,12 @@
         <mark key="^" line="3" column="52" />
         <mark key="." line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" timestamp="1552988128563">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/entity/FetchLogsJob.ts" timestamp="1551788908448">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="25" />
@@ -689,56 +695,53 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9uTm9SZXNwb25zZSB7CiAgICAgICAgaWYgKGZ1cmhhdC5jYW5kaWRhdGVEYXRhLmxpc3RlbmluZ1Nlc3Npb25zRm9yUXVlc3Rpb24gPj0gMSkgewogICAgICAgICAgICBoYW5kbGVVc2VyU3RvcHBlZFNwZWFraW5nKGJyaWRnZSwgbmV4dFN0YXRlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZ1cmhhdC5zYXkocGhyYXNlcy5SRVBFQVRfUVVFU1RJT04pCiAgICAgICAgICAgIHJlZW50cnkoKQogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBwZW5kaW5nIC09IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwZW5kaW5nIC09IDEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdHJ5UCA9IDxBLCBSPihmOiAoYTogQSkgPT4gUikgPT4gKGE6IEEpID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICB0cnkgewogICAgcmVzb2x2ZShmKGEpKQogIH0gY2F0Y2ggKGUpIHsKICAgIHJlamVjdChlKQogIH0KfSkK</text>
+        <text encoding="base64">ICAgICAgICBwZW5kaW5nIC09IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICBwZW5kaQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      console.log('Resulting logs:', logs)
-      return Promise.resolve()
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCmltcG9ydCBqYXZhLnRpbWUuZm9ybWF0LkRhdGVUaW1lRm9ybWF0dGVyCg==</text>
+        <text encoding="base64">ICAgIHBzLmZvckVhY2gocCA9PiBwLnRoZW4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8ge2lucHV0cz17bGFzdF9uYW1lPXt2YWx1ZT1UaGUgSHVtYW4sIHJlcXVpcmVkPXRydWUsIGxhYmVsPUVmdGVybmFtbn0sIHBob25ldGljX2ZpcnN0X25hbWU9e3ZhbHVlPUZpbm4sIHJlcXVpcmVkPWZhbHNlLCBsYWJlbD1Gb25ldGlza3QgbmFtbn0sIGZpcnN0X25hbWU9e3ZhbHVlPUZpbiwgcmVxdWlyZWQ9dHJ1ZSwgbGFiZWw9RsO2cm5hbW59LCBlbWFpbD17dmFsdWU9ZmluLnRoZS5odW1hbkBvb28uY28ub28sIHJlcXVpcmVkPXRydWUsIGxhYmVsPUVtYWlsfSwgc3VwZXJ2aXNvcj17dmFsdWU9SmFrZSwgcmVxdWlyZWQ9dHJ1ZSwgbGFiZWw9SGFuZGhhdmFuZGUgcmVrcnl0ZXJhcmV9fX0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
