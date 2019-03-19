@@ -109,7 +109,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1552924040582">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1552999146246">
+        <mark key="'" line="12" column="11" />
         <mark key="[" line="17" column="63" />
         <mark key="]" line="17" column="63" />
         <mark key="." line="17" column="63" />
@@ -628,7 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="30" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/State.ts" />
       <jump line="40" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
@@ -728,6 +728,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
       <jump line="33" column="26" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
       <jump line="52" column="8" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
+      <jump line="12" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -740,7 +741,7 @@
         <text>warn</text>
       </register>
       <register name="/" type="4">
-        <text>?</text>
+        <text>Och hur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGxpZnQ8QTEsIEEyLCBBMywgQTQsIEE1LCBBNiwgQTcsIEE4LCBSPigKICBmOiAoYTE/OiBBMSwgYTI/OiBBMiwgYTM/OiBBMywgYTQ/OiBBNCwgYTU/OiBBNSwgYTY/OiBBNiwgYTc/OiBBNywgYTg/OiBBOCkgPT4gUiwKKTogKGExPzogQTEsIGEyPzogQTIsIGEzPzogQTMsIGE0PzogQTQsIGE1PzogQTUsIGE2PzogQTYsIGE3PzogQTcsIGE4PzogQTgpID0+IFByb21pc2U8Uj4gewo=</text>
@@ -786,9 +787,9 @@
       </register>
     </registers>
     <search>
-      <last-search>?</last-search>
+      <last-search>Och hur</last-search>
       <last-offset />
-      <last-pattern>?</last-pattern>
+      <last-pattern>Och hur</last-pattern>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
@@ -796,7 +797,6 @@
     </search>
     <history>
       <history-search>
-        <entry>watchLocation</entry>
         <entry encoding="base64">XDx3YXRjaExvY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxiYWNrZ3JvdW5kXD4=</entry>
         <entry>remove()</entry>
@@ -816,6 +816,7 @@
         <entry>\\?</entry>
         <entry>\?</entry>
         <entry>?</entry>
+        <entry>Och hur</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIGdlIDpTaG93RXJyb3JEZXNjcmlwdGlvbjxDUj4=</entry>
