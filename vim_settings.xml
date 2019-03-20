@@ -459,17 +459,17 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/@types/react-native/index.d.ts" timestamp="1548843836620">
         <mark key="'" line="7517" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" timestamp="1552989430076">
-        <mark key="'" line="17" column="15" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/README.md" timestamp="1551879046231">
         <mark key="[" line="28" column="102" />
         <mark key="]" line="28" column="115" />
         <mark key="^" line="28" column="115" />
         <mark key="." line="28" column="115" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1553087480456">
+        <mark key="'" line="42" column="121" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/PreFlightCheck.kt" timestamp="1552576252963">
         <mark key="[" line="18" column="0" />
@@ -604,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="53" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="60" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="67" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
@@ -704,77 +703,75 @@
       <jump line="78" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="79" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="24" column="37" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionFive.kt" />
+      <jump line="42" column="121" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Situation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Situation</text>
+        <text encoding="base64">IEFMVCBibGV2IGR1IHZhcm0sIGjDtnJkZSBhdHQgZGV0IHZhciAyNSBncmFkZXIgdXRl</text>
       </register>
       <register name="/" type="4">
-        <text>Och hur</text>
+        <text>\\n&quot; +</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoCiAgICAgICAgUXVlc3Rpb25CYXNlKAogICAgICAgICAgICBvbkVudHJ5ID0gcGhyYXNlcy5GSUZUSF9RVUVTVElPTl9JTlRSTyArIHBocmFzZXMuRklGVEhfUVVFU1RJT04sCiAgICAgICAgICAgIG9uUmVlbnRyeSA9IHBocmFzZXMuRklGVEhfUVVFU1RJT04sCiAgICAgICAgICAgIGJyaWRnZSA9IGFycmF5T2YocGhyYXNlcy5USEFOS1MpLAogICAgICAgICAgICBuZXh0U3RhdGUgPSBRdWVzdGlvbjVTaXR1YXRpb24KICAgICAgICApCiAgICApCg==</text>
+        <text encoding="base64">ICAgICJSZWduYXIgZGV0IGZvcnRmYXJhbmRlIEFMVCBibGV2IGR1IHZhcm0sIGjDtnJkZSBhdHQgZGV0IHZhciAyNSBncmFkZXIgdXRlIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIFxuIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bG9nID0+IGxpZnQobG9nID0+IEpTT04ucGFyc2UobG9nLmNvbnRlbnQpKShsb2cpCiAgICAgICAgLmNhdGNoKChlKSA9PiBjb25zb2xlLmxvZygnRmFpbGVkIHRvIHBhcnNlIGZpbGU6JywgZSwgJzpcbicsIGxvZykp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiIiwK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">dmFsIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZWFsaWFzIFV0dGVyYW5jZVByb2R1Y2VyID0gKEludGVydmlld0RldGFpbHMpIC0+IFV0dGVyYW5jZQoKZnVuIHNheSh0ZXh0OiBVdHRlcmFuY2VQcm9kdWNlcik6IFN0YXRlID0gc3RhdGUgewogICAgb25FbnRyeSB7IAogICAgICAgIGZ1cmhhdC5zYXkodGV4dChpbnRlcnZpZXdEZXRhaWxzKSkKICAgIH0KICAgIAp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIFxuIiArCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1xcbiIgKy8iLC8=</text>
       </register>
     </registers>
     <search>
-      <last-search>Och hur</last-search>
+      <last-search>\\n&quot; +</last-search>
       <last-offset />
-      <last-pattern>Och hur</last-pattern>
-      <last-replace />
-      <last-substitute>?</last-substitute>
+      <last-pattern>\\n&quot; +</last-pattern>
+      <last-replace>&quot;,</last-replace>
+      <last-substitute>\\n&quot; +</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YXRjaExvY2F0aW9uXD4=</entry>
-        <entry encoding="base64">XDxiYWNrZ3JvdW5kXD4=</entry>
-        <entry>remove()</entry>
         <entry>remove</entry>
         <entry>self.watchId</entry>
         <entry>Åtgärden kunde inte slutföras</entry>
@@ -792,11 +789,11 @@
         <entry>\?</entry>
         <entry>?</entry>
         <entry>Och hur</entry>
+        <entry>\n&quot; \+</entry>
+        <entry>\n&quot; +</entry>
+        <entry>\\n&quot; +</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bWFwIGdlIDpTaG93RXJyb3JEZXNjcmlwdGlvbjxDUj4=</entry>
-        <entry>ShowErrorDescription</entry>
-        <entry encoding="base64">JzwsJz5zL2Fja25vd2xlZGdlLWEvYWNrbm93bGVkZ2VBLw==</entry>
         <entry>fold</entry>
         <entry>help</entry>
         <entry>s/latitude/longitude/s</entry>
@@ -814,6 +811,9 @@
         <entry encoding="base64">JzwsJz5zL1xcPy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLz8vL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1xuIiBcKy8iLC8=</entry>
+        <entry encoding="base64">JzwsJz5zL1xuIiArLyIsLw==</entry>
+        <entry encoding="base64">JzwsJz5zL1xcbiIgKy8iLC8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
