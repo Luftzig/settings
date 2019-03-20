@@ -85,12 +85,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/shared/styles.ts" timestamp="1552555518556">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/shared/styles.ts" timestamp="1553076347017">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/models/timer.ts" timestamp="1548945465960">
         <mark key="'" line="60" column="4" />
@@ -148,12 +148,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" timestamp="1552481703844">
-        <mark key="'" line="93" column="55" />
-        <mark key="[" line="99" column="45" />
-        <mark key="]" line="99" column="53" />
-        <mark key="." line="99" column="53" />
-        <mark key="^" line="99" column="53" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" timestamp="1553076511538">
+        <mark key="'" line="79" column="41" />
+        <mark key="[" line="91" column="65" />
+        <mark key="]" line="91" column="73" />
+        <mark key="." line="91" column="73" />
+        <mark key="^" line="91" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/secrets.properties" timestamp="1551266795021">
         <mark key="[" line="1" column="0" />
@@ -602,8 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="57" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="53" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
@@ -702,22 +700,24 @@
       <jump line="52" column="8" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
       <jump line="12" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="9" column="36" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
+      <jump line="78" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
+      <jump line="79" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>span</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
         <text>Och hur</text>
       </register>
-      <register name="0" type="4">
-        <text>be3d995f-a22b-4e04-821b-0a9a302ccd7f/logs/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBtYWluVGV4dDogJyM1YjVkNWQnLAo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">bG9nID0+IGxpZnQobG9nID0+IEpTT04ucGFyc2UobG9nLmNvbnRlbnQpKShsb2cpCiAgICAgICAgLmNhdGNoKChlKSA9PiBjb25zb2xlLmxvZygnRmFpbGVkIHRvIHBhcnNlIGZpbGU6JywgZSwgJzpcbicsIGxvZykp</text>
