@@ -234,11 +234,12 @@
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-mauron85-background-geolocation/index.d.ts" timestamp="1550155754673">
         <mark key="'" line="423" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1553100443608">
-        <mark key="[" line="89" column="27" />
-        <mark key="]" line="90" column="24" />
-        <mark key="." line="90" column="24" />
-        <mark key="^" line="90" column="24" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1553161487766">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="90" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/node_modules/typescript/lib/lib.es2015.promise.d.ts" timestamp="1552987283455">
         <mark key="'" line="40" column="4" />
@@ -653,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="9" filename="$USER_HOME$/Projects/tengai-transcribe/src/Update.elm" />
       <jump line="30" column="9" filename="$USER_HOME$/Projects/tengai-transcribe/src/Update.elm" />
       <jump line="48" column="10" filename="$USER_HOME$/Projects/tengai-transcribe/src/View.elm" />
       <jump line="32" column="22" filename="$USER_HOME$/Projects/tengai-transcribe/src/Router/Routes.elm" />
@@ -753,13 +753,14 @@
       <jump line="34" column="13" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" />
       <jump line="59" column="18" filename="$USER_HOME$/Projects/tengai-automated/build.gradle" />
       <jump line="3" column="37" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
+      <jump line="103" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KDUwMDApCiAgICAgICAgICAgICAgICByZWVudHJ5KCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -767,44 +768,44 @@
       <register name="/" type="4">
         <text>\\n&quot; +</text>
       </register>
-      <register name="0" type="4">
-        <text>Båty</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuIChjYWxsKENoZWNrTWljcm9waG9uZUxpc3QpIGFzIE1pY3JvcGhvbmVDaGVja1Jlc3VsdCkgewogICAgICAgICAgICBpcyBNaWNyb3Bob25lQ2hlY2tTdWNjZWVkZWQgLT4gewogICAgICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLlNFVFVQX1dFTENPTUUpCiAgICAgICAgICAgICAgICBmdXJoYXQuYXNrKHBocmFzZXMuU0VUVVBfQVNLX0ZPUl9QSFJBU0UgKyB0ZXN0UGhyYXNlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlzIE1pY3JvcGhvbmVDaGVja1RpbWVkT3V0IC0+IHsKICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoIkZhaWxlZCB0byBmaW5kIG1pY3JvcGhvbmVzIGxpc3QiKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlzIE1pY3JvcGhvbmVDaGVja0ZhaWxlZCAtPiB7CiAgICAgICAgICAgICAgICBmdXJoYXQuc2F5KCJUaGUgaW50ZXJuYWwgbWljcm9waG9uZSBpcyBiZWluZyB1c2VkLiBDaGFuZ2Ugc2V0dGluZ3MgdG8gdXNlIHRoZSBleHRlcm5hbCBtaWNyb3Bob25lIGluc3RlYWQiKQogICAgICAgICAgICAgICAgZGVsYXkoNTAwMCkKICAgICAgICAgICAgICAgIHJlZW50cnkoKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KDUwMDApCiAgICAgICAgICAgICAgICByZWVudHJ5KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2F5KHBocmFzZXMuU0VUVVBfV0VMQ09NRSkKICAgICAgICBmdXJoYXQuYXNrKHBocmFzZXMuU0VUVVBfQVNLX0ZPUl9QSFJBU0UgKyB0ZXN0UGhyYXNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KDUwMDApCiAgICAgICAgICAgICAgICByZWVudHJ5KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkocGhyYXNlcy5TRVRVUF9XRUxDT01FKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBvbkV2ZW50PFNlbnNlTWljcm9waG9uZXM+IHsKICAgICAgICBmdXJoYXQuc2F5KCJNaWNyb3Bob25lcyBjaGFuZ2VkIikKICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJNaWNyb3Bob25lcyBzZW5zZSBjaGFuZ2VzOiAke2l0fSIpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBhbHRlcm5hdGl2ZXMgPSAocmVzcG9uc2UuYXZhaWxhYmxlRGV2aWNlcz8uZmlsdGVyTm90IHsgaXQuc3RhcnRzV2l0aChpbnRlcm5hbE1pY05hbWUpIH0KICAgICAgICAgICAgICAgICAgICA/OiBsaXN0T2YoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoIklnZW4gbWlrcm9mb24gc2VsZWN0ZWQ/Pz8iKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaXNEZWZhdWx0OiBCb29sZWFuID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoIkludGVybmFsIG1pY3JvcGhvbmUgaXMgc2VsZWN0ZWQiKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoc2VsZWN0ZWRNaWNyb3Bob25lKXsKICAgICAgICAgICAgbnVsbCAtPiB7CiAgICAgICAgICAgICAgICBmdXJoYXQuc2F5KCJJZ2VuIG1pa3JvZm9uIHNlbGVjdGVkPz8/IikKICAgICAgICAgICAgICAgIE1pY3JvcGhvbmVDaGVja0ZhaWxlZChyZXNwb25zZS5hdmFpbGFibGVEZXZpY2VzPy5maWx0ZXJOb3QgeyBpdC5zdGFydHNXaXRoKGludGVybmFsTWljTmFtZSkgfSA/OiBsaXN0T2YoKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBzdGFydHNXaXRoKGludGVybmFsTWljTmFtZSkgLT4gewogICAgICAgICAgICAgICAgZnVyaGF0LnNheSgiSW50ZXJuYWwgbWljcm9waG9uZSBpcyBzZWxlY3RlZCIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgLT4gTWljcm9waG9uZUNoZWNrU3VjY2VlZGVkCiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2F5KHBocmFzZXMuU0VUVVBfV0VMQ09NRSkKICAgICAgICBmdXJoYXQuYXNrKHBocmFzZXMuU0VUVVBfQVNLX0ZPUl9QSFJBU0UgKyB0ZXN0UGhyYXNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
