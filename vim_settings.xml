@@ -18,12 +18,6 @@
       <file name="/fetch_logs_job [tara_test@localhost]" timestamp="1553245106831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" timestamp="1552920059884">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/preflightCheck.kt" timestamp="1552570968799">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="8" />
@@ -250,11 +244,12 @@
         <mark key="^" line="37" column="79" />
         <mark key="." line="37" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" timestamp="1553252746762">
-        <mark key="'" line="23" column="35" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" timestamp="1553259706478">
+        <mark key="'" line="65" column="22" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="34" />
+        <mark key="." line="26" column="34" />
+        <mark key="^" line="26" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1551088896949">
         <mark key="[" line="93" column="110" />
@@ -407,12 +402,6 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/interview.test.ts" timestamp="1552992051226">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/react-native-play-sound/PlaySound.js" timestamp="1548855272957">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="9" />
@@ -447,12 +436,6 @@
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.test.ts" timestamp="1552991591155">
-        <mark key="'" line="21" column="19" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/reducers/home.js" timestamp="1549013781350">
         <mark key="[" line="18" column="4" />
@@ -528,7 +511,7 @@
       <file name="/dummy.sql" timestamp="1553075355885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553249070655">
+      <file name="/Dummy.txt" timestamp="1553259855684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/networking.ts" timestamp="1547720890887">
@@ -605,7 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="24" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="38" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="87" column="5" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="3" column="32" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/shared/Icon.tsx" />
@@ -705,16 +687,17 @@
       <jump line="84" column="3" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
       <jump line="51" column="23" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/anythingToAdd.kt" />
       <jump line="16" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" />
+      <jump line="63" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsKCkK</text>
+      <register name="&quot;" type="4">
+        <text>Pausing</text>
       </register>
       <register name="-" type="4">
-        <text>.currentStateRunner.currentState</text>
+        <text>Pausing</text>
       </register>
       <register name="/" type="4">
         <text>Vad bra</text>
@@ -723,40 +706,40 @@
         <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmZsb3cua290bGluLnN0YXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsKCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zmxvdy5mbG93TG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQK</text>
+        <text encoding="base64">ICAgICAgICBjYWxsKCkK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Zmxvdy5mbG93TG9nZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnVyaGF0LmNhbmRpZGF0ZURhdGEubGlzdGVuaW5nU2Vzc2lvbnNGb3JRdWVzdGlvbiA+PSAxKSB7CiAgICAgICAgICAgIGhhbmRsZVVzZXJTdG9wcGVkU3BlYWtpbmcoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLlJFUEVBVF9RVUVTVElPTikKICAgICAgICAgICAgcmVlbnRyeSgp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZnVyaGF0LmNhbmRpZGF0ZURhdGEubGlzdGVuaW5nU2Vzc2lvbnNGb3JRdWVzdGlvbiA+PSAxKSB7CiAgICAgICAgICAgIGhhbmRsZVVzZXJTdG9wcGVkU3BlYWtpbmcoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgVGFibGVDZWxsID0gc3R5bGVkLnNwYW5gCiAgcGFkZGluZy1sZWZ0OiAkeyhwcm9wczogeyBmaXJzdD86IGJvb2xlYW47IGxhc3Q/OiBib29sZWFuIH0pID0+IChwcm9wcy5maXJzdCA/ICcyMHB4JyA6ICcxNXB4Jyl9OwogIHBhZGRpbmctcmlnaHQ6ICR7KHByb3BzOiB7IGxhc3Q/OiBib29sZWFuIH0pID0+IChwcm9wcy5sYXN0ID8gJzIwcHgnIDogJzE1cHgnKX07CiAgb3ZlcmZsb3c6IGhpZGRlbjsKICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsKYAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
