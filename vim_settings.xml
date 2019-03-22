@@ -18,6 +18,13 @@
       <file name="/fetch_logs_job [tara_test@localhost]" timestamp="1553245106831">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" timestamp="1552574921871">
+        <mark key="'" line="2" column="32" />
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="18" column="63" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/preflightCheck.kt" timestamp="1552570968799">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="8" />
@@ -84,7 +91,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1553177367132">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1553261602593">
+        <mark key="'" line="71" column="91" />
         <mark key="[" line="15" column="29" />
         <mark key="]" line="15" column="30" />
         <mark key="^" line="15" column="33" />
@@ -155,6 +163,13 @@
         <mark key="]" line="57" column="12" />
         <mark key="." line="57" column="12" />
         <mark key="^" line="57" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/index.tsx" timestamp="1552402210419">
+        <mark key="'" line="43" column="5" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/models/Done.ts" timestamp="1552059709542">
         <mark key="[" line="0" column="31" />
@@ -588,13 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="7" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="87" column="5" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="3" column="32" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/shared/Icon.tsx" />
-      <jump line="90" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
-      <jump line="70" column="30" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="43" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
       <jump line="49" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
       <jump line="72" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/shared/Icon.tsx" />
@@ -688,6 +696,13 @@
       <jump line="51" column="23" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/anythingToAdd.kt" />
       <jump line="16" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" />
       <jump line="63" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="13" column="39" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="14" column="39" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="23" column="37" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="111" column="48" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="71" column="91" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -700,7 +715,7 @@
         <text>Pausing</text>
       </register>
       <register name="/" type="4">
-        <text>Vad bra</text>
+        <text>\cja\A</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmZsb3cua290bGluLnN0YXRlCg==</text>
@@ -746,9 +761,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Vad bra</last-search>
+      <last-search>\cja\A</last-search>
       <last-offset />
-      <last-pattern>Vad bra</last-pattern>
+      <last-pattern>\cja\A</last-pattern>
       <last-replace>&quot;,</last-replace>
       <last-substitute>\\n&quot; +</last-substitute>
       <last-dir>1</last-dir>
@@ -756,15 +771,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.watchId</entry>
-        <entry>Åtgärden kunde inte slutföras</entry>
-        <entry>AUTHORI</entry>
-        <entry>polling</entry>
-        <entry>phone</entry>
-        <entry>storage</entry>
-        <entry>getObject</entry>
-        <entry>Table</entry>
-        <entry>TableCell</entry>
         <entry>DataCell</entry>
         <entry>#</entry>
         <entry>data</entry>
@@ -776,6 +782,15 @@
         <entry>\n&quot; +</entry>
         <entry>\\n&quot; +</entry>
         <entry>Vad bra</entry>
+        <entry>\cjaha</entry>
+        <entry>\cja\]</entry>
+        <entry>\cja</entry>
+        <entry>\cjag\b</entry>
+        <entry>\cja\B</entry>
+        <entry>\cjag\B</entry>
+        <entry>\cjag\]</entry>
+        <entry>\cjag\A</entry>
+        <entry>\cja\A</entry>
       </history-search>
       <history-cmd>
         <entry>fold</entry>
