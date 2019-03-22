@@ -295,10 +295,10 @@
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/Repeat.kt" timestamp="1552568161238" />
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/robot-names.properties" timestamp="1551879910916">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-        <mark key="^" line="1" column="1" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/InterviewList/Update.elm" timestamp="1552331798590">
         <mark key="'" line="3" column="71" />
@@ -434,11 +434,11 @@
         <mark key="^" line="28" column="115" />
         <mark key="." line="28" column="115" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1553184117240">
-        <mark key="[" line="121" column="33" />
-        <mark key="]" line="121" column="34" />
-        <mark key="." line="121" column="34" />
-        <mark key="^" line="121" column="34" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1553244127283">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="65" column="139" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/View.elm" timestamp="1552330574694">
         <mark key="'" line="26" column="14" />
@@ -474,11 +474,8 @@
       <file name="/dummy.sql" timestamp="1553075355885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553182998246">
+      <file name="/Dummy.txt" timestamp="1553186711522">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="79" />
-        <mark key="^" line="0" column="79" />
-        <mark key="." line="0" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/networking.ts" timestamp="1547720890887">
         <mark key="[" line="10" column="19" />
@@ -550,7 +547,7 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1553165089574">
+      <file name="/fragment.java" timestamp="1553186812760">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -660,11 +657,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VHJpZWQgdG8gaW1wcm92ZSBsaXZlbGluZXNzIG9mIHRoZSByb2JvdCwgbW9zdGx5IGdvdCAiY3JlZXB5IiBidXQgd2l0aCBwYXVzZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Vad bra</text>
@@ -673,40 +670,40 @@
         <text encoding="base64">ICAgICtHZXN0dXJlcy5UaG91Z2h0ZnVsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyYW1lKDEpIHsKICAgIH0K</text>
+        <text encoding="base64">VHJpZWQgdG8gaW1wcm92ZSBsaXZlbGluZXNzIG9mIHRoZSByb2JvdCwgbW9zdGx5IGdvdCAiY3JlZXB5IiBidXQgd2l0aCBwYXVzZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXMK</text>
+        <text encoding="base64">ICAgIHZhbCBjb21wYW55TmFtZSA9CiAgICAgICAgaWYgKGludGVydmlld0RldGFpbHM/LnBob25ldGljQ29tcGFueU5hbWUuaXNOdWxsT3JCbGFuaygpKSBpbnRlcnZpZXdEZXRhaWxzPy5jb21wYW55TmFtZSBlbHNlIGludGVydmlld0RldGFpbHM/LnBob25ldGljQ29tcGFueU5hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb21wYW55TmFtZSA9CiAgICAgICAgaWYgKGludGVydmlld0RldGFpbHM/LnBob25ldGljQ29tcGFueU5hbWUuaXNOdWxsT3JCbGFuaygpKSBpbnRlcnZpZXdEZXRhaWxzPy5jb21wYW55TmFtZSBlbHNlIGludGVydmlld0RldGFpbHM/LnBob25ldGljQ29tcGFueU5hbWUK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICtHZXN0dXJlcy5CaWdTbWlsZQo=</text>
+        <text encoding="base64">ICAgICtzaG9ydFBhdXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICtHZXN0dXJlcy5CaWdTbWlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICtHZXN0dXJlcy5CaWdTbWlsZQo=</text>
+        <text encoding="base64">ICAgICsiUmVnbmFyIGRldCBmb3J0ZmFyYW5kZSIgLy8gICAgImJsZXYgZHUgdmFybSwgaMO2cmRlIGF0dCBkZXQgdmFyIDI1IGdyYWRlciB1dGUiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICtnbGFuY2UoTG9jYXRpb24uVVApCg==</text>
+        <text encoding="base64">ICAgIGZyYW1lKDEpIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICtHZXN0dXJlcy5UaG91Z2h0ZnVsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
