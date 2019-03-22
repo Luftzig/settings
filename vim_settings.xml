@@ -9,6 +9,12 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" timestamp="1553263835070">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1553163950769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -210,6 +216,13 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" timestamp="1553264107675">
+        <mark key="'" line="46" column="14" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/TestPhrase.kt" timestamp="1552644160502">
         <mark key="[" line="9" column="0" />
@@ -603,7 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
       <jump line="72" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/shared/Icon.tsx" />
       <jump line="77" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
@@ -703,43 +715,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="111" column="48" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="71" column="91" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="35" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Pausing</text>
+        <text>if (users.current != null) users.current else user</text>
       </register>
       <register name="-" type="4">
-        <text>Pausing</text>
+        <text>if (users.current != null) users.current else user</text>
       </register>
       <register name="/" type="4">
-        <text>\cja\A</text>
+        <text>TILT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmZsb3cua290bGluLnN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBGbG93KCkucnVuKFByZUZsaWdodFdhaXRpbmdGb3JVc2VyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIG9uRW50cnkgeyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsKCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGZ1cmhhdC5zYXkgewogICAgICAgICAgICArdGlsdFJpZ2h0CiAgICAgICAgICAgICtkZWxheSgzMDAwKQogICAgICAgICAgICArdGlsdExlZnQKICAgICAgICAgICAgK2RlbGF5KDMwMDApCiAgICAgICAgICAgICtzdG9wVGlsdAogICAgICAgIA==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zmxvdy5mbG93TG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -748,30 +761,29 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnVyaGF0LmNhbmRpZGF0ZURhdGEubGlzdGVuaW5nU2Vzc2lvbnNGb3JRdWVzdGlvbiA+PSAxKSB7CiAgICAgICAgICAgIGhhbmRsZVVzZXJTdG9wcGVkU3BlYWtpbmcoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cja\A</last-search>
+      <last-search>TILT</last-search>
       <last-offset />
-      <last-pattern>\cja\A</last-pattern>
-      <last-replace>&quot;,</last-replace>
-      <last-substitute>\\n&quot; +</last-substitute>
+      <last-pattern>TILT</last-pattern>
+      <last-replace>ROLL</last-replace>
+      <last-substitute>TILT</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DataCell</entry>
         <entry>#</entry>
         <entry>data</entry>
         <entry>\\?</entry>
@@ -791,9 +803,9 @@
         <entry>\cjag\]</entry>
         <entry>\cjag\A</entry>
         <entry>\cja\A</entry>
+        <entry>TILT</entry>
       </history-search>
       <history-cmd>
-        <entry>fold</entry>
         <entry>help</entry>
         <entry>s/latitude/longitude/s</entry>
         <entry>s/latitude/longitude/g</entry>
@@ -812,6 +824,7 @@
         <entry encoding="base64">JzwsJz5zL1xuIiBcKy8iLC8=</entry>
         <entry encoding="base64">JzwsJz5zL1xuIiArLyIsLw==</entry>
         <entry encoding="base64">JzwsJz5zL1xcbiIgKy8iLC8=</entry>
+        <entry encoding="base64">JzwsJz5zL1RJTFQvUk9MTC8=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
