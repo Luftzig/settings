@@ -211,12 +211,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" timestamp="1553266915254">
-        <mark key="'" line="37" column="34" />
-        <mark key="[" line="63" column="13" />
-        <mark key="]" line="63" column="28" />
-        <mark key="." line="63" column="28" />
-        <mark key="^" line="63" column="28" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" timestamp="1553517832097">
+        <mark key="'" line="98" column="33" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="62" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/TestPhrase.kt" timestamp="1552644160502">
         <mark key="[" line="9" column="0" />
@@ -278,6 +278,12 @@
         <mark key="]" line="105" column="30" />
         <mark key="^" line="105" column="30" />
         <mark key="." line="105" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/random.kt" timestamp="1553520209300">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/robot_registry.kt" timestamp="1550574200421">
         <mark key="[" line="9" column="0" />
@@ -376,11 +382,10 @@
         <mark key="." line="4" column="107" />
         <mark key="^" line="4" column="107" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1553515899499">
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
-        <mark key="^" line="38" column="32" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1553519871474">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
@@ -394,8 +399,8 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="/fragment.kt" timestamp="1553252450913">
-        <mark key="[" line="0" column="4" />
+      <file name="/fragment.kt" timestamp="1553517701500">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -489,11 +494,11 @@
         <mark key="^" line="28" column="115" />
         <mark key="." line="28" column="115" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1553244127283">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="65" column="139" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="67" column="7" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1553519493058">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="33" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/View.elm" timestamp="1552330574694">
         <mark key="'" line="26" column="14" />
@@ -616,11 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="43" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/RepeatSpec.kt" />
-      <jump line="66" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/RepeatSpec.kt" />
-      <jump line="92" column="15" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
-      <jump line="75" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/App.tsx" />
-      <jump line="90" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="2" column="37" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="80" column="6" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
       <jump line="76" column="6" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
@@ -710,82 +710,85 @@
       <jump line="35" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
       <jump line="33" column="32" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
-      <jump line="37" column="34" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
       <jump line="189" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="68" column="14" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="172" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="165" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="197" column="17" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
+      <jump line="43" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
+      <jump line="37" column="3" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
+      <jump line="41" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
+      <jump line="58" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
+      <jump line="98" column="33" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/gestures.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>Range</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>Range</text>
       </register>
       <register name="/" type="4">
-        <text>TILT</text>
+        <text>, persist = true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBHSVRIVUJfVE9LRU49IjQ1NjMwMjliNDZiY2JjNDgwMTY4ZDViOTQ5N2I4ZDE2MjcyODdiNGMiCg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoQmFja2NoYW5uZWxCZWhhdmlvdXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuZ2VzdHVyZShyYW5kb20odGlsdExlZnQsIHRpbHRSaWdodCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJNb25pdG9yU3BlZWNoRW5kIGNhbGxlciBzdGF0ZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uVGltZSgxMDAsIDMwMDAuLjYwMDAsIGluc3RhbnQgPSB0cnVlKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBsYXN0VGlsdCA9IHJhbmRvbShUaWx0LkxlZnQsIFRpbHQuUmlnaHQpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZ2V0R2F6ZURvd24oKSwKLy8gICAgICAgICAgICAgICAgZ2V0R2F6ZVVwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERlYnVnLmxvCg==</text>
+        <text encoding="base64">ICAgICAgICBmdXJoYXQuZ2VzdHVyZSgKICAgICAgICAgICAgcmFuZG9tKAogICAgICAgICAgICAgICAgZ2V0R2F6ZUxlZnQoKSwKICAgICAgICAgICAgICAgIGdldEdhemVSaWdodCgpCi8vICAgICAgICAgICAgICAgIGdldEdhemVEb3duKCksCi8vICAgICAgICAgICAgICAgIGdldEdhemVVcCgpCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW1wb3J0ICAgICAgICAgICBDb250cm9sLk1vbmFkICAgICAgICAgICAgKGZvck1fKQppbXBvcnQgICAgICAgICAgIENvbnRyb2wuTW9uYWQuSU8uQ2xhc3MgICAobGlmdElPKQppbXBvcnQgcXVhbGlmaWVkIERhdGEuQWVzb24gICAgICAgICAgICAgICBhcyBBCmltcG9ydCBxdWFsaWZpZWQgRGF0YS5BZXNvbi5FbmNvZGUuUHJldHR5IGFzIEEKaW1wb3J0IHF1YWxpZmllZCBEYXRhLkFlc29uLlRleHQgICAgICAgICAgYXMgQQppbXBvcnQgICAgICAgICAgIERhdGEuQnl0ZVN0cmluZy5DaGFyOCAgICAoQnl0ZVN0cmluZywgcGFjaykKaW1wb3J0IHF1YWxpZmllZCBEYXRhLkJ5dGVTdHJpbmcuTGF6eSAgICAgYXMgTEJTCmltcG9ydCAgICAgICAgICAgRGF0YS5FaXRoZXIgICAgICAgICAgICAgIChlaXRoZXIsIGZyb21SaWdodCwgaXNMZWZ0LCBsZWZ0cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJpZ2h0cykKaW1wb3J0ICAgICAgICAgICBEYXRhLkVpdGhlci5Db21iaW5hdG9ycyAgKG1hcExlZnQpCmltcG9ydCBxdWFsaWZpZWQgRGF0YS5IYXNoTWFwLlN0cmljdCAgICAgIGFzIEhNCmltcG9ydCAgICAgICAgICAgRGF0YS5MaXN0ICAgICAgICAgICAgICAgIChpbnRlcmNhbGF0ZSkKaW1wb3J0ICAgICAgICAgICBEYXRhLk1heWJlICAgICAgICAgICAgICAgKGZyb21NYXliZSwgaXNOb3RoaW5nLCBsaXN0VG9NYXliZSkKaW1wb3J0ICAgICAgICAgICBEYXRhLlNlbWlncm91cCAgICAgICAgICAgKCg8PikpCmltcG9ydCAgICAgICAgICAgRGF0YS5TdHJpbmcgICAgICAgICAgICAgIChmcm9tU3RyaW5nKQppbXBvcnQgICAgICAgICAgIERhdGEuVGV4dCAgICAgICAgICAgICAgICAoVGV4dCwgYnJlYWtPbiwgaW50ZXJjYWxhdGUsIGxpbmVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3BsaXRPbiwgc3RyaXAsIHRhaWwsIHVucGFjaykKaW1wb3J0IHF1YWxpZmllZCBEYXRhLlRleHQuRW5jb2RpbmcgICAgICAgYXMgVEUKaW1wb3J0IHF1YWxpZmllZCBEYXRhLlRleHQuSU8gICAgICAgICAgICAgYXMgVAppbXBvcnQgcXVhbGlmaWVkIERhdGEuVGV4dC5MYXp5LklPICAgICAgICBhcyBUZXh0SU8KaW1wb3J0ICAgICAgICAgICBEYXRhLlZlY3RvciAgICAgICAgICAgICAgKFZlY3RvciwgZnJvbUxpc3QpCmltcG9ydCAgICAgICAgICAgTmV0d29yay5VUkkgICAgICAgICAgICAgIChVUkksIHVyaVRvU3RyaW5nKQppbXBvcnQgICAgICAgICAgIE9wdGlvbnMuQXBwbGljYXRpdmUKaW1wb3J0ICAgICAgICAgICBTeXN0ZW0uRGlyZWN0b3J5ICAgICAgICAgKGNyZWF0ZURpcmVjdG9yeUlmTWlzc2luZykKaW1wb3J0ICAgICAgICAgICBTeXN0ZW0uRW52aXJvbm1lbnQgICAgICAgKGdldEFyZ3MsIGxvb2t1cEVudikKaW1wb3J0ICAgICAgICAgICBTeXN0ZW0uRmlsZVBhdGguUG9zaXggICAgKCg8Lz4pKQppbXBvcnQgICAgICAgICAgIFN5c3RlbS5JTyAgICAgICAgICAgICAgICAoRmlsZVBhdGgpCgppbXBvcnQgICAgICAgICAgIEFuYWx5emVDb250ZW50ICAgICAgICAgICAoYW5hbHl6ZSkKaW1wb3J0ICAgICAgICAgICBEYXRhCmltcG9ydCAgICAgICAgICAgUHJvamVjdHMgICAgICAgICAgICAgICAgICh0b1Byb2plY3RJbmZvKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJNb25pdG9yU3BlZWNoU3RhcnQgY2FsbGVyIHN0YXRlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TILT</last-search>
+      <last-search>, persist = true</last-search>
       <last-offset />
-      <last-pattern>TILT</last-pattern>
-      <last-replace>ROLL</last-replace>
-      <last-substitute>TILT</last-substitute>
+      <last-pattern>, persist = true</last-pattern>
+      <last-replace />
+      <last-substitute>, persist = true</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>#</entry>
-        <entry>data</entry>
         <entry>\\?</entry>
         <entry>\?</entry>
         <entry>?</entry>
@@ -804,11 +807,10 @@
         <entry>\cjag\A</entry>
         <entry>\cja\A</entry>
         <entry>TILT</entry>
+        <entry>Right</entry>
+        <entry>, persist = true</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
-        <entry>s/latitude/longitude/s</entry>
-        <entry>s/latitude/longitude/g</entry>
         <entry>s/Focus/Blur/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L3N0b3AvZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -816,7 +818,6 @@
         <entry encoding="base64">JzwsJz5zL1RhYmxlQ2VsbC9EYXRhQ2VsbC9n</entry>
         <entry encoding="base64">JzwsJz5zL0RhdGFDZWxsL1RhYmxlQ2VsbC9n</entry>
         <entry>w:w</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvZXZlbnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1w/Ly9n</entry>
         <entry encoding="base64">JzwsJz5zL1xcPy8vZw==</entry>
@@ -825,6 +826,10 @@
         <entry encoding="base64">JzwsJz5zL1xuIiArLyIsLw==</entry>
         <entry encoding="base64">JzwsJz5zL1xcbiIgKy8iLC8=</entry>
         <entry encoding="base64">JzwsJz5zL1RJTFQvUk9MTC8=</entry>
+        <entry encoding="base64">JzwsJz5zL1JpZ2h0L1Vw</entry>
+        <entry encoding="base64">JzwsJz5zL1JpZ2h0L0Rvd24=</entry>
+        <entry encoding="base64">JzwsJz5zLywgcGVyc2lzdCA9IHRydWUvLw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
