@@ -389,10 +389,12 @@
         <mark key="^" line="28" column="115" />
         <mark key="." line="28" column="115" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1554194134700">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="189" column="33" />
-        <mark key="." line="189" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1554196923178">
+        <mark key="'" line="115" column="39" />
+        <mark key="[" line="138" column="4" />
+        <mark key="]" line="138" column="13" />
+        <mark key="." line="138" column="13" />
+        <mark key="^" line="138" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/aws-s3-adapter.ts" timestamp="1551783855458">
         <mark key="[" line="19" column="50" />
@@ -518,11 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionOne.kt" />
-      <jump line="14" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" />
-      <jump line="30" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
-      <jump line="43" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
-      <jump line="18" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="15" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="36" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="22" column="32" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
@@ -618,25 +615,30 @@
       <jump line="90" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
       <jump line="60" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
+      <jump line="100" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
+      <jump line="40" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
+      <jump line="134" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
+      <jump line="118" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
+      <jump line="117" column="39" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>&quot;/ / &quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;/ / &quot;</text>
       </register>
       <register name="/" type="4">
-        <text>, persist = true</text>
+        <text>\csmile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmx1Y3R1YXRlKDEuMCwgMS4wLCAwLjEyLCBCYXNpY1BhcmFtcy5ORUNLX1JPTEwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -645,13 +647,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbGxlbCgKICAgICAgICAgICAgYWJvcnRPbkV4aXQgPSB0cnVlLAogICAgICAgICAgICBzdGF0ZSA9IFNwZWFraW5nQmVoYXZpb3VyKGl0Lmxlbmd0aCkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkh1ciDDpHIgZGV0IHV0ZSBudSwgcmVnbmFyIGRldCBmb3J0ZmFyYW5kZT8gIiwKICAgICAgICAgICAgIkh1ciDDpHIgZGV0IHV0ZSBudSwgZm9ydGZhcmFuZGUgbGlrYSBncsOldHQ/ICIsCiAgICAgICAgICAgIkh1ciDDpHIgZGV0IHV0ZSBudSwgZm9ydGZhcmFuZGUgbGlrYSBzb2xpZ3Q/IiAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHV0dGVyYW5jZSB7IAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">fQo=</text>
@@ -663,32 +665,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byA1CiAgICAgICAgQmFzaWNQYXJhbXMuTkVDS19ST0xMIHRvIC0zCg==</text>
+        <text encoding="base64">dmFsIEV4cGxhaW5RdWVzdGlvbnMgPSBpbnRyb1NheShRdWVzdGlvbjEpIHsKICAgICsiSmFnIGtvbW1lciBhdHQgc3TDpGxsYSBmcsOlZ29yIGTDpHIgamFnIHZpbGwgYXR0IGR1IGJlcsOkdHRhciBvbSBlbiBzaXR1YXRpb24gc29tIGR1IHNqw6RsdiBoYXIgdXBwbGV2dC4gSmFnIGtvbW1lciB2aWxqYSB2ZXRhIHZhZCBkdSBoYXIgZ2pvcnQgaSBzaXR1YXRpb25lbiwgb2NoIGh1ciBkZXQgZ2ljayBmw7ZyIGRpZy4gIgogICAgK0dlc3R1cmVzLlNtaWxlCiAgICArbG9uZ1BhdXNlCiAgICArIkRpdHQgc3ZhciBza2EgYWxsdGlkIHZhcmEgYmVyw6R0dGF0IHVyIGV0dCBqYWcgcGVyc3Bla3RpdiwgYWxsdHPDpSBhdHQgZHUgYmVyw6R0dGFyIG9tIGh1ciBkdSB1cHBsZXZkZSBzaXR1YXRpb25lbi4gIgp9Cgp2YWwgRXhwbGFpblBvc2l0aW9uID0gaW50cm9TYXkoRXhwbGFpblF1ZXN0aW9ucykgewogICAgKyJEdSBoYXIgc8Oka2VydCByZWRhbiBrb2xsLCBkZXQgaMOkciDDpHIgZW4gcmVrcnl0ZXJpbmcsIGTDpHIgZHUgYmxpciBhbnN0w6RsbGQgZGlyZWt0IGhvcyB2w6VyIGt1bmQsIiAvLyAiQUxUIGV0dCBrb25zdWx0dXBwZHJhZyBkw6RyIGR1IGJsaXIgYW5zdMOkbGxkIHDDpSBUTkcgb2NoIGpvYmJhciBww6UgcGxhdHMgaG9zIHbDpXIga3VuZCIKICAgICttZWRpdW1QYXVzZQogICAgK0dlc3R1cmVzLlRob3VnaHRmdWwKICAgICsiU29tIGR1IHZldCBzw6UgaGV0ZXIgZsO2cmV0YWcgJGNvbXBhbnlOYW1lIG9jaCAke2ludGVydmlld0RldGFpbHM/LmNvbXBhbnlEZXNjcmlwdGlvbn0iCiAgICArbWVkaXVtUGF1c2UKICAgICtnbGFuY2UoTG9jYXRpb24uRE9XTl9SSUdIVCkKICAgICsiTnUga29ydCBvbSB0asOkbnN0ZW4gJHtpbnRlcnZpZXdEZXRhaWxzPy5wb3NpdGlvbkRlc2NyaXB0aW9ufSIKICAgICtsb25nUGF1c2UKICAgICsiw4RyIGR1IHJlZG8gZsO2ciBmcsOlZ29ybmE/Igp9Cgp2YWwgRXhwbGFpblByb2Nlc3MgPSBpbnRyb1NheShFeHBsYWluUG9zaXRpb24pIHsKICAgICtHZXN0dXJlcy5UaG91Z2h0ZnVsCiAgICArIm1lbiBpbm5hbiBzw6UgdmlsbCBqYWcgYXR0IGR1IHNrYSB2ZXRhIGF0dCBqYWcgaW50ZSB2ZXQgaHVyIGR1IHNlciB1dCwgaHVyIGdhbW1hbCBkdSDDpHIsIGVsbGVyIHZhZCBkdSBoYXIgZsO2ciBrbMOkZGVyIHDDpSBkaWcganVzdCBudS4iCiAgICArbG9uZ1BhdXNlCiAgICArImFsbGEga2FuZGlkYXRlciBqYWcgdHLDpGZmYXIgZsOlciBleGFrdCBzYW1tYSBmcsOlZ29yLCBvY2ggZsOlciBzYW1tYSBjaGFucyBhdHQgYmVyw6R0dGEgdmFkIGRlIGthbi4gIgogICAgK0dlc3R1cmVzLkJyb3dSYWlzZQogICAgK21lZGl1bVBhdXNlCiAgICArIktvbW1lciBkdSBww6UgbsOlZ3JhIGZyw6Vnb3IgdW5kZXIgaW50ZXJ2anVuLCBzw6Ugc2tyaXYgbmVyIGRlbSBww6UgYmxvY2tldCBmcmFtZsO2ciBkaWcsIHPDpSBrb21tZXIgbWluIGtvbGxlZ2EgJHtpbnRlcnZpZXdEZXRhaWxzPy5zdXBlcnZpc29yTmFtZX0gYXR0IGJlc3ZhcmEgZGVtIGVmdGVyw6V0LiAiCiAgICArbG9uZ1BhdXNlCiAgICArZ2xhbmNlKExvY2F0aW9uLlVQKQogICAgKyJOdSB0w6Rua2VyIGphZyBiZXLDpHR0YSBvbSBmw7ZyZXRhZ2V0IG9jaCB0asOkbnN0ZW4gc29tIGR1IMOkciBha3R1ZWxsIGbDtnIuIEzDpXRlciBkZXQgYnJhPyIKfQoKdmFsIENvbXBhbnlBbmRQb3NpdGlvbiA9IGludHJvU2F5KEV4cGxhaW5Qcm9jZXNzKSB7CiAgICArR2VzdHVyZXMuU21pbGUKICAgICsiSmFnIHTDpG5rdGUgc8OlIGjDpHIgLSB2aSBiw7ZyamFyIG1lZCBhdHQgamFnIGJlcsOkdHRhciBvbSAkY29tcGFueU5hbWUgb2NoICR7aW50ZXJ2aWV3RGV0YWlscz8ucG9zaXRpb25OYW1lfSwgc2VuIGtvbW1lciBqYWcgYXR0IHN0w6RsbGEgdmFkIHZpIHDDpSBUTkcga2FsbGFyIGbDtnIga29tcGV0ZW5zYmFzZXJhZGUgZnLDpWdvciBvY2ggaSBzbHV0ZXQga29tbWVyIGphZyBiZXLDpHR0YSBvbSB2YWQgc29tIGjDpG5kZXIgZWZ0ZXIgdsOlciBpbnRlcnZqdS4gVmFkIHR5Y2tlciBkdT8iCn0KCnZhbCBTaG91bGRTdGFydCA9CiAgICBpbnRyb1NheShDb21wYW55QW5kUG9zaXRpb24pIHsKICAgICAgICArIlPDpSAke2lmIChpbnRlcnZpZXdEZXRhaWxzPy5waG9uZXRpY05hbWUuaXNOdWxsT3JCbGFuaygpKSAiLCIgZWxzZSBpbnRlcnZpZXdEZXRhaWxzPy5waG9uZXRpY05hbWV9IGphZyB0w6Rua3RlIGF0dCB2aSBkcmEgaWfDpW5nIGRpcmVrdC4gIgogICAgfQoKdmFsIENoaXRDaGF0OiBTdGF0ZSA9IGludHJvU2F5KFNob3VsZFN0YXJ0KSB7CiAgICArIlZhZCBrdWwgYXR0IGR1IMOkciBow6RyIgogICAgK0dlc3R1cmVzLlNtaWxlCiAgICArc2hvcnRQYXVzZQogICAgKyJKYWcgaGV0ZXIgVMOkbi1nYWpqLCBqYWcgw6RyIGVuIHJvYm90LCBtZW4gZGV0IHZldCBkdSBqdSByZWRhbj8iCiAgICArR2VzdHVyZXMuQmlnU21pbGUKICAgICtsb25nUGF1c2UKICAgICsiVmlzc3Qgw6RyIGRldCBvdmFubGlndCwgbWVuIGxpdGUga3VsPyIKfQoKdmFsIFdlYXRoZXIgPSBpbnRyb1NheShDaGl0Q2hhdCkgewogICAgKyJSZWduYXIgZGV0IGZvcnRmYXJhbmRlIiAvLyAgICAiYmxldiBkdSB2YXJtLCBow7ZyZGUgYXR0IGRldCB2YXIgMjUgZ3JhZGVyIHV0ZSIsCn0KCnZhbCBJbnRyb0hleTogU3RhdGUgPSBpbnRyb1NheShXZWF0aGVyKSB7CiAgICBHZXN0dXJlcy5CaWdTbWlsZQogICAgKyJIZWogw6UgdsOkbGtvbW1lbiB0aWxsIFRORy4gIgogICAgK2xvbmdQYXVzZQogICAgK1JvbGxSaWdodAogICAgKyJWYXIgZGV0IHN2w6VydCBhdHQgaGl0dGEgaGl0PyIKICAgIEdlc3R1cmVzLlNtaWxlCn0KCnZhbCBSb2xsUmlnaHQ6IEdlc3R1cmUgPSBkZWZpbmVHZXN0dXJlIHsKICAgIGZyYW1lKDAuNykgewogICAgICAgIEJhc2ljUGFyYW1zLk5FQ0tfUk9MTCB0byAzMAogICAgfQogICAgcmVzZXQoMS41KQp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNpY1BhcmFtcy5ORUNLX1BBTiB0byAtNQogICAgICAgIEJhc2ljUGFyYW1zLk5FQ0tfUk9MTCB0byAzCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb21wYW55TmFtZSA9CiAgICAgICAgcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICBmdXJoYXQuc2F5KHBocmFzZXMuTUlDUk9QSE9ORV9QUk9CTEVNKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb21wYW55TmFtZSA9CiAgICAgICAgcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyAgICBcfCQvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>, persist = true</last-search>
+      <last-search>\csmile</last-search>
       <last-offset />
-      <last-pattern>, persist = true</last-pattern>
-      <last-replace />
-      <last-substitute>, persist = true</last-substitute>
+      <last-pattern>\csmile</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute encoding="base64">ICAgIFx8JA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\\?</entry>
-        <entry>\?</entry>
-        <entry>?</entry>
         <entry>Och hur</entry>
         <entry>\n&quot; \+</entry>
         <entry>\n&quot; +</entry>
@@ -706,9 +705,11 @@
         <entry>TILT</entry>
         <entry>Right</entry>
         <entry>, persist = true</entry>
+        <entry encoding="base64">ICAgIFx8JA==</entry>
+        <entry>SMILE</entry>
+        <entry>\csmile</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Focus/Blur/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L3N0b3AvZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL1RhYmxlL0hlYWRlci9n</entry>
@@ -728,6 +729,7 @@
         <entry encoding="base64">JzwsJz5zLywgcGVyc2lzdCA9IHRydWUvLw==</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyAgICBcfCQvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
