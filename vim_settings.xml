@@ -389,12 +389,12 @@
         <mark key="^" line="28" column="115" />
         <mark key="." line="28" column="115" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1554277488811">
-        <mark key="'" line="225" column="0" />
-        <mark key="[" line="153" column="6" />
-        <mark key="]" line="153" column="124" />
-        <mark key="^" line="129" column="11" />
-        <mark key="." line="129" column="11" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" timestamp="1554278412393">
+        <mark key="'" line="241" column="0" />
+        <mark key="[" line="159" column="9" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="153" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/aws-s3-adapter.ts" timestamp="1551783855458">
         <mark key="[" line="19" column="50" />
@@ -625,17 +625,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Okej, men jag tror att det kommer att kännas tydligare i nästa steg. Så jag berättar nu hur intervjun kommer att se ut.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>say</text>
+        <text>incl</text>
       </register>
       <register name="/" type="4">
         <text>\csmile</text>
       </register>
-      <register name="0" type="4">
-        <text>Okej, men jag tror att det kommer att kännas tydligare i nästa steg. Så jag berättar nu hur intervjun kommer att se ut.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgewogICAgICAgICAgICAgICAgICAgICsiT2tlaiwgbWVuIGphZyB0cm9yIGF0dCBkZXQga29tbWVyIGF0dCBrw6RubmFzIHR5ZGxpZ2FyZSBpIG7DpHN0YSBzdGVnLiBTw6UgamFnIGJlcsOkdHRhciBudSBodXIgaW50ZXJ2anVuIGtvbW1lciBhdHQgc2UgdXQuIgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -644,34 +644,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIk9NIFRORyBvIFBST0NFU1NFTiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8iT00gVEVOR0FJIgogICAgKyJPa2VqLiBOb2cgb20gZGV0LiAuLi4gRWxsZXIgdmlsbCBkdSB2ZXRhIG1lciBvbSBodXIgamFnIGZ1bmdlcmFyPyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8iT00gVEVOR0FJIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsiT2tlaiwgbWVuIGphZyB0cm9yIGF0dCBkZXQga29tbWVyIGF0dCBrw6RubmFzIHR5ZGxpZ2FyZSBpIG7DpHN0YSBzdGVnLiBTw6UgamFnIGJlcsOkdHRhciBudSBodXIgaW50ZXJ2anVuIGtvbW1lciBhdHQgc2UgdXQuIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICsiT2tlaiwgbWVuIGphZyB0cm9yIGF0dCBkZXQga29tbWVyIGF0dCBrw6RubmFzIHR5ZGxpZ2FyZSBpIG7DpHN0YSBzdGVnLiBTw6UgamFnIGJlcsOkdHRhciBudSBodXIgaW50ZXJ2anVuIGtvbW1lciBhdHQgc2UgdXQuIgo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICsiIiJKYWcgdmV0IGludGUgdmFkIGR1IHR5Y2tlciBvbSBkZXQuIEVuIGRlbCBtw6Rubmlza29yIHR5Y2tlciBhdHQgZGV0IMOkciBvcGVyc29ubGlndC4gTWVuIGphZyBvY2ggcmVrcnl0ZXJhcm5hIHDDpSBUTkcKICAgICAgICB8dmV0IHR5dsOkcnIgYXR0IG3DpW5nYSBhcmJldHNnaXZhcmUgb21lZHZldGV0IHDDpXZlcmthcyBhdiBkZXQgeXR0cmUgaG9zIGVuIGthbmRpZGF0LiBPY2ggdmkgdHlja2VyIGRldCDDpHIgZmVsLgogICAgICAgIHxGw7ZyIGhlbHQgw6RybGlndCwgaHVyIHZpa3RpZyDDpHIgdGlsbCBleGVtcGVsIGRpbiDDpWxkZXIgZsO2ciBqb2JiZXQgZHUgc8O2a2VyIG51PyBTVkFSIEZSw4VOIEtBTkRJREFURU4/PyIiIi50cmltTWFyZ2luKCkKICAgICsiIiJTw6UgamFnIGhvcHBhcyBkdSBmw7Zyc3TDpXIgYXR0IGRldCDDpHIgZsO2ciBhdHQgdmkgcMOlIFRORyB2aWxsIGdlIGRpZyBlbiByw6R0dHZpcyBiZWTDtm1uaW5nIHNvbSBkdSBibGl2aXQgaW5ianVkZW4KICAgICAgICB8cMOlIGludGVydmp1IG1lZCBtaWchIEphZyBrYW4gdMOkbmthIG1pZyBhdHQgZGV0IMOkciBlbiBvdmFubGlnIHNpdHVhdGlvbiwgbWVuIGphZyDDpHIgc8Oka2VyIHDDpSBhdHQgZGV0IGtvbW1lcgogICAgICAgIHxnw6UgYnJhLiIiIi50cmltTWFyZ2luKCkKICAgICtHZXN0dXJlcy5TbWlsZShzdHJlbmd0aCA9IDAuNSkKICAgICsiIiJJbm5hbiB2aSBnw6VyIHZpZGFyZSB2aWxsIGphZyBvY2tzw6UgYmFyYSBzw6RnYSBhdHQgZGV0IGthbiB2YXJhIGJyYSBmw7ZyIGRpZyBhdHQga8Okbm5hIHRpbGwgYXR0IGphZyBpbnRlIMOkciBlbgogICAgICAgIHxjaGF0dHJvYm90IHNvbSBkdSBrYW4gZnLDpWdhIHZhZCBzb20gaGVsc3QuIERldCDDpHIgamFnIGludGUgcHJvZ3JhbW1lcmFkIGbDtnIuIE1lbiBvbSBkdSB0eWNrZXIgYXR0IGphZyBwcmF0YXIKICAgICAgICB8b3R5ZGxpZ3QgZWxsZXIgZsOlciBlbiBmcsOlZ2EgZHUgaW50ZSBmw7Zyc3TDpXIgc8OlIGthbiBkdSBhbGx0aWQgYmUgbWlnIHN0w6RsbGEgZnLDpWdhbiBpZ2VuISIiIi50cmltTWFyZ2luKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgICBcfCQvIi9n</text>
