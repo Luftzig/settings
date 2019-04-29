@@ -399,11 +399,10 @@
         <mark key="^" line="2" column="64" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/.gitignore" timestamp="1556288310670">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/.gitignore" timestamp="1556528000853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/app/root-store-instance.ts" timestamp="1549888972283">
         <mark key="[" line="3" column="22" />
@@ -462,6 +461,9 @@
         <mark key="^" line="37" column="79" />
         <mark key="." line="37" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" timestamp="1556527872837">
+        <mark key="'" line="117" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" timestamp="1554281349020">
         <mark key="'" line="3" column="18" />
         <mark key="[" line="3" column="18" />
@@ -497,13 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Promise.ts" />
-      <jump line="12" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="9" column="36" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
-      <jump line="78" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="79" column="41" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" />
-      <jump line="24" column="37" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionFive.kt" />
-      <jump line="42" column="121" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="77" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="63" column="44" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
@@ -597,40 +592,47 @@
       <jump line="291" column="0" filename="$USER_HOME$/Projects/tengai-automated/assets/speech/tools/file-name-to-key.csv" />
       <jump line="327" column="0" filename="$USER_HOME$/Projects/tengai-automated/assets/speech/tools/file-name-to-key.csv" />
       <jump line="708" column="0" filename="$USER_HOME$/Projects/tengai-automated/assets/speech/tools/file-name-to-key.csv" />
+      <jump line="18" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
+      <jump line="72" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
+      <jump line="73" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
+      <jump line="74" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
+      <jump line="75" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
+      <jump line="76" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
+      <jump line="117" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlQmFzZVBhdGguaXNkCg==</text>
+        <text encoding="base64">dG9vbHMvZmlsZS1uYW1lLXRvLWtleS5jc3YK</text>
       </register>
       <register name="-" type="4">
         <text>.toURI()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICw=</text>
+        <text>yeah</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzLmVuZChgRmlsZSAke3BhdGhuYW1lfSBub3QgZm91bmQhYCk7CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlQmFzZVBhdGguaXNkCg==</text>
+        <text encoding="base64">dG9vbHMvZmlsZS1uYW1lLXRvLWtleS5jc3YK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLkRpcmUK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlQmFzZVBhdGguaXNkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBhdGhkCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLkRpcmUK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlUGF0aC4K</text>
+        <text encoding="base64">ICAgIFBhdGhkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHJlc291cmNlUGF0aC4K</text>
@@ -639,25 +641,25 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlUGF0aC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIHJlc291cmNlUGF0aCA9IFRlbmdhaUF1dG9tYXRlZFNraWxsOjpjbGFzcy5qYXZhLmdldFJlc291cmNlKCJzcGVlY2gvdG9vbHMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcwo=</text>
+        <text encoding="base64">dmFsIHJlc291cmNlUGF0aCA9IFRlbmdhaUF1dG9tYXRlZFNraWxsOjpjbGFzcy5qYXZhLmdldFJlc291cmNlKCJzcGVlY2gvdG9vbHMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzb3VyY2VQYQo=</text>
+        <text encoding="base64">ICAgIHJlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICw=</last-search>
+      <last-search>yeah</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICw=</last-pattern>
+      <last-pattern>yeah</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute encoding="base64">ICAgIFx8JA==</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cja\]</entry>
         <entry>\cja</entry>
         <entry>\cjag\b</entry>
         <entry>\cja\B</entry>
@@ -685,6 +686,7 @@
         <entry encoding="base64">ICwg</entry>
         <entry>,</entry>
         <entry encoding="base64">ICw=</entry>
+        <entry>yeah</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1RhYmxlQ2VsbC9EYXRhQ2VsbC9n</entry>
