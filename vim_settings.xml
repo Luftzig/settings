@@ -33,10 +33,12 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" timestamp="1556532630311">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" timestamp="1556536829873">
+        <mark key="'" line="17" column="40" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
       </file>
       <file name="/a.dummy" timestamp="1553680159797">
         <mark key="[" line="0" column="0" />
@@ -212,12 +214,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1556532755556">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1556536334121">
+        <mark key="'" line="134" column="40" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/setup.kt" timestamp="1556529529062">
         <mark key="[" line="29" column="4" />
@@ -517,7 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
       <jump line="114" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
       <jump line="11" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/logsCreationConsumer.ts" />
       <jump line="50" column="86" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
@@ -612,60 +613,58 @@
       <jump line="123" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="105" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" />
       <jump line="129" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="134" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="124" column="57" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="20" column="6" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="199" column="43" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
       <jump line="93" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/phrases.kt" />
+      <jump line="17" column="40" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" />
+      <jump line="124" column="60" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="20" column="30" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="134" column="40" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>, [.0-9]*)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB7IGZ1cmhhdC5zYXkocGhyYXNlcy5ORVVUUkFMX0JBQ0tDSEFOTkVMXzEsIGFzeW5jID0gdHJ1ZSkgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHBzLy9sb2NhbGhvc3Q6MTMwMDAvbS1obV9GLndhdiIsICJBZmZpcm1hdGl2ZSBtbSAwMDA2IikgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1pbmF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHA6Ly9sb2NhbGhvc3Q6MTMwMDAvbS1obV9GLndhdiIsICJmaXJzdCIpIH0KICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImxvY2FsaG9zdDoxMzAwMC9tLWhtX0Yud2F2IiwgInNlY29uZCIpIH0KLy8gICAgICAgICAgICAgICAgZnVyaGF0LnNheSB7ICtBdWRpbygiaHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS90bmctYXVkaW8vMDAwNl9tbV8xMS53YXYiLCAiQWZmaXJtYXRpdmUgbW0gMDAwNiIpIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1pbmF0ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLk5FVVRSQUxfQkFDS0NIQU5ORUxfMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLk5FVVRSQUxfQkFDS0NIQU5ORUxfMSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkaXJlY3RPdXRwdXQoUHJvY2Vzc0J1aWxkZXIuUmVkaXJlY3QuSU5IRVJJVCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkaXJlY3RPdXRwdXQoUHJvY2Vzc0J1aWxkZXIuUmVkaXJlY3QudG8oU3lzdGVtLm91dCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAucmVkaXJlY3RPdXRwdXQoUHJvY2Vzc0J1aWxkZXIuUmVkaXJlY3QuSU5IRVJJVCkK</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAucmVkaXJlY3RPdXRwdXQoUHJvY2Vzc0J1aWxkZXIuUmVkaXJlY3QudG8oU3lzdGVtLm91dCkpCg==</text>
       </register>
       <register name="8" type="8">
         <text>#
@@ -675,7 +674,6 @@
       </register>
       <register name="9" type="8">
         <text>#
-#
 #
 #
 #</text>
