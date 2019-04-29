@@ -33,12 +33,12 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" timestamp="1556538067913">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" timestamp="1556541075322">
         <mark key="'" line="17" column="40" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="41" />
-        <mark key="^" line="18" column="52" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="58" />
+        <mark key="." line="21" column="58" />
+        <mark key="^" line="21" column="58" />
       </file>
       <file name="/a.dummy" timestamp="1553680159797">
         <mark key="[" line="0" column="0" />
@@ -135,12 +135,12 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/steps.sh" timestamp="1556529343112">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/steps.sh" timestamp="1556541418526">
         <mark key="'" line="25" column="14" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="49" column="4" />
-        <mark key="^" line="48" column="84" />
-        <mark key="." line="48" column="84" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="36" column="61" />
+        <mark key="." line="36" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/index.ts" timestamp="1547741445201">
         <mark key="[" line="7" column="0" />
@@ -624,17 +624,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>it.wait</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UkFURT0nMTZrJwpCQUNLQ0hBTk5FTFM9KAogICAgbS1obV9GCiAgICBtbV9BCiAgICBtbV9CCiAgICBtbV9GCiAgICBtbV9KCiAgICBtbV9MCikKQkFDS0NIQU5ORUxTX1ZPTFVNRT0nMC44NScKCmZvciBuYW1lIGluICR7QkFDS0NIQU5ORUxTfQogICAgZG8gc294IG9yaWdpbmFsLyR7bmFtZX0ud2F2IHByb2Nlc3NlZC8ke25hbWV9LndhdiBjaGFubmVscyAxIHJhdGUgJHtSQVRFfSB2b2wgJHtCQUNLQ0hBTk5FTFNfVk9MVU1FfQpkb25lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>it.wait</text>
+        <text>s3.eu-central-1.amazonaws.com/tng-audio</text>
       </register>
       <register name="/" type="4">
         <text>, [.0-9]*)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHBzLy9sb2NhbGhvc3Q6MTMwMDAvbS1obV9GLndhdiIsICJBZmZpcm1hdGl2ZSBtbSAwMDA2IikgfQo=</text>
+        <text encoding="base64">UkFURT0nMTZrJwpCQUNLQ0hBTk5FTFM9KAogICAgbS1obV9GCiAgICBtbV9BCiAgICBtbV9CCiAgICBtbV9GCiAgICBtbV9KCiAgICBtbV9MCikKQkFDS0NIQU5ORUxTX1ZPTFVNRT0nMC44NScKCmZvciBuYW1lIGluICR7QkFDS0NIQU5ORUxTfQogICAgZG8gc294IG9yaWdpbmFsLyR7bmFtZX0ud2F2IHByb2Nlc3NlZC8ke25hbWV9LndhdiBjaGFubmVscyAxIHJhdGUgJHtSQVRFfSB2b2wgJHtCQUNLQ0hBTk5FTFNfVk9MVU1FfQpkb25lCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHA6Ly9sb2NhbGhvc3Q6MTMwMDAvbS1obV9GLndhdiIsICJmaXJzdCIpIH0KICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImxvY2FsaG9zdDoxMzAwMC9tLWhtX0Yud2F2IiwgInNlY29uZCIpIH0KLy8gICAgICAgICAgICAgICAgZnVyaGF0LnNheSB7ICtBdWRpbygiaHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS90bmctYXVkaW8vMDAwNl9tbV8xMS53YXYiLCAiQWZmaXJtYXRpdmUgbW0gMDAwNiIpIH0K</text>
