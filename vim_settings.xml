@@ -209,17 +209,17 @@
         <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1556611963431">
-        <mark key="'" line="110" column="45" />
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-        <mark key="." line="19" column="33" />
+        <mark key="'" line="109" column="45" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/setup.kt" timestamp="1556529529062">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="73" />
-        <mark key="." line="29" column="73" />
-        <mark key="^" line="29" column="73" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/setup.kt" timestamp="1556612695432">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="73" />
       </file>
       <file name="/RepeatSpec.kt" timestamp="1554709633732">
         <mark key="[" line="3" column="0" />
@@ -359,7 +359,7 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555585363883">
+      <file name="/Dummy.txt" timestamp="1556612944492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/networking.ts" timestamp="1547720890887">
@@ -617,8 +617,8 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>http://localhost:$SOUND_SERVER_PORT/$name.wav</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0U291bmRTZXJ2ZXIoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>http://localhost:$SOUND_SERVER_PORT/$name.wav</text>
@@ -630,40 +630,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkocGhyYXNlcy5ZRUFIXzIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0U291bmRTZXJ2ZXIoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3NCdWlsZGVyKCJ3aG9hbWkiKS5pbmhlcml0SU8oKS5zdGFydCgpLndhaXRGb3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuaW5oZXJpdElPKCkK</text>
+        <text encoding="base64">ICAgIFByb2Nlc3NCdWlsZGVyKCJ3aG9hbWkiKS5pbmhlcml0SU8oKS5zdGFydCgpLndhaXRGb3IoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJTZXJ2aW5nIHJlcXVlc3QgZm9yOiBwYXRobmFtZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuaW5oZXJpdElPKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHA6Ly9sb2NhbGhvc3Q6MTMwMDAvbW1fQS53YXYiLCAiZmlyc3QiKSB9CiAgICAgICAgICAgICAgICBmdXJoYXQuc2F5IHsgK0F1ZGlvKCJodHRwOi8vbG9jYWxob3N0OjEzMDAwL21faG1fRi53YXYiLCAiZmlyc3QiKSB9Ci8vICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImxvY2FsaG9zdDoxMzAwMC9tLWhtX0Yud2F2IiwgInNlY29uZCIpIH0KLy8gICAgICAgICAgICAgICAgZnVyaGF0LnNheSB7ICtBdWRpbygiaHR0cDovL3MzLmV1LWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3RuZy1hdWRpby8wMDA2X21tXzExLndhdiIsICJBZmZpcm1hdGl2ZSBtbSAwMDA2IikgfQovLyAgICAgICAgICAgICAgICBmdXJoYXQuc2F5IHsgK0F1ZGlvKCJodHRwOi8vbG9jYWxob3N0OjEzMDAwLzAwMDZfbW1fMTEud2F2IiwgIkFmZmlybWF0aXZlIG1tIDAwMDYiKSB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJTZXJ2aW5nIHJlcXVlc3QgZm9yOiBwYXRobmFtZSIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHA6Ly9sb2NhbGhvc3Q6MTMwMDAvbS1obV9GLndhdiIsICJmaXJzdCIpIH0KICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImxvY2FsaG9zdDoxMzAwMC9tLWhtX0Yud2F2IiwgInNlY29uZCIpIH0KLy8gICAgICAgICAgICAgICAgZnVyaGF0LnNheSB7ICtBdWRpbygiaHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS90bmctYXVkaW8vMDAwNl9tbV8xMS53YXYiLCAiQWZmaXJtYXRpdmUgbW0gMDAwNiIpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHA6Ly9sb2NhbGhvc3Q6MTMwMDAvbW1fQS53YXYiLCAiZmlyc3QiKSB9CiAgICAgICAgICAgICAgICBmdXJoYXQuc2F5IHsgK0F1ZGlvKCJodHRwOi8vbG9jYWxob3N0OjEzMDAwL21faG1fRi53YXYiLCAiZmlyc3QiKSB9Ci8vICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImxvY2FsaG9zdDoxMzAwMC9tLWhtX0Yud2F2IiwgInNlY29uZCIpIH0KLy8gICAgICAgICAgICAgICAgZnVyaGF0LnNheSB7ICtBdWRpbygiaHR0cDovL3MzLmV1LWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3RuZy1hdWRpby8wMDA2X21tXzExLndhdiIsICJBZmZpcm1hdGl2ZSBtbSAwMDA2IikgfQovLyAgICAgICAgICAgICAgICBmdXJoYXQuc2F5IHsgK0F1ZGlvKCJodHRwOi8vbG9jYWxob3N0OjEzMDAwLzAwMDZfbW1fMTEud2F2IiwgIkFmZmlybWF0aXZlIG1tIDAwMDYiKSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1pbmF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImh0dHA6Ly9sb2NhbGhvc3Q6MTMwMDAvbS1obV9GLndhdiIsICJmaXJzdCIpIH0KICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArQXVkaW8oImxvY2FsaG9zdDoxMzAwMC9tLWhtX0Yud2F2IiwgInNlY29uZCIpIH0KLy8gICAgICAgICAgICAgICAgZnVyaGF0LnNheSB7ICtBdWRpbygiaHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS90bmctYXVkaW8vMDAwNl9tbV8xMS53YXYiLCAiQWZmaXJtYXRpdmUgbW0gMDAwNiIpIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1pbmF0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLk5FVVRSQUxfQkFDS0NIQU5ORUxfMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
