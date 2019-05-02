@@ -146,8 +146,8 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1556810363248">
-        <mark key="'" line="63" column="8" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1556813808431">
+        <mark key="'" line="29" column="19" />
         <mark key="[" line="27" column="47" />
         <mark key="]" line="29" column="40" />
         <mark key="." line="29" column="40" />
@@ -438,8 +438,11 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556620226706">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1556814117737">
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="0" column="62" />
+        <mark key="^" line="0" column="62" />
+        <mark key="." line="0" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/networking.ts" timestamp="1547720890887">
         <mark key="[" line="10" column="19" />
@@ -539,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="29" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="68" column="14" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="172" column="0" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
       <jump line="165" column="31" filename="$USER_HOME$/Projects/js-analyzer/src/Main.hs" />
@@ -639,16 +641,17 @@
       <jump line="54" column="24" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ExpressiveMovement.kt" />
       <jump line="135" column="3" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ExpressiveMovement.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ExpressiveMovement.kt" />
+      <jump line="29" column="19" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kKFN0YXJ0RXhwcmVzc2l2ZU1vdmVtZW50KCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s (still not at the goal).</text>
       </register>
       <register name="-" type="4">
-        <text>Starting listening behaviour</text>
+        <text>s (still not at the goal).</text>
       </register>
       <register name="/" type="4">
         <text>localLog</text>
