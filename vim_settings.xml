@@ -352,7 +352,8 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/sexQuestion.kt" timestamp="1557231387571">
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/sexQuestion.kt" timestamp="1557233843455">
+        <mark key="'" line="15" column="16" />
         <mark key="[" line="24" column="22" />
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
@@ -515,11 +516,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1557233126109">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="119" column="63" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1557233991775">
+        <mark key="'" line="157" column="19" />
+        <mark key="[" line="140" column="26" />
+        <mark key="]" line="140" column="33" />
+        <mark key="." line="140" column="33" />
+        <mark key="^" line="140" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/superagent.d.ts" timestamp="1551365268088">
         <mark key="[" line="0" column="0" />
@@ -564,9 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="20" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
-      <jump line="97" column="11" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
-      <jump line="66" column="24" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
       <jump line="80" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
       <jump line="125" column="20" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
       <jump line="7" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" />
@@ -664,22 +663,25 @@
       <jump line="121" column="51" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="112" column="43" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="239" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="129" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="146" column="19" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="15" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/sexQuestion.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNrKGFza0FuZFNob3dPcHRpb25zKG9wdGlvbnNQcm9tcHQsIGlmICh1c2VyLnNob3dTc2NyZWVuaW5nQnV0dG9ucykgb3B0aW9uTmFtZXMgZWxzZSBsaXN0T2YoKSwgY2xlYXJTY3JlZW4gPSBmYWxzZSwgdGl0bGUgPSBJTlRST0RVQ1RJT05fV0VMQ09NRV9USVRMRSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PFllcz4=</text>
       </register>
       <register name="-" type="4">
-        <text>optionNames</text>
+        <text encoding="base64">PFllcz4=</text>
       </register>
       <register name="/" type="4">
         <text>which</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc2soYXNrQW5kU2hvd09wdGlvbnMoSU5UUk9EVUNUSU9OX0hZUE9USFlST0lESVNNX09OTFksCiAgICAgICAgICAgICAgICBsaXN0T2YoSFlQT1RIWVJPSURJU01fTkFNRSksCiAgICAgICAgICAgICAgICB0aXRsZSA9IElOVFJPRFVDVElPTl9XRUxDT01FX1RJVExFLAogICAgICAgICAgICAgICAgY2xlYXJTY3JlZW4gPSBmYWxzZSkpCg==</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2U8WWVzPiB7CiAgICAgICAgbG9nLmRlYnVnKCJVc2VyIHJlc3BvbmRlZCBcIlllc1wiIChcIiR7aXQudGV4dH1cIikiKQogICAgICAgIHZhbCBvcHRpb25zID0gZ2V0U2NyZWVuaW5nT3B0aW9uc0Zvcih1c2Vycy5jdXJyZW50KS5maWx0ZXIgeyAhaXQudmFsdWUgfQogICAgICAgIGlmIChvcHRpb25zLmNvdW50KCkgPT0gMSkgewogICAgICAgICAgICBoYW5kbGVTY3JlZW5pbmdDaG9pY2Uob3B0aW9ucy5rZXlzLmZpcnN0KCkpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZnVyaGF0LnNheShJTlRST0RVQ1RJT05fVVNFUl9TQUlEX1lFU19CVVRfTk9UX1NFTEVDVEVEKQogICAgICAgICAgICBsaXN0ZW4oKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXNrKGFza0FuZFNob3dPcHRpb25zKG9wdGlvbnNQcm9tcHQsIGlmICh1c2VyLnNob3dTc2NyZWVuaW5nQnV0dG9ucykgb3B0aW9uTmFtZXMgZWxzZSBsaXN0T2YoKSwgY2xlYXJTY3JlZW4gPSBmYWxzZSwgdGl0bGUgPSBJTlRST0RVQ1RJT05fV0VMQ09NRV9USVRMRSkpCg==</text>
