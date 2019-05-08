@@ -60,11 +60,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDControls.kt" timestamp="1557313874117">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="87" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDControls.kt" timestamp="1557316532538">
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="57" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/index.ts" timestamp="1547741445201">
         <mark key="[" line="7" column="0" />
@@ -297,11 +297,12 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDResponse.kt" timestamp="1557313631727">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDResponse.kt" timestamp="1557316557836">
+        <mark key="'" line="17" column="50" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/setup.ts" timestamp="1551364094272">
         <mark key="[" line="4" column="87" />
@@ -596,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
       <jump line="60" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" />
       <jump line="100" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
@@ -696,59 +696,59 @@
       <jump line="10" column="15" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionOne.kt" />
       <jump line="26" column="21" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="66" column="22" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionThree.kt" />
+      <jump line="17" column="50" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDResponse.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEpTT05FeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICBVbmtub3duCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>which</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1c2Vycy5jdXJyZW50Lmh5cG90aHlyb2lkaXNtRGF0YS5jb21wbGV0ZWQpIElOVFJPRFVDVElPTl9BTExfRE9ORSBlbHNlIElOVFJPRFVDVElPTl9IWVBPVEhZUk9JRElTTV9PTkxZLAo=</text>
+        <text encoding="base64">ICAgICAgICBAVGhyb3dzKEpTT05FeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhYnN0cmFjdCBpZDogU3RyaW5nCiAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEpTT05FeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICBVbmtub3duCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmZ1biBub3RoaW5nKCk6IFN0cmluZyB7CiAgICB0aHJvdyBFeGNlcHRpb24oKQp9CgpmdW4gdGVzdCgpIHsKICAgIG5vdGhpbmcoKS50cnlPcigiaGkiKQp9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm90aGluZygpLnRyeU8K</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJuYW1lIjogIkgiLAogICAgICAgICAgICAic3RhcnQiOiAwLjcxLAogICAgICAgICAgICAiZW5kIjogMC43NCwKICAgICAgICAgICAgInByb21pbmVudCI6IGZhbHNlCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ZnVuIEFueS50cnlPcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBAVGhyb3dzKEpTT05FeGNlcHRpb246OmNsYXNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2h0dHAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2todHRwMy5kZAo=</text>
+        <text encoding="base64">ZnVuIGZyb20oanNvbjogSlNPTk9iamVjdCkgPQogICAgICAgIFlvdXJNRFJlc3BvbnNlKAogICAgICAgICAgICAgICAgbmV4dFBoYXNlID0ganNvbi5nZXRTdHJpbmcoInBoYXNlIiksCiAgICAgICAgICAgICAgICB0ZXh0ID0ganNvbi5nZXRKU09OQXJyYXkoInRleHQiKS5tYXAgeyBpdC50b1N0cmluZygpIH0sCiAgICAgICAgICAgICAgICBzZXNzaW9uID0ganNvbi5nZXRTdHJpbmcoInNlc3Npb25faWQiKSwKICAgICAgICAgICAgICAgIGNvbnRyb2xzID0gZnJvbShqc29uLmdldEpTT05PYmplY3QoImNvbnRyb2xzIikpCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
