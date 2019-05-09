@@ -99,11 +99,11 @@
         <mark key="^" line="124" column="78" />
         <mark key="." line="124" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" timestamp="1557402270306">
-        <mark key="[" line="16" column="61" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" timestamp="1557410294643">
+        <mark key="'" line="15" column="54" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/models/Name.ts" timestamp="1552411207988">
         <mark key="[" line="0" column="0" />
@@ -517,7 +517,7 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557306537253">
+      <file name="/Dummy.txt" timestamp="1557410373522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -577,12 +577,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1557234753402">
-        <mark key="'" line="105" column="23" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-        <mark key="^" line="233" column="19" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1557410364385">
+        <mark key="'" line="150" column="13" />
+        <mark key="[" line="317" column="17" />
+        <mark key="]" line="317" column="36" />
+        <mark key="." line="317" column="36" />
+        <mark key="^" line="317" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDRequest.kt" timestamp="1557328171546">
         <mark key="[" line="2" column="17" />
@@ -635,9 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
-      <jump line="72" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
-      <jump line="73" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="74" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="75" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="76" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
@@ -735,16 +732,19 @@
       <jump line="50" column="39" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDControls.kt" />
       <jump line="14920" column="6" filename="$USER_HOME$/Projects/merckprototyp/src/test/resources/thyroidaware.com.har" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/test/resources/thyroidaware.com.har" />
+      <jump line="16" column="54" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/main.kt" />
+      <jump line="109" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="152" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>testApiState</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>testApiState</text>
       </register>
       <register name="/" type="4">
         <text>Gaining</text>
@@ -752,43 +752,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRVc2VyUmVwbHlBbmRHb3RvTmV4dCh1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhLmNvcHkoZHVyYXRpb24gPSBpbnRlbnQucmVwbHlDb2RlKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>val value: String,
-                           val yesText: String,
-                           val noText: String</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmbG93LnJ1bih0ZXN0QXBpU3RhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0ganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJub190ZXh0OiIpCg==</text>
+      <register name="2" type="4">
+        <text>val value: String,
+                           val yesText: String,
+                           val noText: String</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uUmVzcG9uc2UocmVwbGllcykgewogICAgICAgIHZhbCBpbnRlbnQgPSBpdC5pbnRlbnQgYXMgTGFiZWxJbnRlbnQKICAgICAgICB3aGVuIChjb250cm9sLmlkKSB7CiAgICAgICAgICAgICJnZW5kZXIiIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGludGVudC5yZXBseUNvZGUpKQogICAgICAgICAgICAiZHVyYXRpb24iIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGR1cmF0aW9uID0gaW50ZW50LnJlcGx5Q29kZSkpCiAgICAgICAgICAgIGVsc2UgLT4gVE9ETygpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0ganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJub190ZXh0OiIpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2UocmVwbGllcykgewogICAgICAgIHZhbCBpbnRlbnQgPSBpdC5pbnRlbnQgYXMgTGFiZWxJbnRlbnQKICAgICAgICB3aGVuIChjb250cm9sLmlkKSB7CiAgICAgICAgICAgICJnZW5kZXIiIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGludGVudC5yZXBseUNvZGUpKQogICAgICAgICAgICAiZHVyYXRpb24iIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGR1cmF0aW9uID0gaW50ZW50LnJlcGx5Q29kZSkpCiAgICAgICAgICAgIGVsc2UgLT4gVE9ETygpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGNvZGUpKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4gKHNleCkgewogICAgICAgICAgICAgICAgICAgICJtYWxlIiAtPgogICAgICAgICAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGludGVudC5yZXBseUNvZGUpKQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGNvZGUpKSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
