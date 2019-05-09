@@ -263,12 +263,12 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/flow.kt" timestamp="1557329175709">
-        <mark key="'" line="37" column="17" />
-        <mark key="[" line="72" column="50" />
-        <mark key="]" line="72" column="113" />
-        <mark key="." line="72" column="113" />
-        <mark key="^" line="72" column="113" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/flow.kt" timestamp="1557390226376">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="118" column="25" />
+        <mark key="]" line="118" column="35" />
+        <mark key="^" line="118" column="35" />
+        <mark key="." line="118" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ExpressiveMovement.kt" timestamp="1556868580123">
         <mark key="[" line="169" column="0" />
@@ -725,13 +725,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mapOf(
-                    &quot;id&quot; to control.id,
-                    control.sendText to it.intent.age.toString()
-            )</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>mapOf(&quot;phase&quot; to &quot;start&quot;, &quot;session&quot; to &quot;false&quot;)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -740,16 +737,16 @@
         <text encoding="base64">ZGF0YSBjbGFzcyBZb3VyTURTdGF0ZSgKICAgICAgICB2YWwgc2Vzc2lvbklkOiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICB2YWwgcGhhc2UgOiBTdHJpbmcgPSAic3RhcnQiLAogICAgICAgIHZhbCBhZ2UgOiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICB2YWwgZ2VuZGVyIDogU3RyaW5nPyA9IG51bGwsCiAgICAgICAgdmFsIGR1cmF0aW9uIDogU3RyaW5nPyA9IG51bGwsCiAgICAgICAgdmFsIGluaXRpYWwgOiBBcnJheTxTdHJpbmc+PyA9IG51bGwsCiAgICAgICAgdmFsIGFkZGl0aW9uYWw6IEFycmF5PFN0cmluZz4gPSBhcnJheU9mKCksCiAgICAgICAgdmFsIGV4Y2x1ZGVkIDogQXJyYXk8U3RyaW5nPiA9IGFycmF5T2YoKSwKICAgICAgICB2YWwgbGFuZ3VhZ2UgOiBTdHJpbmcgPSAiZW4iCikgewogICAgb3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAoamF2YUNsYXNzICE9IG90aGVyPy5qYXZhQ2xhc3MpIHJldHVybiBmYWxzZQoKICAgICAgICBvdGhlciBhcyBZb3VyTURTdGF0ZQoKICAgICAgICBpZiAoc2Vzc2lvbklkICE9IG90aGVyLnNlc3Npb25JZCkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKHBoYXNlICE9IG90aGVyLnBoYXNlKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoYWdlICE9IG90aGVyLmFnZSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGdlbmRlciAhPSBvdGhlci5nZW5kZXIpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChkdXJhdGlvbiAhPSBvdGhlci5kdXJhdGlvbikgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGluaXRpYWwgIT0gbnVsbCkgewogICAgICAgICAgICBpZiAob3RoZXIuaW5pdGlhbCA9PSBudWxsKSByZXR1cm4gZmFsc2UKICAgICAgICAgICAgaWYgKCFpbml0aWFsLmNvbnRlbnRFcXVhbHMob3RoZXIuaW5pdGlhbCkpIHJldHVybiBmYWxzZQogICAgICAgIH0gZWxzZSBpZiAob3RoZXIuaW5pdGlhbCAhPSBudWxsKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoIWFkZGl0aW9uYWwuY29udGVudEVxdWFscyhvdGhlci5hZGRpdGlvbmFsKSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKCFleGNsdWRlZC5jb250ZW50RXF1YWxzKG90aGVyLmV4Y2x1ZGVkKSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGxhbmd1YWdlICE9IG90aGVyLmxhbmd1YWdlKSByZXR1cm4gZmFsc2UKCiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gaGFzaENvZGUoKTogSW50IHsKICAgICAgICB2YXIgcmVzdWx0ID0gc2Vzc2lvbklkPy5oYXNoQ29kZSgpID86IDAKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIHBoYXNlLmhhc2hDb2RlKCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChhZ2U/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChnZW5kZXI/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChkdXJhdGlvbj8uaGFzaENvZGUoKSA/OiAwKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgKGluaXRpYWw/LmNvbnRlbnRIYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBhZGRpdGlvbmFsLmNvbnRlbnRIYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBleGNsdWRlZC5jb250ZW50SGFzaENvZGUoKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgbGFuZ3VhZ2UuaGFzaENvZGUoKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIH0KCiAgICBmdW4gYWRkU3ltcHRvbShzeW1wdG9tOiBTdHJpbmcpOiBZb3VyTURTdGF0ZSB7CiAgICAgICAgaWYgKGluaXRpYWwgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gY29weShpbml0aWFsID0gYXJyYXlPZihzeW1wdG9tKSkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNvcHkoaW5pdGlhbCA9IGluaXRpYWw/LnBsdXNFbGVtZW50KHN5bXB0b20pID86IGFycmF5T2Yoc3ltcHRvbSkpCiAgICB9Cgp9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>mapOf(
-                    &quot;id&quot; to control.id,
-                    control.sendText to it.intent.age.toString()
-            )</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJpZCIgdG8gY29udHJvbC5pZCwKICAgICAgICAgICAgICAgIGNvbnRyb2wudmFsdWUgdG8gIm5vIg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2Vycy5jdSkK</text>
+      <register name="2" type="4">
+        <text>mapOf(
+                &quot;id&quot; to control.id,
+                control.value to &quot;yes&quot;
+        )</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -758,25 +755,28 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVGcm9tQ29udHJvbHMoaXQuY29udHJvbHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb3JtRGF0YSA9IHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5tZXJjay5mbG93LnlvdXJNRFN0YXRlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">bWFwT2YoCiAgICAgICAgICAgICAgICAiaWQiIHRvIGNvbnRyb2wuaWQsCiAgICAgICAgICAgICAgICBjb250cm9sLmlkIHRvIChpdCBhcz8gUmVzcG9uc2U8TGFiZWxJbnRlbnQ+KT8uaW50ZW50Py5yZXBseUNvZGUub3JFbXB0eSgpCiAgICAgICAgKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>mapOf(
+                    &quot;id&quot; to control.id,
+                    control.sendText to it.intent.age.toString()
+            )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXBseURhdGEgPSB1c2VyUmVwbHkgKyBtYXBPZigic2Vzc2lvbl9pZCIgdG8gdXNlcnMuY3VycmVudC55b3VyTURTdGF0ZS5zZXNzaW9uSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInBoYXNlIiB0byB1c2Vycy5jdXJyZW50LnlvdXJNRFN0YXRlLmN1cnJlbnRQaGFzZSkK</text>
+        <text encoding="base64">ICAgIGlmICh1c2Vycy5jdSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29weShpbml0aWFsID0gaW5pdGlhbD8ucGx1c0VsZW1lbnQoc3ltcHRvbSkgPzogYXJyYXlPZihzeW1wdG9tKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
