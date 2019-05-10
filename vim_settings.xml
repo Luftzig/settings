@@ -74,18 +74,24 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" timestamp="1557473000583">
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" timestamp="1557474291024">
         <mark key="'" line="22" column="43" />
-        <mark key="[" line="39" column="110" />
-        <mark key="]" line="39" column="110" />
-        <mark key="^" line="39" column="110" />
-        <mark key="." line="39" column="110" />
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="40" column="76" />
+        <mark key="^" line="40" column="76" />
+        <mark key="." line="40" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" timestamp="1552297759238">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1557475170676">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="4" />
+        <mark key="." line="131" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/skill.properties" timestamp="1557234885732">
         <mark key="[" line="1" column="15" />
@@ -648,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="117" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="25" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/steps.sh" />
       <jump line="114" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
@@ -748,13 +753,14 @@
       <jump line="152" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
       <jump line="22" column="43" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MDk6NDU6MjAgW01lcmNrU2tpbGw6IDEyNjE3XSBERUJVRyBGbG93Q29udHJvbFJ1bm5lcjoxMDQgLSBHb2luZyB0byBzdGF0ZSBzaW5nbGVCdXR0b25TdGF0ZQowOTo0NToyMCBbTWVyY2tTa2lsbDogMTI2MTddIEVSUk9SIEZsb3dDb250cm9sUnVubmVyOiA1NCAtIENhbm5vdCBjYWxsIHN0YXRlIHNheVN0YXRlIGZyb20gaW5zdGFudCB0cmlnZ2VyCjA5OjQ1OjIwIFtwb29sLTItdGhyZWFkLTE6IDEyNjE3XSBERUJVRyBFbnRpdHk6IDcwIC0gSW5pdGlhbGl6ZWQgZW50aXR5IFNleDplbiBpbiAxIG1zZWMKMDk6NDU6MjAgW3Bvb2wtMi10aHJlYWQtMTogMTI2MTddIERFQlVHIEludGVudDogNTQgLSBJbml0aWFsaXplZCBpbnRlbnQgU3BlY2lmeVNleDplbiBpbiAwIG1zZWMK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -766,16 +772,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRVc2VyUmVwbHlBbmRHb3RvTmV4dCh1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhLmNvcHkoZHVyYXRpb24gPSBpbnRlbnQucmVwbHlDb2RlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkFQSSBDYWxsOiBSZXF1ZXN0OiAke2l0Ln0iKQo=</text>
+        <text encoding="base64">MDk6NDU6MjAgW01lcmNrU2tpbGw6IDEyNjE3XSBERUJVRyBGbG93Q29udHJvbFJ1bm5lcjoxMDQgLSBHb2luZyB0byBzdGF0ZSBzaW5nbGVCdXR0b25TdGF0ZQowOTo0NToyMCBbTWVyY2tTa2lsbDogMTI2MTddIEVSUk9SIEZsb3dDb250cm9sUnVubmVyOiA1NCAtIENhbm5vdCBjYWxsIHN0YXRlIHNheVN0YXRlIGZyb20gaW5zdGFudCB0cmlnZ2VyCjA5OjQ1OjIwIFtwb29sLTItdGhyZWFkLTE6IDEyNjE3XSBERUJVRyBFbnRpdHk6IDcwIC0gSW5pdGlhbGl6ZWQgZW50aXR5IFNleDplbiBpbiAxIG1zZWMKMDk6NDU6MjAgW3Bvb2wtMi10aHJlYWQtMTogMTI2MTddIERFQlVHIEludGVudDogNTQgLSBJbml0aWFsaXplZCBpbnRlbnQgU3BlY2lmeVNleDplbiBpbiAwIG1zZWMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDk6NDU6MTMgW01lcmNrU2tpbGw6IDEyNjE3XSBERUJVRyBGbG93Q29udHJvbFJ1bm5lcjoxMDQgLSBHb2luZyB0byBzdGF0ZSBkcm9wZG93blN0YXRlCjA5OjQ1OjEzIFtwb29sLTItdGhyZWFkLTE6IDEyNjE3XSBERUJVRyBFbnRpdHk6IDcwIC0gSW5pdGlhbGl6ZWQgZW50aXR5IE51bWJlcjplbiBpbiAwIG1zZWMKMDk6NDU6MTMgW3Bvb2wtMi10aHJlYWQtMTogMTI2MTddIERFQlVHIEludGVudDogNTQgLSBJbml0aWFsaXplZCBpbnRlbnQgU3BlY2lmeUFnZTplbiBpbiAwIG1zZWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkFQSSBDYWxsOiBSZXF1ZXN0OiAke2l0Ln0iKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -784,24 +790,24 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93LnJ1bih0ZXN0QXBpU3RhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmbG93LnJ1bih0ZXN0QXBpU3RhdGUpCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>val value: String,
                            val yesText: String,
                            val noText: String</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0ganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJub190ZXh0OiIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uUmVzcG9uc2UocmVwbGllcykgewogICAgICAgIHZhbCBpbnRlbnQgPSBpdC5pbnRlbnQgYXMgTGFiZWxJbnRlbnQKICAgICAgICB3aGVuIChjb250cm9sLmlkKSB7CiAgICAgICAgICAgICJnZW5kZXIiIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGludGVudC5yZXBseUNvZGUpKQogICAgICAgICAgICAiZHVyYXRpb24iIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGR1cmF0aW9uID0gaW50ZW50LnJlcGx5Q29kZSkpCiAgICAgICAgICAgIGVsc2UgLT4gVE9ETygpCiAgICAgICAgfQogICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0ganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJub190ZXh0OiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -840,11 +846,6 @@
         <entry>Gaining</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1xuIiBcKy8iLC8=</entry>
-        <entry encoding="base64">JzwsJz5zL1xuIiArLyIsLw==</entry>
-        <entry encoding="base64">JzwsJz5zL1xcbiIgKy8iLC8=</entry>
-        <entry encoding="base64">JzwsJz5zL1RJTFQvUk9MTC8=</entry>
-        <entry encoding="base64">JzwsJz5zL1JpZ2h0L1Vw</entry>
         <entry encoding="base64">JzwsJz5zL1JpZ2h0L0Rvd24=</entry>
         <entry encoding="base64">JzwsJz5zLywgcGVyc2lzdCA9IHRydWUvLw==</entry>
         <entry encoding="base64">JzwsJz5zLyAgICBcfCQvIi9n</entry>
@@ -859,6 +860,11 @@
         <entry encoding="base64">JzwsJz5zLywgWy4wLTldKikvKSB9Lw==</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC8=</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4hcHl0aG9uIC1tIGpzb24udG9vbA==</entry>
+        <entry encoding="base64">IWpxIC4g</entry>
+        <entry encoding="base64">JzwsJz4hanEgLg==</entry>
+        <entry encoding="base64">JzwsJz4hZGF0ZQ==</entry>
+        <entry>!jq .</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
