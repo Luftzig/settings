@@ -74,8 +74,12 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" timestamp="1557415059306">
-        <mark key="'" line="25" column="16" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" timestamp="1557473000583">
+        <mark key="'" line="22" column="43" />
+        <mark key="[" line="39" column="110" />
+        <mark key="]" line="39" column="110" />
+        <mark key="^" line="39" column="110" />
+        <mark key="." line="39" column="110" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" timestamp="1552297759238">
         <mark key="[" line="6" column="22" />
@@ -644,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="76" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="117" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="25" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/steps.sh" />
@@ -744,16 +747,17 @@
       <jump line="109" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="152" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="25" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
+      <jump line="22" column="43" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Gaining</text>
@@ -762,7 +766,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRVc2VyUmVwbHlBbmRHb3RvTmV4dCh1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhLmNvcHkoZHVyYXRpb24gPSBpbnRlbnQucmVwbHlDb2RlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIkFQSSBDYWxsOiBSZXF1ZXN0OiAke2l0Ln0iKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -777,27 +781,27 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbG93LnJ1bih0ZXN0QXBpU3RhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>val value: String,
-                           val yesText: String,
-                           val noText: String</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmbG93LnJ1bih0ZXN0QXBpU3RhdGUpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0ganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJub190ZXh0OiIpCg==</text>
+      <register name="6" type="4">
+        <text>val value: String,
+                           val yesText: String,
+                           val noText: String</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9uUmVzcG9uc2UocmVwbGllcykgewogICAgICAgIHZhbCBpbnRlbnQgPSBpdC5pbnRlbnQgYXMgTGFiZWxJbnRlbnQKICAgICAgICB3aGVuIChjb250cm9sLmlkKSB7CiAgICAgICAgICAgICJnZW5kZXIiIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGludGVudC5yZXBseUNvZGUpKQogICAgICAgICAgICAiZHVyYXRpb24iIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGR1cmF0aW9uID0gaW50ZW50LnJlcGx5Q29kZSkpCiAgICAgICAgICAgIGVsc2UgLT4gVE9ETygpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0ganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vVGV4dCA9IGpzb24uZ2V0U3RyaW5nKCJub190ZXh0OiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2UocmVwbGllcykgewogICAgICAgIHZhbCBpbnRlbnQgPSBpdC5pbnRlbnQgYXMgTGFiZWxJbnRlbnQKICAgICAgICB3aGVuIChjb250cm9sLmlkKSB7CiAgICAgICAgICAgICJnZW5kZXIiIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGdlbmRlciA9IGludGVudC5yZXBseUNvZGUpKQogICAgICAgICAgICAiZHVyYXRpb24iIC0+CiAgICAgICAgICAgICAgICBzZW5kVXNlclJlcGx5QW5kR290b05leHQodXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YS5jb3B5KGR1cmF0aW9uID0gaW50ZW50LnJlcGx5Q29kZSkpCiAgICAgICAgICAgIGVsc2UgLT4gVE9ETygpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
