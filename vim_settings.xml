@@ -331,12 +331,12 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDFormData.kt" timestamp="1557403399462">
-        <mark key="'" line="90" column="44" />
-        <mark key="[" line="89" column="46" />
-        <mark key="]" line="90" column="44" />
-        <mark key="." line="90" column="44" />
-        <mark key="^" line="90" column="44" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDFormData.kt" timestamp="1557475748021">
+        <mark key="'" line="85" column="21" />
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="43" />
+        <mark key="." line="72" column="43" />
+        <mark key="^" line="72" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.ts" timestamp="1552059156900">
         <mark key="[" line="1" column="49" />
@@ -560,6 +560,11 @@
         <mark key="." line="82" column="25" />
         <mark key="^" line="82" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/dropdownState.kt" timestamp="1557475780679">
+        <mark key="[" line="16" column="90" />
+        <mark key="]" line="16" column="90" />
+        <mark key="." line="16" column="90" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/notification-background-handler.ts" timestamp="1547563637848">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="1" column="39" />
@@ -642,19 +647,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/test.kt" timestamp="1557326178055">
-        <mark key="k" line="26" column="1" />
-        <mark key="[" line="129" column="4" />
-        <mark key="]" line="131" column="24" />
-        <mark key="." line="131" column="24" />
-        <mark key="^" line="131" column="24" />
-      </file>
       <file name="/fragment.java" timestamp="1557414464613">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="10" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" />
       <jump line="25" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/steps.sh" />
       <jump line="114" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="123" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
@@ -754,16 +751,17 @@
       <jump line="25" column="16" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
       <jump line="22" column="43" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
       <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" />
+      <jump line="85" column="21" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDFormData.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MDk6NDU6MjAgW01lcmNrU2tpbGw6IDEyNjE3XSBERUJVRyBGbG93Q29udHJvbFJ1bm5lcjoxMDQgLSBHb2luZyB0byBzdGF0ZSBzaW5nbGVCdXR0b25TdGF0ZQowOTo0NToyMCBbTWVyY2tTa2lsbDogMTI2MTddIEVSUk9SIEZsb3dDb250cm9sUnVubmVyOiA1NCAtIENhbm5vdCBjYWxsIHN0YXRlIHNheVN0YXRlIGZyb20gaW5zdGFudCB0cmlnZ2VyCjA5OjQ1OjIwIFtwb29sLTItdGhyZWFkLTE6IDEyNjE3XSBERUJVRyBFbnRpdHk6IDcwIC0gSW5pdGlhbGl6ZWQgZW50aXR5IFNleDplbiBpbiAxIG1zZWMKMDk6NDU6MjAgW3Bvb2wtMi10aHJlYWQtMTogMTI2MTddIERFQlVHIEludGVudDogNTQgLSBJbml0aWFsaXplZCBpbnRlbnQgU3BlY2lmeVNleDplbiBpbiAwIG1zZWMK</text>
+      <register name="&quot;" type="4">
+        <text>.toString()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
         <text>Gaining</text>
