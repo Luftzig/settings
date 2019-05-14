@@ -14,7 +14,7 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1553680159797">
+      <file name="/a.dummy" timestamp="1557826360127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -51,11 +51,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" timestamp="1557496619120">
-        <mark key="[" line="42" column="80" />
-        <mark key="]" line="42" column="82" />
-        <mark key="." line="42" column="82" />
-        <mark key="^" line="42" column="82" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" timestamp="1557826355966">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="84" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Duration.kt" timestamp="1557820260268">
         <mark key="[" line="22" column="38" />
@@ -94,12 +94,6 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1557475170676">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="4" />
-        <mark key="." line="131" column="4" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.8.5/aa57d3cb51a88e5d028f37370918bd139a62c8ea/furhat-commons-1.8.5.jar!/furhatos/nlu/EnumItem.class" timestamp="1557493347455">
         <mark key="'" line="21" column="52" />
@@ -500,12 +494,6 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/test/resources/thyroidaware.com.har" timestamp="1557487341713">
-        <mark key="'" line="4155" column="70" />
-        <mark key="[" line="14029" column="228" />
-        <mark key="]" line="14029" column="372" />
-        <mark key="." line="13835" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/robot-names.json" timestamp="1551877463706">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="26" />
@@ -770,11 +758,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSBpbmxpbmUgZnVuIDxyZWlmaWVkIFQ+IEZsb3dDb250cm9sUnVubmVyLmNhbGxBcygKICAgICAgICBzdGF0ZU5hbWU6IFN0cmluZz8gPSBudWxsLAogICAgICAgIG5vaW5saW5lIGFjdGlvbjogKCkgLT4gVCk6IE9wdGlvbjxUPiB7CiAgICB2YWwgcmVzdWx0ID0gY2FsbChzdGF0ZU5hbWUgPSBzdGF0ZU5hbWUsIGFjdGlvbiA9IGFjdGlvbikKICAgIHJldHVybiB3aGVuIChyZXN1bHQpIHsKICAgICAgICBpcyBUIC0+IFNvbWUocmVzdWx0KQogICAgICAgIGVsc2UgLT4gTm9uZQogICAgfQp9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>until</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
@@ -783,40 +771,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQoKGludGVudCBhcyBEdXJhdGlvbikudGltZVVuaXQ/LnZhbHVlID09ICJ3ZWVrIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRVc2VyUmVwbHlBbmRHb3RvTmV4dCh1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoIkkgd2lsbCByZWFkIG91dCB0aGUgc3ltcHRvbXMuIEp1c3QgYW5zd2VyICd5ZXMnIGlmIHlvdSBoYXZlIGhhZCB0aGlzIHN5bXB0b20sIG9yICdubycgaWYgb3RoZXJ3aXNlLiIpCiAgICAgICAgICAgICAgICBjb250cm9sLnZhbHVlcy5mb3JFYWNoIHsgc3ltcHRvbSAtPgogICAgICAgICAgICAgICAgICAgIHZhbCBoYWRTeW1wdG9tID0gZnVyaGF0LmFzaygiJHtzeW1wdG9tLmxhYmVsfT8iKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVzcG9uc2U8WWVzPiB7IHRlcm1pbmF0ZSh0cnVlKSB9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVzcG9uc2U8Tm8+IHsgdGVybWluYXRlKGZhbHNlKSB9CiAgICAgICAgICAgICAgICAgICAgfSBhcyBCb29sZWFuCiAgICAgICAgICAgICAgICAgICAgaWYgKGhhZFN5bXB0b20pIHsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YSA9IHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEuYWRkU3ltcHRvbShzeW1wdG9tLnZhbHVlKQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEgPSB1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhLmV4Y2x1ZGVTeW1wdG9tKHN5bXB0b20udmFsdWUpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2VuZFVzZXJSZXBseUFuZEdvdG9OZXh0KHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkoIkkgd2lsbCByZWFkIG91dCB0aGUgc3ltcHRvbXMuIEp1c3QgYW5zd2VyICd5ZXMnIGlmIHlvdSBoYXZlIGhhZCB0aGlzIHN5bXB0b20sIG9yICdubycgaWYgb3RoZXJ3aXNlLiIpCiAgICAgICAgICAgICAgICBjb250cm9sLnZhbHVlcy5mb3JFYWNoIHsgc3ltcHRvbSAtPgogICAgICAgICAgICAgICAgICAgIHZhbCBoYWRTeW1wdG9tID0gZnVyaGF0LmFzaygiJHtzeW1wdG9tLmxhYmVsfT8iKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVzcG9uc2U8WWVzPiB7IHRlcm1pbmF0ZSh0cnVlKSB9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVzcG9uc2U8Tm8+IHsgdGVybWluYXRlKGZhbHNlKSB9CiAgICAgICAgICAgICAgICAgICAgfSBhcyBCb29sZWFuCiAgICAgICAgICAgICAgICAgICAgaWYgKGhhZFN5bXB0b20pIHsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlcnMuY3VycmVudC55b3VyTURGb3JtRGF0YSA9IHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEuYWRkU3ltcHRvbShzeW1wdG9tLnZhbHVlKQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEgPSB1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhLmV4Y2x1ZGVTeW1wdG9tKHN5bXB0b20udmFsdWUpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2VuZFVzZXJSZXBseUFuZEdvdG9OZXh0KHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpYmUoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dmFsIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyBGaWx0ZXJzIHRoZSBtYXRjaGVkIGxpc3Qgb2YgaW50ZW50cyBieSB0aGUgc2FtZSAnY29uZCctcGFyYW1ldGVycyB1c2VkIGluIGZsb3cKICAgIHZhbCBmaWx0ZXJlZEludGVudHMgPSBpbnRlbnRzLmZpbHRlciB7IGludGVudDogSW50ZW50SW5zdGFuY2UgLT4KICAgICAgICB2YWwgZmlsdGVyTGFtYmRhOiAoU3RyaW5nKSAtPiBCb29sZWFuID0gd2hlbiAoaW50ZW50KSB7CiAgICAgICAgICAgIGVsc2UgLT4gcmV0dXJuQGZpbHRlciB0cnVlCiAgICAgICAgfQogICAgICAgIGZpbHRlckxhbWJkYSh1dHRlcmFuY2UpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
