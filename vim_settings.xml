@@ -396,7 +396,7 @@
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" timestamp="1557231208032">
         <mark key="'" line="88" column="17" />
       </file>
-      <file name="/fragment.kt" timestamp="1557494118648">
+      <file name="/fragment.kt" timestamp="1557823105605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="39" />
@@ -488,11 +488,11 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/test/kotlin/furhat/app/merck/nlu/testDuration.kt" timestamp="1557820919646">
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="19" column="56" />
-        <mark key="." line="19" column="56" />
-        <mark key="^" line="19" column="56" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/test/kotlin/furhat/app/merck/nlu/testDuration.kt" timestamp="1557823330934">
+        <mark key="[" line="38" column="91" />
+        <mark key="]" line="38" column="91" />
+        <mark key="." line="38" column="91" />
+        <mark key="^" line="38" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/Types.elm" timestamp="1552329686980">
         <mark key="[" line="8" column="33" />
@@ -771,16 +771,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SWEDISH</text>
+        <text>until</text>
       </register>
       <register name="-" type="4">
-        <text>SWEDISH</text>
+        <text>until</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4dC5zcGVrX3ZlcnNpb24gPSAnMi4wLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQoKGludGVudCBhcyBEdXJhdGlvbikudGltZVVuaXQ/LnZhbHVlID09ICJ3ZWVrIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -789,34 +789,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyBGaWx0ZXJzIHRoZSBtYXRjaGVkIGxpc3Qgb2YgaW50ZW50cyBieSB0aGUgc2FtZSAnY29uZCctcGFyYW1ldGVycyB1c2VkIGluIGZsb3cKICAgIHZhbCBmaWx0ZXJlZEludGVudHMgPSBpbnRlbnRzLmZpbHRlciB7IGludGVudDogSW50ZW50SW5zdGFuY2UgLT4KICAgICAgICB2YWwgZmlsdGVyTGFtYmRhOiAoU3RyaW5nKSAtPiBCb29sZWFuID0gd2hlbiAoaW50ZW50KSB7CiAgICAgICAgICAgIGVsc2UgLT4gcmV0dXJuQGZpbHRlciB0cnVlCiAgICAgICAgfQogICAgICAgIGZpbHRlckxhbWJkYSh1dHRlcmFuY2UpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgQ2FudEFuc3dlciAtPiBjYW50QW5zd2VyQ29uZGl0aW9uCiAgICAgICAgICAgIGlzIFJlcGVhdCAtPiByZXBlYXRDb25kaXRpb24KICAgICAgICAgICAgaXMgTW92ZU9uIC0+IG1vdmVPbkNvbmRpdGlvbgogICAgICAgICAgICBpcyBZZXMgLT4geWVzTm9Db25kaXRpb24KICAgICAgICAgICAgaXMgTm8gLT4geWVzTm9Db25kaXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuc2hhcmVkLmNhbnRBbnN3ZXJDb25kaXRpb24KaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuc2hhcmVkLm1vdmVPbkNvbmRpdGlvbgppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQuZmxvdy5zaGFyZWQucmVwZWF0Q29uZGl0aW9uCmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LnNoYXJlZC55ZXNOb0NvbmRpdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpYmUoIiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQWJzdHJhY3RRdWFudGlmaWVyIDogRW51bUVudGl0eSgpIHsKICAgIG92ZXJyaWRlIGZ1biBnZXRFbnVtKGxhbmc6IExhbmd1YWdlKTogTGlzdDxTdHJpbmc+ID0KICAgICAgICAgICAgbGlzdE9mKAogICAgICAgICAgICAgICAgICAgICJmZXc6IGEgZmV3LGxpdHRsZSxub3QgbWFueSIsCiAgICAgICAgICAgICAgICAgICAgIm1hbnk6IGEgbG90IG9mLG1hbnkgYW5kIG1hbnkscXVpdGUgYSBmZXciCiAgICAgICAgICAgICkKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvLyBGaWx0ZXJzIHRoZSBtYXRjaGVkIGxpc3Qgb2YgaW50ZW50cyBieSB0aGUgc2FtZSAnY29uZCctcGFyYW1ldGVycyB1c2VkIGluIGZsb3cKICAgIHZhbCBmaWx0ZXJlZEludGVudHMgPSBpbnRlbnRzLmZpbHRlciB7IGludGVudDogSW50ZW50SW5zdGFuY2UgLT4KICAgICAgICB2YWwgZmlsdGVyTGFtYmRhOiAoU3RyaW5nKSAtPiBCb29sZWFuID0gd2hlbiAoaW50ZW50KSB7CiAgICAgICAgICAgIGVsc2UgLT4gcmV0dXJuQGZpbHRlciB0cnVlCiAgICAgICAgfQogICAgICAgIGZpbHRlckxhbWJkYSh1dHRlcmFuY2UpCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
