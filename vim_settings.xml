@@ -60,7 +60,8 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" timestamp="1557911910557">
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" timestamp="1557912242941">
+        <mark key="'" line="27" column="20" />
         <mark key="[" line="25" column="78" />
         <mark key="]" line="25" column="86" />
         <mark key="." line="25" column="86" />
@@ -160,8 +161,11 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/Results.kt" timestamp="1557842964515">
-        <mark key="^" line="9" column="84" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/Results.kt" timestamp="1557913559601">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="84" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" timestamp="1553075299754">
         <mark key="[" line="7" column="49" />
@@ -198,6 +202,12 @@
         <mark key="]" line="37" column="79" />
         <mark key="^" line="37" column="79" />
         <mark key="." line="37" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/results.kt" timestamp="1557913820934">
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/robot_registry.kt" timestamp="1550574200421">
         <mark key="[" line="9" column="0" />
@@ -512,7 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="55" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="106" column="14" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="88" column="17" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/scenes/hypothyroidism.kt" />
       <jump line="567" column="27" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/general.kt" />
@@ -612,16 +621,17 @@
       <jump line="48" column="31" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
       <jump line="47" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
       <jump line="78" column="62" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
+      <jump line="27" column="20" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>control.id</text>
+        <text>phaseName.startsWith(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>control.id</text>
+        <text>phaseName.startsWith(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
@@ -630,40 +640,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJpb2QuZGF5cyA+IDcgLT4gIndlZWsiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0gVHJ5IHsganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpIH0uZ2V0T3JEZWZhdWx0IHsgIkMwMDQzMDk0IiB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IFRyeSB7IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSB9LmdldE9yRGVmYXVsdCB7ICJZZXMiIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBub1RleHQgPSBUcnkgeyBqc29uLmdldFN0cmluZygibm9fdGV4dDoiKSB9LmdldE9yRGVmYXVsdCB7ICJObyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXJDb25maXJtZWQ6IEJvb2xlYW4gPSBkb2VzVXNlckNvbmZpcm1BbnN3ZXJzKHNlbGVjdGVkTGFiZWxzKQogICAgICAgICAgICBpZiAodXNlckNvbmZpcm1lZCkgewogICAgICAgICAgICAgICAgdmFsIChhZGRlZCwgZXhjbHVkZWQpID0gZ2V0QWRkZWRBbmRFeGNsdWRlZEFuc3dlcnMoc2VsZWN0ZWRMYWJlbHMsIGNvbnRyb2wudmFsdWVzKQogICAgICAgICAgICAgICAgc2VuZFVzZXJSZXBseUFuZEdvdG9OZXh0KHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEuYWRkU3ltcHRvbXMoCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZGVkLm1hcCB7IGxhYmVsIC0+IGxhYmVsLnZhbHVlIH0udG9UeXBlZEFycmF5KCksCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2x1ZGVkID0gZXhjbHVkZWQubWFwIHsgbGFiZWwgLT4gbGFiZWwudmFsdWUgfS50b1R5cGVkQXJyYXkoKQogICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNhbGwoYXNrRm9yRWFjaFN5bXB0b21TZXBhcmF0ZWx5KGNvbnRyb2wudmFsdWVzKSkKICAgICAgICAgICAgICAgIHNlbmRVc2VyUmVwbHlBbmRHb3RvTmV4dCh1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFuc3dlcnMgPSBzZXRPZihsYWJlbCkK</text>
+        <text encoding="base64">ZnVuIGdldAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBvblJlc3BvbnNlPFllcz4geyB0ZXJtaW5hdGUodHJ1ZSkgfQogICAgICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsYWJlbCAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkgeyArIiIgfQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlID0gVHJ5IHsganNvbi5nZXRTdHJpbmcoInZhbHVlOiIpIH0uZ2V0T3JEZWZhdWx0IHsgIkMwMDQzMDk0IiB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgeWVzVGV4dCA9IFRyeSB7IGpzb24uZ2V0U3RyaW5nKCJ5ZXNfdGV4dDoiKSB9LmdldE9yRGVmYXVsdCB7ICJZZXMiIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBub1RleHQgPSBUcnkgeyBqc29uLmdldFN0cmluZygibm9fdGV4dDoiKSB9LmdldE9yRGVmYXVsdCB7ICJObyIgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXJDb25maXJtZWQ6IEJvb2xlYW4gPSBkb2VzVXNlckNvbmZpcm1BbnN3ZXJzKHNlbGVjdGVkTGFiZWxzKQogICAgICAgICAgICBpZiAodXNlckNvbmZpcm1lZCkgewogICAgICAgICAgICAgICAgdmFsIChhZGRlZCwgZXhjbHVkZWQpID0gZ2V0QWRkZWRBbmRFeGNsdWRlZEFuc3dlcnMoc2VsZWN0ZWRMYWJlbHMsIGNvbnRyb2wudmFsdWVzKQogICAgICAgICAgICAgICAgc2VuZFVzZXJSZXBseUFuZEdvdG9OZXh0KHVzZXJzLmN1cnJlbnQueW91ck1ERm9ybURhdGEuYWRkU3ltcHRvbXMoCiAgICAgICAgICAgICAgICAgICAgICAgIGFkZGVkLm1hcCB7IGxhYmVsIC0+IGxhYmVsLnZhbHVlIH0udG9UeXBlZEFycmF5KCksCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2x1ZGVkID0gZXhjbHVkZWQubWFwIHsgbGFiZWwgLT4gbGFiZWwudmFsdWUgfS50b1R5cGVkQXJyYXkoKQogICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNhbGwoYXNrRm9yRWFjaFN5bXB0b21TZXBhcmF0ZWx5KGNvbnRyb2wudmFsdWVzKSkKICAgICAgICAgICAgICAgIHNlbmRVc2VyUmVwbHlBbmRHb3RvTmV4dCh1c2Vycy5jdXJyZW50LnlvdXJNREZvcm1EYXRhKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
