@@ -234,10 +234,10 @@
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/speech/tools/file-name-to-key.csv" timestamp="1556527872837">
         <mark key="'" line="117" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/results.kt" timestamp="1557921019586">
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/results.kt" timestamp="1557993677668">
         <mark key="'" line="57" column="13" />
-        <mark key="[" line="55" column="95" />
-        <mark key="]" line="55" column="95" />
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="226" />
         <mark key="." line="55" column="95" />
         <mark key="^" line="57" column="19" />
       </file>
@@ -701,8 +701,8 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;Based on what you’ve told me, it is unlikely that you have a thyroid problem. As I only check for thyroid problems, I cannot check for other conditions. I suggest you see your doctor.&quot;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VHJpZ2dlclJ1bm5lcjwqPi4=</text>
@@ -710,8 +710,8 @@
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kb20gewogICAgICAgICAgICArR0VORVJBTF9BQ0tOT1dMRURHRV9PSwogICAgICAgICAgICArR0VORVJBTF9BQ0tOT1dMRURHRV9HT1RfSVQKICAgICAgICAgICAgK0dFTkVSQUxfQUNLTk9XTEVER0VfQUxSSUdIVAogICAgICAgICAgICArR0VORVJBTF9BQ0tOT1dMRURHRV9JX1VOREVSU1RBTkQKICAgICAgICAgICAgK0dFTkVSQUxfQUNLTk9XTEVER0VfVU5ERVJTVE9PRAogICAgICAgICAgICArR0VORVJBTF9BQ0tOT1dMRURHRV9BSEEKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;Based on what you’ve told me, you could have hypothyroidism. I suggest you see your doctor. In the meantime, here is some information for you.&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
