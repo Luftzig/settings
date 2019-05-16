@@ -436,6 +436,7 @@
         <mark key="." line="38" column="91" />
         <mark key="^" line="38" column="91" />
       </file>
+      <file name="$USER_HOME$/Projects/my-reason-react-app/src/model.re" timestamp="1558025855253" />
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/Types.elm" timestamp="1552329686980">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="9" column="3" />
@@ -503,7 +504,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558025052622">
+      <file name="/Dummy.txt" timestamp="1558026166469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="58" />
@@ -714,10 +715,10 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot; ${petraVoice.soft(</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
