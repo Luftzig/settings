@@ -158,6 +158,12 @@
         <mark key="^" line="7" column="83" />
         <mark key="." line="7" column="83" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/events.kt" timestamp="1558078002885">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/promise-helpers.ts" timestamp="1550150476389">
         <mark key="[" line="1" column="65" />
         <mark key="]" line="1" column="81" />
@@ -717,8 +723,8 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcHJvbXB0OiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICB2YWwgYXBwZW5kOiBCb29sZWFuID0gZmFsc2UsCiAgICAgICAgdmFsIGRlbGF5U2Vjb25kczogRG91YmxlID0gMC41LAogICAgICAgIHZhbCB0aXRsZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -726,32 +732,32 @@
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot; ${petraVoice.soft(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcHJvbXB0OiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICB2YWwgYXBwZW5kOiBCb29sZWFuID0gZmFsc2UsCiAgICAgICAgdmFsIGRlbGF5U2Vjb25kczogRG91YmxlID0gMC41LAogICAgICAgIHZhbCB0aXRsZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgYWNrID0gcmFuZG9tKCkKICAgICAgICAgICAgICAgICAgICBmdXJoYXQuYXNrKCIgJGFjay4gYW55IG90aGVyPyIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbXVsdGlTZWxlY3Q6IEJvb2xlYW4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgYWNrID0gcmFuZG9tKCkKICAgICAgICAgICAgICAgICAgICBmdXJoYXQuYXNrKCIgJGFjay4gYW55IG90aGVyPyIpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>petraVoice.soft(GENERAL_ACKNOWLEDGE_OK),
                                      petraVoice.soft(GENERAL_ACKNOWLEDGE_GOT_IT),
                                      petraVoice.soft(GENERAL_ACKNOWLEDGE_UNDERSTOOD),
                                      petraVoice.soft(GENERAL_ACKNOWLEDGE_AHA)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -760,13 +766,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdXJoYXQuYXNrKCJXaGljaCBvbmU/ICR7KHJlbWFpbmluZykubWFwIHsgbCAtPiBsLmxhYmVsIH0udG9Db25qdWdhdGVkTGlzdChjb25qdWdhdGUgPSAiLCBvciwgIil9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdXJoYXQuYXNrKCJXaGljaCBvbmU/ICR7KHJlbWFpbmluZykubWFwIHsgbCAtPiBsLmxhYmVsIH0udG9Db25qdWdhdGVkTGlzdChjb25qdWdhdGUgPSAiLCBvciwgIil9IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
