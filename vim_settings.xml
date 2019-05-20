@@ -368,12 +368,13 @@
       <file name="$USER_HOME$/Projects/my-reason-react-app/src/components.re" timestamp="1558026580344">
         <mark key="'" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" timestamp="1558341050757">
-        <mark key="'" line="33" column="38" />
-        <mark key="[" line="81" column="46" />
-        <mark key="]" line="81" column="49" />
-        <mark key="." line="81" column="49" />
-        <mark key="^" line="81" column="49" />
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" timestamp="1558342880536">
+        <mark key="'" line="95" column="86" />
+        <mark key="j" line="86" column="5" />
+        <mark key="[" line="95" column="86" />
+        <mark key="]" line="95" column="86" />
+        <mark key="." line="95" column="86" />
+        <mark key="^" line="44" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
@@ -560,11 +561,11 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/dropdownState.kt" timestamp="1558098033114">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="13" column="23" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/dropdownState.kt" timestamp="1558342578570">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="92" />
+        <mark key="." line="6" column="92" />
+        <mark key="^" line="6" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/notification-background-handler.ts" timestamp="1547563637848">
         <mark key="[" line="1" column="39" />
@@ -653,12 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDState.kt" />
-      <jump line="3" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDFormData.kt" />
-      <jump line="19" column="6" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
-      <jump line="44926" column="0" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
-      <jump line="84" column="31" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
       <jump line="149" column="24" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
       <jump line="316" column="44520" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
       <jump line="350" column="8" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
@@ -749,26 +744,32 @@
       <jump line="108" column="25" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/index.js" />
       <jump line="29" column="33" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" />
       <jump line="5" column="6" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
-      <jump line="31" column="38" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
       <jump line="80" column="68" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
       <jump line="71" column="15" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
       <jump line="33" column="38" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="109" column="5" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="31" column="32" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="48" column="8" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="111" column="21" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="59" column="86" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="67" column="6" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="95" column="86" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Submit</text>
+        <text>Question.</text>
       </register>
       <register name="-" type="4">
-        <text>Submit</text>
+        <text>Question.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IC0uICdcKC4qXCkn</text>
+        <text>getActiveClass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDE1cHg7Cg==</text>
+      <register name="0" type="4">
+        <text>className={[selected[value] ? &quot;isSelected&quot; : &quot;&quot;, &quot;yesToggle&quot;].join(' ')}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -777,16 +778,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgdmFsdWU9e3NlbGVjdGVkT3B0aW9uIHx8ICIifSBvbkNoYW5nZT17KGUpID0+IG9uT3B0aW9uU2VsZWN0ZWQoZS50YXJnZXQudmFsdWUpfT4KICAgICAgICAgICAgICAgICAgICB7ZHJvcGRvd25PcHRpb25zLm1hcCgob3B0aW9uLCBpbmRleCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBbdmFsdWUsIHRpdGxlXSA9IG9wdGlvbi5zcGxpdCgnOicpCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoPG9wdGlvbiBrZXk9e3ZhbHVlfSB2YWx1ZT17dmFsdWV9Pnt0aXRsZX08L29wdGlvbj4pCiAgICAgICAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICAgIHJlbmRlck9wdGlvbnMgPSAob3B0aW9ucywgdGV4dCwgYnV0dG9uc0Rpc2FibGVkLCBzZWxlY3RlZE9wdGlvbiwgb25PcHRpb25TZWxlY3RlZCwgaXNNdWx0aVNlbGVjdCkgPT4KICAgICAgICBvcHRpb25zLm1hcCgob3B0aW9uLCBpbmRleCkgPT4gewogICAgICAgICAgICBjb25zdCBbdmFsdWUsIHRpdGxlXSA9IG9wdGlvbi5zcGxpdCgnOicpCiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UmVhY3RDU1NUcmFuc2l0aW9uR3JvdXAKICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0iZmFkZSIKICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyPXt0cnVlfQogICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb25BcHBlYXJUaW1lb3V0PXs1MDB9CiAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbkVudGVyVGltZW91dD17NTAwfQogICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb25MZWF2ZVRpbWVvdXQ9ezEwMDB9CiAgICAgICAgICAgICAgICAgICAga2V5PXt0ZXh0ICsgdmFsdWV9PgogICAgICAgICAgICAgICAgICAgIHshYnV0dG9uc0Rpc2FibGVkICYmIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAga2V5PXt0ZXh0ICsgdmFsdWV9CiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ9e2J1dHRvbnNEaXNhYmxlZH0KICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcmVwbHkgYnRuIGJ0bi1sZyBmYWRpbmctYnRuIGZhZGluZy1idG4tJHtpbmRleCArIDF9ICR7UXVlc3Rpb24uZ2V0QWN0aXZlQ2xhc3Moc2VsZWN0ZWRPcHRpb24sIHZhbHVlKX1gfQogICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvbk9wdGlvblNlbGVjdGVkKHZhbHVlKX0+CiAgICAgICAgICAgICAgICAgICAgICAgIHt0aXRsZSB8fCB2YWx1ZX0KICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj59CgogICAgICAgICAgICAgICAgPC9SZWFjdENTU1RyYW5zaXRpb25Hcm91cD4KICAgICAgICAgICAgKQogICAgICAgIH0pCgogICAgZ2V0QWN0aXZlQ2xhc3MgPSAoc2VsZWN0ZWRPcHRpb24sIHZhbHVlKSA9PiBzZWxlY3RlZE9wdGlvbiAhPSBudWxsICYmIHZhbHVlLnRvTG93ZXJDYXNlKCkgPT09IHNlbGVjdGVkT3B0aW9uLnRvTG93ZXJDYXNlKCkgPyAiYWN0aXZlIiA6ICIiCgogICAgYWdlSW5wdXQgPSAoZHJvcGRvd25PcHRpb25zLCB0ZXh0LCBidXR0b25zRGlzYWJsZWQsIHNlbGVjdGVkT3B0aW9uLCBvbk9wdGlvblNlbGVjdGVkKSA9PiAoCiAgICAgICAgPFJlYWN0Q1NTVHJhbnNpdGlvbkdyb3VwCiAgICAgICAgICAgIHRyYW5zaXRpb25OYW1lPSJmYWRlIgogICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyPXt0cnVlfQogICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyVGltZW91dD17NTAwfQogICAgICAgICAgICB0cmFuc2l0aW9uRW50ZXJUaW1lb3V0PXs1MDB9CiAgICAgICAgICAgIHRyYW5zaXRpb25MZWF2ZVRpbWVvdXQ9ezEwMDB9CiAgICAgICAgICAgIGtleT17ImRyb3Bkb3duLSIgKyB0ZXh0fT4KICAgICAgICAgICAgPGlucHV0IHR5cGU9eyJudW1iZXIifSBvbkNoYW5nZT17YWdlSW5wdXRDaGFuZ2VkfSB2YWx1ZT17YWdlfS8+CiAgICAgICAgICAgIDxpbnB1dCB0eXBlPXsic3VibWl0In0gdmFsdWU9IlNlbmQiLz4KICAgICAgICA8L1JlYWN0Q1NTVHJhbnNpdGlvbkdyb3VwPikKCiAgICBtdWx0aVNlbGVjdCA9IChvcHRpb25zLCB0ZXh0LCBzZWxlY3RlZCwgYnV0dG9uc0Rpc2FibGVkLCBvbk9wdGlvblNlbGVjdGVkKSA9PgogICAgICAgIG9wdGlvbnMubWFwKChvcHRpb24sIGluZGV4KSA9PiB7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UmVhY3RDU1NUcmFuc2l0aW9uR3JvdXAKICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uTmFtZT0iZmFkZSIKICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uQXBwZWFyPXt0cnVlfQogICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb25BcHBlYXJUaW1lb3V0PXs1MDB9CiAgICAgICAgICAgICAgICAgICAgdHJhbnNpdGlvbkVudGVyVGltZW91dD17NTAwfQogICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb25MZWF2ZVRpbWVvdXQ9ezEwMDB9CiAgICAgICAgICAgICAgICAgICAga2V5PXt0ZXh0ICsgdmFsdWV9PgogICAgICAgICAgICAgICAgICAgIHshYnV0dG9uc0Rpc2FibGVkICYmIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAga2V5PXt0ZXh0ICsgdmFsdWV9CiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ9e2J1dHRvbnNEaXNhYmxlZH0KICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcmVwbHkgYnRuIGJ0bi1sZyBmYWRpbmctYnRuIGZhZGluZy1idG4tJHtpbmRleCArIDF9ICR7UXVlc3Rpb24uZ2V0QWN0aXZlQ2xhc3Moc2VsZWN0ZWRPcHRpb24sIHZhbHVlKX1gfQogICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBvbk9wdGlvblNlbGVjdGVkKHZhbHVlKX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgICAgICB7dGl0bGUgfHwgdmFsdWV9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtbc2VsZWN0ZWRbdmFsdWVdID8gImlzU2VsZWN0ZWQiIDogIiIsICJ5ZXNUb2dnbGUiXS5qb2luKCcgJyl9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgWWVzCiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtbc2VsZWN0ZWRbdmFsdWVdID8gIiIgOiAiaXNTZWxlY3RlZCIsICJub1RvZ2dsZSJdLmpvaW4oJyAnKX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBObwogICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+fQogICAgICAgICAgICAgICAgPC9SZWFjdENTU1RyYW5zaXRpb25Hcm91cD4KICAgICAgICAgICAgKQogICAgICAgIH0pCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -795,25 +796,25 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnJlbmRlck9wdGlvbnMob3B0aW9ucywgdGV4dCwgYnV0dG9uc0Rpc2FibGVkLCBzZWxlY3RlZE9wdGlvbiwgb25PcHRpb25TZWxlY3RlZCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IC0uICdcKC4qXCkn</last-search>
+      <last-search>getActiveClass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IC0uICdcKC4qXCkn</last-pattern>
+      <last-pattern>getActiveClass</last-pattern>
       <last-replace>\1</last-replace>
       <last-substitute encoding="base64">IC0uICdcKC4qXCkn</last-substitute>
       <last-dir>1</last-dir>
@@ -821,7 +822,6 @@
     </search>
     <history>
       <history-search>
-        <entry>, [.0-9]*\</entry>
         <entry>, [.0-9]*\)</entry>
         <entry>, [.0-9]*)</entry>
         <entry>parallel</entry>
@@ -841,6 +841,7 @@
         <entry>```</entry>
         <entry encoding="base64">IC0uICcoLiopJw==</entry>
         <entry encoding="base64">IC0uICdcKC4qXCkn</entry>
+        <entry>getActiveClass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywgWy4wLTldKikvKSB9Lw==</entry>
