@@ -368,12 +368,12 @@
       <file name="$USER_HOME$/Projects/my-reason-react-app/src/components.re" timestamp="1558026580344">
         <mark key="'" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" timestamp="1558103013832">
-        <mark key="'" line="80" column="68" />
-        <mark key="[" line="80" column="86" />
-        <mark key="]" line="80" column="100" />
-        <mark key="." line="80" column="100" />
-        <mark key="^" line="80" column="100" />
+      <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" timestamp="1558341050757">
+        <mark key="'" line="33" column="38" />
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="49" />
+        <mark key="." line="81" column="49" />
+        <mark key="^" line="81" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
@@ -653,8 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="54" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/test.kt" />
-      <jump line="6" column="11" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDState.kt" />
       <jump line="2" column="22" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDState.kt" />
       <jump line="3" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/YourMDFormData.kt" />
       <jump line="19" column="6" filename="$USER_HOME$/Downloads/www.thyroidaware.com.har" />
@@ -753,16 +751,18 @@
       <jump line="5" column="6" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
       <jump line="31" column="38" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
       <jump line="80" column="68" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="71" column="15" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
+      <jump line="33" column="38" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Question.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(value)</text>
+        <text>Submit</text>
       </register>
       <register name="-" type="4">
-        <text>(value)</text>
+        <text>Submit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IC0uICdcKC4qXCkn</text>
@@ -771,22 +771,22 @@
         <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDE1cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgdmFsdWU9e3NlbGVjdGVkT3B0aW9uIHx8ICIifSBvbkNoYW5nZT17KGUpID0+IG9uT3B0aW9uU2VsZWN0ZWQoZS50YXJnZXQudmFsdWUpfT4KICAgICAgICAgICAgICAgICAgICB7ZHJvcGRvd25PcHRpb25zLm1hcCgob3B0aW9uLCBpbmRleCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBbdmFsdWUsIHRpdGxlXSA9IG9wdGlvbi5zcGxpdCgnOicpCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoPG9wdGlvbiBrZXk9e3ZhbHVlfSB2YWx1ZT17dmFsdWV9Pnt0aXRsZX08L29wdGlvbj4pCiAgICAgICAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgICAgICA8L3NlbGVjdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -795,16 +795,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnJlbmRlck9wdGlvbnMob3B0aW9ucywgdGV4dCwgYnV0dG9uc0Rpc2FibGVkLCBzZWxlY3RlZE9wdGlvbiwgb25PcHRpb25TZWxlY3RlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkT3B0aW9uOiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnJlbmRlck9wdGlvbnMob3B0aW9ucywgdGV4dCwgYnV0dG9uc0Rpc2FibGVkLCBzZWxlY3RlZE9wdGlvbiwgb25PcHRpb25TZWxlY3RlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uczogbnVsbCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
