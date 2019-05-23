@@ -212,11 +212,11 @@
         <mark key="^" line="7" column="55" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/singleButtonState.kt" timestamp="1558612695571">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="59" />
-        <mark key="." line="15" column="59" />
-        <mark key="^" line="15" column="59" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/singleButtonState.kt" timestamp="1558624284769">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/test/kotlin/furhat/app/merck/flow/yourmd/testMultiButtonState.kt" timestamp="1558598659035">
         <mark key="[" line="47" column="66" />
@@ -524,12 +524,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" timestamp="1558612688690">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="52" column="65" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="0" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" timestamp="1558624490319">
+        <mark key="'" line="52" column="64" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="30" column="60" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="53" column="145" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/storage-access.ts" timestamp="1551782941359">
         <mark key="[" line="6" column="1" />
@@ -553,11 +553,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558612600527">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="44" />
+      <file name="/Dummy.txt" timestamp="1558624321781">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/networking.ts" timestamp="1547720890887">
         <mark key="[" line="10" column="19" />
@@ -665,7 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/merckprototyp/your-md-api-examples.md" />
       <jump line="80" column="0" filename="$USER_HOME$/Projects/merckprototyp/your-md-api-examples.md" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/merckprototyp/your-md-api-examples.md" />
       <jump line="98" column="0" filename="$USER_HOME$/Projects/merckprototyp/your-md-api-examples.md" />
@@ -765,6 +764,7 @@
       <jump line="41" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="24" column="31" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" />
       <jump line="83" column="28" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" />
+      <jump line="52" column="64" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -772,53 +772,53 @@
                        &quot;After that, I might need to ask you a few other questions, depending on your answers. &quot; +
                        &quot;Let's start. ${petraVoice.pause(&quot;400ms&quot;)}&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;When did those symptoms first appeared?&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFsIElOVFJPRFVDVElPTl9XRUxDT01FX1RJVExFID0gIldlbGNvbWUhIgp2YWwgSU5UUk9EVUNUSU9OX0dSRUVUSU5HID0gIldlbGNvbWUsIEknbSBQRVRSQSAtIE1lcmNrJ3MgUHJlLXNjcmVlbmluZyBSb2JvdC4iCnZhbCBJTlRST0RVQ1RJT05fQUxMX0RPTkUgPSAiWW91IGhhdmUgY29tcGxldGVkIHRoZSBzY3JlZW5pbmcuIFdvdWxkIGxpa2UgdG8gcmVwZWF0IGl0PyIKdmFsIElOVFJPRFVDVElPTl9IWVBPVEhZUk9JRElTTV9PTkxZID0gIkkgY2FuIG9mZmVyIHlvdSBzY3JlZW5pbmcgZm9yIHRoeXJvaWQgcHJvYmxlbXMsIHdvdWxkIHlvdSBsaWtlIHRvIHRha2UgaXQ/Igp2YWwgSU5UUk9EVUNUSU9OX1VTRVJfU0FJRF9ZRVNfQlVUX05PVF9TRUxFQ1RFRCA9ICJQbGVhc2UgdGVsbCBtZSB3aGljaCBzY3JlZW5pbmcgeW91IHdvdWxkIGxpa2UgdG8gdGFrZS4iCnZhbCBJTlRST0RVQ1RJT05fUkVQRUFUX09QVElPTlNfVkFSMSA9ICJXb3VsZCB5b3UgbGlrZSB0byBiZSBzY3JlZW5lZCBmb3IgaHlwb3RoeXJvaWRpc20/Igp2YWwgSU5UUk9EVUNUSU9OX1JFUEVBVF9PUFRJT05TX1ZBUjIgPSAiSSBjYW4gcGVyZm9ybSBhIHNjcmVlbmluZyBmb3IgaHlwb3RoeXJvaWRpc20sIHNoYWxsIHdlIHByb2NlZWQ/Igp2YWwgSU5UUk9EVUNUSU9OX1JFUEVBVF9PUFRJT05TX1ZBUjMgPSAiV291bGQgeW91IGxpa2UgdG8gZ2V0IHNjcmVlbmVkIGZvciBoeXBvdGh5cm9pZGlzbT8iCnZhbCBJTlRST0RVQ1RJT05fSU5WQUxJRF9SRVNQT05TRV9WQVIxID0gIkknbSBzb3JyeSwgSSBjYW4ndCBoZWxwIHlvdSB3aXRoIHRoYXQuIgp2YWwgSU5UUk9EVUNUSU9OX0lOVkFMSURfUkVTUE9OU0VfVkFSMiA9ICJJIGFtIG5vdCBmYW1pbGlhciB3aXRoIHRoYXQuIgp2YWwgSU5UUk9EVUNUSU9OX0lOVkFMSURfUkVTUE9OU0VfVkFSMyA9ICJUaGF0J3MgYmV5b25kIG15IGNhcGFiaWxpdGllcyIKdmFsIElOVFJPRFVDVElPTl9PTERfU0NSRUVOSU5HID0gIkkgYW0gc29ycnksIGJ1dCBJIGRvbid0IGRvIHRoaXMgYW55bW9yZS4iCnZhbCBJTlRST0RVQ1RJT05fU0FZX0dPT0RCWUUgPSAiVGhhbmsgeW91IGZvciBwYXJ0aWNpcGF0aW5nISBHb29kYnllISIKdmFsIElOVFJPRFVDVElPTl9HT09EQllFX1RJVExFID0gIkdvb2RieWUhIgp2YWwgUkVQRUFUXzEgPSAiQ2FuIHlvdSByZXBlYXQgdGhhdD8iCnZhbCBSRVBFQVRfMiA9ICJJIGRpZG4ndCBoZWFyIHlvdSwgc2F5IGFnYWluPyIKdmFsIFJFUEVBVF8zID0gIlNheSBhZ2Fpbj8iCnZhbCBSRU1FTUJFUl9PTkxZX0RPQ1RPUiA9ICJSZW1lbWJlciB0aGF0IEknbSBqdXN0IGEgcm9ib3QgYW5kIG5vdCBhIGRvY3RvciBhbmQgZG8gbm90IHByb3ZpZGUgbWVkaWNhbCBhZHZpY2UuIEFsd2F5cyBjb25zdWx0IGEgbWVkaWNhbCBwcm9mZXNzaW9uYWwgYmVmb3JlIGFjdGluZyBvbiBhbnkgb2YgdGhlIGluZm9ybWF0aW9uIHlvdSBnZXQgZnJvbSBtZS4gQ2FsbCBlbWVyZ2VuY3kgc2VydmljZXMgaW4gY2FzZSBvZiBhbiBlbWVyZ2VuY3kuIgp2YWwgRE9fWU9VX0FHUkVFID0gIkRvIHlvdSB1bmRlcnN0YW5kIGFuZCBhZ3JlZT8iCnZhbCBUSEFOS1NfRk9SX1NDUkVFTklORyA9ICJUaGFuayB5b3UgZm9yIHRlbGxpbmcgbWUgYWJvdXQgeW91ciBzeW1wdG9tcy4gWW91IGNhbiBzZWUgeW91ciByZXN1bHQgb24gdGhlIHNjcmVlbiBiZWxvdyIKdmFsIEFMT05HX1dJVEhfVEhZUk9JRCA9ICJBbG9uZyB3aXRoIHNvbWUgbW9yZSBpbmZvcm1hdGlvbiBvbiB0aGUgdGh5cm9pZCBnbGFuZCBhbmQgaXQncyBpc3N1ZXMuIgp2YWwgSUZfSUxMID0gImlmIHlvdSBmZWVsIGlsbCwgSSBhZHZpY2UgdG8gc2VlIHlvdXIgZG9jdG9yLiIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;When did those symptoms first appeared?&quot;</text>
+        <text>petraVoice</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsIEhBVkVfVEhJU19TWU1QVE9NXzMgPSAK</text>
+        <text encoding="base64">dmFsIElOVFJPRFVDVElPTl9XRUxDT01FX1RJVExFID0gIldlbGNvbWUhIgp2YWwgSU5UUk9EVUNUSU9OX0dSRUVUSU5HID0gIldlbGNvbWUsIEknbSBQRVRSQSAtIE1lcmNrJ3MgUHJlLXNjcmVlbmluZyBSb2JvdC4iCnZhbCBJTlRST0RVQ1RJT05fQUxMX0RPTkUgPSAiWW91IGhhdmUgY29tcGxldGVkIHRoZSBzY3JlZW5pbmcuIFdvdWxkIGxpa2UgdG8gcmVwZWF0IGl0PyIKdmFsIElOVFJPRFVDVElPTl9IWVBPVEhZUk9JRElTTV9PTkxZID0gIkkgY2FuIG9mZmVyIHlvdSBzY3JlZW5pbmcgZm9yIHRoeXJvaWQgcHJvYmxlbXMsIHdvdWxkIHlvdSBsaWtlIHRvIHRha2UgaXQ/Igp2YWwgSU5UUk9EVUNUSU9OX1VTRVJfU0FJRF9ZRVNfQlVUX05PVF9TRUxFQ1RFRCA9ICJQbGVhc2UgdGVsbCBtZSB3aGljaCBzY3JlZW5pbmcgeW91IHdvdWxkIGxpa2UgdG8gdGFrZS4iCnZhbCBJTlRST0RVQ1RJT05fUkVQRUFUX09QVElPTlNfVkFSMSA9ICJXb3VsZCB5b3UgbGlrZSB0byBiZSBzY3JlZW5lZCBmb3IgaHlwb3RoeXJvaWRpc20/Igp2YWwgSU5UUk9EVUNUSU9OX1JFUEVBVF9PUFRJT05TX1ZBUjIgPSAiSSBjYW4gcGVyZm9ybSBhIHNjcmVlbmluZyBmb3IgaHlwb3RoeXJvaWRpc20sIHNoYWxsIHdlIHByb2NlZWQ/Igp2YWwgSU5UUk9EVUNUSU9OX1JFUEVBVF9PUFRJT05TX1ZBUjMgPSAiV291bGQgeW91IGxpa2UgdG8gZ2V0IHNjcmVlbmVkIGZvciBoeXBvdGh5cm9pZGlzbT8iCnZhbCBJTlRST0RVQ1RJT05fSU5WQUxJRF9SRVNQT05TRV9WQVIxID0gIkknbSBzb3JyeSwgSSBjYW4ndCBoZWxwIHlvdSB3aXRoIHRoYXQuIgp2YWwgSU5UUk9EVUNUSU9OX0lOVkFMSURfUkVTUE9OU0VfVkFSMiA9ICJJIGFtIG5vdCBmYW1pbGlhciB3aXRoIHRoYXQuIgp2YWwgSU5UUk9EVUNUSU9OX0lOVkFMSURfUkVTUE9OU0VfVkFSMyA9ICJUaGF0J3MgYmV5b25kIG15IGNhcGFiaWxpdGllcyIKdmFsIElOVFJPRFVDVElPTl9PTERfU0NSRUVOSU5HID0gIkkgYW0gc29ycnksIGJ1dCBJIGRvbid0IGRvIHRoaXMgYW55bW9yZS4iCnZhbCBJTlRST0RVQ1RJT05fU0FZX0dPT0RCWUUgPSAiVGhhbmsgeW91IGZvciBwYXJ0aWNpcGF0aW5nISBHb29kYnllISIKdmFsIElOVFJPRFVDVElPTl9HT09EQllFX1RJVExFID0gIkdvb2RieWUhIgp2YWwgUkVQRUFUXzEgPSAiQ2FuIHlvdSByZXBlYXQgdGhhdD8iCnZhbCBSRVBFQVRfMiA9ICJJIGRpZG4ndCBoZWFyIHlvdSwgc2F5IGFnYWluPyIKdmFsIFJFUEVBVF8zID0gIlNheSBhZ2Fpbj8iCnZhbCBSRU1FTUJFUl9PTkxZX0RPQ1RPUiA9ICJSZW1lbWJlciB0aGF0IEknbSBqdXN0IGEgcm9ib3QgYW5kIG5vdCBhIGRvY3RvciBhbmQgZG8gbm90IHByb3ZpZGUgbWVkaWNhbCBhZHZpY2UuIEFsd2F5cyBjb25zdWx0IGEgbWVkaWNhbCBwcm9mZXNzaW9uYWwgYmVmb3JlIGFjdGluZyBvbiBhbnkgb2YgdGhlIGluZm9ybWF0aW9uIHlvdSBnZXQgZnJvbSBtZS4gQ2FsbCBlbWVyZ2VuY3kgc2VydmljZXMgaW4gY2FzZSBvZiBhbiBlbWVyZ2VuY3kuIgp2YWwgRE9fWU9VX0FHUkVFID0gIkRvIHlvdSB1bmRlcnN0YW5kIGFuZCBhZ3JlZT8iCnZhbCBUSEFOS1NfRk9SX1NDUkVFTklORyA9ICJUaGFuayB5b3UgZm9yIHRlbGxpbmcgbWUgYWJvdXQgeW91ciBzeW1wdG9tcy4gWW91IGNhbiBzZWUgeW91ciByZXN1bHQgb24gdGhlIHNjcmVlbiBiZWxvdyIKdmFsIEFMT05HX1dJVEhfVEhZUk9JRCA9ICJBbG9uZyB3aXRoIHNvbWUgbW9yZSBpbmZvcm1hdGlvbiBvbiB0aGUgdGh5cm9pZCBnbGFuZCBhbmQgaXQncyBpc3N1ZXMuIgp2YWwgSUZfSUxMID0gImlmIHlvdSBmZWVsIGlsbCwgSSBhZHZpY2UgdG8gc2VlIHlvdXIgZG9jdG9yLiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5tZXJjay5mbG93LmludHJvZHVjdGlvbi5wZXRyYVZvaWNlCg==</text>
+        <text encoding="base64">Q2hhbmdlIHBocmFzaW5nIGluIGkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmZsb3cua290bGluLnZvaWNlLlZvaWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIFdISUNIX1NZTVBUT01TID0geyB2b2ljZTogVm9pY2UgLT4gIkkgbWVhbnQsICR7dm9pY2UucGF1c2UoIjMwMG1zIil9IGZvciB0aGUgc3ltcHRvbXMgdG8gd2hpY2ggeW91IHJlcGxpZWQgJ3llcycsIHdoZW4gZGlkIHRoZXkgZmlyc3QgYXBwZWFyPyIgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5tZXJjay5mbG93LmludHJvZHVjdGlvbi5wZXRyYVZvaWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBzZW5kKE9wdGlvblNlbGVjdGVkRXZlbnQoIlllcyIpKQogICAgICAgIGRlbGF5KDQwMCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKQogICAgICAgIHNheUdlbmVyYWxBY2tub3dsZWRnZW1lbnQoKQogICAgICAgIGdvdG8oWW91ck1ESHlwb3RoeXJvaWRpc20p</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJPayIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBzZW5kKE9wdGlvblNlbGVjdGVkRXZlbnQoIlllcyIpKQogICAgICAgIGRlbGF5KDQwMCwgVGltZVVuaXQuTUlMTElTRUNPTkRTKQogICAgICAgIHNheUdlbmVyYWxBY2tub3dsZWRnZW1lbnQoKQogICAgICAgIGdvdG8oWW91ck1ESHlwb3RoeXJvaWRpc20p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
