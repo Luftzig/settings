@@ -7,6 +7,8 @@
   </option>
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FIELD_PREFIX" value="" />
+    <option name="VAR_DECLARATION_WRAP" value="5" />
   </JSCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="CONTINUATION_INDENT_IN_SUPERTYPE_LISTS" value="false" />
@@ -21,6 +23,8 @@
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="EXTENDS_LIST_WRAP" value="5" />
+    <option name="ASSIGNMENT_WRAP" value="5" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
