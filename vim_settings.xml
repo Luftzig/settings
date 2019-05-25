@@ -42,6 +42,13 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" timestamp="1558710773777">
+        <mark key="'" line="61" column="36" />
+        <mark key="[" line="176" column="17" />
+        <mark key="]" line="61" column="36" />
+        <mark key="^" line="61" column="36" />
+        <mark key="." line="61" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Duration.kt" timestamp="1557820260268">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="23" column="41" />
@@ -187,11 +194,10 @@
         <mark key="." line="473" column="32" />
         <mark key="^" line="473" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/user.kt" timestamp="1558345324071">
-        <mark key="[" line="184" column="30" />
-        <mark key="]" line="185" column="35" />
-        <mark key="^" line="185" column="35" />
-        <mark key="." line="185" column="35" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/user.kt" timestamp="1558710472531">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/swe/TestPhrase.kt" timestamp="1552924224119">
         <mark key="[" line="2" column="40" />
@@ -648,8 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/flow.kt" />
-      <jump line="57" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/results.kt" />
       <jump line="25" column="8" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" />
       <jump line="47" column="60" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/WhatIs.kt" />
       <jump line="65" column="27" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
@@ -748,6 +752,8 @@
       <jump line="88" column="62" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="16" column="59" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
+      <jump line="45" column="10" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
+      <jump line="61" column="36" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -755,11 +761,11 @@
                        &quot;After that, I might need to ask you a few other questions, depending on your answers. &quot; +
                        &quot;Let's start. ${petraVoice.pause(&quot;400ms&quot;)}&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Unit</text>
       </register>
       <register name="/" type="4">
         <text>\calong_wi</text>
@@ -768,40 +774,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmQoU2hvd1Rlcm1zQW5kQ29uZGl0aW9ucygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmQoU2hvd1Rlcm1zQW5kQ29uZGl0aW9ucygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIElOVFJPRFVDVElPTl9TSE9XX1RFUk1TX0FORF9DT05ESVRJT05TID0gIkJ5IHRha2luZyB0aGUgc2NyZWVuaW5nIHlvdSBhZ3JlZSB0byBvdXIgVGVybXMgb2YgU2VydmljZS4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHF1ZXN0aW9uTgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXRhaWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN1bW1hcnk+PC9zdW1tYXJ5Pgo=</text>
+        <text encoding="base64">dmFyIFVzZXIueW91ck1EUwo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDI+QnkgY29udGludWluZyB5b3UgYWdyZWUgdG8gb3VyIFByaXZhY3kgcG9saWN5PC9oMj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmQoU2hvd1Rlcm1zQW5kQ29uZGl0aW9ucygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pn0K</text>
+        <text encoding="base64">dmFsIElOVFJPRFVDVElPTl9TSE9XX1RFUk1TX0FORF9DT05ESVRJT05TID0gIkJ5IHRha2luZyB0aGUgc2NyZWVuaW5nIHlvdSBhZ3JlZSB0byBvdXIgVGVybXMgb2YgU2VydmljZS4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0ZXJtc0FuZFByaXZhY3kgIT09IFRlcm1zQW5kUHJpdmFjeS5TaG93Tm90aGluZwogICAgICAgICAgICAgICAgJiYgPGRpdiBjbGFzc05hbWU9InRlcm1zIHJvdyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKClqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXRhaWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
