@@ -18,12 +18,8 @@
       <file name="/fetch_logs_job [tara_test@localhost]" timestamp="1553245106831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" timestamp="1559661411408">
-        <mark key="'" line="27" column="38" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" timestamp="1560158892873">
+        <mark key="'" line="23" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1551088896949">
         <mark key="[" line="93" column="110" />
@@ -157,9 +153,6 @@
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/build.gradle" timestamp="1559651429086">
         <mark key="'" line="45" column="61" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/secrets.properties" timestamp="1551266795021">
         <mark key="[" line="1" column="0" />
@@ -283,10 +276,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" timestamp="1559721735852">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" timestamp="1560159348352">
         <mark key="'" line="25" column="25" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="26" column="40" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="92" />
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="32" />
       </file>
@@ -617,6 +610,9 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" timestamp="1560158841145">
+        <mark key="'" line="23" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/storage-access.ts" timestamp="1551782941359">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="8" column="65" />
@@ -749,9 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="14" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
-      <jump line="118" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
-      <jump line="117" column="39" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="185" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="225" column="21" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="262" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
@@ -838,7 +831,6 @@
       <jump line="43" column="16" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" />
       <jump line="46" column="18" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" />
       <jump line="2" column="28" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/asserts.kt" />
-      <jump line="23" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
       <jump line="27" column="38" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="11" column="31" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/utils.kt" />
       <jump line="26" column="18" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" />
@@ -849,13 +841,17 @@
       <jump line="2" column="7" filename="$USER_HOME$/Projects/kotlin-playground/src/app/App.kt" />
       <jump line="28" column="4" filename="$USER_HOME$/Projects/kotlin-playground/src/app/App.kt" />
       <jump line="11" column="8" filename="$USER_HOME$/Projects/kotlin-playground/src/app/App.kt" />
+      <jump line="22" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
+      <jump line="23" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
+      <jump line="24" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
+      <jump line="23" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KFQpIC0+IFVuaXQ=</text>
+        <text>&quot;Nej jag kommer inte riktigt på någon sådan situation&quot;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KFQpIC0+IFVuaXQ=</text>
@@ -863,8 +859,8 @@
       <register name="/" type="4">
         <text>use</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd2hlbiAobGFuZykgewogICAgICAgICAgICBMYW5ndWFnZS5TV0VESVNIIC0+IGdldEVudW1zQnlMYW5ndWFnZShsYW5nLCAiU2l0dWF0aW9uIikKICAgICAgICAgICAgZWxzZSAtPiB0aHJvdyBFcnJvcigiT2ggbXkgZ29kIGl0J3MgdGhlIGZ1bmt5ICRsYW5nIikKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;Nej jag kommer inte riktigt på någon sådan situation&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBQYWlyKHBhaXIpCg==</text>
