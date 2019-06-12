@@ -72,10 +72,10 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswer.kt" timestamp="1559721973624">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswer.kt" timestamp="1560350325537">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" timestamp="1552297759238">
         <mark key="[" line="6" column="22" />
@@ -264,6 +264,12 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="14" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/swe/CantAnswer.kt" timestamp="1560350597645">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="58" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeBackgroundNotificationService.java" timestamp="1547649257287">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="24" />
@@ -276,7 +282,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" timestamp="1560159348352">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" timestamp="1560350591725">
         <mark key="'" line="25" column="25" />
         <mark key="[" line="45" column="39" />
         <mark key="]" line="45" column="92" />
@@ -641,7 +647,7 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559721246537">
+      <file name="/Dummy.txt" timestamp="1560350609239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="^" line="0" column="64" />
@@ -854,7 +860,7 @@
         <text>&quot;Nej jag kommer inte riktigt på någon sådan situation&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KFQpIC0+IFVuaXQ=</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
@@ -862,41 +868,53 @@
       <register name="0" type="4">
         <text>&quot;Nej jag kommer inte riktigt på någon sådan situation&quot;</text>
       </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQYWlyKHBhaXIpCg==</text>
+        <text encoding="base64">dmFsIFNpdHVhdGlvbkVudW1zID0gbGlzdE9mKAogICAgInNpdHVhdGlvbjogc2l0dWF0aW9uLCB0aWxsZsOkbGxlLCBnw6VuZywgcGVyaW9kLCBwb3NpdGlvbiwgbMOkZ2UsIGjDpG5kZWxzZSIKKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlYWN0Lmhvb2tzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgU2l0dWF0aW9uR3JvdXAgOiBFbnVtRW50aXR5KCkgewogICAgb3ZlcnJpZGUgZnVuIGdldEVudW0obGFuZzogTGFuZ3VhZ2UpOiBMaXN0PFN0cmluZz4gewogICAgICAgIHJldHVybiBnZXRFbnVtc0J5TGFuZ3VhZ2UobGFuZywgIlNpdHVhdGlvbiIpCiAgICB9Cn0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VSZWR1Y2VyKCkK</text>
+        <text encoding="base64">ICAgIHZhciBzaXR1YXRpb246IFNpdHVhdGlvbkdyb3VwPyA9IG51bGwKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICJoYXIgYWxkcmlnIHZhcml0IG1lZCBvbSBlbiBzw6VuIEBzaXR1YXRpb24iLAogICAgImhhciBpbnRlIHZhcml0IG1lZCBvbSBlbiBzw6VuIEBzaXR1YXRpb24iLAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJrb21tZXIgaW50ZSBww6UgbsOlZ29uIHPDpW4gQHNpdHVhdGlvbiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJuZWogamFnIGtvbW1lciBpbnRlIHDDpSBuw6Vnb24gc8OlbiBAc2l0dWF0aW9uIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydEVxdWFscwppbXBvcnQga290bGluLnRlc3QuYXNzZXJ0U2FtZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBQYWlyKHBhaXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
