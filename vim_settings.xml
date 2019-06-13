@@ -54,6 +54,9 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/secrets.properties" timestamp="1560420576548">
+        <mark key="[" line="1" column="53" />
+      </file>
       <file name="$USER_HOME$/Projects/kotlin-playground/src/ticker/Ticker.kt" timestamp="1559734518558">
         <mark key="'" line="24" column="12" />
       </file>
@@ -109,11 +112,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1555585197214">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="12" column="45" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" timestamp="1560421563996">
+        <mark key="'" line="142" column="47" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/models/Name.ts" timestamp="1552411207988">
         <mark key="[" line="0" column="0" />
@@ -399,6 +403,9 @@
         <mark key="]" line="19" column="62" />
         <mark key="^" line="19" column="66" />
         <mark key="." line="19" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" timestamp="1560419510102">
+        <mark key="'" line="66" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/speechvas/index.html" timestamp="1548422601894">
         <mark key="[" line="18" column="71" />
@@ -720,16 +727,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1558601086667">
+      <file name="/fragment.java" timestamp="1560420459515">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
-      <jump line="225" column="21" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
-      <jump line="262" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
-      <jump line="253" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
-      <jump line="29" column="31" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="58" column="18" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/DebugButtons.kt" />
       <jump line="41" column="20" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/intro/intro.kt" />
@@ -825,19 +827,24 @@
       <jump line="23" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
       <jump line="24" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="23" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
+      <jump line="66" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
+      <jump line="132" column="63" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="18" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="145" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
+      <jump line="142" column="47" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;Nej jag kommer inte riktigt på någon sådan situation&quot;</text>
+        <text>LocalAudio</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>LocalAudio</text>
       </register>
       <register name="/" type="4">
-        <text>use</text>
+        <text>Remote</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Nej jag kommer inte riktigt på någon sådan situation&quot;</text>
@@ -891,21 +898,20 @@
         <text encoding="base64">ICAgIHJldHVybiBQYWlyKHBhaXIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1JlbW90ZS9Mb2NhbC8=</text>
       </register>
     </registers>
     <search>
-      <last-search>use</last-search>
+      <last-search>Remote</last-search>
       <last-offset />
-      <last-pattern>use</last-pattern>
-      <last-replace>Usage</last-replace>
-      <last-substitute>Privacy</last-substitute>
+      <last-pattern>Remote</last-pattern>
+      <last-replace>Local</last-replace>
+      <last-substitute>Remote</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>POST</entry>
         <entry>&quot;method&quot;: &quot;POST&quot;</entry>
         <entry>multi_bu</entry>
         <entry>cast</entry>
@@ -925,9 +931,9 @@
         <entry>REMEMB</entry>
         <entry>\calong_wi</entry>
         <entry>use</entry>
+        <entry>Remote</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4hcHl0aG9uIC1tIGpzb24udG9vbA==</entry>
         <entry encoding="base64">IWpxIC4g</entry>
         <entry encoding="base64">JzwsJz4hanEgLg==</entry>
         <entry encoding="base64">JzwsJz4hZGF0ZQ==</entry>
@@ -947,6 +953,7 @@
         <entry encoding="base64">JzwsJz5zLywgLyxcci9n</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1JlbW90ZS9Mb2NhbC8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
