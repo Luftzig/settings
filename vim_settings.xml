@@ -45,7 +45,12 @@
       <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" timestamp="1558701964392">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" timestamp="1560521510291" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" timestamp="1560784121556">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="96" column="12" />
+      </file>
       <file name="kotlinDecompiled/Furhat.decompiled.java" timestamp="1559124730486">
         <mark key="'" line="22" column="30" />
       </file>
@@ -134,7 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="28" filename="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/TermsAndPrivacy.jsx" />
       <jump line="283" column="36" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="142" column="27" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="278" column="29" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
@@ -234,16 +238,17 @@
       <jump line="19" column="7" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="27" column="83" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
       <jump line="56" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/logging.kt" />
+      <jump line="58" column="28" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sound files</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmICh1c2VyRGlkTGVhdmUgPT0gZmFsc2UpIHdlIGRvIG5vdGhpbmcgYW5kIGtlZXAgcnVubmluZyBpbiB3aGF0ZXZlciBzdGF0ZSB3ZSdyZSBpbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>sound files</text>
+        <text>if (</text>
       </register>
       <register name="/" type="4">
         <text>controls</text>
@@ -264,13 +269,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmICh1c2VyRGlkTGVhdmUgPT0gZmFsc2UpIHdlIGRvIG5vdGhpbmcgYW5kIGtlZXAgcnVubmluZyBpbiB3aGF0ZXZlciBzdGF0ZSB3ZSdyZSBpbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVZlcnNpb24gPQogICAgICAgIEV2ZW50U3lzdGVtLnNlbmRBbmRXYWl0KFJlcXVlc3RQcm9qZWN0VmVyc2lvbi5CdWlsZGVyKCkuYnVpbGRFdmVudCgpLCBSZXNwb25zZVByb2plY3RWZXJzaW9uOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -279,25 +284,25 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1cmhhdAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIChub1Jlc3BvbnNlQ291bnQpIHsKICAgICAgICAgICAgMCAtPiBmdXJoYXQuc2F5KHBocmFzZXMuQ09VTERfTk9UX1VOREVSU1RBTkRfU0hPUlQpCiAgICAgICAgICAgIDEgLT4gZnVyaGF0LnNheShwaHJhc2VzLkNPVUxEX05PVF9VTkRFUlNUQU5EKQogICAgICAgICAgICAyIC0+IGZ1cmhhdC5zYXkocGhyYXNlcy5DT1VMRF9OT1RfVU5ERVJTVEFORF8yKQogICAgICAgICAgICAzIC0+IGZ1cmhhdC5zYXkocGhyYXNlcy5MRVRfTUVfRklOSVNIKQogICAgICAgICAgICA0IC0+IGZ1cmhhdC5zYXkocGhyYXNlcy5MRVRfTUVfRklOSVNIXzIpCiAgICAgICAgICAgIGVsc2UgLT4gewogICAgICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLlNPTUVUSElOR19XRU5UX1dST05HKQogICAgICAgICAgICAgICAgbm9SZXNwb25zZUNvdW50ID0gMAogICAgICAgICAgICAgICAgY2FsbChFcnJvclN0YXRlKQogICAgICAgICAgICAgICAgcmVlbnRyeSgpCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGxvY2FsTG9nZ2VyLmluZm8oImluY3JlbWVudGluZyBub1Jlc3BvbnNlQ291bnQiKQogICAgICAgIG5vUmVzcG9uc2VDb3VudCsrCiAgICAgICAgZnVyaGF0Lmxpc3RlbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1cmhhdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMuY3VycmVudC5pc1Zpc2libGUgLT4gCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1cmhhdG9zLgo=</text>
+        <text encoding="base64">ICAgIG9uVXNlckxlYXZlKGluc3RhbnQgPSBmYWxzZSkgewogICAgICAgIGlmIChpdCAhPSB1c2Vycy5jdXJyZW50KSByZXR1cm5Ab25Vc2VyTGVhdmUKCiAgICAgICAgdmFsIHVzZXJMZWZ0ID0gY2FsbChVbmV4cGVjdGVkTGVhdmUpCgogICAgICAgIGlmICh1c2VyTGVmdCA9PSB0cnVlKSB7CiAgICAgICAgICAgIGZ1cmhhdC5zYXkocGhyYXNlcy5JTlRFUlZJRVdfSVNfRklOSVNIRUQpCiAgICAgICAgICAgIGdvdG8oSWRsZSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBpZiAodXNlckRpZExlYXZlID09IGZhbHNlKSB3ZSBkbyBub3RoaW5nIGFuZCBrZWVwIHJ1bm5pbmcgaW4gd2hhdGV2ZXIgc3RhdGUgd2UncmUgaW4KICAgICAgICAgICAgcmVlbnRyeSgpCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1c2Vycy5jdXJyZW50Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXl7CiAgICAgICAgICAgICAgICAgICAgK0F1ZGlvKCJodHRwczovL3MzLmV1LWNlbnRyYWwtMS5hbWF6b25hd3MuY29tL3RuZy1hdWRpby95ZWFoX0oud2F2IiwgInllYWhfSiIpCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2Vycy5jdXJyZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1cmhhdC5zYXkocGhyYXNlcy5ZRUFIXzEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
