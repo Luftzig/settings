@@ -208,12 +208,12 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1560953682143">
-        <mark key="'" line="29" column="34" />
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="29" column="33" />
-        <mark key="." line="29" column="33" />
-        <mark key="^" line="29" column="33" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1560954537365">
+        <mark key="'" line="32" column="82" />
+        <mark key="[" line="32" column="102" />
+        <mark key="]" line="32" column="93" />
+        <mark key="." line="32" column="103" />
+        <mark key="^" line="32" column="93" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/swe/TestPhrase.kt" timestamp="1552924224119">
         <mark key="[" line="2" column="40" />
@@ -658,7 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="23" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/multiButtonState.kt" />
       <jump line="35" column="14" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
       <jump line="39" column="24" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/api.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.8.5/aa57d3cb51a88e5d028f37370918bd139a62c8ea/furhat-commons-1.8.5.jar!/furhatos/records/GenericRecord.class" />
@@ -758,16 +757,17 @@
       <jump line="103" column="27" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="9" column="19" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/main.kt" />
       <jump line="29" column="34" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
+      <jump line="32" column="82" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Rou</text>
+        <text>Location.UP.scale(0.2)</text>
       </register>
       <register name="-" type="4">
-        <text>Rou</text>
+        <text>Location.UP.scale(0.2)</text>
       </register>
       <register name="/" type="4">
         <text>Time</text>
