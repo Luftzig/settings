@@ -18,11 +18,11 @@
       <file name="/fetch_logs_job [tara_test@localhost]" timestamp="1553245106831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" timestamp="1560942694078">
-        <mark key="'" line="103" column="27" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" timestamp="1560944059925">
+        <mark key="'" line="96" column="27" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1551088896949">
         <mark key="[" line="93" column="110" />
@@ -760,7 +760,7 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb3JlVGltZUFuZFJlZ2lzdGVyUmVzcG9uc2UocmVzcG9uc2UsIGJyaWRnZSwgbmV4dFN0YXRlLCBpc01haW5RdWVzdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>registerResponse</text>
@@ -784,22 +784,22 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb3JlVGltZUFuZFJlZ2lzdGVyUmVzcG9uc2UocmVzcG9uc2UsIGJyaWRnZSwgbmV4dFN0YXRlLCBpc01haW5RdWVzdGlvbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBoYXNBbHJlYWR5TGlzdGVuZWRFeHRyYTogQm9vbGVhbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFsIHJlc3BvbnNlID0gY2FsbChNb3JlVGltZVN0YXRlKQoKICAgICAgICBpZiAocmVzcG9uc2UgIWlzIGZ1cmhhdG9zLm5sdS5SZXNwb25zZTwqPikgewogICAgICAgICAgICBnb3RvKG5leHRJZlNraXBwaW5nKQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3JlVGltZUFuZFJlZ2lzdGVyUmVzcG9uc2UocmVzcG9uc2UsIGJyaWRnZSwgbmV4dFN0YXRlLCBpc01haW5RdWVzdGlvbikK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIHJ1bkRlbCgpCg==</text>
+        <text encoding="base64">ICAgIHZhciBoYXNBbHJlYWR5TGlzdGVuZWRFeHRyYTogQm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -808,16 +808,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIDxFOiBFdmVudD5kZWJvdW5jZShkdXJhdGlvbjogRHVyYXRpb24sIGFjdGlvbjogKGV2ZW50cykpCg==</text>
+        <text encoding="base64">ZnVuIHJ1bkRlbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgVXNlclZpc2FiaWxpdHkuTGFzdFNlZW4gLT4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlckxlZnQgPSBjYWxsKFVuZXhwZWN0ZWRMZWF2ZSkKCiAgICAgICAgaWYgKHVzZXJMZWZ0ID09IHRydWUpIHsKICAgICAgICAgICAgZnVyaGF0LnNheShwaHJhc2VzLklOVEVSVklFV19JU19GSU5JU0hFRCkKICAgICAgICAgICAgZ290byhJZGxlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8vIGlmICh1c2VyRGlkTGVhdmUgPT0gZmFsc2UpIHdlIGRvIG5vdGhpbmcgYW5kIGtlZXAgcnVubmluZyBpbiB3aGF0ZXZlciBzdGF0ZSB3ZSdyZSBpbgogICAgICAgICAgICByZWVudHJ5KCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZnVuIDxFOiBFdmVudD5kZWJvdW5jZShkdXJhdGlvbjogRHVyYXRpb24sIGFjdGlvbjogKGV2ZW50cykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgVXNlclZpc2FiaWxpdHkuTGFzdFNlZW4gLT4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
