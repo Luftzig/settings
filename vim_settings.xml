@@ -81,11 +81,6 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswer.kt" timestamp="1560350325537">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" timestamp="1552297759238">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
@@ -307,10 +302,11 @@
         <mark key="." line="13" column="80" />
         <mark key="^" line="13" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ExpressiveMovement.kt" timestamp="1561029160913">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/ExpressiveMovement.kt" timestamp="1561031862138">
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1550055339525">
         <mark key="[" line="48" column="21" />
@@ -763,16 +759,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Exp</text>
+        <text>Speech</text>
       </register>
       <register name="-" type="4">
-        <text>Exp</text>
+        <text>Speech</text>
       </register>
       <register name="/" type="4">
         <text>Time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZVZlcnNpb24gPQogICAgICAgIEV2ZW50U3lzdGVtLnNlbmRBbmRXYWl0KFJlcXVlc3RMYXVuY2hlclZlcnNpb25zLkJ1aWxkZXIoKS5idWlsZEV2ZW50KCksIFJlc3BvbnNlTGF1bmNoZXJWZXJzaW9uczo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJFeHByZXNzaXZlTW92ZW1lbnQ6IFNlbnNlU3BlZWNoU3RhcnQiKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -787,21 +783,36 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9uRXZlbnQ8RXZlbnQ+KGNvbmQgPSB7aXQuZXZlbnRfbmFtZSAhPSAiZnVyaGF0b3MuZXZlbnQuYWN0aW9ucy5BY3Rpb25Mb2cifSkgewogICAgICAgIGxvY2FsTG9nZ2VyLmluZm8oIkV4cHJlc3NpdmVNb3ZlbWVudDogRXZlbnQgJHtpdC5ldmVudF9uYW1lfSAoJHtpdDo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lfSkiKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJFeHByZXNzaXZlTW92ZW1lbnQ6IE1vbml0b3JTcGVlY2hTdGFydCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJFeHByZXNzaXZlTW92ZW1lbnQ6IFN0b3BFeHByZXNzaXZlTW92ZW1lbnQiKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhbExvZ2dlci5pbmZvKCJFeHByZXNzaXZlTW92ZW1lbnQ6IFNlbnNlU3BlZWNoU3RhcnQiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <text>@:wgUiw</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG9uRXZlbnQ8RXZlbnQ+KGNvbmQgPSB7aXQuZXZlbnRfbmFtZSAhPSAiZnVyaGF0b3MuZXZlbnQuYWN0aW9ucy5BY3Rpb25Mb2cifSkgewogICAgICAgIGxvY2FsTG9nZ2VyLmluZm8oIkV4cHJlc3NpdmVNb3ZlbWVudDogRXZlbnQgJHtpdC5ldmVudF9uYW1lfSAoJHtpdDo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lfSkiKQogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
         <text>object : EngagementPolicy {
             override fun requestInteractionSpaces() {
                 TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
@@ -812,23 +823,8 @@
             }
         }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="u" type="4">
-        <text>@:wgUiw</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsIHJlc3BvbnNlID0gY2FsbChNb3JlVGltZVN0YXRlKQoKICAgICAgICBpZiAocmVzcG9uc2UgIWlzIGZ1cmhhdG9zLm5sdS5SZXNwb25zZTwqPikgewogICAgICAgICAgICBnb3RvKG5leHRJZlNraXBwaW5nKQogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb3JlVGltZUFuZFJlZ2lzdGVyUmVzcG9uc2UocmVzcG9uc2UsIGJyaWRnZSwgbmV4dFN0YXRlLCBpc01haW5RdWVzdGlvbikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBoYXNBbHJlYWR5TGlzdGVuZWRFeHRyYTogQm9vbGVhbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
