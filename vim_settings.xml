@@ -18,6 +18,10 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/.env.example" timestamp="1561476518595">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="17" />
+      </file>
       <file name="/fetch_logs_job [tara_test@localhost]" timestamp="1561449427847">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,6 +161,13 @@
       <file name="$USER_HOME$/Projects/merckprototyp/assets/webTemplates/BASIC/src/Screen.jsx" timestamp="1558701964392">
         <mark key="'" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/db-utils/setup-db.ts" timestamp="1561477214756">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" timestamp="1561386269326">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -230,6 +241,9 @@
         <mark key="]" line="19" column="24" />
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/index.d.ts" timestamp="1561477104200">
+        <mark key="'" line="157" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-play-sound/README.md" timestamp="1547546766663">
         <mark key="[" line="24" column="63" />
@@ -376,12 +390,12 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" timestamp="1561472446505">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" timestamp="1561476648061">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="44" column="16" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="79" />
       </file>
       <file name="/fragment.kt" timestamp="1560785096386">
         <mark key="[" line="0" column="20" />
@@ -625,11 +639,11 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/.env" timestamp="1553012224044">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="52" />
-        <mark key="." line="3" column="52" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/.env" timestamp="1561476578287">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/Events/StopExpressiveMovement.kt" timestamp="1556808963267">
         <mark key="[" line="4" column="28" />
@@ -651,9 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
-      <jump line="14" column="96" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
-      <jump line="187" column="99" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/robotLines.kt" />
       <jump line="22" column="30" filename="kotlinDecompiled/Furhat.decompiled.java" />
       <jump line="45" column="61" filename="$USER_HOME$/Projects/tengai-automated/build.gradle" />
       <jump line="43" column="16" filename="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/furhatos/app/tengai/automated/nlu/intents/CantAnswerTest.kt" />
@@ -751,22 +762,25 @@
       <jump line="137" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/ormconfig.ts" />
+      <jump line="0" column="49" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/db-utils/setup-db.ts" />
+      <jump line="183" column="24" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/index.d.ts" />
+      <jump line="157" column="48" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gY3JlYXRlQ29ubmVjdGlvbigpLmNhdGNoKGUgPT4gewogICAgbGV0IGNvbm5lY3Rpb24gPSBnZXRDb25uZWN0aW9uKCdkZWZhdWx0JykKICAgIGlmIChjb25uZWN0aW9uLm9wdGlvbnMuZGF0YWJhc2UgPT09IGNvbm5lY3Rpb25PcHRpb25zLmRhdGFiYXNlKSB7CiAgICAgIGNvbnNvbGUubG9nKCdVc2luZyBleGlzdGluZyBjb25uZWN0aW9uIGZvciBEQicsIGNvbm5lY3Rpb24ub3B0aW9ucy5kYXRhYmFzZSkKICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShjb25uZWN0aW9uKQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGUpCiAgICB9CiAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>!!</text>
+        <text>connection</text>
       </register>
       <register name="/" type="4">
         <text>\cjson</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBuYW1lOiAndGVzdCcsCiAgICB0eXBlOiAncG9zdGdyZXMnLAogICAgaG9zdDogJ2xvY2FsaG9zdCcsCiAgICBwb3J0OiA1NDMyLAogICAgdXNlcm5hbWU6ICd0YXJhX3VzZXInLAogICAgcGFzc3dvcmQ6ICd0YXJhMTIzJywKICAgIGRhdGFiYXNlOiAndGFyYV90ZXN0JywKICAgIGRyb3BTY2hlbWE6IHRydWUsCiAgICBzeW5jaHJvbml6ZTogdHJ1ZSwKICAgIGVudGl0aWVzOiBbJ3NyYy9lbnRpdHkvKi50cyddLAogICAgc3Vic2NyaWJlcnM6IFsnc3JjL3N1YnNjcmliZXIvKi50cyddLAogICAgbWlncmF0aW9uczogWydzcmMvbWlncmF0aW9uLyoudHMnXSwKICAgIGNsaTogewogICAgICBlbnRpdGllc0RpcjogJ3NyYy9lbnRpdHknLAogICAgICBtaWdyYXRpb25zRGlyOiAnc3JjL21pZ3JhdGlvbicsCiAgICAgIHN1YnNjcmliZXJzRGlyOiAnc3JjL3N1YnNjcmliZXInLAogICAgfSwKICB9LAo=</text>
+        <text encoding="base64">REVWX0RBVEFCQVNFX1VSTD0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -781,40 +795,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gY3JlYXRlQ29ubmVjdGlvbigpLmNhdGNoKGUgPT4gewogICAgbGV0IGNvbm5lY3Rpb24gPSBnZXRDb25uZWN0aW9uKCdkZWZhdWx0JykKICAgIGlmIChjb25uZWN0aW9uLm9wdGlvbnMuZGF0YWJhc2UgPT09IGNvbm5lY3Rpb25PcHRpb25zLmRhdGFiYXNlKSB7CiAgICAgIGNvbnNvbGUubG9nKCdVc2luZyBleGlzdGluZyBjb25uZWN0aW9uIGZvciBEQicsIGNvbm5lY3Rpb24ub3B0aW9ucy5kYXRhYmFzZSkKICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShjb25uZWN0aW9uKQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGUpCiAgICB9CiAgfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgLi4uY29ubmVjdGlvbk9wdGlvbnMsCiAgICBuYW1lOiAnZGVmYXVsdCcsCiAgICBlbnRpdGllczogT2JqZWN0LmtleXMoRW50aXRpZXMpLm1hcChrID0+IEVudGl0aWVzW2tdKSwKICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgcG9ydDogNTQzMiwKICAgIHVzZXJuYW1lOiAndGFyYV91c2VyJywKICAgIHBhc3N3b3JkOiAndGFyYTEyMycsCiAgICBkYXRhYmFzZTogJ3RhcmFfdGVzdCcsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC5jYXRjaCgoKSA9PiB7CiAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9jbGllbnQ6L3Vzci9zcmMvYXBwCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb290czogWyc8cm9vdERpcj4vc3JjJ10sCiAgdHJhbnNmb3JtOiB7CiAgICAnXi4rXFwudHN4PyQnOiAndHMtamVzdCcKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIERvbid0IGNvbXBpbGUgdGVzdHMKICAgICIqKi8qLnRlc3QudHMiLAogICAgIioqL19fdGVzdF9fLyoqIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi9zZXJ2ZXI6L3Vzci9zcmMvYXBwCg==</text>
+        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgcG9ydDogNTQzMiwKICAgIHVzZXJuYW1lOiAndGFyYV91c2VyJywKICAgIHBhc3N3b3JkOiAndGFyYTEyMycsCiAgICBkYXRhYmFzZTogJ3RhcmFfdGVzdCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
