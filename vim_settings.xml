@@ -334,6 +334,12 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" timestamp="1561467068999">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+      </file>
       <file name="/fragment.kt" timestamp="1560785096386">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="18" />
@@ -693,11 +699,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdC52aXNhYmlsaXR5ID0gVmlzYWJpbGl0eS5WaXNhYmxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>Time</text>
