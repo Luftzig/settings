@@ -30,8 +30,18 @@
       <file name="$USER_HOME$/Projects/kotlin-playground/src/ticker/Ticker.kt" timestamp="1559734518558">
         <mark key="'" line="24" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes.ts" timestamp="1561725792506">
+        <mark key="'" line="0" column="35" />
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+      </file>
       <file name="kotlinDecompiled/FlowControlRunner.decompiled.java" timestamp="1559039262418">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/express/index.d.ts" timestamp="1561725670075">
+        <mark key="'" line="79" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/wizard/nonVerbalSounds.kt" timestamp="1561628941959">
         <mark key="'" line="50" column="0" />
@@ -104,6 +114,9 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/app.ts" timestamp="1561725625243">
+        <mark key="'" line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/autoBehavior.kt" timestamp="1561640415265">
         <mark key="'" line="14" column="13" />
       </file>
@@ -131,10 +144,6 @@
       <file name="/Dummy.txt" timestamp="1561719493159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/Persona.kt" timestamp="1561629631910">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="74" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/gestures.kt" timestamp="1561640550425">
         <mark key="'" line="75" column="4" />
         <mark key="[" line="47" column="10" />
@@ -152,15 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
-      <jump line="23" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/questions/QuestionTwo.kt" />
-      <jump line="24" column="12" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
-      <jump line="66" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BackChannelBehaviour.kt" />
-      <jump line="18" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="145" column="4" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="142" column="47" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/phrases/DefaultPhrases.kt" />
-      <jump line="59" column="20" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
-      <jump line="66" column="23" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
       <jump line="56" column="35" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/CheckMicrophoneList.kt" />
       <jump line="60" column="25" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/CheckMicrophoneList.kt" />
       <jump line="39" column="23" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/CheckMicrophoneList.kt" />
@@ -252,19 +252,28 @@
       <jump line="24" column="15" filename="$USER_HOME$/Projects/robot-recruiter/build.gradle" />
       <jump line="15" column="33" filename="$USER_HOME$/Projects/robot-recruiter/src/main/resources/secrets.properties" />
       <jump line="51" column="24" filename="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/flow.kt" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/app.ts" />
+      <jump line="16" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes.ts" />
+      <jump line="21" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes.ts" />
+      <jump line="10" column="5" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/app.ts" />
+      <jump line="0" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/express/index.d.ts" />
+      <jump line="50" column="58" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/express/index.d.ts" />
+      <jump line="53" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/express/index.d.ts" />
+      <jump line="79" column="34" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/express/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybDogcHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8.5</text>
+        <text>type Route</text>
       </register>
       <register name="/" type="4">
-        <text>\cjson</text>
+        <text>Route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybDogcHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMLAo=</text>
@@ -282,49 +291,49 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLnRlc3REYiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4uLnRlc3REYiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgbm90RW1wdHkgPSAoczogc3RyaW5nIHwgdW5kZWZpbmVkIHwgbnVsbCkgPT4gcyAhPSBudWxsICYmIHMudHJpbSgpLmxlbmd0aCA+IDAKY29uc3QgdGVzdERiID0KICBub3RFbXB0eShwcm9jZXNzLmVudi5DSSkgJiYgbm90RW1wdHkocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKQogICAgPyB7CiAgICAgICAgdXJsOiBwcm9jZXNzLmVudi5EQVRBQkFTRV9VUkwsCiAgICAgIH0KICAgIDogewogICAgICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgICAgIHBvcnQ6IDU0MzIsCiAgICAgICAgdXNlcm5hbWU6ICd0YXJhX3VzZXInLAogICAgICAgIHBhc3N3b3JkOiAndGFyYTEyMycsCiAgICAgICAgZGF0YWJhc2U6ICd0YXJhX3Rlc3QnLAogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBZb2F2cyB0b2tlbiBGVVJIQVRfQVBJX1RPS0VOPTdkZDRjNTZlLTQ3NzktNGUxZC1iODE5LWM5ODI3MjU3ZmRkOApGVVJIQVRfQVBJX1RPS0VOPTdiYzllNWRiLWIwMzItNGFjMi04N2VhLWU1NGFkZTY1NDdmNQpEQVJLU0tZX0FQSV9UT0tFTj0yMWYxYzE1OTgyNTY1NjU1YWY4NTI1NDFjNjA5ZjFjZQojIyMjIyMjCiMgQVdTIFMzIFN0YXRlbWVudCBKU09OCiMjIyMjIyMKUkVHSU9OPWV1LWNlbnRyYWwtMQpBQ0NFU1NfS0VZX0lEPUlOU0VSVF9BQ0NFU1NfS0VZX0hFUkUKU0VDUkVUX0FDQ0VTU19LRVk9SU5TRVJUX1NFQ1JFVF9LRVlfSEVSRQoK</text>
+        <text encoding="base64">Y29uc3Qgbm90RW1wdHkgPSAoczogc3RyaW5nIHwgdW5kZWZpbmVkIHwgbnVsbCkgPT4gcyAhPSBudWxsICYmIHMudHJpbSgpLmxlbmd0aCA+IDAKY29uc3QgdGVzdERiID0KICBub3RFbXB0eShwcm9jZXNzLmVudi5DSSkgJiYgbm90RW1wdHkocHJvY2Vzcy5lbnYuREFUQUJBU0VfVVJMKQogICAgPyB7CiAgICAgICAgdXJsOiBwcm9jZXNzLmVudi5EQVRBQkFTRV9VUkwsCiAgICAgIH0KICAgIDogewogICAgICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgICAgIHBvcnQ6IDU0MzIsCiAgICAgICAgdXNlcm5hbWU6ICd0YXJhX3VzZXInLAogICAgICAgIHBhc3N3b3JkOiAndGFyYTEyMycsCiAgICAgICAgZGF0YWJhc2U6ICd0YXJhX3Rlc3QnLAogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkZVUkhBVF9BUElfVE9LRU49N2JjOWU1ZGItYjAzMi00YWMyLTg3ZWEtZTU0YWRlNjU0N2Y1CiMjIyMjIyMKIyBBV1MgUzMgU3RhdGVtZW50IEpTT04KIyMjIyMjIwpSRUdJT049ZXUtY2VudHJhbC0xCkFDQ0VTU19LRVlfSUQ9QUtJQUlCNEhMUjVUS0RDUDc2RlEKU0VDUkVUX0FDQ0VTU19LRVk9T1ZWUHFGZ0RQK1YvQ0RVdW16eGdCNncwSHFNbFo4S0NCc2FFdHVCbAo=</text>
+        <text encoding="base64">IyBZb2F2cyB0b2tlbiBGVVJIQVRfQVBJX1RPS0VOPTdkZDRjNTZlLTQ3NzktNGUxZC1iODE5LWM5ODI3MjU3ZmRkOApGVVJIQVRfQVBJX1RPS0VOPTdiYzllNWRiLWIwMzItNGFjMi04N2VhLWU1NGFkZTY1NDdmNQpEQVJLU0tZX0FQSV9UT0tFTj0yMWYxYzE1OTgyNTY1NjU1YWY4NTI1NDFjNjA5ZjFjZQojIyMjIyMjCiMgQVdTIFMzIFN0YXRlbWVudCBKU09OCiMjIyMjIyMKUkVHSU9OPWV1LWNlbnRyYWwtMQpBQ0NFU1NfS0VZX0lEPUlOU0VSVF9BQ0NFU1NfS0VZX0hFUkUKU0VDUkVUX0FDQ0VTU19LRVk9SU5TRVJUX1NFQ1JFVF9LRVlfSEVSRQoK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkZVUkhBVF9BUElfVE9LRU49N2JjOWU1ZGItYjAzMi00YWMyLTg3ZWEtZTU0YWRlNjU0N2Y1CiMjIyMjIyMKIyBBV1MgUzMgU3RhdGVtZW50IEpTT04KIyMjIyMjIwpSRUdJT049ZXUtY2VudHJhbC0xCkFDQ0VTU19LRVlfSUQ9QUtJQUlCNEhMUjVUS0RDUDc2RlEKU0VDUkVUX0FDQ0VTU19LRVk9T1ZWUHFGZ0RQK1YvQ0RVdW16eGdCNncwSHFNbFo4S0NCc2FFdHVCbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuTElTVEVOSU5HX0dBWkVfQVZFUlNFX0xFTkdUSF9ERVYKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuTElTVEVOSU5HX0dBWkVfQVZFUlNFX0xFTkdUSF9NRUFOCmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LlNQRUFLSU5HX0JFSEFWSU9VUl9NSU5fTEVOR1RICmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LlNQRUFLSU5HX0dBWkVfQVZFUlNFX0xFTkdUSF9ERVYKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuU1BFQUtJTkdfR0FaRV9BVkVSU0VfTEVOR1RIX01FQU4KaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuc2hhcmVkLkV2ZW50cy5Eb05vZAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQuZmxvdy5zaGFyZWQuRXZlbnRzLlN0YXJ0RXhwcmVzc2l2ZU1vdmVtZW50CmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LnNoYXJlZC5FdmVudHMuU3RvcEV4cHJlc3NpdmVNb3ZlbWVudAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQubG9jYWxMb2dnZXIKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLnBlcnNvbmFzLlRlbmdhaU5vZAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2F6ZVN0cmFpZ2h0CmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5wZXJzb25hcy5nZXRHYXplRG93bgppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2V0R2F6ZUxlZnQKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLnBlcnNvbmFzLmdldEdhemVSaWdodAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2V0R2F6ZVVwCmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5wZXJzb25hcy5nZXRSb2xsTGVmdAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2V0Um9sbFJpZ2h0CmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5wZXJzb25hcy5zdG9wVGlsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIHZvaWNlUHJpb3JpdGllcyA9IGxpc3RPZigKICAgICAgICAiRWxpbmZ1cmhhdDIya19IUSIsCiAgICAgICAgIkVsaW4yMmtfSFEiLAogICAgICAgICJFbGluIiwKICAgICAgICAiQXN0cmlkIgopCgo=</text>
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuTElTVEVOSU5HX0dBWkVfQVZFUlNFX0xFTkdUSF9ERVYKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuTElTVEVOSU5HX0dBWkVfQVZFUlNFX0xFTkdUSF9NRUFOCmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LlNQRUFLSU5HX0JFSEFWSU9VUl9NSU5fTEVOR1RICmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LlNQRUFLSU5HX0dBWkVfQVZFUlNFX0xFTkdUSF9ERVYKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuU1BFQUtJTkdfR0FaRV9BVkVSU0VfTEVOR1RIX01FQU4KaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLmZsb3cuc2hhcmVkLkV2ZW50cy5Eb05vZAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQuZmxvdy5zaGFyZWQuRXZlbnRzLlN0YXJ0RXhwcmVzc2l2ZU1vdmVtZW50CmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5mbG93LnNoYXJlZC5FdmVudHMuU3RvcEV4cHJlc3NpdmVNb3ZlbWVudAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQubG9jYWxMb2dnZXIKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLnBlcnNvbmFzLlRlbmdhaU5vZAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2F6ZVN0cmFpZ2h0CmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5wZXJzb25hcy5nZXRHYXplRG93bgppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2V0R2F6ZUxlZnQKaW1wb3J0IGZ1cmhhdG9zLmFwcC50ZW5nYWkuYXV0b21hdGVkLnBlcnNvbmFzLmdldEdhemVSaWdodAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2V0R2F6ZVVwCmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5wZXJzb25hcy5nZXRSb2xsTGVmdAppbXBvcnQgZnVyaGF0b3MuYXBwLnRlbmdhaS5hdXRvbWF0ZWQucGVyc29uYXMuZ2V0Um9sbFJpZ2h0CmltcG9ydCBmdXJoYXRvcy5hcHAudGVuZ2FpLmF1dG9tYXRlZC5wZXJzb25hcy5zdG9wVGlsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IkVsaW5mdXJoYXQyMmtfSFEiLAo=</text>
+        <text encoding="base64">dmFsIHZvaWNlUHJpb3JpdGllcyA9IGxpc3RPZigKICAgICAgICAiRWxpbmZ1cmhhdDIya19IUSIsCiAgICAgICAgIkVsaW4yMmtfSFEiLAogICAgICAgICJFbGluIiwKICAgICAgICAiQXN0cmlkIgopCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cjson</last-search>
+      <last-search>Route</last-search>
       <last-offset />
-      <last-pattern>\cjson</last-pattern>
+      <last-pattern>Route</last-pattern>
       <last-replace>Local</last-replace>
       <last-substitute>Remote</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry>curl -X</entry>
         <entry>\\$</entry>
         <entry>```</entry>
@@ -352,6 +360,7 @@
         <entry>controls</entry>
         <entry>Time</entry>
         <entry>\cjson</entry>
+        <entry>Route</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">IWpxIC4g</entry>
