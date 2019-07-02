@@ -55,11 +55,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/flow/StatementGroup.js" timestamp="1561996687331">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/flow/StatementGroup.js" timestamp="1562058103707">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Duration.kt" timestamp="1557820260268">
         <mark key="[" line="22" column="38" />
@@ -96,9 +96,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/connection/ConnectionOptionsReader.ts" timestamp="1561968486604">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" timestamp="1552297759238">
         <mark key="[" line="6" column="22" />
@@ -243,12 +240,12 @@
         <mark key="^" line="41" column="42" />
         <mark key="." line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1561996758106">
-        <mark key="'" line="7" column="55" />
-        <mark key="[" line="219" column="32" />
-        <mark key="]" line="220" column="36" />
-        <mark key="." line="220" column="36" />
-        <mark key="^" line="220" column="36" />
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562058792215">
+        <mark key="'" line="167" column="2" />
+        <mark key="[" line="250" column="19" />
+        <mark key="]" line="251" column="36" />
+        <mark key="." line="251" column="36" />
+        <mark key="^" line="251" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/promise-helpers.ts" timestamp="1550150476389">
         <mark key="[" line="1" column="65" />
@@ -761,15 +758,11 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1561641472464">
+      <file name="/fragment.java" timestamp="1562058680100">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="17" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
-      <jump line="45" column="30" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
-      <jump line="41" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
-      <jump line="61" column="8" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="37" column="21" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
       <jump line="103" column="27" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" />
@@ -865,17 +858,21 @@
       <jump line="222" column="23" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="157" column="2" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="227" column="9" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="7" column="55" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="7" column="24" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="24" column="28" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="82" column="20" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="83" column="25" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="167" column="2" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>export</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>export</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVTcGVha1w+</text>
@@ -895,42 +892,42 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>:
-      {[selectedStatementGroup]: newValue}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3QnV0dG9uU2V0cyA9IFsuLi5idXR0b25TZXRzIF0K</text>
+      <register name="2" type="4">
+        <text>:
+      {[selectedStatementGroup]: newValue}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYnV0dG9uU2V0cyA9IHRoaXMuc3RhdGUuYnV0dG9uU2V0czsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3QnV0dG9uU2V0cyA9IFsuLi5idXR0b25TZXRzIF0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYnV0dG9uU2V0cyA9IHRoaXMuc3RhdGUuYnV0dG9uU2V0czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJ1dHRvblNldHMgPSB0aGlzLnN0YXRlLmJ1dHRvblNldHM7CiAgICBidXR0b25TZXRzW3RoaXMuc3RhdGUuc2VsZWN0ZWRCdXR0b25TZXRzXS5zdGF0ZW1lbnRHcm91cHMgPSBuZXdEYXRhOwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIGJ1dHRvblNldHM6IGJ1dHRvblNldHMKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ld0RhdGFbc2VsZWN0ZWRTdGF0ZW1lbnRHcm91cF0gPSBuZXdWYWx1ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJ1dHRvblNldHMgPSB0aGlzLnN0YXRlLmJ1dHRvblNldHM7CiAgICBidXR0b25TZXRzW3RoaXMuc3RhdGUuc2VsZWN0ZWRCdXR0b25TZXRzXS5zdGF0ZW1lbnRHcm91cHMgPSBuZXdEYXRhOwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIGJ1dHRvblNldHM6IGJ1dHRvblNldHMKICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIG5ld0RhdGFbc2VsZWN0ZWRTdGF0ZW1lbnRHcm91cF0gPSBuZXdWYWx1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGJ1dHRvblNldHMgIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -987,8 +984,8 @@
         <entry encoding="base64">JzwsJz5zLywgLyxcci8=</entry>
         <entry encoding="base64">JzwsJz5zLywgLyxcci9n</entry>
         <entry encoding="base64">JzwsJz5zL1JlbW90ZS9Mb2NhbC8=</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
