@@ -241,12 +241,12 @@
         <mark key="^" line="41" column="42" />
         <mark key="." line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562161674583">
-        <mark key="'" line="224" column="91" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="172" column="47" />
-        <mark key="." line="172" column="47" />
-        <mark key="^" line="172" column="47" />
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562163801641">
+        <mark key="'" line="258" column="26" />
+        <mark key="[" line="264" column="20" />
+        <mark key="]" line="265" column="19" />
+        <mark key="." line="265" column="19" />
+        <mark key="^" line="265" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/promise-helpers.ts" timestamp="1550150476389">
         <mark key="[" line="1" column="65" />
@@ -262,6 +262,11 @@
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" timestamp="1561471782013">
         <mark key="'" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1561386346199">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/nlu/swe/TestPhrase.kt" timestamp="1552924224119">
         <mark key="[" line="2" column="40" />
@@ -490,6 +495,11 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/jest.config.js" timestamp="1561471597186">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/flow/Persona.js" timestamp="1561986255369">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="20" />
@@ -695,6 +705,11 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/App/Nav.js" timestamp="1562163268808">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/personas/gestures.kt" timestamp="1561640550425">
         <mark key="'" line="75" column="4" />
         <mark key="[" line="47" column="10" />
@@ -771,10 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="37" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
-      <jump line="37" column="40" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
-      <jump line="137" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
-      <jump line="121" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/ormconfig.ts" />
       <jump line="0" column="49" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/db-utils/setup-db.ts" />
       <jump line="183" column="24" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/index.d.ts" />
@@ -871,16 +882,20 @@
       <jump line="169" column="4" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="242" column="40" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="225" column="91" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="249" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="270" column="14" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="14" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="257" column="26" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGROZXdCdXR0b25TZXRcPg==</text>
@@ -901,44 +916,44 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25TZXRzLnB1c2goKTsK</text>
+        <text encoding="base64">ICBtYXgtd2lkdGg6IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHtHbG9iYWxTdHlsZXN9IGZyb20gIi4vZ2xvYmFsLXN0eWxlcyI7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b25TZXRzLnB1c2goKTsK</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="4">
         <text>{
             // $FlowFixMe add new button shouldn't appear before new
             buttonSet: this.state.newButtonSet,
             statementGroups: DEFAULT_STATMENT_GROUP
         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsYXRlc3RTdGF0ZW1lbnRHcm91cHMgPSB0aGlzLnN0YXRlLmJ1dHRvblNldHMuc2xpY2UoLTEpWzBdLnN0YXRlbWVudEdyb3VwczsK</text>
-      </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsYXRlc3RTdGF0ZW1lbnRHcm91cHMgPSB0aGlzLnN0YXRlLmJ1dHRvblNldHMuc2xpY2UoLTEpWzBdLnN0YXRlbWVudEdyb3VwczsK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQGZsb3cKaW1wb3J0IHR5cGUge1N0YXRlbWVudEdyb3VwfSBmcm9tICIuLi9mbG93L1N0YXRlbWVudEdyb3VwIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWJ1dHRvblNldHMpIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gQGZsb3cKaW1wb3J0IHR5cGUge1N0YXRlbWVudEdyb3VwfSBmcm9tICIuLi9mbG93L1N0YXRlbWVudEdyb3VwIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3RGF0YSA9IHRoaXMuc3RhdGUuc3RhdGVtZW50R3JvdXBzOwogICAgICBuZXdEYXRhW3NlbGVjdGVkU3RhdGVtZW50R3JvdXBdID0gbmV3VmFsdWU7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHN0YXRlbWVudEdyb3VwczogbmV3RGF0YQogICAgICB9KQoKICAgICAgY29uc3QgYnV0dG9uU2V0cyA9IHRoaXMuc3RhdGUuYnV0dG9uU2V0czsKICAgICAgYnV0dG9uU2V0c1t0aGlzLnN0YXRlLnNlbGVjdGVkQnV0dG9uU2V0c10uc3RhdGVtZW50R3JvdXBzID0gbmV3RGF0YTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgYnV0dG9uU2V0czogYnV0dG9uU2V0cwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWJ1dHRvblNldHMpIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -994,8 +1009,8 @@
         <entry encoding="base64">JzwsJz5zLywgLyxcci8=</entry>
         <entry encoding="base64">JzwsJz5zLywgLyxcci9n</entry>
         <entry encoding="base64">JzwsJz5zL1JlbW90ZS9Mb2NhbC8=</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
