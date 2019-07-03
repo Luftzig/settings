@@ -54,6 +54,10 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/flow/StatementGroup.js" timestamp="1562161303716">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/events.kt" timestamp="1562060917642" />
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Duration.kt" timestamp="1557820260268">
         <mark key="[" line="22" column="38" />
@@ -237,12 +241,12 @@
         <mark key="^" line="41" column="42" />
         <mark key="." line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562155147215">
-        <mark key="'" line="64" column="16" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="8" />
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562161674583">
+        <mark key="'" line="224" column="91" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="172" column="47" />
+        <mark key="." line="172" column="47" />
+        <mark key="^" line="172" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/promise-helpers.ts" timestamp="1550150476389">
         <mark key="[" line="1" column="65" />
@@ -574,6 +578,13 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/models/statementGroup.js" timestamp="1562161345585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="98" column="12" />
+        <mark key="]" line="98" column="27" />
+        <mark key="." line="98" column="27" />
+        <mark key="^" line="98" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-transcribe/src/Types.elm" timestamp="1552329686980">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="9" column="3" />
@@ -760,13 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" />
-      <jump line="36" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" />
-      <jump line="42" column="28" filename="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" />
-      <jump line="34" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/docker-compose.testing.yml" />
-      <jump line="13" column="40" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/helloworld.test.ts" />
-      <jump line="62" column="54" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
       <jump line="54" column="37" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
       <jump line="37" column="40" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
       <jump line="137" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" />
@@ -860,22 +864,29 @@
       <jump line="119" column="22" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="120" column="22" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="64" column="16" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="172" column="48" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/models/statementGroup.js" />
+      <jump line="100" column="37" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/models/statementGroup.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/models/statementGroup.js" />
+      <jump line="169" column="4" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="242" column="40" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="225" column="91" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ChangeEvent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ChangeEvent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\cchange</text>
+        <text encoding="base64">XDxhZGROZXdCdXR0b25TZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChidXR0b25TZXRzID09IG51bGwgfHwgc2VsZWN0ZWRTdGF0ZW1lbnRHcm91cCA9PSBudWxsIHx8IHN0YXRlbWVudEdyb3VwcyA9PSBudWxsKSByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5OiBTdGF0ZW1lbnRDYXRlZ29yeSwKICAgIHN0YXRlbWVudHM6IFN0YXRlbWVudFtdLAogICAgY29sb3I6IENvbG9ycywK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -890,49 +901,53 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWJ1dHRvblNldHMpIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25TZXRzLnB1c2goKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+            // $FlowFixMe add new button shouldn't appear before new
+            buttonSet: this.state.newButtonSet,
+            statementGroups: DEFAULT_STATMENT_GROUP
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3RGF0YSA9IHRoaXMuc3RhdGUuc3RhdGVtZW50R3JvdXBzOwogICAgICBuZXdEYXRhW3NlbGVjdGVkU3RhdGVtZW50R3JvdXBdID0gbmV3VmFsdWU7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHN0YXRlbWVudEdyb3VwczogbmV3RGF0YQogICAgICB9KQoKICAgICAgY29uc3QgYnV0dG9uU2V0cyA9IHRoaXMuc3RhdGUuYnV0dG9uU2V0czsKICAgICAgYnV0dG9uU2V0c1t0aGlzLnN0YXRlLnNlbGVjdGVkQnV0dG9uU2V0c10uc3RhdGVtZW50R3JvdXBzID0gbmV3RGF0YTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgYnV0dG9uU2V0czogYnV0dG9uU2V0cwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsYXRlc3RTdGF0ZW1lbnRHcm91cHMgPSB0aGlzLnN0YXRlLmJ1dHRvblNldHMuc2xpY2UoLTEpWzBdLnN0YXRlbWVudEdyb3VwczsK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3RGF0YSA9IHRoaXMuc3RhdGUuc3RhdGVtZW50R3JvdXBzOwogICAgICBuZXdEYXRhW3NlbGVjdGVkU3RhdGVtZW50R3JvdXBdID0gbmV3VmFsdWU7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHN0YXRlbWVudEdyb3VwczogbmV3RGF0YQogICAgICB9KQoKICAgICAgY29uc3QgYnV0dG9uU2V0cyA9IHRoaXMuc3RhdGUuYnV0dG9uU2V0czsKICAgICAgYnV0dG9uU2V0c1t0aGlzLnN0YXRlLnNlbGVjdGVkQnV0dG9uU2V0c10uc3RhdGVtZW50R3JvdXBzID0gbmV3RGF0YTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgYnV0dG9uU2V0czogYnV0dG9uU2V0cwogICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBuZXdEYXRhID0gdGhpcy5zdGF0ZS5zdGF0ZW1lbnRHcm91cHM7CiAgICAgICAgbmV3RGF0YVtzZWxlY3RlZFN0YXRlbWVudEdyb3VwXSA9IG5ld1ZhbHVlOwogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBzdGF0ZW1lbnRHcm91cHM6IG5ld0RhdGEKICAgICAgICB9KQoKICAgICAgICBjb25zdCBidXR0b25TZXRzID0gdGhpcy5zdGF0ZS5idXR0b25TZXRzOwogICAgICAgIGJ1dHRvblNldHNbdGhpcy5zdGF0ZS5zZWxlY3RlZEJ1dHRvblNldHNdLnN0YXRlbWVudEdyb3VwcyA9IG5ld0RhdGE7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgIGJ1dHRvblNldHM6IGJ1dHRvblNldHMKICAgICAgICB9KQo=</text>
+        <text encoding="base64">Ly8gQGZsb3cKaW1wb3J0IHR5cGUge1N0YXRlbWVudEdyb3VwfSBmcm9tICIuLi9mbG93L1N0YXRlbWVudEdyb3VwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAkRXhwZWN0RXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWJ1dHRvblNldHMpIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhpcy5oYW5kbGVTdG9yZUluQ2xvdWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3RGF0YSA9IHRoaXMuc3RhdGUuc3RhdGVtZW50R3JvdXBzOwogICAgICBuZXdEYXRhW3NlbGVjdGVkU3RhdGVtZW50R3JvdXBdID0gbmV3VmFsdWU7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHN0YXRlbWVudEdyb3VwczogbmV3RGF0YQogICAgICB9KQoKICAgICAgY29uc3QgYnV0dG9uU2V0cyA9IHRoaXMuc3RhdGUuYnV0dG9uU2V0czsKICAgICAgYnV0dG9uU2V0c1t0aGlzLnN0YXRlLnNlbGVjdGVkQnV0dG9uU2V0c10uc3RhdGVtZW50R3JvdXBzID0gbmV3RGF0YTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgYnV0dG9uU2V0czogYnV0dG9uU2V0cwogICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cchange</last-search>
+      <last-search encoding="base64">XDxhZGROZXdCdXR0b25TZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>\cchange</last-pattern>
+      <last-pattern encoding="base64">XDxhZGROZXdCdXR0b25TZXRcPg==</last-pattern>
       <last-replace>Local</last-replace>
       <last-substitute>Remote</last-substitute>
       <last-dir>1</last-dir>
@@ -940,7 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getActiveClass</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>did you recently</entry>
         <entry>16</entry>
@@ -960,9 +974,9 @@
         <entry encoding="base64">XDxhZGRJbnRlcnZpZXdzVG9EYlw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTcGVha1w+</entry>
         <entry>\cchange</entry>
+        <entry encoding="base64">XDxhZGROZXdCdXR0b25TZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">IWpxIC4g</entry>
         <entry encoding="base64">JzwsJz4hanEgLg==</entry>
         <entry encoding="base64">JzwsJz4hZGF0ZQ==</entry>
         <entry>!jq .</entry>
@@ -981,6 +995,7 @@
         <entry encoding="base64">JzwsJz5zLywgLyxcci9n</entry>
         <entry encoding="base64">JzwsJz5zL1JlbW90ZS9Mb2NhbC8=</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
