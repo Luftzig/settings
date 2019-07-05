@@ -214,12 +214,6 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/index.ts" timestamp="1561968274447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/BaseState.kt" timestamp="1561386269326">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="107" column="33" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="kotlinDecompiled/Furhat.decompiled.java" timestamp="1559124730486">
         <mark key="'" line="22" column="30" />
       </file>
@@ -373,6 +367,11 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/general.kt" timestamp="1561386336320">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1561968445070">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
@@ -519,11 +518,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" timestamp="1560432144180">
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="5" column="57" />
-        <mark key="." line="5" column="57" />
-        <mark key="^" line="5" column="57" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" timestamp="1562335200152">
+        <mark key="[" line="31" column="99" />
+        <mark key="]" line="31" column="81" />
+        <mark key="." line="31" column="81" />
+        <mark key="^" line="31" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/failed-intents.test.ts" timestamp="1561972703203">
         <mark key="'" line="0" column="26" />
@@ -930,11 +929,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VEVTVF9EQVRBQkFTRV9VUkw9cG9zdGdyZXM6Ly90YXJhX3VzZXI6dGFyYTEyM0BkYjo1NDMyL3RhcmFfdGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>K</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>K</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -955,30 +954,33 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VEVTVF9EQVRBQkFTRV9VUkw9cG9zdGdyZXM6Ly90YXJhX3VzZXI6dGFyYTEyM0BkYjo1NDMyL3RhcmFfdGVzdAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZhbHVlczogTGlzdDxQYWlyPEssIFQ+Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Vm9pY2UobmFtZSA9IHNldC5wcmVmZXJyZWRWb2ljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gc2V0Lmxhbmd1YWdlPy5sZXQgeyBjb2RlIC0+IGxhbmd1YWdlRnJvbUNvZGUoY29kZSkgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/OiBMYW5ndWFnZS5TV0VESVNILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZGVyID0gR2VuZGVyLkZFTUFMRSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">VEVTVF9EQVRBQkFTRV9VUkw9cG9zdGdyZXM6Ly90YXJhX3VzZXI6dGFyYTEyM0BkYjo1NDMyL3RhcmFfdGVzdAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5yb2JvdHJlY3J1aXRlci52b2ljZQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Vm9pY2UobmFtZSA9IHNldC5wcmVmZXJyZWRWb2ljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gc2V0Lmxhbmd1YWdlPy5sZXQgeyBjb2RlIC0+IGxhbmd1YWdlRnJvbUNvZGUoY29kZSkgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/OiBMYW5ndWFnZS5TV0VESVNILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZGVyID0gR2VuZGVyLkZFTUFMRSk=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLnV0aWwuTGFuZ3VhZ2UK</text>
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5yb2JvdHJlY3J1aXRlci52b2ljZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2V0ID0gaXQK</text>
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLnV0aWwuTGFuZ3VhZ2UK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc2V0ID0gaXQK</text>
+      </register>
+      <register name="7" type="4">
         <text>declaredFields.filter {
         java.lang.reflect.Modifier.isStatic(it.modifiers)
     }.filter {
@@ -987,14 +989,11 @@
         it.
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IDogTG9jYXRpb24gewoKfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuaW50ZXJuYWwueGpjLkxhbmd1YWdlCg==</text>
+        <text encoding="base64">b2JqZWN0IDogTG9jYXRpb24gewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
