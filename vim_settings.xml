@@ -515,11 +515,13 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" timestamp="1562571465548">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="35" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" timestamp="1562573729694">
+        <mark key="'" line="31" column="41" />
+        <mark key="i" line="37" column="11" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="47" column="1" />
+        <mark key="." line="44" column="91" />
+        <mark key="^" line="44" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/failed-intents.test.ts" timestamp="1561972703203">
         <mark key="'" line="0" column="26" />
@@ -821,7 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="91" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="249" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="270" column="14" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="14" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
@@ -921,22 +922,23 @@
       <jump line="18" column="80" filename="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/wizard/chooseButtonSet.kt" />
       <jump line="19" column="83" filename="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/wizard/chooseButtonSet.kt" />
       <jump line="10" column="6" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/app.ts" />
+      <jump line="31" column="41" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pair</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuIDxUPnNlcXVlbmNlSW50ZXJ2YWxzKGludGVydmFsczogSXRlcmFibGU8UGFpcjxEb3VibGUsIFQ+Piwgc2NhbGU6IENsb3NlZEZsb2F0aW5nUG9pbnRSYW5nZTxEb3VibGU+PykKICAgIDogTGlzdDxQYWlyPENsb3NlZEZsb2F0aW5nUG9pbnRSYW5nZTxEb3VibGU+LCBUPj4gewogICAgdmFsIHNlcXVlbmNlID0gaW50ZXJ2YWxzLmZvbGQoZW1wdHlMaXN0PFBhaXI8Q2xvc2VkRmxvYXRpbmdQb2ludFJhbmdlPERvdWJsZT4sIFQ+PigpKSB7IGFjYywgKGludGVydmFsTGVuZ3RoLCB2YWx1ZSkgLT4KICAgICAgICB2YWwgbGFzdENvdW50OiBEb3VibGUgPSBhY2MubGFzdE9yTnVsbCgpPy5maXJzdD8uZW5kSW5jbHVzaXZlID86IDAuMAogICAgICAgIGFjYy5wbHVzKChsYXN0Q291bnQuLihsYXN0Q291bnQgKyBpbnRlcnZhbExlbmd0aCAtIERvdWJsZS5NSU5fVkFMVUUpKSB0byB2YWx1ZSkKICAgIH0KICAgIHJldHVybiBpZiAoc2NhbGUgPT0gbnVsbCkgc2VxdWVuY2UKICAgIGVsc2UgewogICAgICAgIHZhbCAobWluU291cmNlLCBtYXhTb3VyY2UpID0gKDAuMCB0byAoc2VxdWVuY2UubGFzdE9yTnVsbCgpPy5maXJzdD8uZW5kSW5jbHVzaXZlID86IDAuMCkpCiAgICAgICAgdmFsIChtaW5UYXJnZXQsIG1heFRhcmdldCkgPSAoc2NhbGUuc3RhcnQgdG8gc2NhbGUuZW5kSW5jbHVzaXZlKQogICAgICAgIHZhbCBvZmZzZXQgPSBtaW5UYXJnZXQgLSBtaW5Tb3VyY2UKICAgICAgICB2YWwgZmFjdG9yID0gKG1heFRhcmdldCAtIG1pblRhcmdldCkgLyAobWF4U291cmNlIC0gbWluU291cmNlKQogICAgICAgIHNlcXVlbmNlLm1hcCB7IChpbnRlcnZhbCwgdmFsdWUpIC0+CiAgICAgICAgICAgICgob2Zmc2V0ICsgKGludGVydmFsLnN0YXJ0ICogZmFjdG9yKSkuLihvZmZzZXQgKyAoaW50ZXJ2YWwuZW5kSW5jbHVzaXZlICogZmFjdG9yKSkpIHRvIHZhbHVlCiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pair</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVWX0RBVEFCQVNFX1VSTD1wb3N0Z3JlczovL3RhcmFfdXNlcjp0YXJhMTIzQGRiOjU0MzIvdGFyYV9kYgo=</text>
+        <text encoding="base64">ZnVuIDxUPnNlcXVlbmNlSW50ZXJ2YWxzKGludGVydmFsczogSXRlcmFibGU8UGFpcjxEb3VibGUsIFQ+Piwgc2NhbGU6IENsb3NlZEZsb2F0aW5nUG9pbnRSYW5nZTxEb3VibGU+PykKICAgIDogTGlzdDxQYWlyPENsb3NlZEZsb2F0aW5nUG9pbnRSYW5nZTxEb3VibGU+LCBUPj4gewogICAgdmFsIHNlcXVlbmNlID0gaW50ZXJ2YWxzLmZvbGQoZW1wdHlMaXN0PFBhaXI8Q2xvc2VkRmxvYXRpbmdQb2ludFJhbmdlPERvdWJsZT4sIFQ+PigpKSB7IGFjYywgKGludGVydmFsTGVuZ3RoLCB2YWx1ZSkgLT4KICAgICAgICB2YWwgbGFzdENvdW50OiBEb3VibGUgPSBhY2MubGFzdE9yTnVsbCgpPy5maXJzdD8uZW5kSW5jbHVzaXZlID86IDAuMAogICAgICAgIGFjYy5wbHVzKChsYXN0Q291bnQuLihsYXN0Q291bnQgKyBpbnRlcnZhbExlbmd0aCAtIERvdWJsZS5NSU5fVkFMVUUpKSB0byB2YWx1ZSkKICAgIH0KICAgIHJldHVybiBpZiAoc2NhbGUgPT0gbnVsbCkgc2VxdWVuY2UKICAgIGVsc2UgewogICAgICAgIHZhbCAobWluU291cmNlLCBtYXhTb3VyY2UpID0gKDAuMCB0byAoc2VxdWVuY2UubGFzdE9yTnVsbCgpPy5maXJzdD8uZW5kSW5jbHVzaXZlID86IDAuMCkpCiAgICAgICAgdmFsIChtaW5UYXJnZXQsIG1heFRhcmdldCkgPSAoc2NhbGUuc3RhcnQgdG8gc2NhbGUuZW5kSW5jbHVzaXZlKQogICAgICAgIHZhbCBvZmZzZXQgPSBtaW5UYXJnZXQgLSBtaW5Tb3VyY2UKICAgICAgICB2YWwgZmFjdG9yID0gKG1heFRhcmdldCAtIG1pblRhcmdldCkgLyAobWF4U291cmNlIC0gbWluU291cmNlKQogICAgICAgIHNlcXVlbmNlLm1hcCB7IChpbnRlcnZhbCwgdmFsdWUpIC0+CiAgICAgICAgICAgICgob2Zmc2V0ICsgKGludGVydmFsLnN0YXJ0ICogZmFjdG9yKSkuLihvZmZzZXQgKyAoaW50ZXJ2YWwuZW5kSW5jbHVzaXZlICogZmFjdG9yKSkpIHRvIHZhbHVlCiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -957,34 +959,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuIDxUPmdldFZhbHVlQXQK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y2xhc3MgTnVtZXJpY0ludGVydmFsTWFwPFQ+KHZhbCB2YWx1ZXM6IExpc3Q8UGFpcjxOdW1iZXIsIFQ+PiwgcmFuZ2U6IENsb3NlZFJhbmdlPD4pIHsKICAgIHByaXZhdGUgdmFsIG5vcm1hbGl6ZWQ6IExpc3Q8UGFpcjxLLCBUPj4KICAgIGZ1biBnZXQoYXQ6IEspOiBUCn0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIERvdWJsZS4K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZhbHVlczogTGlzdDxQYWlyPEssIFQ+Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIChtaW5Tb3VyY2UsIG1heFNvdXJjZSkgPSAoMC4wIHRvIChzZXF1ZW5jZS5sYXN0T3JOdWxsKCk/LmZpcnN0ID86IDAuMCkpCiAgICAgICAgICAgIHZhbCAobWluVGFyZ2V0LCBtYXhUYXJnZXQpID0gKHNjYWxlLnN0YXJ0IHRvIHNjYWxlLmVuZEluY2x1c2l2ZSkKICAgICAgICAgICAgdmFsIG9mZnNldCA9IG1pblRhcmdldCAtIG1pblNvdXJjZQogICAgICAgICAgICB2YWwgZmFjdG9yID0gKG1heFRhcmdldCAtIG1pblRhcmdldCkgLyAobWF4U291cmNlIC0gbWluU291cmNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VEVTVF9EQVRBQkFTRV9VUkw9cG9zdGdyZXM6Ly90YXJhX3VzZXI6dGFyYTEyM0BkYjo1NDMyL3RhcmFfdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Vm9pY2UobmFtZSA9IHNldC5wcmVmZXJyZWRWb2ljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gc2V0Lmxhbmd1YWdlPy5sZXQgeyBjb2RlIC0+IGxhbmd1YWdlRnJvbUNvZGUoY29kZSkgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/OiBMYW5ndWFnZS5TV0VESVNILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZGVyID0gR2VuZGVyLkZFTUFMRSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5yb2JvdHJlY3J1aXRlci52b2ljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLnV0aWwuTGFuZ3VhZ2UK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2xhc3MgTnVtZXJpY0ludGVydmFsTWFwPFQ+KHZhbCB2YWx1ZXM6IExpc3Q8UGFpcjxOdW1iZXIsIFQ+PiwgcmFuZ2U6IENsb3NlZFJhbmdlPD4pIHsKICAgIHByaXZhdGUgdmFsIG5vcm1hbGl6ZWQ6IExpc3Q8UGFpcjxLLCBUPj4KICAgIGZ1biBnZXQoYXQ6IEspOiBUCn0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2V0ID0gaXQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZhbHVlczogTGlzdDxQYWlyPEssIFQ+Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
