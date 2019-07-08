@@ -97,12 +97,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.furhatrobotics.furhatos/furhat-commons/1.8.5/aa57d3cb51a88e5d028f37370918bd139a62c8ea/furhat-commons-1.8.5.jar!/furhatos/records/GenericRecord.class" timestamp="1559039396810">
         <mark key="'" line="280" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562589592291">
-        <mark key="'" line="315" column="29" />
-        <mark key="[" line="300" column="87" />
-        <mark key="]" line="300" column="115" />
-        <mark key="." line="300" column="115" />
-        <mark key="^" line="300" column="115" />
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" timestamp="1562591339489">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="311" column="44" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+        <mark key="^" line="342" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/@types/superagent/index.d.ts" timestamp="1561471782013">
         <mark key="'" line="121" column="0" />
@@ -237,8 +237,8 @@
         <mark key="." line="103" column="2" />
         <mark key="^" line="103" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" timestamp="1562254641005">
-        <mark key="'" line="92" column="6" />
+      <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" timestamp="1562591312907">
+        <mark key="'" line="80" column="13" />
         <mark key="[" line="60" column="104" />
         <mark key="]" line="60" column="104" />
         <mark key="." line="60" column="104" />
@@ -291,9 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="29" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/App/App.js" />
-      <jump line="4" column="9" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/App/App.js" />
-      <jump line="242" column="27" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="286" column="0" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="109" column="88" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="27" column="18" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
@@ -344,7 +341,6 @@
       <jump line="227" column="42" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="291" column="17" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="70" column="47" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
-      <jump line="7" column="8" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="45" column="11" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="95" column="15" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="5" column="38" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
@@ -391,16 +387,20 @@
       <jump line="141" column="30" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="274" column="6" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="310" column="29" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="342" column="76" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="339" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="7" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
+      <jump line="80" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGgzPntjdXJyZW50QnV0dG9uU2V0LmJ1dHRvblNldH08L2gzPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -421,40 +421,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAga2V5PXtgYnV0dG9uLXNldC0ke2l9YH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgzPntjdXJyZW50QnV0dG9uU2V0LmJ1dHRvblNldH08L2gzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PEJ1dHRvblNldEZvcm0KICAgICAgICAgICAgICAgICAga2V5PXtgYnV0dG9uLXNldC0ke2l9YH0KICAgICAgICAgICAgICAgICAgZGF0YT17c2V0fQogICAgICAgICAgICAgICAgICBpc0VkaXRpbmc9e3RoaXMuc3RhdGUuZWRpdGVkQnV0dG9uU2V0ID09PSBpfQogICAgICAgICAgICAgICAgICBvblNlbGVjdD17KCkgPT4gdGhpcy5zZWxlY3RCdXR0b25TZXQoaSl9CiAgICAgICAgICAgICAgICAgIG9uU3RhcnRFZGl0PXsoKSA9PiB0aGlzLmVkaXRCdXR0b25TZXQoaSl9CiAgICAgICAgICAgICAgICAgIG9uVXBkYXRlPXt0aGlzLm9uQnV0dG9uU2V0Q2hhbmdlKGkpfQogICAgICAgICAgICAgICAgICBhdmFpbGFibGVWb2ljZXM9e3RoaXMuc3RhdGUuYXZhaWxhYmxlVm9pY2VzIHx8IFtdfQogICAgICAgICAgICAgICAgICBvblN1Ym1pdD17KCkgPT4gewogICAgICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlU3RvcmVJbkNsb3VkKCkKICAgICAgICAgICAgICAgICAgICB0aGlzLmVkaXRCdXR0b25TZXQobnVsbCkKICAgICAgICAgICAgICAgICAgfX0vPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAga2V5PXtgYnV0dG9uLXNldC0ke2l9YH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBub2RkaW5nQ2hhbmNlID0gMC40CiAgICB2YWwgdm9jYWxCYWNrY2hhbm5lbENoYW5jZSA9IDAuNQoKICAgIC8vIE5vZCA0MCUgb2YgdGhlIHRpbWUKICAgIHZhbCBzaG91bGROb2QgPSBNYXRoLnJhbmRvbSgpIDwgbm9kZGluZ0NoYW5jZQogICAgaWYgKHNob3VsZE5vZCkgewogICAgICAgIHNlbmQoRG9Ob2QoKSkKICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">PEJ1dHRvblNldEZvcm0KICAgICAgICAgICAgICAgICAga2V5PXtgYnV0dG9uLXNldC0ke2l9YH0KICAgICAgICAgICAgICAgICAgZGF0YT17c2V0fQogICAgICAgICAgICAgICAgICBpc0VkaXRpbmc9e3RoaXMuc3RhdGUuZWRpdGVkQnV0dG9uU2V0ID09PSBpfQogICAgICAgICAgICAgICAgICBvblNlbGVjdD17KCkgPT4gdGhpcy5zZWxlY3RCdXR0b25TZXQoaSl9CiAgICAgICAgICAgICAgICAgIG9uU3RhcnRFZGl0PXsoKSA9PiB0aGlzLmVkaXRCdXR0b25TZXQoaSl9CiAgICAgICAgICAgICAgICAgIG9uVXBkYXRlPXt0aGlzLm9uQnV0dG9uU2V0Q2hhbmdlKGkpfQogICAgICAgICAgICAgICAgICBhdmFpbGFibGVWb2ljZXM9e3RoaXMuc3RhdGUuYXZhaWxhYmxlVm9pY2VzIHx8IFtdfQogICAgICAgICAgICAgICAgICBvblN1Ym1pdD17KCkgPT4gewogICAgICAgICAgICAgICAgICAgIHRoaXMuaGFuZGxlU3RvcmVJbkNsb3VkKCkKICAgICAgICAgICAgICAgICAgICB0aGlzLmVkaXRCdXR0b25TZXQobnVsbCkKICAgICAgICAgICAgICAgICAgfX0vPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyBBbHdheXMsIGRvIGEgdm9jYWwgYmFja2NoYW5uZWwgaWYgd2UgZGlkbid0IG5vZCwgYW5kIDUwJSBvZiB0aGUgdGltZXMgd2hlbiB3ZSBkaWQgbm9kCiAgICBpZiAoIXNob3VsZE5vZCB8fCBNYXRoLnJhbmRvbSgpIDwgdm9jYWxCYWNrY2hhbm5lbENoYW5jZSkgewogICAgICAgIHV0dGVyQmFja2NoYW5uZWwoKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBub2RkaW5nQ2hhbmNlID0gMC40CiAgICB2YWwgdm9jYWxCYWNrY2hhbm5lbENoYW5jZSA9IDAuNQoKICAgIC8vIE5vZCA0MCUgb2YgdGhlIHRpbWUKICAgIHZhbCBzaG91bGROb2QgPSBNYXRoLnJhbmRvbSgpIDwgbm9kZGluZ0NoYW5jZQogICAgaWYgKHNob3VsZE5vZCkgewogICAgICAgIHNlbmQoRG9Ob2QoKSkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvLyBBbHdheXMsIGRvIGEgdm9jYWwgYmFja2NoYW5uZWwgaWYgd2UgZGlkbid0IG5vZCwgYW5kIDUwJSBvZiB0aGUgdGltZXMgd2hlbiB3ZSBkaWQgbm9kCiAgICBpZiAoIXNob3VsZE5vZCB8fCBNYXRoLnJhbmRvbSgpIDwgdm9jYWxCYWNrY2hhbm5lbENoYW5jZSkgewogICAgICAgIHV0dGVyQmFja2NoYW5uZWwoKQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDAuNCAqIDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5tYXRoLnVscAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
