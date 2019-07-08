@@ -518,11 +518,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" timestamp="1562335200152">
-        <mark key="[" line="31" column="99" />
-        <mark key="]" line="31" column="81" />
-        <mark key="." line="31" column="81" />
-        <mark key="^" line="31" column="81" />
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/extensions.kt" timestamp="1562570135364">
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="31" column="70" />
+        <mark key="." line="31" column="70" />
+        <mark key="^" line="31" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/failed-intents.test.ts" timestamp="1561972703203">
         <mark key="'" line="0" column="26" />
@@ -929,11 +929,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>K</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>K</text>
+        <text>SequenceMap</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -954,33 +954,39 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZhbHVlczogTGlzdDxQYWlyPEssIFQ+Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">VEVTVF9EQVRBQkFTRV9VUkw9cG9zdGdyZXM6Ly90YXJhX3VzZXI6dGFyYTEyM0BkYjo1NDMyL3RhcmFfdGVzdAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y2xhc3MgTnVtZXJpY0ludGVydmFsTWFwPFQ+KHZhbCB2YWx1ZXM6IExpc3Q8UGFpcjxOdW1iZXIsIFQ+PiwgcmFuZ2U6IENsb3NlZFJhbmdlPD4pIHsKICAgIHByaXZhdGUgdmFsIG5vcm1hbGl6ZWQ6IExpc3Q8UGFpcjxLLCBUPj4KICAgIGZ1biBnZXQoYXQ6IEspOiBUCn0=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Vm9pY2UobmFtZSA9IHNldC5wcmVmZXJyZWRWb2ljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gc2V0Lmxhbmd1YWdlPy5sZXQgeyBjb2RlIC0+IGxhbmd1YWdlRnJvbUNvZGUoY29kZSkgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/OiBMYW5ndWFnZS5TV0VESVNILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZGVyID0gR2VuZGVyLkZFTUFMRSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZhbHVlczogTGlzdDxQYWlyPEssIFQ+Pgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5yb2JvdHJlY3J1aXRlci52b2ljZQo=</text>
+        <text encoding="base64">VEVTVF9EQVRBQkFTRV9VUkw9cG9zdGdyZXM6Ly90YXJhX3VzZXI6dGFyYTEyM0BkYjo1NDMyL3RhcmFfdGVzdAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLnV0aWwuTGFuZ3VhZ2UK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Vm9pY2UobmFtZSA9IHNldC5wcmVmZXJyZWRWb2ljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmd1YWdlID0gc2V0Lmxhbmd1YWdlPy5sZXQgeyBjb2RlIC0+IGxhbmd1YWdlRnJvbUNvZGUoY29kZSkgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/OiBMYW5ndWFnZS5TV0VESVNILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZGVyID0gR2VuZGVyLkZFTUFMRSk=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLmFwcC5yb2JvdHJlY3J1aXRlci52b2ljZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGZ1cmhhdG9zLnV0aWwuTGFuZ3VhZ2UK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgc2V0ID0gaXQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>declaredFields.filter {
         java.lang.reflect.Modifier.isStatic(it.modifiers)
     }.filter {
@@ -988,12 +994,6 @@
     }.firstOrNull {
         it.
     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">b2JqZWN0IDogTG9jYXRpb24gewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
