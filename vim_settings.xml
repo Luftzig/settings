@@ -41,11 +41,23 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="28" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/QuestionBase.kt" timestamp="1561386240805">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1551088896949">
         <mark key="[" line="93" column="110" />
         <mark key="]" line="105" column="30" />
         <mark key="^" line="105" column="30" />
         <mark key="." line="105" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/main.kt" timestamp="1562241136219">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/setup/preflightCheck.kt" timestamp="1552570968799">
         <mark key="[" line="17" column="9" />
@@ -217,6 +229,12 @@
         <mark key="^" line="43" column="4" />
         <mark key="." line="45" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/db-utils/setup-db.ts" timestamp="1561483141735">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/index.ts" timestamp="1561968274447">
         <mark key="[" line="0" column="0" />
       </file>
@@ -278,7 +296,8 @@
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/wizard/initSession.kt" timestamp="1562315922869">
         <mark key="'" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1561386346199">
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" timestamp="1562849105782">
+        <mark key="'" line="108" column="27" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -661,6 +680,13 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" timestamp="1562849449901">
+        <mark key="'" line="83" column="60" />
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="30" />
+        <mark key="." line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/Screening.kt" timestamp="1558700302763">
         <mark key="[" line="12" column="89" />
         <mark key="]" line="12" column="90" />
@@ -836,9 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="47" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
-      <jump line="45" column="11" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="95" column="15" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="304" column="37" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="277" column="86" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="47" column="25" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
@@ -936,16 +959,19 @@
       <jump line="109" column="39" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="111" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
       <jump line="30" column="28" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
+      <jump line="108" column="27" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/registration/PreFlightCheck.kt" />
+      <jump line="53" column="27" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" />
+      <jump line="80" column="60" filename="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/users.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PROD</text>
+        <text>&quot;TEST/&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>PROD</text>
+        <text>&quot;TEST/&quot;</text>
       </register>
       <register name="/" type="4">
         <text>user.speech</text>
