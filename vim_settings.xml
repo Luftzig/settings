@@ -391,11 +391,12 @@
         <mark key="]" line="27" column="34" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" timestamp="1563197139082">
-        <mark key="'" line="34" column="32" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" timestamp="1563200581645">
+        <mark key="'" line="41" column="25" />
+        <mark key="[" line="42" column="148" />
+        <mark key="]" line="42" column="169" />
+        <mark key="." line="42" column="169" />
+        <mark key="^" line="42" column="169" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/query-builder/result/UpdateResult.d.ts" timestamp="1562831043419">
         <mark key="'" line="17" column="23" />
@@ -885,12 +886,11 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" timestamp="1562917251725">
         <mark key="'" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" timestamp="1563198069836">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" timestamp="1563200053778">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="136" column="2" />
-        <mark key="]" line="136" column="16" />
-        <mark key="^" line="136" column="16" />
-        <mark key="." line="136" column="16" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.test.ts" timestamp="1551364687910">
         <mark key="[" line="14" column="0" />
@@ -910,10 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="6" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="310" column="29" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="342" column="76" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="339" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="7" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
       <jump line="80" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
       <jump line="340" column="18" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
@@ -1010,22 +1006,26 @@
       <jump line="32" column="28" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
       <jump line="143" column="30" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
+      <jump line="38" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
+      <jump line="39" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
+      <jump line="40" column="45" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
+      <jump line="42" column="25" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>utterance.timestamp == req.body['timestamp']</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>utterance.timestamp == req.body['timestamp']</text>
       </register>
       <register name="/" type="4">
-        <text>QUESTION</text>
+        <text>'id'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vY2tVdHRlcmFuY2UgPSBbCiAgICAgIGNyZWF0ZVV0dGVyYW5jZSh7CiAgICAgICAgdGV4dDogJ1RleHQgZXhhbXBsZSBudW1iZXIgMS4nLAogICAgICAgIGlzUmV2aWV3ZWQ6IGZhbHNlLAogICAgICB9KSwKICAgICAgY3JlYXRlVXR0ZXJhbmNlKCksCiAgICBdCgogICAgY29uc3QgZGJVdHRlcmFuY2UgPSBhd2FpdCBhZGRVdHRlcmFuY2VUb0RiKG1vY2tVdHRlcmFuY2UpCiAgICBjb25zdCB1dHRlcmFuY2VJZCA9IGRiVXR0ZXJhbmNlWzBdLmlkCgogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCByZXF1ZXN0KGFwcCkKICAgICAgLnB1dChgL2FwaS91dHRlcmFuY2VzLyR7dXR0ZXJhbmNlSWR9YCkKICAgICAgLnNlbmQoewogICAgICAgIHR5cGU6ICd0eXBlIGV4YW1wbGUnLAogICAgICB9KQoKICAgIGV4cGVjdChyZXNwb25zZS5zdGF0dXMpLnRvQmUoNDAwKQo=</text>
+      <register name="0" type="4">
+        <text>new Date(newValue['timestamp'])</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1040,61 +1040,56 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIG5vdCB1cGRhdGUgaW52YWxpZCB0eXBlcycsIGFzeW5jICgpID0+IHsKICAgIGNvbnN0IG1vY2tVdHRlcmFuY2UgPSBbCiAgICAgIGNyZWF0ZVV0dGVyYW5jZSh7CiAgICAgICAgdGV4dDogJ1RleHQgZXhhbXBsZSBudW1iZXIgMS4nLAogICAgICAgIGlzUmV2aWV3ZWQ6IGZhbHNlLAogICAgICB9KSwKICAgICAgY3JlYXRlVXR0ZXJhbmNlKCksCiAgICBdCgogICAgY29uc3QgZGJVdHRlcmFuY2UgPSBhd2FpdCBhZGRVdHRlcmFuY2VUb0RiKG1vY2tVdHRlcmFuY2UpCiAgICBjb25zdCB1dHRlcmFuY2VJZCA9IGRiVXR0ZXJhbmNlWzBdLmlkCgogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCByZXF1ZXN0KGFwcCkKICAgICAgLnB1dChgL2FwaS91dHRlcmFuY2VzLyR7dXR0ZXJhbmNlSWR9YCkKICAgICAgLnNlbmQoewogICAgICAgIHR5cGU6ICd0eXBlIGV4YW1wbGUnLAogICAgICB9KQoKICAgIGV4cGVjdChyZXNwb25zZS5zdGF0dXMpLnRvQmUoNDAwKQogIH0pCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgVXR0ZXJhbmNlLnRpbWVzdGFtcCAke3V0dGVyYW5jZS50aW1lc3RhbXB9ID09IHJlcS50aW1lc3RhbXAgJHtyZXEuYm9keVsndGltZXN0YW1wJ119ID09PSAke3V0dGVyYW5jZS50aW1lc3RhbXAgPT0gcmVxLmJvZHlbJ3RpbWVzdGFtcCddfWApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-          type: 'type example',
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAob2xkVmFsdWUgPT4gKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXR0ZXJhbmNlSWQgPSBkYlV0dGVyYW5jZVswXS5pZAo=</text>
+        <text encoding="base64">ICB1bmNoYW5nZWRWYWxpZGF0b3IoJ3RpbWVzdGFtcCcpLAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVVdHRlcmFuY2UoKSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNyZWF0ZWRVdHRlcmFuY2VzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdGlvbnMgPSB7CiAgaWQ6ICh0YXJnZXQ6IGFueSkgPT4gZmFsc2UsCiAgdGV4dDogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKICB0aW1lc3RhbXA6ICh0YXJnZXQ6IGFueSkgPT4gZmFsc2UsCiAgdHlwZTogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKICBhdWRpbzogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKICBpc1Jldmlld2VkOiAodGFyZ2V0OiBhbnkpID0+IGZhbHNlLAogIHRocmVhZDogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKfQoK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIG5vdCBhbGxvdyBlZGl0aW5nIG9mIGFueSB2YWx1ZSBvdGhlciB0aGFuIHRleHQgYW5kIGlzUmV2aWV3ZWQnKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gWydpZCcsICd0aW1lc3RhbXAnLCAndHlwZScsICdhdWRpbycsICd0aHJlYWQnXS5ldmVyeShmaWVsZCA9PgogICAgIW5ld1ZhbHVlLmhhc093blByb3BlcnR5KGZpZWxkKSB8fCBvbGRWYWx1ZVtmaWVsZF0gPT0gbmV3VmFsdWVbZmllbGRdLAogICkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlVXR0ZXJhbmNlKCksCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAoKG9sZFZhbHVlLAogICAgbmV3VmFsdWUpID0+ICFuZXdWYWx1ZS5oYXNPd25Qcm9wZXJ0eSgnaWQnKSB8fCBuZXdWYWx1ZVsnaWQnXSA9PSBvbGRWYWx1ZVsnaWQnXQogICAgPyB7IG9rOiB0cnVlIH0KICAgIDogeyBvazogZmFsc2UsIG1lc3NhZ2U6ICdWYWx1ZSBmb3IgXCdpZFwnIGRvZXNuXCd0IG1hdGNoJyB9CiAgICApLA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vY2tVdHRlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>QUESTION</last-search>
+      <last-search>'id'</last-search>
       <last-offset />
-      <last-pattern>QUESTION</last-pattern>
-      <last-replace>false</last-replace>
-      <last-substitute>true</last-substitute>
+      <last-pattern>'id'</last-pattern>
+      <last-replace>key</last-replace>
+      <last-substitute>'id'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Route</entry>
-        <entry encoding="base64">XDxUeXBlb3JtRml4dHVyZXNcPg==</entry>
-        <entry>name</entry>
         <entry encoding="base64">XDxhZGRJbnRlcnZpZXdzVG9EYlw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTcGVha1w+</entry>
         <entry>\cchange</entry>
@@ -1112,11 +1107,11 @@
         <entry>true</entry>
         <entry encoding="base64">XDxQcm9ibGVtbMO2c25pbmdcPg==</entry>
         <entry>QUESTION</entry>
+        <entry>timestamp</entry>
+        <entry>type</entry>
+        <entry>'id'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzovLw==</entry>
-        <entry encoding="base64">JzwsJz5kL2BgYC8=</entry>
-        <entry encoding="base64">JzwsJz5nL2BgYC9k</entry>
         <entry encoding="base64">JzwsJz4vYGBgL2Q=</entry>
         <entry encoding="base64">JzwsJz4vYGBgL2dk</entry>
         <entry>%/```/gd</entry>
@@ -1133,6 +1128,9 @@
         <entry>user\.speech</entry>
         <entry encoding="base64">JzwsJz5zL3RydWUvZmFsc2U=</entry>
         <entry>W</entry>
+        <entry>s/timestamp/type/g</entry>
+        <entry>s/type/audio/g</entry>
+        <entry encoding="base64">JzwsJz5zLydpZCcva2V5L2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
