@@ -391,12 +391,12 @@
         <mark key="]" line="27" column="34" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" timestamp="1563200581645">
-        <mark key="'" line="41" column="25" />
-        <mark key="[" line="42" column="148" />
-        <mark key="]" line="42" column="169" />
-        <mark key="." line="42" column="169" />
-        <mark key="^" line="42" column="169" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" timestamp="1563202228561">
+        <mark key="'" line="58" column="6" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+        <mark key="^" line="60" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/query-builder/result/UpdateResult.d.ts" timestamp="1562831043419">
         <mark key="'" line="17" column="23" />
@@ -886,11 +886,12 @@
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" timestamp="1562917251725">
         <mark key="'" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" timestamp="1563200053778">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" timestamp="1563202085160">
+        <mark key="'" line="201" column="26" />
+        <mark key="[" line="214" column="25" />
+        <mark key="]" line="214" column="48" />
+        <mark key="." line="214" column="48" />
+        <mark key="^" line="214" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/PostSaveAction.test.ts" timestamp="1551364687910">
         <mark key="[" line="14" column="0" />
@@ -910,10 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="80" column="13" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
-      <jump line="340" column="18" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/views/Home/Home.js" />
-      <jump line="24" column="1" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
       <jump line="5" column="25" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
       <jump line="78" column="9" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/StatementGroup/ButtonSetForm.js" />
@@ -1010,22 +1007,26 @@
       <jump line="39" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="40" column="45" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="42" column="25" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
+      <jump line="189" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
+      <jump line="202" column="26" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
+      <jump line="56" column="30" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
+      <jump line="58" column="6" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>utterance.timestamp == req.body['timestamp']</text>
+        <text encoding="base64">ICAgICFuZXdWYWx1ZS5oYXNPd25Qcm9wZXJ0eSgnaXNSZXZpZXdlZCcpIHx8IHR5cGVvZiBuZXdWYWx1ZVsnaXNSZXZpZXdlZCddID09PSAnYm9vbGVhbic=</text>
       </register>
       <register name="-" type="4">
-        <text>utterance.timestamp == req.body['timestamp']</text>
+        <text encoding="base64">ICAgICFuZXdWYWx1ZS5oYXNPd25Qcm9wZXJ0eSgnaXNSZXZpZXdlZCcpIHx8IHR5cGVvZiBuZXdWYWx1ZVsnaXNSZXZpZXdlZCddID09PSAnYm9vbGVhbic=</text>
       </register>
       <register name="/" type="4">
-        <text>'id'</text>
+        <text>text</text>
       </register>
-      <register name="0" type="4">
-        <text>new Date(newValue['timestamp'])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAob2xkVmFsdWUsIG5ld1ZhbHVlKSA9PgogICAgIW5ld1ZhbHVlLmhhc093blByb3BlcnR5KCdpc1Jldmlld2VkJykgfHwgdHlwZW9mIG5ld1ZhbHVlWydpc1Jldmlld2VkJ10gPT09ICdib29sZWFuJwogICAgICA/IHsgb2s6IHRydWUgfQogICAgICA6IHsgb2s6IGZhbHNlLCBtZXNzYWdlOiBgImlzUmV2aWV3ZWQiIG11c3QgYmUgYSBib29sZWFuIGJ1dCBpcyAke3R5cGVvZiBuZXdWYWx1ZVsnaXNSZXZpZXdlZCddfWAgfSwK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1040,57 +1041,56 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgVXR0ZXJhbmNlLnRpbWVzdGFtcCAke3V0dGVyYW5jZS50aW1lc3RhbXB9ID09IHJlcS50aW1lc3RhbXAgJHtyZXEuYm9keVsndGltZXN0YW1wJ119ID09PSAke3V0dGVyYW5jZS50aW1lc3RhbXAgPT0gcmVxLmJvZHlbJ3RpbWVzdGFtcCddfWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAob2xkVmFsdWUgPT4gKQo=</text>
+        <text encoding="base64">ICAvLyAgbmV3VmFsdWUgaXMgb2JqZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1bmNoYW5nZWRWYWxpZGF0b3IoJ3RpbWVzdGFtcCcpLAo=</text>
+        <text encoding="base64">ICAob2xkVmFsdWUsIG5ld1ZhbHVlKSA9PiB0eXBlb2YgbmV3VmFsdWUgPT0gJ29iamVjdCcgPyB7b2s6IHRydWV9IDoge29rOiBmYWxzZSwgbWVzc2FnZTogYGV4cGVjdGVkIGlucHV0IHRvIGJlIGFuIEpTT04gb2JqZWN0YH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNyZWF0ZWRVdHRlcmFuY2VzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdGlvbnMgPSB7CiAgaWQ6ICh0YXJnZXQ6IGFueSkgPT4gZmFsc2UsCiAgdGV4dDogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKICB0aW1lc3RhbXA6ICh0YXJnZXQ6IGFueSkgPT4gZmFsc2UsCiAgdHlwZTogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKICBhdWRpbzogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKICBpc1Jldmlld2VkOiAodGFyZ2V0OiBhbnkpID0+IGZhbHNlLAogIHRocmVhZDogKHRhcmdldDogYW55KSA9PiBmYWxzZSwKfQoK</text>
+        <text encoding="base64">ICAvLyBuZXdWYWx1ZS50ZXh0IGlzIHN0cmluZwo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gWydpZCcsICd0aW1lc3RhbXAnLCAndHlwZScsICdhdWRpbycsICd0aHJlYWQnXS5ldmVyeShmaWVsZCA9PgogICAgIW5ld1ZhbHVlLmhhc093blByb3BlcnR5KGZpZWxkKSB8fCBvbGRWYWx1ZVtmaWVsZF0gPT0gbmV3VmFsdWVbZmllbGRdLAogICkK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChhd2FpdCB1dHRlcmFuY2VSZXBvLmZpbmRPbmUoeyBpZDogY3JlYXRlZFV0dGVyYW5jZXNbMF0uaWQgfSkpLnRvRXF1YWwoY3JlYXRlZFV0dGVyYW5jZXNbMF0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAoKG9sZFZhbHVlLAogICAgbmV3VmFsdWUpID0+ICFuZXdWYWx1ZS5oYXNPd25Qcm9wZXJ0eSgnaWQnKSB8fCBuZXdWYWx1ZVsnaWQnXSA9PSBvbGRWYWx1ZVsnaWQnXQogICAgPyB7IG9rOiB0cnVlIH0KICAgIDogeyBvazogZmFsc2UsIG1lc3NhZ2U6ICdWYWx1ZSBmb3IgXCdpZFwnIGRvZXNuXCd0IG1hdGNoJyB9CiAgICApLA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmJvZHkpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvLyAgbmV3VmFsdWUgaXMgb2JqZWN0CiAgLy8gbmV3VmFsdWUudGV4dCBpcyBzdHJpbmcKICAvLyBuZXdWYWx1ZS5pc1Jldmlld2VkIGlzIGJvb2xlYW4KICAvLyBubyBhZGRlZCBmaWVsZHMK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3RleHQvaXNSZXZpZXdlZC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>'id'</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>'id'</last-pattern>
-      <last-replace>key</last-replace>
-      <last-substitute>'id'</last-substitute>
+      <last-pattern>text</last-pattern>
+      <last-replace>isReviewed</last-replace>
+      <last-substitute>text</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRJbnRlcnZpZXdzVG9EYlw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTcGVha1w+</entry>
         <entry>\cchange</entry>
         <entry encoding="base64">XDxhZGROZXdCdXR0b25TZXRcPg==</entry>
@@ -1110,9 +1110,9 @@
         <entry>timestamp</entry>
         <entry>type</entry>
         <entry>'id'</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4vYGBgL2Q=</entry>
         <entry encoding="base64">JzwsJz4vYGBgL2dk</entry>
         <entry>%/```/gd</entry>
         <entry encoding="base64">JzwsJz5zL2N1cmwgLVgvLw==</entry>
@@ -1127,11 +1127,12 @@
         <entry encoding="base64">JzwsJz5zL2FueS92b2lk</entry>
         <entry>user\.speech</entry>
         <entry encoding="base64">JzwsJz5zL3RydWUvZmFsc2U=</entry>
-        <entry>W</entry>
         <entry>s/timestamp/type/g</entry>
         <entry>s/type/audio/g</entry>
         <entry encoding="base64">JzwsJz5zLydpZCcva2V5L2c=</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3RleHQvaXNSZXZpZXdlZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
