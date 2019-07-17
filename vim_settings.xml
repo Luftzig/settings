@@ -240,6 +240,12 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/types/interview.d.ts" timestamp="1563372404443">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="27" column="15" />
+        <mark key="^" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/test/kotlin/utils.kt" timestamp="1559721740626">
         <mark key="'" line="11" column="31" />
       </file>
@@ -350,12 +356,12 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" timestamp="1563371614103">
-        <mark key="'" line="53" column="18" />
-        <mark key="[" line="53" column="96" />
-        <mark key="]" line="53" column="103" />
-        <mark key="^" line="53" column="103" />
-        <mark key="." line="53" column="103" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" timestamp="1563372430682">
+        <mark key="'" line="73" column="51" />
+        <mark key="[" line="66" column="92" />
+        <mark key="]" line="67" column="25" />
+        <mark key="^" line="67" column="25" />
+        <mark key="." line="67" column="25" />
       </file>
       <file name="/yesNoState.kt" timestamp="1558598371710">
         <mark key="[" line="13" column="23" />
@@ -515,6 +521,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/entity/Interview.ts" timestamp="1563372462550">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/wizard/interview.kt" timestamp="1562840859830">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="27" column="20" />
@@ -668,12 +680,11 @@
         <mark key="." line="6" column="84" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" timestamp="1562848046093">
-        <mark key="'" line="78" column="13" />
-        <mark key="[" line="7" column="49" />
-        <mark key="]" line="7" column="55" />
-        <mark key="^" line="7" column="55" />
-        <mark key="." line="7" column="55" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.test.ts" timestamp="1563372506364">
+        <mark key="[" line="82" column="44" />
+        <mark key="]" line="82" column="50" />
+        <mark key="." line="82" column="50" />
+        <mark key="^" line="82" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/index.d.ts" timestamp="1561477104200">
         <mark key="'" line="157" column="48" />
@@ -998,8 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="1" filename="$USER_HOME$/Downloads/dialog (4).json" />
-      <jump line="8293" column="2" filename="$USER_HOME$/Downloads/dialog (4).json" />
       <jump line="54" column="2" filename="$USER_HOME$/Downloads/dialog (4).json" />
       <jump line="61" column="17" filename="$USER_HOME$/Downloads/dialog (4).json" />
       <jump line="85" column="17" filename="$USER_HOME$/Downloads/dialog (4).json" />
@@ -1098,16 +1107,18 @@
       <jump line="113" column="20" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
       <jump line="107" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
       <jump line="111" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
+      <jump line="52" column="45" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
+      <jump line="73" column="51" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -1127,44 +1138,44 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoKQogIGxldCBqc29uRGF0YQoKICBpZiAodHlwZW9mIGRhdGEgIT09ICdzdHJpbmcnKSB7CiAgICBqc29uRGF0YSA9IEpTT04uc3RyaW5naWZ5KGRhdGEpCiAgfQoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IGZha2VMYXN0UnVuID0gbW9tZW50KCkuc3VidHJhY3QoMSwgJ2RheScpCiAgICBjb25zdCBmYWtlT2JqZWN0cyA9IFsKICAgICAgbWFrZU9iamVjdCgKICAgICAgICAnb2xkLWtleScsCiAgICAgICAgbW9tZW50KGZha2VMYXN0UnVuKQogICAgICAgICAgLnN1YnRyYWN0KDEsICdzZWNvbmQnKQogICAgICAgICAgLnRvRGF0ZSgpLAogICAgICApLAogICAgICBtYWtlT2JqZWN0KAogICAgICAgICduZXcta2V5JywKICAgICAgICBtb21lbnQoZmFrZUxhc3RSdW4pCiAgICAgICAgICAuYWRkKDEsICdzZWNvbmQnKQogICAgICAgICAgLnRvRGF0ZSgpLAogICAgICApLAogICAgXQogICAgYXdhaXQgZ2V0UmVwb3NpdG9yeShGZXRjaExvZ3NKb2IpLmluc2VydCh7IGVuZGVkRGF0ZTogZmFrZUxhc3RSdW4udG9EYXRlKCksIHN0YXR1czogRmV0Y2hKb2JTdGF0dXMuQ29tcGxldGVkIH0pCiAgICByZXR1cm4gcnVuKHsKICAgICAgcmVtb3RlT2JqZWN0c1Byb2R1Y2VyOiBtYWtlRmFrZVByb2R1Y2VyKGZha2VPYmplY3RzKSwKICAgICAgbG9nc0NvbnN1bWVyOiBsb2dzID0+IFByb21pc2UucmVzb2x2ZShsb2dzKSwKICAgIH0pCiAgICAgIC50aGVuKGxvZ3MgPT4gbG9ncy5tYXAoKGxvZzogTG9nKSA9PiBsb2cuc3BsaXQoJzogJylbMV0pKQogICAgICAudGhlbihsb2dzID0+IHsKICAgICAgICBleHBlY3QobG9ncykubm90LnRvQ29udGFpbignb2xkLWtleScpCiAgICAgICAgZXhwZWN0KGxvZ3MpLnRvQ29udGFpbignbmV3LWtleScpCiAgICAgIH0p</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpZiAoKQogIGxldCBqc29uRGF0YQoKICBpZiAodHlwZW9mIGRhdGEgIT09ICdzdHJpbmcnKSB7CiAgICBqc29uRGF0YSA9IEpTT04uc3RyaW5naWZ5KGRhdGEpCiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xlYW5lZE5hbWUgPSBuYW1lLnJlcGxhY2UoIiUyRiIsICIvIikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkoKS5zcGxpdCgnLycpWzJdCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xlYW5lZE5hbWUgPSBuYW1lLnJlcGxhY2UoIiUyRiIsICIvIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkoKS5zcGxpdCgnLycpWzJdCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>contains(
             internalMicName,
             true
         )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCkK</text>
+        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
