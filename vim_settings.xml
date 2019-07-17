@@ -350,12 +350,12 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" timestamp="1563371061365">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" timestamp="1563371614103">
         <mark key="'" line="53" column="18" />
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="41" />
-        <mark key="^" line="52" column="41" />
-        <mark key="." line="52" column="41" />
+        <mark key="[" line="53" column="96" />
+        <mark key="]" line="53" column="103" />
+        <mark key="^" line="53" column="103" />
+        <mark key="." line="53" column="103" />
       </file>
       <file name="/yesNoState.kt" timestamp="1558598371710">
         <mark key="[" line="13" column="23" />
@@ -585,11 +585,12 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" timestamp="1563371073627">
-        <mark key="[" line="101" column="22" />
-        <mark key="]" line="101" column="21" />
-        <mark key="^" line="101" column="21" />
-        <mark key="." line="101" column="21" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" timestamp="1563371567789">
+        <mark key="'" line="111" column="9" />
+        <mark key="[" line="111" column="33" />
+        <mark key="]" line="111" column="32" />
+        <mark key="." line="111" column="32" />
+        <mark key="^" line="111" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/models/Name.ts" timestamp="1552411207988">
         <mark key="[" line="0" column="0" />
@@ -997,9 +998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="106" filename="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/typeorm/repository/Repository.d.ts" />
-      <jump line="9" column="14" filename="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/flow/wizard/interview.kt" />
-      <jump line="42" column="48" filename="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/setup.kt" />
       <jump line="0" column="1" filename="$USER_HOME$/Downloads/dialog (4).json" />
       <jump line="8293" column="2" filename="$USER_HOME$/Downloads/dialog (4).json" />
       <jump line="54" column="2" filename="$USER_HOME$/Downloads/dialog (4).json" />
@@ -1097,16 +1095,19 @@
       <jump line="70" column="49" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
       <jump line="71" column="25" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
       <jump line="53" column="18" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
+      <jump line="113" column="20" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
+      <jump line="107" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
+      <jump line="111" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>callbackfn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>callbackfn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -1127,43 +1128,43 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xlYW5lZE5hbWUgPSBuYW1lLnJlcGxhY2UoIiUyRiIsICIvIikK</text>
+        <text encoding="base64">ICBpZiAoKQogIGxldCBqc29uRGF0YQoKICBpZiAodHlwZW9mIGRhdGEgIT09ICdzdHJpbmcnKSB7CiAgICBqc29uRGF0YSA9IEpTT04uc3RyaW5naWZ5KGRhdGEpCiAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkoKS5zcGxpdCgnLycpWzJdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xlYW5lZE5hbWUgPSBuYW1lLnJlcGxhY2UoIiUyRiIsICIvIikK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkoKS5zcGxpdCgnLycpWzJdCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>contains(
-            internalMicName,
-            true
-        )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCkK</text>
+      <register name="7" type="4">
+        <text>contains(
+            internalMicName,
+            true
+        )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
