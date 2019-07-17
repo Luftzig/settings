@@ -401,6 +401,12 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/logger-viewer/src/main/resources/static/script.js" timestamp="1563356838795">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="61" />
+        <mark key="^" line="44" column="61" />
+        <mark key="." line="44" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/__mocks__/typeorm.ts" timestamp="1551350319418">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="37" />
@@ -665,11 +671,11 @@
         <mark key="^" line="19" column="66" />
         <mark key="." line="19" column="62" />
       </file>
-      <file name="/fragment.kt" timestamp="1563266455982">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+      <file name="/fragment.kt" timestamp="1563355962269">
+        <mark key="[" line="0" column="108" />
+        <mark key="]" line="0" column="108" />
+        <mark key="^" line="0" column="108" />
+        <mark key="." line="0" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/shared/IntentMatching.kt" timestamp="1552559021803">
         <mark key="[" line="8" column="62" />
@@ -747,6 +753,7 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/logger-viewer/src/main/kotlin/furhatos/app/logviewer/server.kt" timestamp="1563356742530" />
       <file name="$USER_HOME$/Projects/tengai-automated/README.md" timestamp="1551879046231">
         <mark key="[" line="28" column="102" />
         <mark key="]" line="28" column="115" />
@@ -765,7 +772,12 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/logger-viewer/src/main/kotlin/furhatos/app/logviewer/logrepo/S3LogFileRepository.kt" timestamp="1563354450034" />
+      <file name="$USER_HOME$/Projects/logger-viewer/src/main/kotlin/furhatos/app/logviewer/logrepo/S3LogFileRepository.kt" timestamp="1563356673803">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="87" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/data-helpers.js" timestamp="1562227148043">
         <mark key="[" line="2" column="67" />
         <mark key="]" line="2" column="75" />
@@ -921,11 +933,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/logs/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkoKS5zcGxpdCgnLycpWzJdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/logs/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -946,34 +958,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkoKS5zcGxpdCgnLycpWzJdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="4">
         <text>contains(
             internalMicName,
             true
         )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
-      </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCkK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
