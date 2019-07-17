@@ -464,6 +464,10 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/tengai-automated/src/main/resources/secrets.properties" timestamp="1563350528998">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/nlu/NoneOfTheAbove.kt" timestamp="1557997407668">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="13" column="35" />
@@ -508,6 +512,12 @@
         <mark key="]" line="8293" column="2" />
         <mark key="^" line="8293" column="2" />
         <mark key="." line="8293" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/logger-viewer/src/main/resources/server.properties" timestamp="1563350729604">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/outro/outro.kt" timestamp="1562921269463">
         <mark key="[" line="24" column="72" />
@@ -909,17 +919,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.*</text>
+        <text encoding="base64">PElOU0VSVF9LRVlfSEVSRT4=</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">OiBWYWxpZGF0b3I8VXR0ZXJhbmNlPiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">UkVHSU9OPWV1LWNlbnRyYWwtMQpBQ0NFU1NfS0VZX0lEPUlOU0VSVF9BQ0NFU1NfS0VZX0hFUkUKU0VDUkVUX0FDQ0VTU19LRVk9SU5TRVJUX1NFQ1JFVF9LRVlfSEVSRQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -933,26 +943,26 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>contains(
             internalMicName,
             true
         )</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCkK</text>
+        <text encoding="base64">ICAgIC5jYXRjaAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
