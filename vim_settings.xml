@@ -513,11 +513,11 @@
         <mark key="^" line="8293" column="2" />
         <mark key="." line="8293" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/logger-viewer/src/main/resources/server.properties" timestamp="1563350729604">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="$USER_HOME$/Projects/logger-viewer/src/main/resources/server.properties" timestamp="1563354461727">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="47" />
         <mark key="^" line="0" column="20" />
-        <mark key="." line="10" column="0" />
+        <mark key="." line="8" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/tengai-automated/src/main/kotlin/furhatos/app/tengai/automated/flow/phases/outro/outro.kt" timestamp="1562921269463">
         <mark key="[" line="24" column="72" />
@@ -537,6 +537,7 @@
         <mark key="^" line="1" column="81" />
         <mark key="." line="1" column="81" />
       </file>
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/node_modules/tslib/tslib.js" timestamp="1561967798336" />
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/Results.kt" timestamp="1557913559601">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -764,6 +765,7 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/logger-viewer/src/main/kotlin/furhatos/app/logviewer/logrepo/S3LogFileRepository.kt" timestamp="1563354450034" />
       <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/data-helpers.js" timestamp="1562227148043">
         <mark key="[" line="2" column="67" />
         <mark key="]" line="2" column="75" />
@@ -919,11 +921,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0xPR1NfQlVDS0VUPWZ1cmhhdC11c2VycwpBV1NfTE9HU19QUkVGSVg9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/logs/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PElOU0VSVF9LRVlfSEVSRT4=</text>
+        <text>/logs/</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
