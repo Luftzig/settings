@@ -96,12 +96,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" timestamp="1563456897542">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" timestamp="1563457732622">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="110" column="17" />
-        <mark key="]" line="110" column="17" />
-        <mark key="." line="110" column="17" />
-        <mark key="^" line="110" column="38" />
+        <mark key="[" line="107" column="73" />
+        <mark key="]" line="107" column="95" />
+        <mark key="." line="107" column="95" />
+        <mark key="^" line="107" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview-list/InterviewList.tsx" timestamp="1553246501762">
         <mark key="[" line="60" column="0" />
@@ -276,11 +276,12 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/soundFilesRoute.ts" timestamp="1563456307829">
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="67" />
-        <mark key="^" line="11" column="67" />
-        <mark key="." line="11" column="67" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/soundFilesRoute.ts" timestamp="1563458271638">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+        <mark key="^" line="8" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/assets/webTemplates/wizard-creator/src/components/App/global-styles.js" timestamp="1562165024339">
         <mark key="'" line="4" column="14" />
@@ -1003,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="34" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/data/interview.mock.json" />
       <jump line="113" column="43" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.test.ts" />
       <jump line="20" column="10" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.test.ts" />
       <jump line="118" column="37" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/log-parser/logParser.test.ts" />
@@ -1103,22 +1103,23 @@
       <jump line="25" column="12" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
       <jump line="101" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/aws-s3-adapter.ts" />
+      <jump line="15" column="23" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/soundFilesRoute.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>new Buffer(result.Body)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Buffer(result.Body)</text>
+        <text>missing in route:</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ldyBTMygpCiAgICAgIC5nZXRPYmplY3QoeyBCdWNrZXQ6IGJ1Y2tldCwgS2V5OiBrZXkgfSkKICAgICAgLnByb21pc2UoKQogICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgIGlmIChpc0J1ZmZlcihyZXN1bHQuQm9keSkpIHsKICAgICAgICAgIHJldHVybiByZXN1bHQuQm9keS50b1N0cmluZygndXRmOCcpCiAgICAgICAgfSBlbHNlIGlmIChSLmlzKFN0cmluZywgcmVzdWx0LkJvZHkpKSB7CiAgICAgICAgICByZXR1cm4gcmVzdWx0LkJvZHkgYXMgc3RyaW5nCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgRXhwZWN0ZWQgUzNPYmplY3QuQm9keSB0byBiZSBhIGJ1ZmZlciBvciBTdHJpbmcsIGJ1dCBpdCBpcyAke3Jlc3VsdC5Cb2R5LmNvbnN0cnVjdG9yLm5hbWV9YCkKICAgICAgICB9CiAgICAgIH0pCg==</text>
+      <register name="0" type="4">
+        <text>[prefix, key].map(removeSlashes).join('/')</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1133,40 +1134,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBidWNrZXROYW1lOiBNYXliZTxzdHJpbmc+LAogIG9iamVjdHNQcmVmaXg6IE1heWJlPHN0cmluZz4sCg==</text>
+        <text encoding="base64">ICByZXMuanNvbih7IGF1ZGlvUGF0aDogYXVkaW9QYXRoIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgYXVkaW9QYXRoOiBzdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgOiBudWxsCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBhdWRpb1BhdGg6IHN0cmluZwo=</text>
+        <text encoding="base64">ICBjb25zdCBhdWRpb1BhdGggPSB1dHRlcmFuY2UgIT0gbnVsbCAmJiB1dHRlcmFuY2UuYXVkaW8gIT0gbnVsbCAmJiB1dHRlcmFuY2UudGhyZWFkLmludGVydmlldy5zb3VyY2UgIT0gbnVsbAogICAgPyBgJHt1dHRlcmFuY2UudGhyZWFkLmludGVydmlldy5zb3VyY2UucmVwbGFjZSgnL2RpYWxvZy5qc29uJywgJycpfS8ke3V0dGVyYW5jZS5hdWRpb31gCiAgICA6IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKHsgYXVkaW9QYXRoOiBhdWRpb1BhdGggfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKHt9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMuanNvbih7IGF1ZGlvUGF0aDogYCR7dXR0ZXJhbmNlLnRocmVhZC5pbnRlcnZpZXcuc291cmNlfS8ke3V0dGVyYW5jZS5hdWRpb31gIH0pCg==</text>
+        <text encoding="base64">ICBidWNrZXROYW1lOiBNYXliZTxzdHJpbmc+LAogIG9iamVjdHNQcmVmaXg6IE1heWJlPHN0cmluZz4sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgdGVzdCgnc2F2ZWQgaW50ZXJ2aWV3IGhhcyB0aGUgc291cmNlIGtleSBzYXZlZCBhcyB3ZWxsJywgKCkgPT4gewogICAgcmV0dXJuIHJ1bih7IHJlbW90ZU9iamVjdHNQcm9kdWNlcjogbWFrZUZha2VQcm9kdWNlcihbXSksIGxvZ3NDb25zdW1lcjogKCkgPT4gUHJvbWlzZS5yZXNvbHZlKG51bGwpIH0pCiAgICAgIC5jYXRjaCgoKSA9PiBjb25zb2xlLmxvZygnSm9iIHJ1biBpbiB0ZXN0IGZhaWxlZCBidXQgaWdub3JpbmcnKSkKICAgICAgLnRoZW4oKCkgPT4KICAgICAgICBnZXRSZXBvc2l0b3J5KEZldGNoTG9nc0pvYikKICAgICAgICAgIC5maW5kT25lKHsgb3JkZXI6IHsgZW5kZWREYXRlOiAnREVTQycgfSB9KQogICAgICAgICAgLnRoZW4oam9iID0+IGV4cGVjdChqb2IpLnRvQmVEZWZpbmVkKCkpLAogICAgICApCiAgfSkK</text>
+        <text encoding="base64">ICBsZXQgYXVkaW9QYXRoOiBzdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
