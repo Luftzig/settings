@@ -37,6 +37,16 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextProjectWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="PreviousProjectWindow" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
@@ -49,6 +59,12 @@
   </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="VimMotionNextTab">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="VimMotionPreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
   </action>
   <action id="VimPluginToggle" />
 </keymap>
