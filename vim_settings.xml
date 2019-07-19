@@ -505,12 +505,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" timestamp="1563463901465">
-        <mark key="'" line="13" column="22" />
-        <mark key="[" line="65" column="51" />
-        <mark key="]" line="66" column="23" />
-        <mark key="^" line="66" column="23" />
-        <mark key="." line="66" column="23" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" timestamp="1563522417272">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="21" />
+        <mark key="^" line="63" column="26" />
+        <mark key="." line="63" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/events.kt" timestamp="1562245556473">
         <mark key="'" line="32" column="6" />
@@ -901,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="15" column="52" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="34" column="18" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
@@ -1001,22 +1000,23 @@
       <jump line="129" column="85" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="86" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="13" column="22" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="9" column="22" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>start()</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>start()</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>loadAudioForUtteranceId</text>
+        <text>audioContext</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1031,40 +1031,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybD17Y3VycmVudEF1ZGlvQnVmZmVyfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHV0dGVyYW5jZSBmcm9tICcuL21vZGVscy91dHRlcmFuY2UnCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldEF1ZGlvQnVmZmVyLAogICAgZ2V0QXVkaW9Db250ZXh0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldEF1ZGlvQnVmZmVyOiAoYXVkaW9CdWZmZXI6IEF1ZGlvQnVmZmVyIHwge30pID0+IHZvaWQK</text>
+        <text encoding="base64">ICAgICAgICAgIHVybD17Y3VycmVudEF1ZGlvQnVmZmVyfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEZpbGUgPSBhc3luYyAocGF0aDogc3RyaW5nID0gKHRlc3RTb3VuZCkpID0+IHsKICAgICAgICBjb25zdCB7IHNldEF1ZGlvQnVmZmVyIH0gPSB0aGlzLnByb3BzOwogICAgICAgIGNvbnN0IGJ1ZmZlciA9IGF3YWl0IGdldEF1ZGlvQnVmZmVyKHBhdGgsIGdldEF1ZGlvQ29udGV4dCgpKQogICAgICAgIGJ1ZmZlciBpbnN0YW5jZW9mIEF1ZGlvQnVmZmVyID8gc2V0QXVkaW9CdWZmZXIoYnVmZmVyKSA6IHNldEF1ZGlvQnVmZmVyKHt9KTsKICAgIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHV0dGVyYW5jZSBmcm9tICcuL21vZGVscy91dHRlcmFuY2UnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldEF1ZGlvQnVmZmVyOiAoYXVkaW9CdWZmZXI6IEF1ZGlvQnVmZmVyIHwge30pID0+IHsKICAgICAgICBkaXNwYXRjaChTZXRBdWRpb0J1ZmZlcihhdWRpb0J1ZmZlcikpOwogICAgfSwK</text>
+        <text encoding="base64">ICAgIGdldEF1ZGlvQnVmZmVyLAogICAgZ2V0QXVkaW9Db250ZXh0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNldEF1ZGlvQnVmZmVyOiAoYXVkaW9CdWZmZXI6IEF1ZGlvQnVmZmVyIHwge30pID0+IHZvaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA9PT0gMjAwKSB7CiAgICAgICAgcmV0dXJuIG5ldyBBdWRpb0J1ZmZlcihyZXNwb25zZS5ib2R5KQogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybgogICAgICB9CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGdldEZpbGUgPSBhc3luYyAocGF0aDogc3RyaW5nID0gKHRlc3RTb3VuZCkpID0+IHsKICAgICAgICBjb25zdCB7IHNldEF1ZGlvQnVmZmVyIH0gPSB0aGlzLnByb3BzOwogICAgICAgIGNvbnN0IGJ1ZmZlciA9IGF3YWl0IGdldEF1ZGlvQnVmZmVyKHBhdGgsIGdldEF1ZGlvQ29udGV4dCgpKQogICAgICAgIGJ1ZmZlciBpbnN0YW5jZW9mIEF1ZGlvQnVmZmVyID8gc2V0QXVkaW9CdWZmZXIoYnVmZmVyKSA6IHNldEF1ZGlvQnVmZmVyKHt9KTsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
