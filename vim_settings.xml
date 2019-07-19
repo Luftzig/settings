@@ -68,8 +68,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/State.ts" timestamp="1563458636149">
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/State.ts" timestamp="1563463110911">
         <mark key="'" line="225" column="2" />
+        <mark key="[" line="225" column="22" />
+        <mark key="]" line="225" column="25" />
+        <mark key="." line="225" column="25" />
+        <mark key="^" line="225" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/tng-transcription-tool/server/src/type-utils/Maybe.ts" timestamp="1551706136841">
         <mark key="[" line="17" column="32" />
@@ -377,7 +381,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563442003288">
+      <file name="/Dummy.txt" timestamp="1563463523218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/lib/networking.ts" timestamp="1547720890887">
@@ -501,12 +505,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" timestamp="1563460738454">
-        <mark key="'" line="91" column="13" />
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="92" column="15" />
-        <mark key="^" line="92" column="15" />
-        <mark key="." line="92" column="15" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" timestamp="1563463901465">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="66" column="23" />
+        <mark key="^" line="66" column="23" />
+        <mark key="." line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/events.kt" timestamp="1562245556473">
         <mark key="'" line="32" column="6" />
@@ -897,12 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="25" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
-      <jump line="189" column="35" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
-      <jump line="202" column="26" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/__test__/updateUtterance.test.ts" />
-      <jump line="56" column="30" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
-      <jump line="58" column="6" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
-      <jump line="60" column="6" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="15" column="52" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
       <jump line="34" column="18" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/routes/utteranceRoute.ts" />
@@ -997,16 +995,22 @@
       <jump line="64" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" />
       <jump line="92" column="21" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="91" column="13" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="60" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="128" column="8" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="127" column="27" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="129" column="85" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="86" column="9" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="13" column="22" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>testSound</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
