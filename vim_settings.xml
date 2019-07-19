@@ -209,8 +209,8 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/reducer.ts" timestamp="1563535327092">
-        <mark key="'" line="30" column="13" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/reducer.ts" timestamp="1563536677629">
+        <mark key="'" line="37" column="13" />
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="35" />
@@ -566,12 +566,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" timestamp="1563535149386">
-        <mark key="'" line="109" column="33" />
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="38" />
-        <mark key="^" line="89" column="38" />
-        <mark key="." line="89" column="38" />
+      <file name="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" timestamp="1563537104985">
+        <mark key="'" line="33" column="2" />
+        <mark key="[" line="58" column="32" />
+        <mark key="]" line="58" column="45" />
+        <mark key="^" line="58" column="45" />
+        <mark key="." line="58" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/robot-recruiter/src/main/kotlin/furhatos/app/robotrecruiter/events.kt" timestamp="1562245556473">
         <mark key="'" line="32" column="6" />
@@ -1022,8 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="52" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/fetch-logs.ts" />
-      <jump line="13" column="40" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/jobs/fetch-logs/run-aws.ts" />
       <jump line="70" column="49" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
       <jump line="71" column="25" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
       <jump line="53" column="18" filename="$USER_HOME$/Projects/tng-transcription-tool/server/src/controller/Interview/InterviewSaveAction.ts" />
@@ -1091,7 +1089,6 @@
       <jump line="19" column="64" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" />
       <jump line="67" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" />
       <jump line="21" column="14" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/actions.ts" />
-      <jump line="33" column="8" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="23" column="44" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
@@ -1122,16 +1119,19 @@
       <jump line="133" column="11" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="109" column="33" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
       <jump line="30" column="13" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/reducer.ts" />
+      <jump line="37" column="13" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/reducer.ts" />
+      <jump line="103" column="60" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
+      <jump line="33" column="2" filename="$USER_HOME$/Projects/tng-transcription-tool/client/src/interview/audio-visualization/AudioVisualization.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KHN0YXRlOiBTdGF0ZSwgYWN0aW9uOiBBY3Rpb24pID0+IFN0YXRlID0=</text>
+        <text>nextStatus</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHN0YXRlOiBTdGF0ZSwgYWN0aW9uOiBBY3Rpb24pID0+IFN0YXRlID0=</text>
+        <text>nextStatus</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -1152,40 +1152,40 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgPwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5leHRTdGF0dXMgPSBuZXh0QXVkaW9TdGF0ZS5zdGF0dXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY3VycmVudEF1ZGlvQnVmZmVyLCAsIH0gPSB0aGlzLnByb3BzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY3VycmVudEF1ZGlvQnVmZmVyLCAsIH0gPSB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhdWRpb0NvbnRleHQ6IEF1ZGlvQ29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBhdWRpb0NvbnRleHQ6IEF1ZGlvQ29udGV4dAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRoaXMuYXVkaW9Db250ZXh0ID0gZ2V0QXVkaW9Db250ZXh0KCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1ZGlvUGxheWluZykgewogICAgICB0aGlzLmF1ZGlvU291cmNlLnN0b3AoKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy5hdWRpb1NvdXJjZS5zdGFydCh0aGlzLnByb3BzLmF1ZGlvTWFya2VyUG9zaXRpb24pCiAgICB9CiAgICB0aGlzLnByb3BzLnNldEF1ZGlvUGxheWluZ1N0YXR1cyghdGhpcy5wcm9wcy5hdWRpb1BsYXlpbmcp</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1ZGlvUGxheWluZykgewogICAgICB0aGlzLmF1ZGlvU291cmNlLnN0b3AoKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy5hdWRpb1NvdXJjZS5zdGFydCh0aGlzLnByb3BzLmF1ZGlvTWFya2VyUG9zaXRpb24pCiAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmF1ZGlvUGxheWluZykgewogICAgICB0aGlzLmF1ZGlvU291cmNlLnN0b3AoKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy5hdWRpb1NvdXJjZS5zdGFydCh0aGlzLnByb3BzLmF1ZGlvTWFya2VyUG9zaXRpb24pCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
