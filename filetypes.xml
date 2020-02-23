@@ -9,6 +9,7 @@
       <mapping pattern="run-flags" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="BUCK" type="PLAIN_TEXT" />
+      <mapping pattern="COPYING" type="PLAIN_TEXT" />
       <mapping ext="pbxproj" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
