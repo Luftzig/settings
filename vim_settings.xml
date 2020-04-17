@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>&quot;vinnare&quot;: &quot;[^u]</entry>
         <entry>title</entry>
         <entry>console</entry>
         <entry>Govern</entry>
@@ -25,6 +24,7 @@
         <entry>RnDiff</entry>
         <entry>RnDiffApp</entry>
         <entry>use_fram</entry>
+        <entry>use_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywgXFsvLCBJbnREaWN0LmZyb21MaXN0IFsv</entry>
@@ -128,7 +128,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586955073705">
+      <file name="/Dummy.txt" timestamp="1587115937150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/gradle.properties" timestamp="1586943123110">
@@ -136,12 +136,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="26" column="21" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/debug/AndroidManifest.xml" timestamp="1586942350295">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/debug/java/com/sveviaapp/ReactNativeFlipper.java" timestamp="1586942457127">
         <mark key="'" line="67" column="0" />
@@ -161,8 +155,8 @@
         <mark key="]" line="1" column="146" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/README.md" timestamp="1587115453072">
-        <mark key="[" line="34" column="16" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/README.md" timestamp="1587116516113">
+        <mark key="[" line="36" column="91" />
         <mark key="]" line="36" column="92" />
         <mark key="^" line="36" column="92" />
         <mark key="." line="36" column="91" />
@@ -177,17 +171,20 @@
         <mark key="'" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/package.json" timestamp="1586950871525">
-        <mark key="'" line="46" column="23" />
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="50" column="38" />
-        <mark key="." line="50" column="38" />
-        <mark key="^" line="50" column="38" />
+        <mark key="'" line="48" column="23" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="38" />
+        <mark key="." line="52" column="38" />
+        <mark key="^" line="52" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/ios/sveviaApp/AppDelegate.m" timestamp="1586944004686">
         <mark key="[" line="126" column="1" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" timestamp="1587117691594">
+        <mark key="'" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/gradlew.bat" timestamp="1586943210043">
         <mark key="'" line="99" column="5" />
@@ -239,8 +236,8 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" timestamp="1586957601803">
-        <mark key="'" line="94" column="0" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" timestamp="1587117107600">
+        <mark key="'" line="79" column="26" />
         <mark key="[" line="81" column="15" />
         <mark key="]" line="81" column="15" />
         <mark key="." line="81" column="15" />
@@ -248,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
-      <jump line="159" column="16" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
-      <jump line="143" column="18" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
       <jump line="158" column="27" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
       <jump line="42" column="56" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Map.elm" />
@@ -341,13 +335,16 @@
       <jump line="4" column="14" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/Tabs/Start/Start.js" />
       <jump line="103" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="47" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
-      <jump line="79" column="10" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="99" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="89" column="28" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="81" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="87" column="25" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
+      <jump line="16" column="49" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
+      <jump line="75" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
+      <jump line="79" column="26" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
+      <jump line="5" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,7 +362,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>use_fram</text>
+        <text>use_</text>
       </register>
       <register name="0" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
@@ -440,9 +437,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>use_fram</last-search>
+      <last-search>use_</last-search>
       <last-offset />
-      <last-pattern>use_fram</last-pattern>
+      <last-pattern>use_</last-pattern>
       <last-replace>sveviaApp</last-replace>
       <last-substitute>RnDiffApp</last-substitute>
       <last-dir>1</last-dir>
