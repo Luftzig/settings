@@ -137,13 +137,6 @@
         <mark key="^" line="26" column="21" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/debug/java/com/sveviaapp/ReactNativeFlipper.java" timestamp="1586942457127">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" timestamp="1586942559027">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="37" />
@@ -155,11 +148,14 @@
         <mark key="]" line="1" column="146" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/README.md" timestamp="1587116516113">
-        <mark key="[" line="36" column="91" />
-        <mark key="]" line="36" column="92" />
-        <mark key="^" line="36" column="92" />
-        <mark key="." line="36" column="91" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/App.js" timestamp="1587118477327">
+        <mark key="'" line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/README.md" timestamp="1587127797133">
+        <mark key="[" line="44" column="138" />
+        <mark key="]" line="48" column="91" />
+        <mark key="^" line="48" column="91" />
+        <mark key="." line="48" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1586943149338">
         <mark key="[" line="4" column="0" />
@@ -183,8 +179,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" timestamp="1587117691594">
-        <mark key="'" line="5" column="8" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" timestamp="1587118661972">
+        <mark key="'" line="125" column="6" />
+        <mark key="[" line="104" column="17" />
+        <mark key="]" line="104" column="17" />
+        <mark key="." line="104" column="17" />
+        <mark key="^" line="104" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/gradlew.bat" timestamp="1586943210043">
         <mark key="'" line="99" column="5" />
@@ -245,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
-      <jump line="158" column="27" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
       <jump line="42" column="56" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Map.elm" />
       <jump line="77" column="12" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
       <jump line="81" column="43" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Main.elm" />
@@ -345,6 +343,8 @@
       <jump line="75" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="79" column="26" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="5" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/App.js" />
+      <jump line="125" column="6" filename="$USER_HOME$/Projects/svevia-inkopsappen/src/actions/home.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,13 +353,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>FCM</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>FCM</text>
       </register>
       <register name="/" type="4">
         <text>use_</text>
@@ -380,13 +380,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZDTSBmcm9tICJyZWFjdC1uYXRpdmUtZmNtIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGFkZF9mbGlwcGVyX3BvZHMhKHZlcnNpb25zID0ge30pCiAgdmVyc2lvbnNbJ0ZsaXBwZXInXSB8fD0gJ34+IDAuMzMuMScKICB2ZXJzaW9uc1snRG91YmxlQ29udmVyc2lvbiddIHx8PSAnMS4xLjcnCiAgdmVyc2lvbnNbJ0ZsaXBwZXItRm9sbHknXSB8fD0gJ34+IDIuMScKICB2ZXJzaW9uc1snRmxpcHBlci1HbG9nJ10gfHw9ICcwLjMuNicKICB2ZXJzaW9uc1snRmxpcHBlci1QZWVyVGFsayddIHx8PSAnfj4gMC4wLjQnCiAgdmVyc2lvbnNbJ0ZsaXBwZXItUlNvY2tldCddIHx8PSAnfj4gMS4wJwoKICBwb2QgJ0ZsaXBwZXJLaXQnLCB2ZXJzaW9uc1snRmxpcHBlciddLCA6Y29uZmlndXJhdGlvbiA9PiAnRGVidWcnCiAgcG9kICdGbGlwcGVyS2l0L0ZsaXBwZXJLaXRMYXlvdXRQbHVnaW4nLCB2ZXJzaW9uc1snRmxpcHBlciddLCA6Y29uZmlndXJhdGlvbiA9PiAnRGVidWcnCiAgcG9kICdGbGlwcGVyS2l0L1NLSU9TTmV0d29ya1BsdWdpbicsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRmxpcHBlcktpdFVzZXJEZWZhdWx0c1BsdWdpbicsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRmxpcHBlcktpdFJlYWN0UGx1Z2luJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwoKICAjIExpc3QgYWxsIHRyYW5zaXRpdmUgZGVwZW5kZW5jaWVzIGZvciBGbGlwcGVyS2l0IHBvZHMKICAjIHRvIGF2b2lkIHRoZW0gYmVpbmcgbGlua2VkIGluIFJlbGVhc2UgYnVpbGRzCiAgcG9kICdGbGlwcGVyJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlci1Eb3VibGVDb252ZXJzaW9uJywgdmVyc2lvbnNbJ0RvdWJsZUNvbnZlcnNpb24nXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlci1Gb2xseScsIHZlcnNpb25zWydGbGlwcGVyLUZvbGx5J10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXItR2xvZycsIHZlcnNpb25zWydGbGlwcGVyLUdsb2cnXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlci1QZWVyVGFsaycsIHZlcnNpb25zWydGbGlwcGVyLVBlZXJUYWxrJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXItUlNvY2tldCcsIHZlcnNpb25zWydGbGlwcGVyLVJTb2NrZXQnXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9Db3JlJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9DcHBCcmlkZ2UnLCB2ZXJzaW9uc1snRmxpcHBlciddLCA6Y29uZmlndXJhdGlvbiA9PiAnRGVidWcnCiAgcG9kICdGbGlwcGVyS2l0L0ZCQ3h4Rm9sbHlEeW5hbWljQ29udmVydCcsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRkJEZWZpbmVzJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9GS1BvcnRGb3J3YXJkaW5nJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9GbGlwcGVyS2l0SGlnaGxpZ2h0T3ZlcmxheScsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRmxpcHBlcktpdExheW91dFRleHRTZWFyY2hhYmxlJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9GbGlwcGVyS2l0TmV0d29ya1BsdWdpbicsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKZW5kCgojIFBvc3QgSW5zdGFsbCBwcm9jZXNzaW5nIGZvciBGbGlwcGVyCmRlZiBmbGlwcGVyX3Bvc3RfaW5zdGFsbChpbnN0YWxsZXIpCiAgaW5zdGFsbGVyLnBvZHNfcHJvamVjdC50YXJnZXRzLmVhY2ggZG8gfHRhcmdldHwKICAgIGlmIHRhcmdldC5uYW1lID09ICdZb2dhS2l0JwogICAgICB0YXJnZXQuYnVpbGRfY29uZmlndXJhdGlvbnMuZWFjaCBkbyB8Y29uZmlnfAogICAgICAgIGNvbmZpZy5idWlsZF9zZXR0aW5nc1snU1dJRlRfVkVSU0lPTiddID0gJzQuMScKICAgICAgZW5kCiAgICBlbmQKICBlbmQKZW5kCg==</text>
+        <text encoding="base64">ICAgIGlmIChzZXR0aW5ncykgewogICAgICBjb25zb2xlLmxvZygnUGVybWlzc2lvbiBzZXR0aW5nczonLCBzZXR0aW5ncyk7CiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -404,31 +404,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZDTS5yZXF1ZXN0UGVybWlzc2lvbnMoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJDVFJvb3RWaWV3ICpyb290VmlldyA9IFtbUkNUUm9vdFZpZXcgYWxsb2NdIGluaXRXaXRoQnJpZGdlOmJyaWRnZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZHVsZU5hbWU6QCJSbkRpZmZBcHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbml0aWFsUHJvcGVydGllczpuaWxdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBMb2FkaW5nIEphdmFTY3JpcHQgY29kZQogIGpzQ29kZUxvY2F0aW9uID0gW1tSQ1RCdW5kbGVVUkxQcm92aWRlciBzaGFyZWRTZXR0aW5nc10ganNCdW5kbGVVUkxGb3JCdW5kbGVSb290OkAiaW5kZXgiIGZhbGxiYWNrUmVzb3VyY2U6bmlsXTsKICAvL2pzQ29kZUxvY2F0aW9uID0gW1tOU0J1bmRsZSBtYWluQnVuZGxlXSBVUkxGb3JSZXNvdXJjZTpAIm1haW4iIHdpdGhFeHRlbnNpb246QCJqc2J1bmRsZSJdOwo=</text>
+        <text encoding="base64">ZGVmIGFkZF9mbGlwcGVyX3BvZHMhKHZlcnNpb25zID0ge30pCiAgdmVyc2lvbnNbJ0ZsaXBwZXInXSB8fD0gJ34+IDAuMzMuMScKICB2ZXJzaW9uc1snRG91YmxlQ29udmVyc2lvbiddIHx8PSAnMS4xLjcnCiAgdmVyc2lvbnNbJ0ZsaXBwZXItRm9sbHknXSB8fD0gJ34+IDIuMScKICB2ZXJzaW9uc1snRmxpcHBlci1HbG9nJ10gfHw9ICcwLjMuNicKICB2ZXJzaW9uc1snRmxpcHBlci1QZWVyVGFsayddIHx8PSAnfj4gMC4wLjQnCiAgdmVyc2lvbnNbJ0ZsaXBwZXItUlNvY2tldCddIHx8PSAnfj4gMS4wJwoKICBwb2QgJ0ZsaXBwZXJLaXQnLCB2ZXJzaW9uc1snRmxpcHBlciddLCA6Y29uZmlndXJhdGlvbiA9PiAnRGVidWcnCiAgcG9kICdGbGlwcGVyS2l0L0ZsaXBwZXJLaXRMYXlvdXRQbHVnaW4nLCB2ZXJzaW9uc1snRmxpcHBlciddLCA6Y29uZmlndXJhdGlvbiA9PiAnRGVidWcnCiAgcG9kICdGbGlwcGVyS2l0L1NLSU9TTmV0d29ya1BsdWdpbicsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRmxpcHBlcktpdFVzZXJEZWZhdWx0c1BsdWdpbicsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRmxpcHBlcktpdFJlYWN0UGx1Z2luJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwoKICAjIExpc3QgYWxsIHRyYW5zaXRpdmUgZGVwZW5kZW5jaWVzIGZvciBGbGlwcGVyS2l0IHBvZHMKICAjIHRvIGF2b2lkIHRoZW0gYmVpbmcgbGlua2VkIGluIFJlbGVhc2UgYnVpbGRzCiAgcG9kICdGbGlwcGVyJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlci1Eb3VibGVDb252ZXJzaW9uJywgdmVyc2lvbnNbJ0RvdWJsZUNvbnZlcnNpb24nXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlci1Gb2xseScsIHZlcnNpb25zWydGbGlwcGVyLUZvbGx5J10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXItR2xvZycsIHZlcnNpb25zWydGbGlwcGVyLUdsb2cnXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlci1QZWVyVGFsaycsIHZlcnNpb25zWydGbGlwcGVyLVBlZXJUYWxrJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXItUlNvY2tldCcsIHZlcnNpb25zWydGbGlwcGVyLVJTb2NrZXQnXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9Db3JlJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9DcHBCcmlkZ2UnLCB2ZXJzaW9uc1snRmxpcHBlciddLCA6Y29uZmlndXJhdGlvbiA9PiAnRGVidWcnCiAgcG9kICdGbGlwcGVyS2l0L0ZCQ3h4Rm9sbHlEeW5hbWljQ29udmVydCcsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRkJEZWZpbmVzJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9GS1BvcnRGb3J3YXJkaW5nJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9GbGlwcGVyS2l0SGlnaGxpZ2h0T3ZlcmxheScsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKICBwb2QgJ0ZsaXBwZXJLaXQvRmxpcHBlcktpdExheW91dFRleHRTZWFyY2hhYmxlJywgdmVyc2lvbnNbJ0ZsaXBwZXInXSwgOmNvbmZpZ3VyYXRpb24gPT4gJ0RlYnVnJwogIHBvZCAnRmxpcHBlcktpdC9GbGlwcGVyS2l0TmV0d29ya1BsdWdpbicsIHZlcnNpb25zWydGbGlwcGVyJ10sIDpjb25maWd1cmF0aW9uID0+ICdEZWJ1ZycKZW5kCgojIFBvc3QgSW5zdGFsbCBwcm9jZXNzaW5nIGZvciBGbGlwcGVyCmRlZiBmbGlwcGVyX3Bvc3RfaW5zdGFsbChpbnN0YWxsZXIpCiAgaW5zdGFsbGVyLnBvZHNfcHJvamVjdC50YXJnZXRzLmVhY2ggZG8gfHRhcmdldHwKICAgIGlmIHRhcmdldC5uYW1lID09ICdZb2dhS2l0JwogICAgICB0YXJnZXQuYnVpbGRfY29uZmlndXJhdGlvbnMuZWFjaCBkbyB8Y29uZmlnfAogICAgICAgIGNvbmZpZy5idWlsZF9zZXR0aW5nc1snU1dJRlRfVkVSU0lPTiddID0gJzQuMScKICAgICAgZW5kCiAgICBlbmQKICBlbmQKZW5kCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgW0ZJUkFwcCBjb25maWd1cmVdOwogIFtbVU5Vc2VyTm90aWZpY2F0aW9uQ2VudGVyIGN1cnJlbnROb3RpZmljYXRpb25DZW50ZXJdIHNldERlbGVnYXRlOnNlbGZdOwoKICBOU1VSTCAqanNDb2RlTG9jYXRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJDVFJvb3RWaWV3ICpyb290VmlldyA9IFtbUkNUUm9vdFZpZXcgYWxsb2NdIGluaXRXaXRoQnJpZGdlOmJyaWRnZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZHVsZU5hbWU6QCJSbkRpZmZBcHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbml0aWFsUHJvcGVydGllczpuaWxdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBMb2FkaW5nIEphdmFTY3JpcHQgY29kZQogIGpzQ29kZUxvY2F0aW9uID0gW1tSQ1RCdW5kbGVVUkxQcm92aWRlciBzaGFyZWRTZXR0aW5nc10ganNCdW5kbGVVUkxGb3JCdW5kbGVSb290OkAiaW5kZXgiIGZhbGxiYWNrUmVzb3VyY2U6bmlsXTsKICAvL2pzQ29kZUxvY2F0aW9uID0gW1tOU0J1bmRsZSBtYWluQnVuZGxlXSBVUkxGb3JSZXNvdXJjZTpAIm1haW4iIHdpdGhFeHRlbnNpb246QCJqc2J1bmRsZSJdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogZmlsZSgiLi4vbm9kZV9tb2R1bGVzL0ByZWFjdC1uYXRpdmUtY29tbXVuaXR5L2NsaS1wbGF0Zm9ybS1hbmRyb2lkL25hdGl2ZV9tb2R1bGVzLmdyYWRsZSIpOyBhcHBseU5hdGl2ZU1vZHVsZXNTZXR0aW5nc0dyYWRsZShzZXR0aW5ncykK</text>
+        <text encoding="base64">CiAgW0ZJUkFwcCBjb25maWd1cmVdOwogIFtbVU5Vc2VyTm90aWZpY2F0aW9uQ2VudGVyIGN1cnJlbnROb3RpZmljYXRpb25DZW50ZXJdIHNldERlbGVnYXRlOnNlbGZdOwoKICBOU1VSTCAqanNDb2RlTG9jYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
