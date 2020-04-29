@@ -43,10 +43,10 @@
         <entry encoding="base64">JzwsJz5zL1RFU1QvUFJPRC8=</entry>
         <entry>W</entry>
         <entry>%s/RnDiffApp/sveviaApp/gc</entry>
-        <entry>w</entry>
         <entry>s/IsZero/UMin/g</entry>
         <entry>s/Plus/Lt/g</entry>
         <entry encoding="base64">JzwsJz5zL1BsdXMvTHQvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -194,12 +194,12 @@
         <mark key="^" line="111" column="47" />
         <mark key="." line="111" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1587915443053">
-        <mark key="'" line="181" column="8" />
-        <mark key="[" line="171" column="48" />
-        <mark key="]" line="171" column="71" />
-        <mark key="." line="171" column="70" />
-        <mark key="^" line="171" column="71" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588148202796">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="202" column="41" />
+        <mark key="]" line="202" column="44" />
+        <mark key="." line="202" column="43" />
+        <mark key="^" line="202" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint" timestamp="1587914523648">
         <mark key="[" line="1" column="10" />
@@ -207,14 +207,14 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587911677709">
+      <file name="/Dummy.txt" timestamp="1588147575191">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint.step" timestamp="1587914248299">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint.step" timestamp="1588147529935">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/App.js" timestamp="1587653830714">
         <mark key="'" line="33" column="61" />
@@ -239,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="42" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/api/api-config.ts" />
       <jump line="37" column="39" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab1.scala" />
       <jump line="118" column="20" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
       <jump line="32" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/app/setup-root-store.ts" />
@@ -339,6 +338,7 @@
       <jump line="145" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="148" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="180" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
+      <jump line="36" column="12" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,20 +346,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFBsdXNFeHAoZTEsIGUyKSA9PiBmb3IgewogICAgICAgICAgZTFfIDwtIGdvKGJvdW5kVmFycywgZTEpCiAgICAgICAgICBlMl8gPC0gZ28oYm91bmRWYXJzLCBlMikKICAgICAgICB9IHlpZWxkIFBsdXNFeHAoZTFfLCBlMl8pCg==</text>
+      <register name="&quot;" type="4">
+        <text>, rename(from, to, e2)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>IsZeroExp</text>
+        <text>, rename(from, to, e2)</text>
       </register>
       <register name="/" type="4">
         <text>Plus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFBsdXNFeHAoZTEsIGUyKSA9PiBmb3IgewogICAgICAgICAgZTFfIDwtIGdvKGJvdW5kVmFycywgZTEpCiAgICAgICAgICBlMl8gPC0gZ28oYm91bmRWYXJzLCBlMikKICAgICAgICB9IHlpZWxkIFBsdXNFeHAoZTFfLCBlMl8pCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEFwcEV4cChlMSwgZTIpID0+IEFwcEV4cChyZW5hbWUoZnJvbSwgdG8sIGUxKSwgcmVuYW1lKGZyb20sIHRvLCBlMikpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -380,7 +380,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -398,35 +398,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBMZXQK</text>
+        <text encoding="base64">dmFsIERFQlVHOiBCb29sZWFuID0gdHJ1ZQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text>let loop = fix f in
-loop 3</text>
+        <text>1</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJzdGVwOiAkeCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgLyoKICAvLyB0aGlzIGlzIGhvdyB5b3UgYWRkIGEgdGVzdCBjYXNlCiAgdGVzdCgiVGVzdENhc2VMYWIzIDMgQUJDIikgewogICAgLy8gaGVyZSB5b3UgYWRkIHRoZSBzdWIgdGVzdGNhc2VzCiAgfQoKICAvLyB0aGlzIGlzIGhvdyB5b3UgYWRkIGFub3RoZXIgdGVzdCBjYXNlCiAgdGVzdCgiVGVzdENhc2VMYWIzIDQgWFlaIikgewogICAgLy8gaGVyZSB5b3UgYWRkIHRoZSBjb3JyZXNwb25kaW5nIHN1YiB0ZXN0Y2FzZXMKICB9CiAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IG4gPSAzIGluCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0cmVjIGxvb3AgPSA=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBMZXQK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1BsdXMvTHQvZw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
