@@ -141,12 +141,6 @@
         <mark key="^" line="167" column="33" />
         <mark key="." line="238" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/README.md" timestamp="1587626089178">
-        <mark key="[" line="48" column="85" />
-        <mark key="]" line="48" column="98" />
-        <mark key="." line="48" column="97" />
-        <mark key="^" line="48" column="98" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/package.json" timestamp="1587656497607">
         <mark key="'" line="48" column="23" />
         <mark key="[" line="20" column="40" />
@@ -154,12 +148,12 @@
         <mark key="." line="20" column="60" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1587913571515">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1588150576182">
         <mark key="'" line="39" column="12" />
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="39" column="75" />
-        <mark key="^" line="39" column="75" />
-        <mark key="." line="39" column="74" />
+        <mark key="[" line="45" column="72" />
+        <mark key="]" line="45" column="73" />
+        <mark key="." line="45" column="73" />
+        <mark key="^" line="45" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" timestamp="1587655896270">
         <mark key="'" line="23" column="42" />
@@ -187,6 +181,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_1.sint" timestamp="1588150627556">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestInterpreter.scala" timestamp="1587913650107">
         <mark key="'" line="40" column="10" />
         <mark key="[" line="111" column="41" />
@@ -194,12 +194,12 @@
         <mark key="^" line="111" column="47" />
         <mark key="." line="111" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588148202796">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588149867842">
         <mark key="'" line="36" column="12" />
-        <mark key="[" line="202" column="41" />
-        <mark key="]" line="202" column="44" />
-        <mark key="." line="202" column="43" />
-        <mark key="^" line="202" column="44" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint" timestamp="1587914523648">
         <mark key="[" line="1" column="10" />
@@ -207,7 +207,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588147575191">
+      <file name="/Dummy.txt" timestamp="1588148326590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint.step" timestamp="1588147529935">
@@ -218,6 +218,12 @@
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/src/containers/App.js" timestamp="1587653830714">
         <mark key="'" line="33" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_1.sint.fix" timestamp="1588150634924">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/.eslintrc.json" timestamp="1587653070919">
         <mark key="[" line="2" column="38" />
@@ -231,11 +237,6 @@
         <mark key="]" line="20" column="13" />
         <mark key="." line="20" column="12" />
         <mark key="^" line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1587631455208">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -346,20 +347,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, rename(from, to, e2)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci8vIGEgZnVuY3Rpb24KbGV0IGYgPSBceDppbnQuIHggKyA1IGluCgovLyBhIGZ1bmN0aW9uIHVzaW5nIGFuZCByZXBsYWNpbmcgdGhlIGZ1bmN0aW9uIGFib3ZlCmxldCBmID0gXHg6aW50LiAoZiB4KSArIDIgaW4KCmYgMwo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, rename(from, to, e2)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Plus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIEFwcEV4cChlMSwgZTIpID0+IEFwcEV4cChyZW5hbWUoZnJvbSwgdG8sIGUxKSwgcmVuYW1lKGZyb20sIHRvLCBlMikpCg==</text>
+        <text encoding="base64">ICB0ZXN0KCJGb2N1czogZW5kbGVzcyByZWN1cnNpb24gaW4gc3F1YXJlIDMiKSB7CiAgICBmaXhBdXRvVGVzdChuZXcgRmlsZSgic3JjL3Rlc3Qvc2ludC9sYWIyL2ZpeHBvaW50dGVzdHMvY2FzZV8wX3NxdWFyZV8zLnNpbnQiKSkKICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -374,13 +375,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIGEgZnVuY3Rpb24KbGV0IGYgPSBceDppbnQuIHggKyA1IGluCgovLyBhIGZ1bmN0aW9uIHVzaW5nIGFuZCByZXBsYWNpbmcgdGhlIGZ1bmN0aW9uIGFib3ZlCmxldCBmID0gXHg6aW50LiAoZiB4KSArIDIgaW4KCmYgMwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIGEgZnVuY3Rpb24KbGV0IGYgPSBceDppbnQuIHggKyA1IGluCgovLyBhIGZ1bmN0aW9uIHVzaW5nIGFuZCByZXBsYWNpbmcgdGhlIGZ1bmN0aW9uIGFib3ZlCmxldCBmID0gXHg6aW50LiAoZiB4KSArIDIgaW4KCmYgMwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -398,31 +399,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIERFQlVHOiBCb29sZWFuID0gdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text>1</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">dmFsIERFQlVHOiBCb29sZWFuID0gdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>1</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBMZXQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
