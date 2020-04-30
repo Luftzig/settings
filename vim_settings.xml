@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TEST</entry>
         <entry encoding="base64">XDxQbGF5U291bmRNdXNpY1ZvbHVtZVw+</entry>
         <entry encoding="base64">XDxwbGF5U2lyZW5cPg==</entry>
         <entry>project</entry>
@@ -25,6 +24,7 @@
         <entry>resulted</entry>
         <entry>react.gradle</entry>
         <entry>compile</entry>
+        <entry>configurations</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzouKi8sIHRpdGxlID0gIiJ9Lw==</entry>
@@ -134,8 +134,8 @@
         <mark key="^" line="49" column="101" />
         <mark key="." line="49" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1588250716944">
-        <mark key="'" line="69" column="41" />
+      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1588251820691">
+        <mark key="'" line="274" column="9" />
         <mark key="[" line="141" column="55" />
         <mark key="]" line="142" column="4" />
         <mark key="^" line="142" column="4" />
@@ -249,9 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="352" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="167" column="10" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="188" column="6" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="343" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="508" column="15" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
@@ -349,6 +346,9 @@
       <jump line="266" column="12" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/react.gradle" />
       <jump line="69" column="41" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="146" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="9" column="83" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
+      <jump line="274" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,7 +366,7 @@
         <text>com.android.support:appcompat-v7:28.0.0</text>
       </register>
       <register name="/" type="4">
-        <text>compile</text>
+        <text>configurations</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmV4dCB7CiAgICBidWlsZFRvb2xzVmVyc2lvbiA9ICIyOC4wLjMiCiAgICBtaW5TZGtWZXJzaW9uID0gMTYKICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjgKICAgIHRhcmdldFNka1ZlcnNpb24gPSAyOAp9</text>
@@ -446,9 +446,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>compile</last-search>
+      <last-search>configurations</last-search>
       <last-offset />
-      <last-pattern>compile</last-pattern>
+      <last-pattern>configurations</last-pattern>
       <last-replace>Lt</last-replace>
       <last-substitute>Plus</last-substitute>
       <last-dir>1</last-dir>
