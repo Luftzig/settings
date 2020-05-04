@@ -165,12 +165,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588602053746">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588602581119">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="273" column="49" />
-        <mark key="]" line="273" column="50" />
-        <mark key="." line="273" column="49" />
-        <mark key="^" line="273" column="50" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint.step" timestamp="1588147529935">
         <mark key="[" line="0" column="0" />
@@ -360,13 +360,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>}${pretty(e2)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>}${pretty(e2)</text>
       </register>
       <register name="/" type="4">
         <text>).*</text>
