@@ -33,7 +33,6 @@
         <entry>s/hovered/selected/g</entry>
         <entry encoding="base64">JzwsJz5zL3JlbmFtZShmcm9tLCB0bywvZ28oc2NvcGVkSWRzLC9n</entry>
         <entry encoding="base64">JzwsJz5zL1RFU1QvUFJPRC8=</entry>
-        <entry>W</entry>
         <entry>%s/RnDiffApp/sveviaApp/gc</entry>
         <entry>s/IsZero/UMin/g</entry>
         <entry>s/Plus/Lt/g</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHMiIg==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1588603030979">
-        <mark key="'" line="64" column="72" />
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1588605483019">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" timestamp="1588258366082">
         <mark key="'" line="47" column="59" />
@@ -165,12 +165,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588604850067">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588606149358">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="211" column="17" />
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="41" />
+        <mark key="." line="138" column="40" />
+        <mark key="^" line="138" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/settings.gradle" timestamp="1588239667573">
         <mark key="[" line="4" column="0" />
@@ -252,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="47" column="21" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="99" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="89" column="28" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
@@ -352,6 +351,7 @@
       <jump line="465" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="31" column="72" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+      <jump line="8" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -359,20 +359,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzInZhcnMgdG8gcmVuYW1lOiAke3RvUmVuYW1lfSIpCiAgICAgICAgICAgIHByaW50bG4ocyJyZW5hbWVkIGV4cHJlc3Npb246ICR7cmVuYW1lZH0iKQo=</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Some(otherwise)</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>).*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzImZyZWU6ICR7ZnJlZUluVmFsdWV9LCBib3VuZCAke2JvdW5kVmFycyArIGxhbWJkYS5pZH07IHZhcnMgdG8gcmVuYW1lOiAke3RvUmVuYW1lfSIpCiAgICAgICAgICAgIGlmICh0b1JlbmFtZS5ub25FbXB0eSkgcHJpbnRsbihzInJlbmFtZWQgZXhwcmVzc2lvbjogJHtyZW5hbWVkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBWYXJpYWJsZShpZCkgaWYgIWJvdW5kVmFycyhpZCkgPT4gU2V0KGlkKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
