@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>project</entry>
-        <entry>keystore</entry>
         <entry>Bun</entry>
         <entry>BUN</entry>
         <entry>entryFile</entry>
@@ -25,10 +23,10 @@
         <entry>configurations</entry>
         <entry>application</entry>
         <entry>\cfcm</entry>
+        <entry>\(.*</entry>
+        <entry>(.*</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzouKi8sIHRpdGxlID0gIiJ9Lw==</entry>
-        <entry encoding="base64">JzwsJz5zLygveyBuYW1lID0gLw==</entry>
         <entry encoding="base64">JzwsJz5zL3sgd2F2ZTUuKi9jb2xvciA9IENvbG9yLmxpZ2h0Qmx1ZSB9Lw==</entry>
         <entry encoding="base64">JzwsJz5zL0dQL0dNL2c=</entry>
         <entry encoding="base64">JzwsJz53dg==</entry>
@@ -47,6 +45,8 @@
         <entry>s/Plus/Lt/g</entry>
         <entry encoding="base64">JzwsJz5zL1BsdXMvTHQvZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1woLiovID0+IE5vbmU=</entry>
+        <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,9 +128,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" timestamp="1587909883855">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="49" column="101" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" timestamp="1588578617973">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="32" column="38" />
         <mark key="^" line="49" column="101" />
         <mark key="." line="49" column="100" />
       </file>
@@ -200,12 +200,12 @@
         <mark key="^" line="111" column="47" />
         <mark key="." line="111" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588151505818">
-        <mark key="'" line="23" column="44" />
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="180" column="98" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588578716264">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint" timestamp="1587914523648">
         <mark key="[" line="1" column="10" />
@@ -213,7 +213,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588257173406">
+      <file name="/Dummy.txt" timestamp="1588258566739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint.step" timestamp="1588147529935">
@@ -254,8 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="22" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
-      <jump line="482" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="490" column="34" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/stores/timer-store.ts" />
       <jump line="53" column="6" filename="$USER_HOME$/Projects/svevia-inkopsappen/.flowconfig" />
       <jump line="73" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/.flowconfig" />
@@ -354,6 +352,8 @@
       <jump line="58" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
       <jump line="46" column="30" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
       <jump line="47" column="59" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
+      <jump line="25" column="42" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -361,20 +361,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>com.evollu.react.fcm.InstanceIdService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>com.evollu.react.fcm.InstanceIdService</text>
+        <text encoding="base64">IGV4dGVuZHMgQVNU</text>
       </register>
       <register name="/" type="4">
-        <text>\cfcm</text>
+        <text>(.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZXMuYWRkKG5ldyBSZWFjdE5hdGl2ZUZpcmViYXNlQXBwUGFja2FnZSgpKTsK</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBWYXJpYWJsZShpZDogU3RyaW5nKSBleHRlbmRzIEFTVApjYXNlIGNsYXNzIEJvb2xMaXQoYjogQm9vbGVhbikgZXh0ZW5kcyBBU1QKY2FzZSBjbGFzcyBJbnRMaXQoaTogSW50KSBleHRlbmRzIEFTVAoKY2FzZSBjbGFzcyBDb25kRXhwKGM6IEFTVCwgZTE6IEFTVCwgZTI6IEFTVCkgZXh0ZW5kcyBBU1QKY2FzZSBjbGFzcyBJc1plcm9FeHAoZTogQVNUKSBleHRlbmRzIEFTVApjYXNlIGNsYXNzIFBsdXNFeHAoZTE6IEFTVCwgZTI6IEFTVCkgZXh0ZW5kcyBBU1QKY2FzZSBjbGFzcyBMdEV4cChlMTogQVNULCBlMjogQVNUKSBleHRlbmRzIEFTVApjYXNlIGNsYXNzIFVNaW5FeHAoZTogQVNUKSBleHRlbmRzIEFTVCAvLyB1bmFyeSBtaW51cwoKY2FzZSBjbGFzcyBMYW1FeHAoaWQ6IFN0cmluZywgdHk6IEFTVFRZLCBlOiBBU1QpIGV4dGVuZHMgQVNUCmNhc2UgY2xhc3MgQXBwRXhwKGUxOiBBU1QsIGUyOiBBU1QpIGV4dGVuZHMgQVNUCmNhc2UgY2xhc3MgTGV0RXhwKGlkOiBTdHJpbmcsIGUxOiBBU1QsIGUyOiBBU1QpIGV4dGVuZHMgQVNUCmNhc2UgY2xhc3MgRml4QXBwRXhwKGU6IEFTVCkgZXh0ZW5kcyBBU1QKCmNhc2UgY2xhc3MgVHVwbGVFeHAoZWw6IExpc3RbQVNUXSkgZXh0ZW5kcyBBU1QKY2FzZSBjbGFzcyBQcm9qVHVwbGVFeHAoZTogQVNULCBpOiBJbnQpIGV4dGVuZHMgQVNUCmNhc2UgY2xhc3MgUmVjb3JkRXhwKGVtOiBNYXBbU3RyaW5nLCBBU1RdKSBleHRlbmRzIEFTVApjYXNlIGNsYXNzIFByb2pSZWNvcmRFeHAoZTogQVNULCBsOiBTdHJpbmcpIGV4dGVuZHMgQVNUCgpjYXNlIGNsYXNzIE5pbEV4cCh0eTogQVNUVFkpIGV4dGVuZHMgQVNUCmNhc2UgY2xhc3MgQ29uc0V4cChlaDogQVNULCBldDogQVNUKSBleHRlbmRzIEFTVApjYXNlIGNsYXNzIElzTmlsRXhwKGU6IEFTVCkgZXh0ZW5kcyBBU1QKY2FzZSBjbGFzcyBIZWFkRXhwKGU6IEFTVCkgZXh0ZW5kcyBBU1QKY2FzZSBjbGFzcyBUYWlsRXhwKGU6IEFTVCkgZXh0ZW5kcyBBU1QK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -395,7 +395,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -421,41 +421,36 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKICAgICAgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIApjbGFzcyAKICAgICAgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIAogICAgICAKY2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCiAgICAgIApjbGFzcyAKY2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3Mg</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text>ext {
-    buildToolsVersion = &quot;28.0.3&quot;
-    minSdkVersion = 16
-    compileSdkVersion = 28
-    targetSdkVersion = 28
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjgKICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI4LjAuMyIKICAgIG1pblNka1ZlcnNpb24gPSAxNgogICAgdGFyZ2V0U2RrVmVyc2lvbiA9IDI4Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5jb250ZW50LkxvY2FsQnJvYWRjYXN0TWFuYWdlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\cfcm</last-search>
+      <last-search>(.*</last-search>
       <last-offset />
-      <last-pattern>\cfcm</last-pattern>
-      <last-replace>Lt</last-replace>
-      <last-substitute>Plus</last-substitute>
+      <last-pattern>(.*</last-pattern>
+      <last-replace encoding="base64">ID0+IE5vbmU=</last-replace>
+      <last-substitute>(.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
