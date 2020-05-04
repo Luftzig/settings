@@ -135,6 +135,11 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_3_factorial_0_copy.sint" timestamp="1588595102423">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1588257288980">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="141" column="55" />
@@ -148,23 +153,22 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_3_factorial_0.sint" timestamp="1588594997853">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_0_loop.sint" timestamp="1587914015890">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_0_loop.sint.fix" timestamp="1587912722769">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588583602704">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588594881881">
         <mark key="'" line="25" column="24" />
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="31" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint.step" timestamp="1588147529935">
@@ -195,12 +199,12 @@
         <mark key="^" line="49" column="101" />
         <mark key="." line="49" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1588583360504">
-        <mark key="'" line="50" column="52" />
-        <mark key="[" line="61" column="47" />
-        <mark key="]" line="61" column="54" />
-        <mark key="." line="61" column="53" />
-        <mark key="^" line="61" column="54" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1588595053925">
+        <mark key="'" line="53" column="52" />
+        <mark key="[" line="49" column="77" />
+        <mark key="]" line="49" column="82" />
+        <mark key="." line="49" column="81" />
+        <mark key="^" line="49" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" timestamp="1588248896138">
         <mark key="'" line="27" column="8" />
@@ -221,13 +225,6 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestInterpreter.scala" timestamp="1587913650107">
-        <mark key="'" line="40" column="10" />
-        <mark key="[" line="111" column="41" />
-        <mark key="]" line="111" column="47" />
-        <mark key="^" line="111" column="47" />
-        <mark key="." line="111" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/steptests/letSimple.sint" timestamp="1587914523648">
         <mark key="[" line="1" column="10" />
@@ -361,19 +358,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>letin_0</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>letin_0</text>
       </register>
       <register name="/" type="4">
         <text>(.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCJGcmVlIHZhcnMiKSB7CiAgICBsb2FkQXN0KCJzcmMvdGVzdC9zaW50L2xhYjIvZXh0cmFzL2ZyZWVfdmFyc18wLnNpbnQiKSBtYXAgewogICAgICBJbnRlcnByZXRlci5mcmVlVmFyc09mKFNldCgpLCBfKQogICAgfSBtYXAgewogICAgICBhc3NlcnRSZXN1bHQoU2V0KCJ6IiksICJFeHBlY3RpbmcgJ3onIHRvIGJlIGZyZWUiKShfKQogICAgfQogIH0K</text>
+        <text encoding="base64">Ly8gIHRlc3QoIkZvY3VzOiBsZXQtaW4iKSB7Ci8vICAgIGZpeEF1dG9UZXN0KG5ldyBGaWxlKCJzcmMvdGVzdC9zaW50L2xhYjIvZml4cG9pbnR0ZXN0cy9jYXNlXzJfbGV0aW5fMC5zaW50IikpCi8vICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -388,13 +385,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBSaWdodChhc3QpID0+IEludGVyCg==</text>
+        <text encoding="base64">ICBkZWYgZm9sZGxbQV0oZjogKEEsIEFTVCkgPT4gQSwgejogQSwgdDogQVNUKTogQSA9CiAgICB0IG1hdGNoIHsKICAgICAgY2FzZSB0OiBWYXJpYWJsZSA9PiBmKHosIHQpCiAgICAgIGNhc2UgdDogQm9vbExpdCA9PiBmKHosIHQpCiAgICAgIGNhc2UgdDogSW50TGl0ID0+IGYoeiwgdCkKICAgICAgY2FzZSB0OiBDb25kRXhwID0+IHsKICAgICAgICB2YWwgdF8gPSBmKHosIHQpCiAgICAgICAgdmFsIGMgPSBmb2xkbChmLCB0XywgdC5jKQovLyAgICAgICAgdmFsIGNvbmQgPSBmb2xkbChmLCB6LCB0LmMpCi8vICAgICAgICB2YWwgZTEgPSBmb2xkbChmLCBjb25kLCB0LmUxKQovLyAgICAgICAgdmFsIGUyID0gZm9sZGwoZiwgZTEsIHQuZTIpCi8vICAgICAgICBmKGUyLCB0KQogICAgICB9CiAgICAgIGNhc2UgdDogSXNaZXJvRXhwID0+IGYoKGZvbGRsKGYsIHosIHQuZSkpLCB0KQogICAgICBjYXNlIHQ6IFBsdXNFeHAgPT4gTm9uZQogICAgICBjYXNlIHQ6IEx0RXhwID0+IE5vbmUKICAgICAgY2FzZSB0OiBVTWluRXhwID0+IE5vbmUKICAgICAgY2FzZSB0OiBMYW1FeHAgPT4gTm9uZQogICAgICBjYXNlIHQ6IEFwcEV4cCA9PiBOb25lCiAgICAgIGNhc2UgdDogTGV0RXhwID0+IE5vbmUKICAgICAgY2FzZSB0OiBGaXhBcHBFeHAgPT4gTm9uZQogICAgICBjYXNlIHQ6IFR1cGxlRXhwID0+IE5vbmUKICAgICAgY2FzZSB0OiBQcm9qVHVwbGVFeHAgPT4gTm9uZQogICAgICBjYXNlIHQ6IFJlY29yZEV4cCA9PiBOb25lCiAgICAgIGNhc2UgdDogUHJvalJlY29yZEV4cCA9PiBOb25lCiAgICAgIGNhc2UgdDogTmlsRXhwID0+IE5vbmUKICAgICAgY2FzZSB0OiBDb25zRXhwID0+IE5vbmUKICAgICAgY2FzZSB0OiBJc05pbEV4cCA9PiBOb25lCiAgICAgIGNhc2UgdDogSGVhZEV4cCA9PiBOb25lCiAgICAgIGNhc2UgdDogVGFpbEV4cCA9PiBOb25lCiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -418,16 +415,16 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBSaWdodChhc3QpID0+IEludGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,8 +432,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKICAgICAgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIApjbGFzcyAKICAgICAgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIAogICAgICAKY2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCiAgICAgIApjbGFzcyAKY2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3Mg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
