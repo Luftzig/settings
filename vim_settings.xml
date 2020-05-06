@@ -154,12 +154,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588777804975">
-        <mark key="'" line="312" column="13" />
-        <mark key="[" line="271" column="70" />
-        <mark key="]" line="271" column="79" />
-        <mark key="." line="271" column="78" />
-        <mark key="^" line="271" column="79" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588778626864">
+        <mark key="'" line="272" column="40" />
+        <mark key="[" line="272" column="112" />
+        <mark key="]" line="272" column="118" />
+        <mark key="." line="272" column="117" />
+        <mark key="^" line="272" column="118" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1588759302470">
         <mark key="a" line="1756" column="10" />
@@ -240,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" />
       <jump line="27" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="239" column="31" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
@@ -340,6 +339,7 @@
       <jump line="86" column="4" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="85" column="26" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="17" column="2" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
+      <jump line="272" column="40" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,13 +348,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>flatMap</text>
+        <text>e</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>flatMap</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>List t</text>
@@ -377,13 +377,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -401,31 +401,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFR1cGxlRXhwKGVsKSA9PiBUdXBsZUV4cChlbCBtYXAge3JlbmFtZUFsbCh1c2VkTmFtZXMsIF8pfSkKICAgICAgICBjYXNlIFByb2pUdXBsZUV4cChlLCBpKSA9PiBQcm9qVHVwbGVFeHAocmVuYW1lQWxsKHVzZWROYW1lcywgZSksIGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIAo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFR1cGxlRXhwKGVsKSA9PiBUdXBsZUV4cChlbCBtYXAge3JlbmFtZUFsbCh1c2VkTmFtZXMsIF8pfSkKICAgICAgICBjYXNlIFByb2pUdXBsZUV4cChlLCBpKSA9PiBQcm9qVHVwbGVFeHAocmVuYW1lQWxsKHVzZWROYW1lcywgZSksIGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uQWJzdHJhY3RJdGVyYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVmIHByZXR0eSh4OiBBU1QsIGRlcHRoOiBJbnQgPSAwKTogU3RyaW5nID0gewogICAgdmFsIGluZCA9ICIgICIgKiBkZXB0aAogICAgeCBtYXRjaCB7CiAgICAgIGNhc2UgVmFyaWFibGUoaWQ6IFN0cmluZykgPT4gcyIkaWQiCiAgICAgIGNhc2UgQm9vbExpdChiOiBCb29sZWFuKSA9PiBzIiRiIgogICAgICBjYXNlIEludExpdChpOiBJbnQpID0+IHMiJGkiCgogICAgICBjYXNlIENvbmRFeHAoYzogQVNULCBlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfWlmICR7cHJldHR5KGMsIDAgKyAxKX0gdGhlblxuJHtpbmQgKyAiICAifSR7cHJldHR5KGUxKX1cbiR7aW5kfWVsc2VcbiR7aW5kICsgIiAgIn0ke3ByZXR0eShlMil9XG4iCiAgICAgIGNhc2UgSXNaZXJvRXhwKGU6IEFTVCkgPT4gcyIke2luZH1pc3plcm8gJHtwcmV0dHkoZSwgMCl9IgogICAgICBjYXNlIFBsdXNFeHAoZTE6IEFTVCwgZTI6IEFTVCkgPT4gcyIke2luZH0ke3ByZXR0eShlMSl9ICsgJHtwcmV0dHkoZTIpfSIKICAgICAgY2FzZSBMdEV4cChlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfSR7cHJldHR5KGUxKX0gPCAke3ByZXR0eShlMil9IgogICAgICBjYXNlIFVNaW5FeHAoZTogQVNUKSA9PiBzIi0ke3ByZXR0eShlKX0iCgogICAgICBjYXNlIExhbUV4cChpZDogU3RyaW5nLCB0eTogQVNUVFksIGU6IEFTVCkgPT4gcyIke2luZH1cXCRpZDogJHt0eX0gLlxuJHtwcmV0dHkoZSwgZGVwdGggKyAxKX0iCiAgICAgIGNhc2UgQXBwRXhwKGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9KCAke3ByZXR0eShlMSl9ICkgKCAke3ByZXR0eShlMil9ICkiCiAgICAgIGNhc2UgTGV0RXhwKGlkOiBTdHJpbmcsIGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9bGV0ICR7aWR9ID0gJHtwcmV0dHkoZTEpfSBpblxuJHtwcmV0dHkoZTIsIGRlcHRoKX0iCiAgICAgIGNhc2UgRml4QXBwRXhwKGU6IEFTVCkgPT4gcyJmaXggJHtwcmV0dHkoZSl9IgoKICAgICAgY2FzZSBUdXBsZUV4cChlbDogTGlzdFtBU1RdKSA9PiBzIiIKICAgICAgY2FzZSBQcm9qVHVwbGVFeHAoZTogQVNULCBpOiBJbnQpID0+IHMiIgogICAgICBjYXNlIFJlY29yZEV4cChlbTogTWFwW1N0cmluZywgQVNUXSkgPT4gcyIiCiAgICAgIGNhc2UgUHJvalJlY29yZEV4cChlOiBBU1QsIGw6IFN0cmluZykgPT4gcyIiCgogICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHMiIgogICAgICBjYXNlIENvbnNFeHAoZWg6IEFTVCwgZXQ6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgSXNOaWxFeHAoZTogQVNUKSA9PiBzIiIKICAgICAgY2FzZSBIZWFkRXhwKGU6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgVGFpbEV4cChlOiBBU1QpID0+IHMiIgogICAgfQogIH0K</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uQWJzdHJhY3RJdGVyYWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIF0K</text>
+        <text encoding="base64">CiAgZGVmIHByZXR0eSh4OiBBU1QsIGRlcHRoOiBJbnQgPSAwKTogU3RyaW5nID0gewogICAgdmFsIGluZCA9ICIgICIgKiBkZXB0aAogICAgeCBtYXRjaCB7CiAgICAgIGNhc2UgVmFyaWFibGUoaWQ6IFN0cmluZykgPT4gcyIkaWQiCiAgICAgIGNhc2UgQm9vbExpdChiOiBCb29sZWFuKSA9PiBzIiRiIgogICAgICBjYXNlIEludExpdChpOiBJbnQpID0+IHMiJGkiCgogICAgICBjYXNlIENvbmRFeHAoYzogQVNULCBlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfWlmICR7cHJldHR5KGMsIDAgKyAxKX0gdGhlblxuJHtpbmQgKyAiICAifSR7cHJldHR5KGUxKX1cbiR7aW5kfWVsc2VcbiR7aW5kICsgIiAgIn0ke3ByZXR0eShlMil9XG4iCiAgICAgIGNhc2UgSXNaZXJvRXhwKGU6IEFTVCkgPT4gcyIke2luZH1pc3plcm8gJHtwcmV0dHkoZSwgMCl9IgogICAgICBjYXNlIFBsdXNFeHAoZTE6IEFTVCwgZTI6IEFTVCkgPT4gcyIke2luZH0ke3ByZXR0eShlMSl9ICsgJHtwcmV0dHkoZTIpfSIKICAgICAgY2FzZSBMdEV4cChlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfSR7cHJldHR5KGUxKX0gPCAke3ByZXR0eShlMil9IgogICAgICBjYXNlIFVNaW5FeHAoZTogQVNUKSA9PiBzIi0ke3ByZXR0eShlKX0iCgogICAgICBjYXNlIExhbUV4cChpZDogU3RyaW5nLCB0eTogQVNUVFksIGU6IEFTVCkgPT4gcyIke2luZH1cXCRpZDogJHt0eX0gLlxuJHtwcmV0dHkoZSwgZGVwdGggKyAxKX0iCiAgICAgIGNhc2UgQXBwRXhwKGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9KCAke3ByZXR0eShlMSl9ICkgKCAke3ByZXR0eShlMil9ICkiCiAgICAgIGNhc2UgTGV0RXhwKGlkOiBTdHJpbmcsIGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9bGV0ICR7aWR9ID0gJHtwcmV0dHkoZTEpfSBpblxuJHtwcmV0dHkoZTIsIGRlcHRoKX0iCiAgICAgIGNhc2UgRml4QXBwRXhwKGU6IEFTVCkgPT4gcyJmaXggJHtwcmV0dHkoZSl9IgoKICAgICAgY2FzZSBUdXBsZUV4cChlbDogTGlzdFtBU1RdKSA9PiBzIiIKICAgICAgY2FzZSBQcm9qVHVwbGVFeHAoZTogQVNULCBpOiBJbnQpID0+IHMiIgogICAgICBjYXNlIFJlY29yZEV4cChlbTogTWFwW1N0cmluZywgQVNUXSkgPT4gcyIiCiAgICAgIGNhc2UgUHJvalJlY29yZEV4cChlOiBBU1QsIGw6IFN0cmluZykgPT4gcyIiCgogICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHMiIgogICAgICBjYXNlIENvbnNFeHAoZWg6IEFTVCwgZXQ6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgSXNOaWxFeHAoZTogQVNUKSA9PiBzIiIKICAgICAgY2FzZSBIZWFkRXhwKGU6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgVGFpbEV4cChlOiBBU1QpID0+IHMiIgogICAgfQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVHVwbGVUeSA9PiAK</text>
+        <text encoding="base64">ICAgICAgICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVHVwbGVUeSA9PiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
