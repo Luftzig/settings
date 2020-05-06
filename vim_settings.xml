@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>resulted</entry>
         <entry>react.gradle</entry>
         <entry>compile</entry>
         <entry>configurations</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxuXD4=</entry>
         <entry>).*</entry>
         <entry>throw new Exception(s&quot;Not implemented: $x&quot;)</entry>
+        <entry>List t</entry>
       </history-search>
       <history-cmd>
         <entry>%s/RnDiffApp/sveviaApp/gc</entry>
@@ -197,12 +197,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1588773283958">
-        <mark key="'" line="82" column="67" />
-        <mark key="[" line="82" column="82" />
-        <mark key="]" line="82" column="87" />
-        <mark key="." line="82" column="86" />
-        <mark key="^" line="82" column="87" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1588776618001">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="86" column="53" />
+        <mark key="]" line="86" column="61" />
+        <mark key="." line="86" column="60" />
+        <mark key="^" line="86" column="61" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.txt" timestamp="1588752413733">
         <mark key="'" line="0" column="0" />
@@ -226,12 +226,12 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" timestamp="1588775844260">
-        <mark key="'" line="110" column="31" />
-        <mark key="[" line="112" column="44" />
-        <mark key="]" line="112" column="52" />
-        <mark key="." line="112" column="51" />
-        <mark key="^" line="112" column="52" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" timestamp="1588776504132">
+        <mark key="'" line="111" column="33" />
+        <mark key="[" line="107" column="48" />
+        <mark key="]" line="107" column="50" />
+        <mark key="." line="107" column="49" />
+        <mark key="^" line="107" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/extras/free_vars_0.sint" timestamp="1588583262912">
         <mark key="[" line="0" column="30" />
@@ -241,15 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="44" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
-      <jump line="41" column="39" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" />
-      <jump line="11" column="37" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" />
-      <jump line="133" column="26" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" />
-      <jump line="257" column="61" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="273" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="5" column="7" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="13" column="23" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" />
       <jump line="27" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
@@ -341,6 +332,15 @@
       <jump line="46" column="11" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" />
       <jump line="100" column="32" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
       <jump line="110" column="31" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="108" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="107" column="58" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="120" column="50" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="106" column="39" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="19" column="82" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="111" column="33" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="86" column="4" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
+      <jump line="85" column="26" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
+      <jump line="17" column="2" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,19 +349,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>errUnknownAST(x)</text>
+        <text>recordMemberUntyped</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>errUnknownAST(x)</text>
+        <text>recordMemberUntyped</text>
       </register>
       <register name="/" type="4">
-        <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
+        <text>List t</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cCA9PiBpc1ZhbHVlKHAuXzIp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2luZ2xlQXV0b1Rlc3QoZmlsZSkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -433,9 +433,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>throw new Exception(s&quot;Not implemented: $x&quot;)</last-search>
+      <last-search>List t</last-search>
       <last-offset />
-      <last-pattern>throw new Exception(s&quot;Not implemented: $x&quot;)</last-pattern>
+      <last-pattern>List t</last-pattern>
       <last-replace>errUnknownAST(x)</last-replace>
       <last-substitute>throw new Exception(s&quot;Not implemented: $x&quot;)</last-substitute>
       <last-dir>1</last-dir>
