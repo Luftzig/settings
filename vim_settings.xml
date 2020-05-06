@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>use_</entry>
         <entry>enablePro</entry>
         <entry>jsc</entry>
         <entry>IsZero</entry>
@@ -25,6 +24,7 @@
         <entry>)</entry>
         <entry>,</entry>
         <entry>).*</entry>
+        <entry>step into FixApp</entry>
       </history-search>
       <history-cmd>
         <entry>s/Proposition/Motion/g</entry>
@@ -172,18 +172,14 @@
         <mark key="." line="138" column="40" />
         <mark key="^" line="138" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/settings.gradle" timestamp="1588239667573">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="140" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_1.sint.fix" timestamp="1588150634924">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1588750853134">
+        <mark key="'" line="1430" column="14" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+        <mark key="]" line="4694" column="0" />
+        <mark key="^" line="4694" column="0" />
+        <mark key="." line="4693" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1588748879345">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1588750280125">
         <mark key="'" line="1726" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1736" column="0" />
@@ -223,6 +219,11 @@
         <mark key="^" line="304" column="40" />
         <mark key="." line="304" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.txt" timestamp="1588750938828">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_3.sint" timestamp="1588603263105">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="26" />
@@ -253,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="2" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="89" column="28" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="81" column="15" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
       <jump line="87" column="25" filename="$USER_HOME$/Projects/svevia-inkopsappen/ios/Podfile" />
@@ -353,6 +353,7 @@
       <jump line="31" column="72" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="8" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="1726" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="1430" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -360,17 +361,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">zrItcmVkdWNlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>).*</text>
+        <text>step into FixApp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0ZXN0KCJGb2N1czogZmFjdG9yaWFsIikgewogICAgSW50ZXJwcmV0ZXIuREVCVUcgPSB0cnVlCiAgICBmaXhBdXRvVGVzdChuZXcgRmlsZSgic3JjL3Rlc3Qvc2ludC9sYWIyL2ZpeHBvaW50dGVzdHMvY2FzZV8zX2ZhY3RvcmlhbF8wX2NvcHkuc2ludCIpKQogICAgSW50ZXJwcmV0ZXIuREVCVUcgPSBmYWxzZQogIH0K</text>
@@ -388,13 +389,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzInZhcnMgdG8gcmVuYW1lOiAke3RvUmVuYW1lfSIpCiAgICAgICAgICAgIHByaW50bG4ocyJyZW5hbWVkIGV4cHJlc3Npb246ICR7cmVuYW1lZH0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzInZhcnMgdG8gcmVuYW1lOiAke3RvUmVuYW1lfSIpCiAgICAgICAgICAgIHByaW50bG4ocyJyZW5hbWVkIGV4cHJlc3Npb246ICR7cmVuYW1lZH0iKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -412,31 +413,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50bG4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIHR5cGVPZih4OiBBU1QpOiBPcHRpb25bQVNUVFldID0geCBtYXRjaCB7CiAgICBjYXNlIEJvb2xMaXQoXykgPT4gU29tZShCb29sVHkpCiAgICBjYXNlIEludExpdChfKSA9PiBTb21lKEludFR5KQogICAgY2FzZSBMYW1FeHAoaWQsIHR5LCBlKSA9PiBTb21lKEFycm93VHkodHksIE5ldmVyVHlwZSkpCiAgICBjYXNlIF8gPT4gTm9uZQogIH0KCiAgZGVmIHR5cGVzTWF0Y2godDE6IEFTVFRZLCB0MjogQVNUVFkpID0gdDEgPT0gdDIK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEludGVycHJldGVyCg==</text>
+        <text encoding="base64">CiAgZGVmIHR5cGVPZih4OiBBU1QpOiBPcHRpb25bQVNUVFldID0geCBtYXRjaCB7CiAgICBjYXNlIEJvb2xMaXQoXykgPT4gU29tZShCb29sVHkpCiAgICBjYXNlIEludExpdChfKSA9PiBTb21lKEludFR5KQogICAgY2FzZSBMYW1FeHAoaWQsIHR5LCBlKSA9PiBTb21lKEFycm93VHkodHksIE5ldmVyVHlwZSkpCiAgICBjYXNlIF8gPT4gTm9uZQogIH0KCiAgZGVmIHR5cGVzTWF0Y2godDE6IEFTVFRZLCB0MjogQVNUVFkpID0gdDEgPT0gdDIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGFuZCA9IFx4OmJvb2wuIFx5OmJvb2wuIGlmIHggdGhlbiB5IGVsc2UgZmFsc2UgaW4KbGV0IG5vdCA9IFx4OmJvb2wuIGlmIHggdGhlbiBmYWxzZSBlbHNlIHRydWUgaW4KbGV0IGlzemVybyA9IFx4OmludC4gYW5kICh4IDwgMSkgKG5vdCAoeCA8IDApKSBpbgphbmQgKGlzemVybyAwKSAobm90IGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIEludGVycHJldGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IHggPSAxIGluCmxldCB4ID0gMiBpbgp4Cg==</text>
+        <text encoding="base64">bGV0IGFuZCA9IFx4OmJvb2wuIFx5OmJvb2wuIGlmIHggdGhlbiB5IGVsc2UgZmFsc2UgaW4KbGV0IG5vdCA9IFx4OmJvb2wuIGlmIHggdGhlbiBmYWxzZSBlbHNlIHRydWUgaW4KbGV0IGlzemVybyA9IFx4OmludC4gYW5kICh4IDwgMSkgKG5vdCAoeCA8IDApKSBpbgphbmQgKGlzemVybyAwKSAobm90IGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHggPSAxIGluCmxldCB4ID0gMiBpbgp4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -445,9 +446,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>).*</last-search>
+      <last-search>step into FixApp</last-search>
       <last-offset />
-      <last-pattern>).*</last-pattern>
+      <last-pattern>step into FixApp</last-pattern>
       <last-replace encoding="base64">KSA9PiBzIiI=</last-replace>
       <last-substitute>).*</last-substitute>
       <last-dir>1</last-dir>
