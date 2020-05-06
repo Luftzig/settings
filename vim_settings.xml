@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Plus</entry>
         <entry>resulted</entry>
         <entry>react.gradle</entry>
         <entry>compile</entry>
@@ -19,17 +18,15 @@
         <entry>CondExp(IntLi</entry>
         <entry>)</entry>
         <entry>,</entry>
-        <entry>).*</entry>
         <entry>(</entry>
         <entry>Step into FixApp</entry>
         <entry>step into FixApp</entry>
         <entry>n</entry>
         <entry encoding="base64">XDxuXD4=</entry>
+        <entry>).*</entry>
+        <entry>throw new Exception(s&quot;Not implemented: $x&quot;)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2hvdmVyZWQvY3VycmVudFJlcC9n</entry>
-        <entry>s/hovered/selected/g</entry>
-        <entry encoding="base64">JzwsJz5zL3JlbmFtZShmcm9tLCB0bywvZ28oc2NvcGVkSWRzLC9n</entry>
         <entry encoding="base64">JzwsJz5zL1RFU1QvUFJPRC8=</entry>
         <entry>%s/RnDiffApp/sveviaApp/gc</entry>
         <entry>s/IsZero/UMin/g</entry>
@@ -44,9 +41,12 @@
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHMiIg==</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>s/(/(\n/g</entry>
         <entry>s/(/(\r/g</entry>
+        <entry encoding="base64">JzwsJz5zLykuKi8pID0+IE5ldmVyVHlwZQ==</entry>
+        <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4Iik=</entry>
+        <entry encoding="base64">JzwsJz5zL3Rocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikvZXJyVW5rbm93bkFTVCh4KQ==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -181,10 +181,9 @@
         <mark key="^" line="1736" column="0" />
         <mark key="." line="1735" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/configservice/ConfigServiceModule.java" timestamp="1588246470193">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Downloads/lab2-template/src/main/scala/simpret/parser/AST.scala" timestamp="1588761639575">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="32" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" timestamp="1588601349375">
         <mark key="'" line="0" column="0" />
@@ -207,13 +206,6 @@
         <mark key="." line="61" column="77" />
         <mark key="^" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" timestamp="1588248896138">
-        <mark key="'" line="27" column="8" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/react.gradle" timestamp="1588257054768">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="303" column="33" />
@@ -234,7 +226,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588258566739">
+      <file name="/Dummy.txt" timestamp="1588761499682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_3.sint.fix" timestamp="1588603305737">
@@ -242,6 +234,13 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" timestamp="1588762475641">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/java/com/sveviaapp/MainApplication.java" timestamp="1588257898964">
         <mark key="'" line="38" column="0" />
@@ -258,9 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="49" column="60" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
-      <jump line="84" column="11" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="14" column="14" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="67" column="15" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestInterpreter.scala" />
       <jump line="19" column="57" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
@@ -358,6 +354,9 @@
       <jump line="52" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="108" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="1654" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
+      <jump line="7" column="40" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="25" column="48" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,20 +364,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBDb25kRXhwKGM6IEFTVCwgZTE6IEFTVCwgZTI6IEFTVCkgaWYgY2hlY2soYywgZW52KSAhPSBCb29sVHkgPT4K</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGVyckV4cGVjdGVkVHlwZShzIiR7Qm9vbFR5fSIsIHgp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuXD4=</text>
+        <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCJGb2N1czogZmFjdG9yaWFsIikgewogICAgSW50ZXJwcmV0ZXIuREVCVUcgPSB0cnVlCiAgICBmaXhBdXRvVGVzdChuZXcgRmlsZSgic3JjL3Rlc3Qvc2ludC9sYWIyL2ZpeHBvaW50dGVzdHMvY2FzZV8zX2ZhY3RvcmlhbF8wX2NvcHkuc2ludCIpKQogICAgSW50ZXJwcmV0ZXIuREVCVUcgPSBmYWxzZQogIH0K</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25kRXhwKGM6IEFTVCwgZTE6IEFTVCwgZTI6IEFTVCkgaWYgY2hlY2soYywgZW52KSA9PSBCb29sVHkgJiYgY2hlY2soZTEsIGVudikgIT0gY2hlY2soZTIsIGVudikgPT4gZXJyQnJhbmNoKGNoZWNrKGUxLCBlbnYpLCBjaGVjayhlMiwgZW52KSwgeCkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -393,13 +392,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KFxuOiBJbnRUeSAuCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25kRXhwKGM6IEFTVCwgZTE6IEFTVCwgZTI6IEFTVCkgaWYgY2hlY2soYywgZW52KSAhPSBCb29sVHkgPT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBDb25kRXhwKGM6IEFTVCwgZTE6IEFTVCwgZTI6IEFTVCkgaWYgY2hlY2soYywgZW52KSA9PSBCb29sVHkgJiYgY2hlY2soZTEsIGVudikgIT0gY2hlY2soZTIsIGVudikgPT4gCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -416,45 +415,45 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKICAgICAgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIApjbGFzcyAKICAgICAgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIAogICAgICAKY2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCiAgICAgIApjbGFzcyAKY2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3Mg</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KEZpeEFwcEV4cChMYW1FeHAoZmN0LEFycm93VHkoSW50VHksSW50VHkpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">zrItcmVkdWNlICjOu2ZjdC4gCg==</text>
+        <text encoding="base64">ICAgIE5ldmVyVHlwZQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKM67ZmN0LiBMYW1FeHAobixJbnRUeSxDb25kRXhwKEFwcEV4cChMYW1FeHAoeCxJbnRUeSxBcHBFeHAoQXBwRXhwKExhbUV4cCh4MSxCb29sVHksTGFtRXhwKHksQm9vbFR5LENvbmRFeHAoVmFyaWFibGUoeDEpLFZhcmlhYmxlKHkpLEJvb2xMaXQoZmFsc2UpKSkpLEx0RXhwKFZhcmlhYmxlKHgpLEludExpdCgxKSkpLEFwcEV4cChMYW1FeHAoeDEsQm9vbFR5LENvbmRFeHAoVmFyaWFibGUoeDEpLEJvb2xMaXQoZmFsc2UpLEJvb2xMaXQodHJ1ZSkpKSxMdEV4cChWYXJpYWJsZSh4KSxJbnRMaXQoMCkpKSkpLFZhcmlhYmxlKG4pKSxJbnRMaXQoMSksQXBwRXhwKEFwcEV4cChMYW1FeHAoeCxJbnRUeSxMYW1FeHAoeSxJbnRUeSxDb25kRXhwKEFwcEV4cChMYW1FeHAoeDEsSW50VHksQXBwRXhwKEFwcEV4cChMYW1FeHAoeDIsQm9vbFR5LExhbUV4cCh5MSxCb29sVHksQ29uZEV4cChWYXJpYWJsZSh4MiksVmFyaWFibGUoeTEpLEJvb2xMaXQoZmFsc2UpKSkpLEx0RXhwKFZhcmlhYmxlKHgxKSxJbnRMaXQoMSkpKSxBcHBFeHAoTGFtRXhwKHgyLEJvb2xUeSxDb25kRXhwKFZhcmlhYmxlKHgyKSxCb29sTGl0KGZhbHNlKSxCb29sTGl0KHRydWUpKSksTHRFeHAoVmFyaWFibGUoeDEpLEludExpdCgwKSkpKSksVmFyaWFibGUoeCkpLEludExpdCgwKSxQbHVzRXhwKFZhcmlhYmxlKHkpLEFwcEV4cChBcHBFeHAoRml4QXBwRXhwKExhbUV4cChtbHQsQXJyb3dUeShJbnRUeSxBcnJvd1R5KEludFR5LEludFR5KSksTGFtRXhwKHgxLEludFR5LExhbUV4cCh5MSxJbnRUeSxDb25kRXhwKEFwcEV4cChMYW1FeHAoeDEsSW50VHksQXBwRXhwKEFwcEV4cChMYW1FeHAoeDIsQm9vbFR5LExhbUV4cCh5MSxCb29sVHksQ29uZEV4cChWYXJpYWJsZSh4MiksVmFyaWFibGUoeTEpLEJvb2xMaXQoZmFsc2UpKSkpLEx0RXhwKFZhcmlhYmxlKHgxKSxJbnRMaXQoMSkpKSxBcHBFeHAoTGFtRXhwKHgxLEJvb2xUeSxDb25kRXhwKFZhcmlhYmxlKHgxKSxCb29sTGl0KGZhbHNlKSxCb29sTGl0KHRydWUpKSksTHRFeHAoVmFyaWFibGUoeDEpLEludExpdCgwKSkpKSksVmFyaWFibGUoeDEpKSxJbnRMaXQoMCksUGx1c0V4cChWYXJpYWJsZSh5MSksQXBwRXhwKEFwcEV4cChWYXJpYWJsZShtbHQpLFBsdXNFeHAoVmFyaWFibGUoeDEpLFVNaW5FeHAoSW50TGl0KDEpKSkpLFZhcmlhYmxlKHkxKSkpKSkpKSksUGx1c0V4cChWYXJpYWJsZSh4KSxVTWluRXhwKEludExpdCgxKSkpKSxWYXJpYWJsZSh5KSkpKSkpLFZhcmlhYmxlKG4pKSxBcHBFeHAoVmFyaWFibGUoZmN0KSxQbHVzRXhwKFZhcmlhYmxlKG4pLFVNaW5FeHAoSW50TGl0KDEpKSkpKSkpKQo=</text>
+        <text encoding="base64">KFxuOiBJbnRUeSAuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzInZhcnMgdG8gcmVuYW1lOiAke3RvUmVuYW1lfSIpCiAgICAgICAgICAgIHByaW50bG4ocyJyZW5hbWVkIGV4cHJlc3Npb246ICR7cmVuYW1lZH0iKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">KEZpeEFwcEV4cChMYW1FeHAoZmN0LEFycm93VHkoSW50VHksSW50VHkpLAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>s/(/(\r/g</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuXD4=</last-search>
+      <last-search>throw new Exception(s&quot;Not implemented: $x&quot;)</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuXD4=</last-pattern>
-      <last-replace>(\r</last-replace>
-      <last-substitute>(</last-substitute>
+      <last-pattern>throw new Exception(s&quot;Not implemented: $x&quot;)</last-pattern>
+      <last-replace>errUnknownAST(x)</last-replace>
+      <last-substitute>throw new Exception(s&quot;Not implemented: $x&quot;)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
