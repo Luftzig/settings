@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>react.gradle</entry>
         <entry>compile</entry>
         <entry>configurations</entry>
         <entry>application</entry>
@@ -22,12 +21,12 @@
         <entry>step into FixApp</entry>
         <entry>n</entry>
         <entry encoding="base64">XDxuXD4=</entry>
-        <entry>).*</entry>
         <entry>throw new Exception(s&quot;Not implemented: $x&quot;)</entry>
         <entry>List t</entry>
+        <entry>).*</entry>
+        <entry>to, from</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/RnDiffApp/sveviaApp/gc</entry>
         <entry>s/IsZero/UMin/g</entry>
         <entry>s/Plus/Lt/g</entry>
         <entry encoding="base64">JzwsJz5zL1BsdXMvTHQvZw==</entry>
@@ -42,11 +41,12 @@
         <entry>s/(/(\n/g</entry>
         <entry>s/(/(\r/g</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IE5ldmVyVHlwZQ==</entry>
-        <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4Iik=</entry>
         <entry encoding="base64">JzwsJz5zL3Rocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikvZXJyVW5rbm93bkFTVCh4KQ==</entry>
         <entry>registers</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4Iik=</entry>
+        <entry encoding="base64">JzwsJz5zL3RvLCBmcm9tL2Zyb20sIHRvLw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,12 +154,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588778626864">
-        <mark key="'" line="272" column="40" />
-        <mark key="[" line="272" column="112" />
-        <mark key="]" line="272" column="118" />
-        <mark key="." line="272" column="117" />
-        <mark key="^" line="272" column="118" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588779847007">
+        <mark key="'" line="219" column="17" />
+        <mark key="[" line="118" column="30" />
+        <mark key="]" line="118" column="30" />
+        <mark key="." line="118" column="30" />
+        <mark key="^" line="116" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1588759302470">
         <mark key="a" line="1756" column="10" />
@@ -183,10 +183,10 @@
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/TypecheckerExceptions.scala" timestamp="1588766014492">
         <mark key="'" line="24" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" timestamp="1588773533255">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" timestamp="1588778850077">
         <mark key="'" line="46" column="11" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="32" column="38" />
         <mark key="." line="48" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer5.txt" timestamp="1588752420641">
@@ -216,7 +216,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588774659697">
+      <file name="/Dummy.txt" timestamp="1588778802089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_3.sint.fix" timestamp="1588603305737">
@@ -240,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/build.gradle" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="239" column="31" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="26" column="1" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="111" column="48" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
@@ -340,6 +338,8 @@
       <jump line="85" column="26" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="17" column="2" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="272" column="40" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
+      <jump line="110" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
+      <jump line="219" column="17" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,21 +348,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>List t</text>
+        <text>to, from</text>
       </register>
-      <register name="0" type="4">
-        <text>el flatMap {
-        freeVarsOf(boundVars, _)
-      } toSet</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIHQ6IE5pbEV4cCA9PiBTb21lKEJvb2xMaXQodHJ1ZSkpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -376,14 +374,18 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+      <register name="1" type="8">
+        <text>e: AST
+e: AST
+e: AST</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
+      <register name="2" type="8">
+        <text>throw new Exception(s&quot;Not implemented: $x&quot;)
+ hrow new Exception(s&quot;Not implemented: $x&quot;)
+ hrow new Exception(s&quot;Not implemented: $x&quot;)</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -401,44 +403,44 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFR1cGxlRXhwKGVsKSA9PiBUdXBsZUV4cChlbCBtYXAge3JlbmFtZUFsbCh1c2VkTmFtZXMsIF8pfSkKICAgICAgICBjYXNlIFByb2pUdXBsZUV4cChlLCBpKSA9PiBQcm9qVHVwbGVFeHAocmVuYW1lQWxsKHVzZWROYW1lcywgZSksIGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIA==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uQWJzdHJhY3RJdGVyYWJsZQo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIHByZXR0eSh4OiBBU1QsIGRlcHRoOiBJbnQgPSAwKTogU3RyaW5nID0gewogICAgdmFsIGluZCA9ICIgICIgKiBkZXB0aAogICAgeCBtYXRjaCB7CiAgICAgIGNhc2UgVmFyaWFibGUoaWQ6IFN0cmluZykgPT4gcyIkaWQiCiAgICAgIGNhc2UgQm9vbExpdChiOiBCb29sZWFuKSA9PiBzIiRiIgogICAgICBjYXNlIEludExpdChpOiBJbnQpID0+IHMiJGkiCgogICAgICBjYXNlIENvbmRFeHAoYzogQVNULCBlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfWlmICR7cHJldHR5KGMsIDAgKyAxKX0gdGhlblxuJHtpbmQgKyAiICAifSR7cHJldHR5KGUxKX1cbiR7aW5kfWVsc2VcbiR7aW5kICsgIiAgIn0ke3ByZXR0eShlMil9XG4iCiAgICAgIGNhc2UgSXNaZXJvRXhwKGU6IEFTVCkgPT4gcyIke2luZH1pc3plcm8gJHtwcmV0dHkoZSwgMCl9IgogICAgICBjYXNlIFBsdXNFeHAoZTE6IEFTVCwgZTI6IEFTVCkgPT4gcyIke2luZH0ke3ByZXR0eShlMSl9ICsgJHtwcmV0dHkoZTIpfSIKICAgICAgY2FzZSBMdEV4cChlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfSR7cHJldHR5KGUxKX0gPCAke3ByZXR0eShlMil9IgogICAgICBjYXNlIFVNaW5FeHAoZTogQVNUKSA9PiBzIi0ke3ByZXR0eShlKX0iCgogICAgICBjYXNlIExhbUV4cChpZDogU3RyaW5nLCB0eTogQVNUVFksIGU6IEFTVCkgPT4gcyIke2luZH1cXCRpZDogJHt0eX0gLlxuJHtwcmV0dHkoZSwgZGVwdGggKyAxKX0iCiAgICAgIGNhc2UgQXBwRXhwKGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9KCAke3ByZXR0eShlMSl9ICkgKCAke3ByZXR0eShlMil9ICkiCiAgICAgIGNhc2UgTGV0RXhwKGlkOiBTdHJpbmcsIGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9bGV0ICR7aWR9ID0gJHtwcmV0dHkoZTEpfSBpblxuJHtwcmV0dHkoZTIsIGRlcHRoKX0iCiAgICAgIGNhc2UgRml4QXBwRXhwKGU6IEFTVCkgPT4gcyJmaXggJHtwcmV0dHkoZSl9IgoKICAgICAgY2FzZSBUdXBsZUV4cChlbDogTGlzdFtBU1RdKSA9PiBzIiIKICAgICAgY2FzZSBQcm9qVHVwbGVFeHAoZTogQVNULCBpOiBJbnQpID0+IHMiIgogICAgICBjYXNlIFJlY29yZEV4cChlbTogTWFwW1N0cmluZywgQVNUXSkgPT4gcyIiCiAgICAgIGNhc2UgUHJvalJlY29yZEV4cChlOiBBU1QsIGw6IFN0cmluZykgPT4gcyIiCgogICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHMiIgogICAgICBjYXNlIENvbnNFeHAoZWg6IEFTVCwgZXQ6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgSXNOaWxFeHAoZTogQVNUKSA9PiBzIiIKICAgICAgY2FzZSBIZWFkRXhwKGU6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgVGFpbEV4cChlOiBBU1QpID0+IHMiIgogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVHVwbGVUeSA9PiAK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFR1cGxlRXhwKGVsKSA9PiBUdXBsZUV4cChlbCBtYXAge3JlbmFtZUFsbCh1c2VkTmFtZXMsIF8pfSkKICAgICAgICBjYXNlIFByb2pUdXBsZUV4cChlLCBpKSA9PiBQcm9qVHVwbGVFeHAocmVuYW1lQWxsKHVzZWROYW1lcywgZSksIGkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3RvLCBmcm9tL2Zyb20sIHRvLw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>List t</last-search>
+      <last-search>to, from</last-search>
       <last-offset />
-      <last-pattern>List t</last-pattern>
-      <last-replace>errUnknownAST(x)</last-replace>
-      <last-substitute>throw new Exception(s&quot;Not implemented: $x&quot;)</last-substitute>
+      <last-pattern>to, from</last-pattern>
+      <last-replace>from, to</last-replace>
+      <last-substitute>to, from</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
