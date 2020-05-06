@@ -27,7 +27,6 @@
         <entry>throw new Exception(s&quot;Not implemented: $x&quot;)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1RFU1QvUFJPRC8=</entry>
         <entry>%s/RnDiffApp/sveviaApp/gc</entry>
         <entry>s/IsZero/UMin/g</entry>
         <entry>s/Plus/Lt/g</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IE5ldmVyVHlwZQ==</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4Iik=</entry>
         <entry encoding="base64">JzwsJz5zL3Rocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikvZXJyVW5rbm93bkFTVCh4KQ==</entry>
+        <entry>registers</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -147,24 +147,17 @@
         <mark key="]" line="9" column="49" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" timestamp="1588257288980">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="141" column="55" />
-        <mark key="]" line="142" column="4" />
-        <mark key="^" line="142" column="4" />
-        <mark key="." line="142" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_3_factorial_0.sint" timestamp="1588748575381">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588767867398">
-        <mark key="'" line="286" column="13" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="244" column="45" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588770342746">
+        <mark key="'" line="297" column="13" />
+        <mark key="[" line="89" column="53" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="50" />
+        <mark key="^" line="89" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1588759302470">
         <mark key="a" line="1756" column="10" />
@@ -360,19 +353,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29sbGVjdEZpcnN0KChlKSA9PiAhaXNWYWx1ZShlKSk=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29sbGVjdEZpcnN0KChlKSA9PiAhaXNWYWx1ZShlKSk=</text>
       </register>
       <register name="/" type="4">
         <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgVHVwbGVUeSh0eWwpIGlmIHR5bC5sZW5ndGggPj0gaSA9PiB0eWwoaSkK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBQcm9qVHVwbGVFeHAoZTogVHVwbGVFeHAsIGkpIGlmIGlzVmFsdWUoZSkgPT4gZS5lbChpKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -387,13 +380,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uQWJzdHJhY3RJdGVyYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFR1cGxlRXhwKGVsKSA9PiBUdXBsZUV4cChlbCBtYXAge3JlbmFtZUFsbCh1c2VkTmFtZXMsIF8pfSkKICAgICAgICBjYXNlIFByb2pUdXBsZUV4cChlLCBpKSA9PiBQcm9qVHVwbGVFeHAocmVuYW1lQWxsKHVzZWROYW1lcywgZSksIGkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZGVmIHByZXR0eSh4OiBBU1QsIGRlcHRoOiBJbnQgPSAwKTogU3RyaW5nID0gewogICAgdmFsIGluZCA9ICIgICIgKiBkZXB0aAogICAgeCBtYXRjaCB7CiAgICAgIGNhc2UgVmFyaWFibGUoaWQ6IFN0cmluZykgPT4gcyIkaWQiCiAgICAgIGNhc2UgQm9vbExpdChiOiBCb29sZWFuKSA9PiBzIiRiIgogICAgICBjYXNlIEludExpdChpOiBJbnQpID0+IHMiJGkiCgogICAgICBjYXNlIENvbmRFeHAoYzogQVNULCBlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfWlmICR7cHJldHR5KGMsIDAgKyAxKX0gdGhlblxuJHtpbmQgKyAiICAifSR7cHJldHR5KGUxKX1cbiR7aW5kfWVsc2VcbiR7aW5kICsgIiAgIn0ke3ByZXR0eShlMil9XG4iCiAgICAgIGNhc2UgSXNaZXJvRXhwKGU6IEFTVCkgPT4gcyIke2luZH1pc3plcm8gJHtwcmV0dHkoZSwgMCl9IgogICAgICBjYXNlIFBsdXNFeHAoZTE6IEFTVCwgZTI6IEFTVCkgPT4gcyIke2luZH0ke3ByZXR0eShlMSl9ICsgJHtwcmV0dHkoZTIpfSIKICAgICAgY2FzZSBMdEV4cChlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfSR7cHJldHR5KGUxKX0gPCAke3ByZXR0eShlMil9IgogICAgICBjYXNlIFVNaW5FeHAoZTogQVNUKSA9PiBzIi0ke3ByZXR0eShlKX0iCgogICAgICBjYXNlIExhbUV4cChpZDogU3RyaW5nLCB0eTogQVNUVFksIGU6IEFTVCkgPT4gcyIke2luZH1cXCRpZDogJHt0eX0gLlxuJHtwcmV0dHkoZSwgZGVwdGggKyAxKX0iCiAgICAgIGNhc2UgQXBwRXhwKGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9KCAke3ByZXR0eShlMSl9ICkgKCAke3ByZXR0eShlMil9ICkiCiAgICAgIGNhc2UgTGV0RXhwKGlkOiBTdHJpbmcsIGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9bGV0ICR7aWR9ID0gJHtwcmV0dHkoZTEpfSBpblxuJHtwcmV0dHkoZTIsIGRlcHRoKX0iCiAgICAgIGNhc2UgRml4QXBwRXhwKGU6IEFTVCkgPT4gcyJmaXggJHtwcmV0dHkoZSl9IgoKICAgICAgY2FzZSBUdXBsZUV4cChlbDogTGlzdFtBU1RdKSA9PiBzIiIKICAgICAgY2FzZSBQcm9qVHVwbGVFeHAoZTogQVNULCBpOiBJbnQpID0+IHMiIgogICAgICBjYXNlIFJlY29yZEV4cChlbTogTWFwW1N0cmluZywgQVNUXSkgPT4gcyIiCiAgICAgIGNhc2UgUHJvalJlY29yZEV4cChlOiBBU1QsIGw6IFN0cmluZykgPT4gcyIiCgogICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHMiIgogICAgICBjYXNlIENvbnNFeHAoZWg6IEFTVCwgZXQ6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgSXNOaWxFeHAoZTogQVNUKSA9PiBzIiIKICAgICAgY2FzZSBIZWFkRXhwKGU6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgVGFpbEV4cChlOiBBU1QpID0+IHMiIgogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -411,31 +404,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIF0K</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uQWJzdHJhY3RJdGVyYWJsZQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVHVwbGVUeSA9PiAK</text>
+        <text encoding="base64">CiAgZGVmIHByZXR0eSh4OiBBU1QsIGRlcHRoOiBJbnQgPSAwKTogU3RyaW5nID0gewogICAgdmFsIGluZCA9ICIgICIgKiBkZXB0aAogICAgeCBtYXRjaCB7CiAgICAgIGNhc2UgVmFyaWFibGUoaWQ6IFN0cmluZykgPT4gcyIkaWQiCiAgICAgIGNhc2UgQm9vbExpdChiOiBCb29sZWFuKSA9PiBzIiRiIgogICAgICBjYXNlIEludExpdChpOiBJbnQpID0+IHMiJGkiCgogICAgICBjYXNlIENvbmRFeHAoYzogQVNULCBlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfWlmICR7cHJldHR5KGMsIDAgKyAxKX0gdGhlblxuJHtpbmQgKyAiICAifSR7cHJldHR5KGUxKX1cbiR7aW5kfWVsc2VcbiR7aW5kICsgIiAgIn0ke3ByZXR0eShlMil9XG4iCiAgICAgIGNhc2UgSXNaZXJvRXhwKGU6IEFTVCkgPT4gcyIke2luZH1pc3plcm8gJHtwcmV0dHkoZSwgMCl9IgogICAgICBjYXNlIFBsdXNFeHAoZTE6IEFTVCwgZTI6IEFTVCkgPT4gcyIke2luZH0ke3ByZXR0eShlMSl9ICsgJHtwcmV0dHkoZTIpfSIKICAgICAgY2FzZSBMdEV4cChlMTogQVNULCBlMjogQVNUKSA9PiBzIiR7aW5kfSR7cHJldHR5KGUxKX0gPCAke3ByZXR0eShlMil9IgogICAgICBjYXNlIFVNaW5FeHAoZTogQVNUKSA9PiBzIi0ke3ByZXR0eShlKX0iCgogICAgICBjYXNlIExhbUV4cChpZDogU3RyaW5nLCB0eTogQVNUVFksIGU6IEFTVCkgPT4gcyIke2luZH1cXCRpZDogJHt0eX0gLlxuJHtwcmV0dHkoZSwgZGVwdGggKyAxKX0iCiAgICAgIGNhc2UgQXBwRXhwKGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9KCAke3ByZXR0eShlMSl9ICkgKCAke3ByZXR0eShlMil9ICkiCiAgICAgIGNhc2UgTGV0RXhwKGlkOiBTdHJpbmcsIGUxOiBBU1QsIGUyOiBBU1QpID0+IHMiJHtpbmR9bGV0ICR7aWR9ID0gJHtwcmV0dHkoZTEpfSBpblxuJHtwcmV0dHkoZTIsIGRlcHRoKX0iCiAgICAgIGNhc2UgRml4QXBwRXhwKGU6IEFTVCkgPT4gcyJmaXggJHtwcmV0dHkoZSl9IgoKICAgICAgY2FzZSBUdXBsZUV4cChlbDogTGlzdFtBU1RdKSA9PiBzIiIKICAgICAgY2FzZSBQcm9qVHVwbGVFeHAoZTogQVNULCBpOiBJbnQpID0+IHMiIgogICAgICBjYXNlIFJlY29yZEV4cChlbTogTWFwW1N0cmluZywgQVNUXSkgPT4gcyIiCiAgICAgIGNhc2UgUHJvalJlY29yZEV4cChlOiBBU1QsIGw6IFN0cmluZykgPT4gcyIiCgogICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHMiIgogICAgICBjYXNlIENvbnNFeHAoZWg6IEFTVCwgZXQ6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgSXNOaWxFeHAoZTogQVNUKSA9PiBzIiIKICAgICAgY2FzZSBIZWFkRXhwKGU6IEFTVCkgPT4gcyIiCiAgICAgIGNhc2UgVGFpbEV4cChlOiBBU1QpID0+IHMiIgogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIF0K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgdDogVHVwbGVUeSA9PiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAobGVmdCwgcmlnaHQpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgKEFycm93VHkobCwgciksIHIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSApCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAobGVmdCwgcmlnaHQpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgKEFycm93VHkobCwgciksIHIpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
