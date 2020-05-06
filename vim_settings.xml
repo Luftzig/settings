@@ -154,12 +154,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588774609651">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588777804975">
         <mark key="'" line="312" column="13" />
-        <mark key="[" line="104" column="47" />
-        <mark key="]" line="104" column="65" />
-        <mark key="." line="104" column="64" />
-        <mark key="^" line="104" column="65" />
+        <mark key="[" line="271" column="70" />
+        <mark key="]" line="271" column="79" />
+        <mark key="." line="271" column="78" />
+        <mark key="^" line="271" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1588759302470">
         <mark key="a" line="1756" column="10" />
@@ -348,19 +348,21 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>flatMap</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text>List t</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2luZ2xlQXV0b1Rlc3QoZmlsZSkK</text>
+      <register name="0" type="4">
+        <text>el flatMap {
+        freeVarsOf(boundVars, _)
+      } toSet</text>
       </register>
       <register name="p" type="4">
         <keys>
