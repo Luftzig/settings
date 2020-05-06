@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz5zL3Rocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikvZXJyVW5rbm93bkFTVCh4KQ==</entry>
         <entry>registers</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4Iik=</entry>
         <entry encoding="base64">JzwsJz5zL3RvLCBmcm9tL2Zyb20sIHRvLw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,12 +154,12 @@
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588779847007">
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1588779878140">
         <mark key="'" line="219" column="17" />
-        <mark key="[" line="118" column="30" />
-        <mark key="]" line="118" column="30" />
-        <mark key="." line="118" column="30" />
-        <mark key="^" line="116" column="37" />
+        <mark key="[" line="120" column="30" />
+        <mark key="]" line="120" column="37" />
+        <mark key="." line="120" column="36" />
+        <mark key="^" line="120" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1588759302470">
         <mark key="a" line="1756" column="10" />
@@ -216,7 +216,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588778802089">
+      <file name="/Dummy.txt" timestamp="1588779907894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_3.sint.fix" timestamp="1588603305737">
@@ -348,19 +348,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
+        <text>HeadExp</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>throw new Exception(s&quot;Not implemented: $x&quot;)</text>
+        <text>HeadExp</text>
       </register>
       <register name="/" type="4">
         <text>to, from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIHQ6IE5pbEV4cCA9PiBTb21lKEJvb2xMaXQodHJ1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIENvbnNFeHAoZWgsIGV0KSBpZiBpc1ZhbHVlKGVoKSAmJiBpc1ZhbHVlKGV0KSA9PiBTb21lKGVoKQogICAgICAgIGNhc2UgdCA9PiBzdGVwKHQpIG1hcCBIZWFkRXhwCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -374,18 +374,16 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>e: AST
-e: AST
-e: AST</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
-        <text>throw new Exception(s&quot;Not implemented: $x&quot;)
- hrow new Exception(s&quot;Not implemented: $x&quot;)
- hrow new Exception(s&quot;Not implemented: $x&quot;)</text>
+        <text>e: AST
+e: AST
+e: AST</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -402,35 +400,37 @@ e: AST</text>
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="3" type="8">
+        <text>throw new Exception(s&quot;Not implemented: $x&quot;)
+ hrow new Exception(s&quot;Not implemented: $x&quot;)
+ hrow new Exception(s&quot;Not implemented: $x&quot;)</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFR1cGxlRXhwKGVsKSA9PiBUdXBsZUV4cChlbCBtYXAge3JlbmFtZUFsbCh1c2VkTmFtZXMsIF8pfSkKICAgICAgICBjYXNlIFByb2pUdXBsZUV4cChlLCBpKSA9PiBQcm9qVHVwbGVFeHAocmVuYW1lQWxsKHVzZWROYW1lcywgZSksIGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RvLCBmcm9tL2Zyb20sIHRvLw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
