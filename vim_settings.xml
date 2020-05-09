@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>compile</entry>
-        <entry>configurations</entry>
-        <entry>application</entry>
         <entry>\cfcm</entry>
         <entry>\(.*</entry>
         <entry>(.*</entry>
@@ -25,6 +22,9 @@
         <entry>List t</entry>
         <entry>).*</entry>
         <entry>to, from</entry>
+        <entry>TOKVBAR</entry>
+        <entry>TOKCOM</entry>
+        <entry>TOKPARR</entry>
       </history-search>
       <history-cmd>
         <entry>s/IsZero/UMin/g</entry>
@@ -128,20 +128,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1588758203130">
-        <mark key="'" line="108" column="1" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="52" column="6" />
-      </file>
       <file name="/a.dummy" timestamp="1588775529028">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_3_factorial_0_copy.sint" timestamp="1588603211602">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="4" column="9" />
       </file>
       <file name="/Dummy.scala" timestamp="1589035726691">
         <mark key="[" line="0" column="0" />
@@ -149,10 +137,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_3_factorial_0.sint" timestamp="1588748575381">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" timestamp="1589038504918">
+        <mark key="'" line="88" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="109" column="1" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="109" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_1_extensions_0.sint" timestamp="1589035023558">
         <mark key="'" line="0" column="0" />
@@ -172,12 +162,11 @@
         <mark key="^" line="4694" column="0" />
         <mark key="." line="4693" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1588750280125">
-        <mark key="'" line="1726" column="0" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/maybe.sint.fix" timestamp="1589038448934">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1736" column="0" />
-        <mark key="^" line="1736" column="0" />
-        <mark key="." line="1735" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Downloads/lab2-template/src/main/scala/simpret/parser/AST.scala" timestamp="1588761639575">
         <mark key="[" line="8" column="0" />
@@ -192,12 +181,22 @@
         <mark key="]" line="32" column="38" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer5.txt" timestamp="1588752420641">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/length.sint.fix" timestamp="1589037498421">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_times_2.sint" timestamp="1589037919758">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/maybe.sint" timestamp="1589038695270">
+        <mark key="'" line="3" column="87" />
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1589035301542">
         <mark key="'" line="17" column="2" />
@@ -206,27 +205,25 @@
         <mark key="." line="90" column="77" />
         <mark key="^" line="90" column="78" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.txt" timestamp="1588752413733">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/length.sint" timestamp="1589037551606">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_3.sint" timestamp="1588603263105">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="26" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/map.sint.fix" timestamp="1589038081935">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588779907894">
+      <file name="/Dummy.txt" timestamp="1589036411775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_letin_3.sint.fix" timestamp="1588603305737">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="4" />
+      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/map.sint" timestamp="1589038093240">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" timestamp="1589035784798">
         <mark key="'" line="117" column="20" />
@@ -237,14 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="38" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="266" column="12" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/node_modules/react-native/react.gradle" />
-      <jump line="69" column="41" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="146" column="4" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="9" column="83" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="274" column="9" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
-      <jump line="147" column="0" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="150" column="24" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="0" column="27" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/build.gradle" />
       <jump line="36" column="37" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
@@ -337,6 +326,14 @@
       <jump line="18" column="9" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_1_extensions_0.sint" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_1_extensions_0.sint" />
       <jump line="117" column="20" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
+      <jump line="1" column="30" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/map.sint" />
+      <jump line="8" column="7" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" />
+      <jump line="109" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" />
+      <jump line="34" column="30" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" />
+      <jump line="92" column="51" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" />
+      <jump line="88" column="44" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" />
+      <jump line="3" column="87" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/maybe.sint" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,20 +341,21 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>factorial_0</text>
+      <register name="&quot;" type="8">
+        <text>//
+//</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>factorial_0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>to, from</text>
+        <text>TOKPARR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpeEF1dG9UZXN0KG5ldyBGaWxlKCJzcmMvdGVzdC9zaW50L2xhYjIvZml4cG9pbnR0ZXN0cy9jYXNlXzNfZmFjdG9yaWFsXzAuc2ludCIpKQo=</text>
+        <text encoding="base64">bGV0IGcgPSBcbWx0OmludC0+aW50LT5pbnQuIFx4OmludC4gXHk6aW50LiBpZiBpc3plcm8geCB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeSArIG1sdCAoeCArIC0xKSB5Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -371,14 +369,15 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>let legal = ''</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -395,36 +394,32 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="8">
-        <text>e: AST
-e: AST
-e: AST</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gY29tYmluYXRvciAoXHg6aW50IC4geCArIDMpIDIK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="8">
-        <text>throw new Exception(s&quot;Not implemented: $x&quot;)
- hrow new Exception(s&quot;Not implemented: $x&quot;)
- hrow new Exception(s&quot;Not implemented: $x&quot;)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gbGV0IGNvbWJpbmF0b3IgPSBcZjppbnQtPmludC4gXHg6aW50LiBmIHggaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CgpsZXQgZyA9IFxtbHQ6aW50LT5pbnQtPmludC4gXHg6aW50LiBceTppbnQuIGlmIGlzemVybyB4IHRoZW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5ICsgbWx0ICh4ICsgLTEpIHkKaW4KMAoK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIE5pbEV4cCh0eTogQVNUVFkpID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikK</text>
+        <text encoding="base64">cGFja2FnZSBzaW1wcmV0LmxleGVyCgppbXBvcnQgc2ltcHJldC5lcnJvcnMuXwppbXBvcnQgc2NhbGEudXRpbC5wYXJzaW5nLmNvbWJpbmF0b3IuXwoKLy8gaHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL3NjYWxhL3NjYWxhX3JlZ3VsYXJfZXhwcmVzc2lvbnMuaHRtCgoKb2JqZWN0IExleGVyIGV4dGVuZHMgUmVnZXhQYXJzZXJzIHsKICBvdmVycmlkZSBkZWYgc2tpcFdoaXRlc3BhY2UgPSBmYWxzZQoKICAvKiBjb21tZW50IGFuZCB3aGl0ZXNwYWNlIGhhbmRsaW5nICovCiAgZGVmIHNraXA6IFBhcnNlcltVbml0XSA9IHJlcCh3aGl0ZVNwYWNlIHwgY29tbWVudCkgXl5eIFVuaXQKICBkZWYgY29tbWVudDogUGFyc2VyW1VuaXRdID0gc2luZ2xlQ29tbWVudCB8IG11bHRpQ29tbWVudAogIGRlZiBzaW5nbGVDb21tZW50OiBQYXJzZXJbVW5pdF0gPSAiLy8iIH4gcmVwKG5vdCgiXG4iKSB+ICIuIi5yKSBeXl4gVW5pdAogIGRlZiBtdWx0aUNvbW1lbnQ6IFBhcnNlcltVbml0XSA9ICIvKiIgfiByZXAobm90KCIqLyIpIH4gIig/cykuIi5yKSB+ICIqLyIgXl5eIFVuaXQKCiAgLyogaWRlbnRpZmllcnMgKi8KICBkZWYgaWRlbnQ6IFBhcnNlcltUT0tJRF0gPSBwb3NpdGlvbmVkIHsKICAgICJbYS16QS1aX11bYS16QS1aMC05X10qIi5yICAgICBeXiB7IFRPS0lEKF8pIH0KICB9CgogIC8qIGxpdGVyYWxzICovCiAgZGVmIGxpdGVyYWxzOiBQYXJzZXJbVG9rZW5dID0KICAgIHBvc2l0aW9uZWQgKGJvb2x0IHwgYm9vbGYgfCBpbnRsaXQpCiAgZGVmIGJvb2x0ICAgICAgID0gInRydWUiICAgICAgICAgXl4gKF8gPT4gVE9LQk9PTCh0cnVlKSApCiAgZGVmIGJvb2xmICAgICAgID0gImZhbHNlIiAgICAgICAgXl4gKF8gPT4gVE9LQk9PTChmYWxzZSkgKQoKICBkZWYgaW50bGl0OiBQYXJzZXJbVE9LSU5UXSA9IHBvc2l0aW9uZWQgewogICAgIjB8KFsxLTldWzAtOV0qKSIuciAgICAgIF5eIHsgc3RyID0+IFRPS0lOVChJbnRlZ2VyLnBhcnNlSW50KHN0cikpIH0KICB9CgogIC8qIHN5bWJvbHMgKi8KICBkZWYgc3ltYm9sczogUGFyc2VyW1Rva2VuXSA9CiAgICBwb3NpdGlvbmVkIChjb25kaWYgfCBjb25kdGhlbiB8IGNvbmRlbHNlIHwKICAgICAgcGx1cyB8IGx0IHwgbWludXNfdHlhcnIgfAogICAgICBwYXJsIHwgcGFyciB8CiAgICAgIGxhbSB8IGRvdCB8IGNvbF9jb25zIHwgbGV0X2xldHJlYyB8IGluX3R5aW50IHwKICAgICAgZml4IHwKICAgICAgZXEgfCBjb21tYSB8IGN1cmwgfCBjdXJyIHwKICAgICAgc3FibCB8IHNxYnIgfCB2YmFyIHwgaXNuaWwgfCBoZWFkIHwgdGFpbCB8CiAgICAgIHR5Ym9vbCkKCiAgZGVmIGNvbmRpZiAgICAgID0gImlmIiAgICAgICAgICAgXl4gKF8gPT4gVE9LSUYpCiAgZGVmIGNvbmR0aGVuICAgID0gInRoZW4iICAgICAgICAgXl4gKF8gPT4gVE9LVEhFTikKICBkZWYgY29uZGVsc2UgICAgPSAiZWxzZSIgICAgICAgICBeXiAoXyA9PiBUT0tFTFNFKQoKICBkZWYgcGx1cyAgICAgICAgPSAiKyIgICAgICAgICAgICBeXiAoXyA9PiBUT0tQTFVTKQogIGRlZiBsdCAgICAgICAgICA9ICI8IiAgICAgICAgICAgIF5eIChfID0+IFRPS0xUKQogIGRlZiBtaW51c190eWFyciA9ICItIiB+IG9wdCgiPiIpIF5eIHsKICAgIGNhc2UgXyB+IE5vbmUgICAgPT4gVE9LTUlOVVMgICAgICAgIC8vICItIgogICAgY2FzZSBfIH4gU29tZShfKSA9PiBUT0tUWUFSUk9XICAgICAgLy8gIi0+IgogIH0KCiAgZGVmIHBhcmwgICAgICAgID0gIigiICAgICAgICAgICAgXl4gKF8gPT4gVE9LUEFSTCkKICBkZWYgcGFyciAgICAgICAgPSAiKSIgICAgICAgICAgICBeXiAoXyA9PiBUT0tQQVJSKQoKICBkZWYgbGFtICAgICAgICAgPSAiXFwiICAgICAgICAgICBeXiAoXyA9PiBUT0tMQU0pCiAgZGVmIGRvdCAgICAgICAgID0gIi4iICAgICAgICAgICAgXl4gKF8gPT4gVE9LRE9UKQogIGRlZiBjb2xfY29ucyAgICA9ICI6IiB+IG9wdCgiOiIpIF5eIHsKICAgIGNhc2UgXyB+IE5vbmUgICAgPT4gVE9LQ09MICAgICAgICAgIC8vICI6IgogICAgY2FzZSBfIH4gU29tZShfKSA9PiBUT0tDT05TICAgICAgICAgLy8gIjo6IgogIH0KICBkZWYgbGV0X2xldHJlYyAgPSAibGV0IiB+IG9wdCgicmVjIikgXl4gewogICAgY2FzZSBfIH4gTm9uZSAgICA9PiBUT0tMRVQgICAgICAgICAgLy8gImxldCIKICAgIGNhc2UgXyB+IFNvbWUoXykgPT4gVE9LTEVUUkVDICAgICAgIC8vICJsZXRyZWMiCiAgfQogIGRlZiBpbl90eWludCAgICA9ICJpbiIgfiBvcHQoInQiKSBeXiB7CiAgICBjYXNlIF8gfiBOb25lICAgID0+IFRPS0lOICAgICAgICAgICAvLyAiaW4iCiAgICBjYXNlIF8gfiBTb21lKF8pID0+IFRPS1RZSU5UICAgICAgICAvLyAiaW50IgogIH0KICBkZWYgZml4ICAgICAgICAgPSAiZml4IiAgICAgICAgICBeXiAoXyA9PiBUT0tGSVgpCgogIGRlZiBlcSAgICAgICAgICA9ICI9IiAgICAgICAgICAgIF5eIChfID0+IFRPS0VRKQogIGRlZiBjb21tYSAgICAgICA9ICIsIiAgICAgICAgICAgIF5eIChfID0+IFRPS0NPTSkKICBkZWYgY3VybCAgICAgICAgPSAieyIgICAgICAgICAgICBeXiAoXyA9PiBUT0tDVVJMKQogIGRlZiBjdXJyICAgICAgICA9ICJ9IiAgICAgICAgICAgIF5eIChfID0+IFRPS0NVUlIpCgogIGRlZiBzcWJsICAgICAgICA9ICJbIiAgICAgICAgICAgIF5eIChfID0+IFRPS1NRQkwpCiAgZGVmIHNxYnIgICAgICAgID0gIl0iICAgICAgICAgICAgXl4gKF8gPT4gVE9LU1FCUikKICBkZWYgdmJhciAgICAgICAgPSAifCIgICAgICAgICAgICBeXiAoXyA9PiBUT0tWQkFSKQogIGRlZiBpc25pbCAgICAgICA9ICJpc25pbCIgICAgICAgIF5eIChfID0+IFRPS0lTTklMKQogIGRlZiBoZWFkICAgICAgICA9ICJoZCIgICAgICAgICAgIF5eIChfID0+IFRPS0hFQUQpCiAgZGVmIHRhaWwgICAgICAgID0gInRsIiAgICAgICAgICAgXl4gKF8gPT4gVE9LVEFJTCkKCiAgZGVmIHR5Ym9vbCAgICAgID0gImJvb2wiICAgICAgICAgXl4gKF8gPT4gVE9LVFlCT09MKQoKCiAgLyogdG9rZW4gc3RyZWFtICovCiAgZGVmIHRva2VuczogUGFyc2VyW0xpc3RbVG9rZW5dXSA9IHNraXAgfj4gcmVwMSh0b2tlbiA8fiBza2lwKSA8fiBlb2YKCiAgZGVmIGVvZjogUGFyc2VyW1N0cmluZ10gPSAiXFx6Ii5yIHwgZmFpbHVyZSgidW5leHBlY3RlZCBjaGFyYWN0ZXIiKQogIGRlZiB0b2tlbjogUGFyc2VyW1Rva2VuXSA9CiAgICBwb3NpdGlvbmVkKGxpdGVyYWxzIHwgc3ltYm9scyB8IGlkZW50KQoKICBkZWYgYXBwbHkoaW5wdXQ6IFN0cmluZyk6IEVpdGhlcltMZXhlckVycm9yLCBMaXN0W1Rva2VuXV0gPSB7CiAgICBwYXJzZUFsbCh0b2tlbnMsIGlucHV0KSBtYXRjaCB7CiAgICAgIGNhc2UgTm9TdWNjZXNzKG1zZywgbmV4dCkgPT4gTGVmdChMZXhlckVycm9yKExvY2F0aW9uLmZyb21Qb3MobmV4dC5wb3MpLCBtc2cpKQogICAgICBjYXNlIFN1Y2Nlc3MocmVzdWx0LCBfKSA9PiBSaWdodChyZXN1bHQpCiAgICB9CiAgfQp9Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">Y2xhc3MgCmNsYXNzIApjbGFzcyAKY2xhc3MgCmNsYXNzIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">bGV0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIChfLl8xLCBjaGVjayhfLl8yLCBlbnYpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -433,9 +428,9 @@ e: AST</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>to, from</last-search>
+      <last-search>TOKPARR</last-search>
       <last-offset />
-      <last-pattern>to, from</last-pattern>
+      <last-pattern>TOKPARR</last-pattern>
       <last-replace>from, to</last-replace>
       <last-substitute>to, from</last-substitute>
       <last-dir>1</last-dir>
