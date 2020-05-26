@@ -128,7 +128,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590482444955">
+      <file name="/Dummy.txt" timestamp="1590496729502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -150,11 +150,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/html-sandbox/index.html" timestamp="1590482787517">
-        <mark key="[" line="95" column="21" />
-        <mark key="]" line="94" column="31" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="21" />
+      <file name="$USER_HOME$/Projects/html-sandbox/index.html" timestamp="1590496869699">
+        <mark key="'" line="89" column="47" />
+        <mark key="[" line="81" column="63" />
+        <mark key="]" line="81" column="65" />
+        <mark key="." line="81" column="64" />
+        <mark key="^" line="81" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/stateful.sint.fix" timestamp="1589126966213">
         <mark key="[" line="0" column="0" />
@@ -247,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="59" filename="$USER_HOME$/Projects/svevia-inkopsappen/android/app/src/main/AndroidManifest.xml" />
       <jump line="25" column="24" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="45" column="4" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="46" column="5" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
@@ -347,6 +347,7 @@
       <jump line="9" column="67" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
       <jump line="17" column="16" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
       <jump line="14" column="57" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/stateful.sint" />
+      <jump line="89" column="47" filename="$USER_HOME$/Projects/html-sandbox/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,20 +355,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0b3IudmlicmF0ZSgwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>let</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ZnJlZTog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZpZ2F0b3IudmlicmF0ZSgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb250aW51b3VzJykuaW5uZXJUZXh0ID0gJ1N0b3AnCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -382,13 +383,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJVc2luZyB2YXJpYWJsZSBCUE0iLCBicG0sIGJlYXRTaXplTXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -406,31 +407,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGludGVydmFsID0gbnVsbAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8c21hbGwgY2xhc3M9ImF1dGhvciI+CiAgICBEZW1vIGNyZWF0ZWQgYnkgPGEgaHJlZj0iaHR0cDovL3d3dy5hdWRlcm8uaXQiPkF1cmVsaW8gRGUgUm9zYTwvYT4KICAgICg8YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL0F1cmVsaW9EZVJvc2EiPkBBdXJlbGlvRGVSb3NhPC9hPikKICA8L3NtYWxsPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJ2YWwgPT0gbnVsbCkgewogICAgICAgICAgY29uc3QgYnBtID0gcGFyc2VJbnQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImJwbSIpLnZhbHVlKQogICAgICAgICAgY29uc3QgYmVhdFNpemVNcyA9ICggMTAwMCAvIChicG0gLyA2MCkgKQogICAgICAgICAgY29uc29sZS5sb2coIlVzaW5nIHZhcmlhYmxlIEJQTSIsIGJwbSwgYmVhdFNpemVNcykKICAgICAgICAgIG5hdmlnYXRvci52aWJyYXRlKFtdLmZpbGwoW2JlYXRTaXplTXMsIDMgKiBiZWF0U2l6ZU1zXSwgMjAwKS5mbGF0KDEpKQogICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRpbnVvdXMnKS5pbm5lclRleHQgPSAnU3RvcCcKICAgICAgICB9IGVsc2UgewogICAgICAgICAgbmF2aWdhdG9yLnZpYnJhdGUoMCkKICAgICAgICAgIGludGVydmFsID0gbnVsbAogICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRpbnVvdXMnKS5pbm5lclRleHQgPSAnU3RhcnQnCiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCIvPgogIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iQXVyZWxpbyBEZSBSb3NhIj4KICA8dGl0bGU+VmlicmF0aW9uIEFQSSBEZW1vIGJ5IEF1cmVsaW8gRGUgUm9zYTwvdGl0bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c3R5bGU+CiAgICBib2R5CiAgICB7CiAgICAgIG1heC13aWR0aDogNTAwcHg7CiAgICAgIG1hcmdpbjogMmVtIGF1dG87CiAgICAgIGZvbnQtc2l6ZTogMjBweDsKICAgIH0KICAgIGgxCiAgICB7CiAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIH0KICAgIC5oaWRkZW4KICAgIHsKICAgICAgZGlzcGxheTogbm9uZTsKICAgIH0KCiAgICAuYnV0dG9ucy13cmFwcGVyCiAgICB7CiAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIH0KICAgIC5idXR0b24tZGVtbwogICAgewogICAgICBwYWRkaW5nOiAwLjVlbTsKICAgICAgbWFyZ2luOiAxZW0gYXV0bzsKICAgIH0KICAgIC5hdXRob3IKICAgIHsKICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIG1hcmdpbi10b3A6IDFlbTsKICAgIH0KICA8L3N0eWxlPgogIDwvaGVhZD4K</text>
+        <text encoding="base64">ICAgICAgICAgIH0sIDEwMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8Ym9keT4K</text>
+        <text encoding="base64">ICAgICAgICAgIGludGVydmFsID0gc2V0SW50ZXJ2YWwoZnVuY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2JvZHk+Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gaWQ9ImJ1dHRvbi1zdG9wLXYiIGNsYXNzPSJidXR0b24tZGVtbyI+U3RvcDwvYnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgPCEtLSBHb29nbGUgQW5hbHl0aWNzOiBjaGFuZ2UgVUEtWFhYWFgtWSB0byBiZSB5b3VyIHNpdGUncyBJRC4gLS0+CiAgPHNjcmlwdD4KICAgIHdpbmRvdy5nYSA9IGZ1bmN0aW9uICgpIHsgZ2EucS5wdXNoKGFyZ3VtZW50cykgfTsgZ2EucSA9IFtdOyBnYS5sID0gK25ldyBEYXRlOwogICAgZ2EoJ2NyZWF0ZScsICdVQS1YWFhYWC1ZJywgJ2F1dG8nKTsgZ2EoJ3NldCcsJ3RyYW5zcG9ydCcsJ2JlYWNvbicpOyBnYSgnc2VuZCcsICdwYWdldmlldycpCiAgPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2J1dHRvbi1zdG9wLXYnKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uKCkgewogICAgICAgIG5hdmlnYXRvci52aWJyYXRlKDApOwogICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
