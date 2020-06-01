@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>(.*</entry>
         <entry>CondExp(IntLit</entry>
         <entry>x2</entry>
         <entry>CondExp(IntLi</entry>
@@ -25,6 +24,7 @@
         <entry>TOKPARR</entry>
         <entry encoding="base64">XDxMZXRFeHBcPg==</entry>
         <entry encoding="base64">ZnJlZTog</entry>
+        <entry>azure</entry>
       </history-search>
       <history-cmd>
         <entry>s/IsZero/UMin/g</entry>
@@ -128,58 +128,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590497017943">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" timestamp="1588778850077">
-        <mark key="'" line="46" column="11" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/length.sint.fix" timestamp="1589037498421">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_2_times_2.sint" timestamp="1589037919758">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/html-sandbox/index.html" timestamp="1590497002193">
-        <mark key="'" line="89" column="47" />
-        <mark key="[" line="81" column="74" />
-        <mark key="]" line="81" column="74" />
-        <mark key="." line="81" column="74" />
-        <mark key="^" line="81" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/stateful.sint.fix" timestamp="1589126966213">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/map.sint" timestamp="1589038093240">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/maybe.sint" timestamp="1589038695270">
-        <mark key="'" line="3" column="87" />
-        <mark key="[" line="2" column="76" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="78" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/maybe.sint.fix" timestamp="1589038448934">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1590998893800">
+        <mark key="'" line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/stateful.sint" timestamp="1589127794219">
         <mark key="'" line="14" column="57" />
@@ -191,64 +141,27 @@
       <file name="/sbtShell" timestamp="1589785291596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1589035726691">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/lexer/Lexer.scala" timestamp="1589038504918">
-        <mark key="'" line="88" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="109" column="1" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="109" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" timestamp="1589126502402">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="94" column="59" />
-        <mark key="]" line="94" column="67" />
-        <mark key="." line="94" column="66" />
-        <mark key="^" line="94" column="67" />
-      </file>
       <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/test" timestamp="1589784935564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="92" column="54" />
         <mark key="^" line="92" column="54" />
         <mark key="." line="92" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" timestamp="1589126390337">
-        <mark key="'" line="17" column="16" />
-        <mark key="[" line="118" column="13" />
-        <mark key="]" line="118" column="18" />
-        <mark key="." line="118" column="17" />
-        <mark key="^" line="118" column="18" />
+      <file name="/Dummy.txt" timestamp="1590497017943">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_1_extensions_0.sint" timestamp="1589035023558">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/length.sint" timestamp="1589037551606">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" timestamp="1589123935502">
-        <mark key="'" line="258" column="24" />
-        <mark key="[" line="180" column="33" />
-        <mark key="]" line="181" column="10" />
-        <mark key="." line="181" column="10" />
-        <mark key="^" line="181" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/map.sint.fix" timestamp="1589038081935">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/Projects/html-sandbox/index.html" timestamp="1590497002193">
+        <mark key="'" line="89" column="47" />
+        <mark key="[" line="81" column="74" />
+        <mark key="]" line="81" column="74" />
+        <mark key="." line="81" column="74" />
+        <mark key="^" line="81" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="24" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="45" column="4" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="46" column="5" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
       <jump line="50" column="52" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
@@ -348,6 +261,7 @@
       <jump line="17" column="16" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
       <jump line="14" column="57" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/stateful.sint" />
       <jump line="89" column="47" filename="$USER_HOME$/Projects/html-sandbox/index.html" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,7 +279,7 @@
         <text>,0, 200</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ZnJlZTog</text>
+        <text>azure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb250aW51b3VzJykuaW5uZXJUZXh0ID0gJ1N0b3AnCg==</text>
@@ -440,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">ZnJlZTog</last-search>
+      <last-search>azure</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ZnJlZTog</last-pattern>
+      <last-pattern>azure</last-pattern>
       <last-replace>from, to</last-replace>
       <last-substitute>to, from</last-substitute>
       <last-dir>1</last-dir>
