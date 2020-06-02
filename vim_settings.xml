@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Step into FixApp</entry>
-        <entry>step into FixApp</entry>
-        <entry>n</entry>
-        <entry encoding="base64">XDxuXD4=</entry>
         <entry>throw new Exception(s&quot;Not implemented: $x&quot;)</entry>
         <entry>List t</entry>
         <entry>).*</entry>
@@ -25,6 +21,10 @@
         <entry>dependencies</entry>
         <entry>uses-lib</entry>
         <entry>service</entry>
+        <entry>HEAD</entry>
+        <entry>Handler</entry>
+        <entry encoding="base64">XDxvbk5ld0ludGVudFw+</entry>
+        <entry>onNewIntent</entry>
       </history-search>
       <history-cmd>
         <entry>s/IsZero/UMin/g</entry>
@@ -128,13 +128,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" timestamp="1591026685761">
-        <mark key="'" line="66" column="4" />
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="31" column="85" />
-        <mark key="." line="31" column="84" />
-        <mark key="^" line="31" column="85" />
-      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1591014858596">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="42" column="42" />
@@ -142,21 +135,46 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/build.gradle" timestamp="1591084000319">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" timestamp="1591015283416">
         <mark key="'" line="24" column="7" />
-        <mark key="[" line="42" column="65" />
-        <mark key="]" line="42" column="65" />
-        <mark key="." line="42" column="64" />
-        <mark key="^" line="42" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeFirebaseMessagingService.java" timestamp="1591082561555">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/index.d.ts" timestamp="1591026622617">
         <mark key="'" line="33" column="14" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591083831320">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" timestamp="1591084203284">
+        <mark key="'" line="188" column="35" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="215" column="1" />
+        <mark key="^" line="216" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" timestamp="1591084650930">
+        <mark key="'" line="415" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/build.gradle" timestamp="1591015021160">
         <mark key="[" line="36" column="16" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="49" />
-        <mark key="^" line="37" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeConstants.java" timestamp="1591082767354">
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" timestamp="1591026910766">
         <mark key="'" line="125" column="55" />
@@ -173,14 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="263" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="298" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="401" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="368" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="259" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="267" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="51" column="37" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="39" column="76" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="465" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
@@ -273,6 +283,14 @@
       <jump line="40" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="65" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="33" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/index.d.ts" />
+      <jump line="131" column="51" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
+      <jump line="188" column="35" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" />
+      <jump line="232" column="8" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
+      <jump line="47" column="113" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
+      <jump line="393" column="44" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
+      <jump line="410" column="16" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
+      <jump line="415" column="16" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,20 +298,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>service</text>
+        <text>onNewIntent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb250aW51b3VzJykuaW5uZXJUZXh0ID0gJ1N0b3AnCg==</text>
+      <register name="0" type="4">
+        <text>&quot;backgroundTaskName&quot;</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -308,13 +326,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5henVyZS5yZWFjdG5hdGl2ZS5ub3RpZmljYXRpb25odWIuUmVhY3ROYXRpdmVOb3RpZmljYXRpb25IdWJQYWNrYWdlOwogICAgaQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpbXBsZW1lbnRhdGlvbiBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5mYWNlYm9vay5yZWFjdDpyZWFjdC1uYXRpdmU6KycKICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtZ2NtOjE2LjAuMCcKICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLW1lc3NhZ2luZzoxNy4zLjQnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjcuKycKICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjcuKycKICAgIGltcGxlbWVudGF0aW9uICdjb20ubWljcm9zb2Z0LmF6dXJlOm5vdGlmaWNhdGlvbi1odWJzLWFuZHJvaWQtc2RrOjAuNEBhYXInCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLm1pY3Jvc29mdC5henVyZTphenVyZS1ub3RpZmljYXRpb25zLWhhbmRsZXI6MS4wLjFAYWFyJwo9PT09PT09Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -332,31 +350,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5henVyZS5yZWFjdG5hdGl2ZS5ub3RpZmljYXRpb25odWIuUmVhY3ROYXRpdmVOb3RpZmljYXRpb25IdWJQYWNrYWdlOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBjb21waWxlU2RrVmVyc2lvbiBzYWZlRXh0R2V0KCdjb21waWxlU2RrVmVyc2lvbicsIDI3KQogICAgYnVpbGRUb29sc1ZlcnNpb24gc2FmZUV4dEdldCgnYnVpbGRUb29sc1ZlcnNpb24nLCAnMjcuMC4zJykKCiAgICBkZWZhdWx0Q29uZmlnIHsKICAgICAgICBtaW5TZGtWZXJzaW9uIHNhZmVFeHRHZXQoJ21pblNka1ZlcnNpb24nLCAxNikKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIHNhZmVFeHRHZXQoJ3RhcmdldFNka1ZlcnNpb24nLCAyNykKPT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgUmVhY3ROYXRpdmVOb3RpZmljYXRpb25IdWJQYWNrYWdlKCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5uZWxFbmFibGVMaWdodHM6IGZhbHNlLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5uZWxOYW1lOiAiIiwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGFubmVsU2hvd0JhZGdlOiBmYWxzZSwK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGNoYW5uZWxDcmVhdGVkID0gZmFsc2U7CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGNoZWNrT3JDcmVhdGVDaGFubmVsKE5vdGlmaWNhdGlvbk1hbmFnZXIgbWFuYWdlcikgewogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPCBCdWlsZC5WRVJTSU9OX0NPREVTLk8pCiAgICAgICAgICAgIHJldHVybjsKICAgICAgICBpZiAoY2hhbm5lbENyZWF0ZWQpCiAgICAgICAgICAgIHJldHVybjsKICAgICAgICBpZiAobWFuYWdlciA9PSBudWxsKQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgZmluYWwgQ2hhclNlcXVlbmNlIG5hbWUgPSAicm4tcHVzaC1ub3RpZmljYXRpb24tY2hhbm5lbCI7CiAgICAgICAgaW50IGltcG9ydGFuY2UgPSBOb3RpZmljYXRpb25NYW5hZ2VyLklNUE9SVEFOQ0VfREVGQVVMVDsKICAgICAgICBOb3RpZmljYXRpb25DaGFubmVsIGNoYW5uZWwgPSBuZXcgTm90aWZpY2F0aW9uQ2hhbm5lbChDSEFOTkVMX0lELCBuYW1lLCBpbXBvcnRhbmNlKTsKICAgICAgICBjaGFubmVsLmVuYWJsZUxpZ2h0cyh0cnVlKTsKICAgICAgICBjaGFubmVsLmVuYWJsZVZpYnJhdGlvbih0cnVlKTsKICAgICAgICBtYW5hZ2VyLmNyZWF0ZU5vdGlmaWNhdGlvbkNoYW5uZWwoY2hhbm5lbCk7CiAgICAgICAgY2hhbm5lbENyZWF0ZWQgPSB0cnVlOwo9PT09PT09Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZFRhc2tOYW1lOiBub3RpZmljYXRpb25UYXNrLm5hbWUsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHNlcnZpY2UKICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5henVyZS5yZWFjdG5hdGl2ZS5ub3RpZmljYXRpb25odWIuUmVhY3ROYXRpdmVSZWdpc3RyYXRpb25JbnRlbnRTZXJ2aWNlIgogICAgICAgIGFuZHJvaWQ6ZXhwb3J0ZWQ9ImZhbHNlIj4KICAgICAgPC9zZXJ2aWNlPgogICAgICA8c2VydmljZSBhbmRyb2lkOm5hbWU9ImNvbS5henVyZS5yZWFjdG5hdGl2ZS5ub3RpZmljYXRpb25odWIuUmVhY3ROYXRpdmVCYWNrZ3JvdW5kTm90aWZpY2F0aW9uU2VydmljZSIgLz4K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICBTdHJpbmcgY29sb3IgPSBidW5kbGUuZ2V0U3RyaW5nKCJjb2xvciIpOwogICAgICAgICAgICAgICAgaWYgKGNvbG9yICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb24uc2V0Q29sb3IoQ29sb3IucGFyc2VDb2xvcihjb2xvcikpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnQgbm90aWZpY2F0aW9uSUQgPSBub3RpZmljYXRpb25JZFN0cmluZy5oYXNoQ29kZSgpOwoKICAgICAgICAgICAgUGVuZGluZ0ludGVudCBwZW5kaW5nSW50ZW50ID0gUGVuZGluZ0ludGVudC5nZXRBY3Rpdml0eShjb250ZXh0LCBub3RpZmljYXRpb25JRCwgaW50ZW50LAogICAgICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCk7CgogICAgICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG5vdGlmaWNhdGlvbk1hbmFnZXIgPSBub3RpZmljYXRpb25NYW5hZ2VyKCk7CiAgICAgICAgICAgIGNoZWNrT3JDcmVhdGVDaGFubmVsKG5vdGlmaWNhdGlvbk1hbmFnZXIpOwo9PT09PT09Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtYXp1cmVub3RpZmljYXRpb25odWInKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -365,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>service</last-search>
+      <last-search>onNewIntent</last-search>
       <last-offset />
-      <last-pattern>service</last-pattern>
+      <last-pattern>onNewIntent</last-pattern>
       <last-replace>from, to</last-replace>
       <last-substitute>to, from</last-substitute>
       <last-dir>1</last-dir>
