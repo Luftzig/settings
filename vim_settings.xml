@@ -159,11 +159,17 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/README.md" timestamp="1591956594865">
-        <mark key="[" line="115" column="3" />
-        <mark key="]" line="124" column="4" />
-        <mark key="^" line="124" column="4" />
-        <mark key="." line="124" column="3" />
+      <file name="$USER_HOME$/Projects/eqt-requests/README.md" timestamp="1591962686294">
+        <mark key="[" line="117" column="118" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/secrets/db-credentials/db-credentials.json" timestamp="1591962781570">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/package.json" timestamp="1591088967422">
         <mark key="'" line="79" column="0" />
@@ -177,6 +183,13 @@
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" timestamp="1591962595517">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/react-native-azurenotificationhub/android/build.gradle" timestamp="1591084000319">
         <mark key="[" line="32" column="0" />
@@ -204,6 +217,11 @@
       <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixel/Soma_Pixel1/Soma_Pixel1.ino" timestamp="1591878693180">
         <mark key="'" line="110" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/secrets/netsuite-credentials/netsuite-credentials.json" timestamp="1591962909372">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/index.d.ts" timestamp="1591026622617">
         <mark key="'" line="33" column="14" />
       </file>
@@ -214,14 +232,12 @@
         <mark key="." line="66" column="76" />
         <mark key="^" line="66" column="80" />
       </file>
+      <file name="/private/var/folders/4_/5ky411vs1518t095dfg4hl3w0000gn/T/com.agilebits.onepassword7/com.agilebits.Attachments.noindex/3fz6cd54wfaodh6ddxza6f5xrq/netsuite-credentials.json" timestamp="1591962895774">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
-      <jump line="1935" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
-      <jump line="265" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
-      <jump line="4170" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
-      <jump line="79" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="110" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="24" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="109" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
@@ -316,6 +332,12 @@
       <jump line="7" column="3" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyapp/MainApplication.java" />
       <jump line="110" column="10" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixel/Soma_Pixel1/Soma_Pixel1.ino" />
+      <jump line="56" column="2" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
+      <jump line="7" column="54" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
+      <jump line="70" column="1" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
+      <jump line="59" column="34" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,20 +345,25 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewogICJ0b2tlbl9rZXkiOjx0b2tlbl9rZXk+LAogICJ0b2tlbl9zZWNyZXQiOiA8dG9rZW4tc2VjcmV0PiwKICAiY29uc3VtZXJfa2V5IjogPGNvbnN1bWVyX2tleT4sCiAgImNvbnN1bWVyX3NlY3JldCI6IDxjb25zdW1lcl9zZWNyZXQ+Cn0K</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PHBhc3M+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcmVzc3VyZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnLmhhc0tleShLRVlfUkVHSVNUUkFUSU9OX0JBQ0tHUk9VTkRUQVNLKSkgewogICAgICAgICAgICBTdHJpbmcgYmFja2dyb3VuZFRhc2tOYW1lID0gY29uZmlnLmdldFN0cmluZyhLRVlfUkVHSVNUUkFUSU9OX0JBQ0tHUk9VTkRUQVNLKTsKICAgICAgICAgICAgbm90aWZpY2F0aW9uSHViVXRpbC5zZXRCYWNrZ3JvdW5kVGFza05hbWUocmVhY3RDb250ZXh0LCBiYWNrZ3JvdW5kVGFza05hbWUpOwogICAgICAgIH0K</text>
+        <text>{
+  &quot;token_key&quot;: &quot;add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70&quot;,
+  &quot;token_secret&quot;: &quot;f913f420f66a8a87bed0a29f32d40e9b037a20b682524c3cc6cbc067c7bfa0ac&quot;,
+  &quot;consumer_key&quot;: &quot;9888e0235b0efb080e6deb902d7ed263f8107621206f00c01d3b97fd4e482b76&quot;,
+  &quot;consumer_secret&quot;: &quot;4a99f9a4f076d7043b1a81537013eb69ffc696230799572116239442df8e9fb0&quot;
+}</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -351,13 +378,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJ0b2tlbl9rZXkiOjx0b2tlbl9rZXk+LAogICJ0b2tlbl9zZWNyZXQiOiA8dG9rZW4tc2VjcmV0PiwKICAiY29uc3VtZXJfa2V5IjogPGNvbnN1bWVyX2tleT4sCiAgImNvbnN1bWVyX3NlY3JldCI6IDxjb25zdW1lcl9zZWNyZXQ+Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgc2hlbGwgc2NyaXB0CgpgYGAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -375,31 +402,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgTm90aWZpY2F0aW9uSHViID0gcmVxdWlyZSgicmVhY3QtbmF0aXZlLWF6dXJlbm90aWZpY2F0aW9uaHViIikK</text>
+        <text encoding="base64">Zm9yIHNlY3JldCBpbiBhcGktY3JlZGVudGlhbHMgZGItY3JlZGVudGlhbHMgZHJvcGJveC1hcGktY3JlZGVudGlhbHMgZXF0LWFwaS1jcmVkZW50aWFscyBuZXRzdWl0ZS1jcmVkZW50aWFscyBzZXJ2aWNlLWFjY291bnQta2V5IHdvcmthdG8tY3JlZGVudGlhbHMgemVuZGVzay1zZXJ2aWNlLWNyZWRlbnRpYWxzICAgICAgICAgICAgICAgICAgIDw8PApkbwogICAgICAgIG1rZGlyIC1wICJzZWNyZXRzLyR7c2VjcmV0fSI7CiAgICAgICAgdG91Y2ggInNlY3JldHMvJHtzZWNyZXR9LyR7c2VjcmV0fS5qc29uIjsKZG9uZQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZQogIGVjaG8gInNlY3JldHMvYXBpLWNyZWRlbnRpYWxzL2FwaS1jcmVkZW50aWFscy5qc29uIGFscmVhZHkgZXhpc3RzLCBza2lwcGluZyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
+        <text encoding="base64">ICBlY2hvICJDcmVhdGluZyBzZWNyZXRzL2FwaS1jcmVkZW50aWFscy9hcGktY3JlZGVudGlhbHMuanNvbiIK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpbXBsZW1lbnRhdGlvbiBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5mYWNlYm9vay5yZWFjdDpyZWFjdC1uYXRpdmU6KycKICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtZ2NtOjE2LjAuMCcKICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLW1lc3NhZ2luZzoxNy4zLjQnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjcuKycKICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjcuKycKICAgIGltcGxlbWVudGF0aW9uICdjb20ubWljcm9zb2Z0LmF6dXJlOm5vdGlmaWNhdGlvbi1odWJzLWFuZHJvaWQtc2RrOjAuNEBhYXInCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLm1pY3Jvc29mdC5henVyZTphenVyZS1ub3RpZmljYXRpb25zLWhhbmRsZXI6MS4wLjFAYWFyJwo9PT09PT09Cg==</text>
+        <text encoding="base64">Y3JlYXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBjb21waWxlU2RrVmVyc2lvbiBzYWZlRXh0R2V0KCdjb21waWxlU2RrVmVyc2lvbicsIDI3KQogICAgYnVpbGRUb29sc1ZlcnNpb24gc2FmZUV4dEdldCgnYnVpbGRUb29sc1ZlcnNpb24nLCAnMjcuMC4zJykKCiAgICBkZWZhdWx0Q29uZmlnIHsKICAgICAgICBtaW5TZGtWZXJzaW9uIHNhZmVFeHRHZXQoJ21pblNka1ZlcnNpb24nLCAxNikKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIHNhZmVFeHRHZXQoJ3RhcmdldFNka1ZlcnNpb24nLCAyNykKPT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4YTJhMjQxN2ViMTJmMzljNDQ5NzIxZWZlMTQ2NDllZDYyZTRjYTEzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
