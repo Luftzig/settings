@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TOKVBAR</entry>
         <entry>TOKCOM</entry>
         <entry>TOKPARR</entry>
         <entry encoding="base64">XDxMZXRFeHBcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>NotificationHub</entry>
         <entry encoding="base64">XDxQcmVzc3VyZVw+</entry>
         <entry encoding="base64">XDx3aWxsU2VuZFJlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/IsZero/UMin/g</entry>
@@ -128,26 +128,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" timestamp="1591089643643">
-        <mark key="'" line="7" column="3" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592209035118">
-        <mark key="'" line="79" column="22" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592213508269">
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="79" column="48" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="25" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-server-env/dist/url.d.ts" timestamp="1592209042455">
         <mark key="'" line="36" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/.gitignore" timestamp="1591877155552">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/json-server/db.json" timestamp="1591965917434">
         <mark key="'" line="901" column="4" />
@@ -159,19 +148,42 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" timestamp="1591965680764">
         <mark key="'" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" timestamp="1592213298900">
+        <mark key="'" line="21" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/app/middleware.js" timestamp="1592213333640">
+        <mark key="'" line="25" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/dist/RESTDataSource.d.ts" timestamp="1592207657844">
         <mark key="'" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixel/Soma_Pixel1/Soma_Pixel1.ino" timestamp="1591878693180">
-        <mark key="'" line="110" column="10" />
+      <file name="/JavaScript Console" timestamp="1592215047781">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/private/var/folders/4_/5ky411vs1518t095dfg4hl3w0000gn/T/com.agilebits.onepassword7/com.agilebits.Attachments.noindex/lllm6dbc2jggrdya6aheb6xjxu/workato-credentials.json" timestamp="1591962991264">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
       </file>
-      <file name="/private/var/folders/4_/5ky411vs1518t095dfg4hl3w0000gn/T/com.agilebits.onepassword7/com.agilebits.Attachments.noindex/3fz6cd54wfaodh6ddxza6f5xrq/netsuite-credentials.json" timestamp="1591962895774">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592215042207">
+        <mark key="'" line="34" column="23" />
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/test/utils/setupAndTeardown.js" timestamp="1592213244978">
+        <mark key="'" line="25" column="9" />
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="25" column="9" />
+        <mark key="^" line="25" column="9" />
+        <mark key="." line="25" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" timestamp="1592214850410">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1591966409984">
         <mark key="[" line="0" column="0" />
@@ -179,36 +191,23 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/build.gradle" timestamp="1591089336975">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/utils/json-server.js" timestamp="1592209840727">
+        <mark key="'" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/secrets/workato-credentials/workato-credentials.json" timestamp="1591963019236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/README.md" timestamp="1591962686294">
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/secrets/db-credentials/db-credentials.json" timestamp="1591962781570">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/example-tests.js" timestamp="1592209577020">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1592209038537">
         <mark key="'" line="155" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" timestamp="1591962595517">
-        <mark key="'" line="56" column="34" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/api-client/eqt-dropbox-api.js" timestamp="1592213362122">
+        <mark key="'" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/.env" timestamp="1591965384840">
         <mark key="[" line="0" column="0" />
@@ -221,40 +220,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyapp/MainApplication.java" timestamp="1591090068755">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="66" column="76" />
-        <mark key="]" line="66" column="76" />
-        <mark key="." line="66" column="76" />
-        <mark key="^" line="66" column="80" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="40" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="25" column="48" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="61" column="11" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
-      <jump line="286" column="13" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
-      <jump line="46" column="47" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="48" column="61" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="3" column="14" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="51" column="29" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="24" column="58" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/TypecheckerExceptions.scala" />
-      <jump line="29" column="19" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
-      <jump line="82" column="67" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
-      <jump line="46" column="11" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/parser/AST.scala" />
-      <jump line="100" column="32" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="110" column="31" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="108" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="107" column="58" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="120" column="50" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="106" column="39" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="19" column="82" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="111" column="33" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/typechecker/Typechecker.scala" />
-      <jump line="86" column="4" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
-      <jump line="85" column="26" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
-      <jump line="17" column="2" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/scala/simpret/MainTestLab2.scala" />
-      <jump line="272" column="40" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="110" column="8" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="219" column="17" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/main/scala/simpret/interpreter/Interpreter.scala" />
       <jump line="18" column="9" filename="$USER_HOME$/Projects/Study/popl/labs/lab1/src/test/sint/lab2/fixpointtests/case_1_extensions_0.sint" />
@@ -330,6 +297,31 @@
       <jump line="155" column="18" filename="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" />
       <jump line="36" column="12" filename="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-server-env/dist/url.d.ts" />
       <jump line="18" column="21" filename="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-server-env/dist/url.d.ts" />
+      <jump line="36" column="32" filename="$USER_HOME$/Projects/eqt-requests/test/utils/setupAndTeardown.js" />
+      <jump line="37" column="33" filename="$USER_HOME$/Projects/eqt-requests/test/utils/setupAndTeardown.js" />
+      <jump line="9" column="53" filename="$USER_HOME$/Projects/eqt-requests/test/utils/json-server.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="9" column="22" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="4" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="44" column="21" filename="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" />
+      <jump line="21" column="24" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" />
+      <jump line="24" column="10" filename="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" />
+      <jump line="27" column="3" filename="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" />
+      <jump line="27" column="45" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="20" column="25" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="25" column="9" filename="$USER_HOME$/Projects/eqt-requests/test/utils/setupAndTeardown.js" />
+      <jump line="21" column="1" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
+      <jump line="1" column="41" filename="$USER_HOME$/Projects/eqt-requests/app/middleware.js" />
+      <jump line="25" column="52" filename="$USER_HOME$/Projects/eqt-requests/app/middleware.js" />
+      <jump line="34" column="5" filename="$USER_HOME$/Projects/eqt-requests/app/api-client/eqt-dropbox-api.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/Projects/eqt-requests/app/api-client/eqt-dropbox-api.js" />
+      <jump line="2" column="37" filename="$USER_HOME$/Projects/eqt-requests/app/api-client/eqt-dropbox-api.js" />
+      <jump line="30" column="23" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="74" column="8" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="41" column="15" filename="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,21 +330,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5ldHN1aXRlQXBpRW5kcG9pbnRzID0gcmVxdWlyZSgnLi4vLi4vYXBwL2RhdGEtc291cmNlcy9uZXRzdWl0ZS1hcGkuZGF0YS1zb3VyY2UnKQo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Kaepora</text>
+        <text>[LABEL]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aWxsU2VuZFJlcXVlc3RcPg==</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text>{
-  &quot;token&quot;: &quot;3e7834547ff4cade622d340251a7a3f2f69e6127eca281930e2b896e0038794d&quot;
-}</text>
+        <text encoding="base64">ZXNtID0gcmVxdWlyZSgnZXNtJykobW9kdWxlKQpjb25zdCB7IGV4cGVjdCB9ID0gcmVxdWlyZSgnY2hhaScpCgpjb25zdCB7CiAgc2V0dXAsCiAgdGVhcmRvd24sCiAgc2V0dXBTZXJ2ZXJzLAogIGdldEpzb25DbGllbnQsCiAgYXBvbGxvQ2xpZW50LAp9ID0gcmVxdWlyZSgnLi4vdXRpbHMvc2V0dXBBbmRUZWFyZG93bicpCmNvbnN0IHsgQ1JFQVRFX09SX1VQREFURV9SRVFVRVNULCBHRVRfUkVRVUVTVFMgfSA9IGVzbSgKICAnLi4vLi4vY2xpZW50L3NyYy9zY2hlbWEuanMnCikKY29uc3QgeyBtb2NrQ3VycmVudFVzZXIgfSA9IHJlcXVpcmUoJy4uL3V0aWxzL21vY2snKQoKZGVzY3JpYmUoJ0dyYXBoUUwgQVBJIGV4YW1wbGUgdGVzdHMnLCBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -367,13 +357,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE5ldHN1aXRlQXBpRW5kcG9pbnRzID0gcmVxdWlyZSgnLi4vLi4vYXBwL2RhdGEtc291cmNlcy9uZXRzdWl0ZS1hcGkuZGF0YS1zb3VyY2UnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgTmV0c3VpdGVBcGlFbmRwb2ludHMgPSByZXF1aXJlKCcuLi8uLi9hcHAvZGF0YS1zb3VyY2VzL25ldHN1aXRlLWFwaS5kYXRhLXNvdXJjZScpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -391,31 +381,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyAidG9rZW4iOiA8d29ya2F0b190b2tlbj4gfQo=</text>
+        <text encoding="base64">ICBjb25zdCBzcHkgPSBzaW5vbi5zcHkobW9ja0xvZ2dlcikK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewogICJ0b2tlbl9rZXkiOjx0b2tlbl9rZXk+LAogICJ0b2tlbl9zZWNyZXQiOiA8dG9rZW4tc2VjcmV0PiwKICAiY29uc3VtZXJfa2V5IjogPGNvbnN1bWVyX2tleT4sCiAgImNvbnN1bWVyX3NlY3JldCI6IDxjb25zdW1lcl9zZWNyZXQ+Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgc2hlbGwgc2NyaXB0CgpgYGAK</text>
+        <text encoding="base64">ICByZXR1cm4gc2lub24uc3B5KG1vY2tMb2dnZXIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIHNlY3JldCBpbiBhcGktY3JlZGVudGlhbHMgZGItY3JlZGVudGlhbHMgZHJvcGJveC1hcGktY3JlZGVudGlhbHMgZXF0LWFwaS1jcmVkZW50aWFscyBuZXRzdWl0ZS1jcmVkZW50aWFscyBzZXJ2aWNlLWFjY291bnQta2V5IHdvcmthdG8tY3JlZGVudGlhbHMgemVuZGVzay1zZXJ2aWNlLWNyZWRlbnRpYWxzICAgICAgICAgICAgICAgICAgIDw8PApkbwogICAgICAgIG1rZGlyIC1wICJzZWNyZXRzLyR7c2VjcmV0fSI7CiAgICAgICAgdG91Y2ggInNlY3JldHMvJHtzZWNyZXR9LyR7c2VjcmV0fS5qc29uIjsKZG9uZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWxzZQogIGVjaG8gInNlY3JldHMvYXBpLWNyZWRlbnRpYWxzL2FwaS1jcmVkZW50aWFscy5qc29uIGFscmVhZHkgZXhpc3RzLCBza2lwcGluZyIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVxdExvZ2dlciA9IHJlcXVpcmUoJ0BlcXRwYXJ0bmVycy9lcXQtbG9nZ2VyJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlY2hvICJDcmVhdGluZyBzZWNyZXRzL2FwaS1jcmVkZW50aWFscy9hcGktY3JlZGVudGlhbHMuanNvbiIK</text>
+        <text encoding="base64">ICBjb25zdCBzYW5kYm94ID0gc2lub24uY3JlYXRlU2FuZGJveCgpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y3JlYXQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29uc3QgbW9ja0VxdExvZ2dlciA9ICgpID0+IHsKICBjb25zdCBtb2NrTG9nZ2VyID0gewogICAgaW5pdDogKCkgPT4ge30sCiAgICBhZGRMYWJlbDogKCkgPT4ge30sCiAgICBnZXRSZXF1ZXN0TG9nZ2VyOiAoKSA9PiAocmVxLCByZXMsIG5leHQpID0+IHsKICAgICAgbmV4dCgpCiAgICB9LAogICAgYWRkSWdub3JlZFBhdGg6ICgpID0+IHt9LAogICAgZ2V0TG9nTGV2ZWw6ICgpID0+IHt9LAogICAgZ2V0TG9nTGV2ZWxTdHJpbmc6ICgpID0+IHt9LAogICAgc2V0TG9nTGV2ZWw6ICgpID0+IHt9LAogICAgZXJyb3I6ICgpID0+IHt9LAogICAgd2FybjogKCkgPT4ge30sCiAgICBpbmZvOiAoKSA9PiB7fSwKICAgIGRlYnVnOiAoKSA9PiB7fSwKICB9CiAgbW9ja2VyeS5yZWdpc3Rlck1vY2soCiAgICAnQGVxdHBhcnRuZXJzL2VxdC1sb2dnZXInLAogICAg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -424,9 +414,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx3aWxsU2VuZFJlcXVlc3RcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aWxsU2VuZFJlcXVlc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>from, to</last-replace>
       <last-substitute>to, from</last-substitute>
       <last-dir>1</last-dir>
