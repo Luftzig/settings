@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>azure</entry>
-        <entry>microsoft</entry>
-        <entry>allRepo</entry>
         <entry>allProj</entry>
         <entry>dependencies</entry>
         <entry>uses-lib</entry>
@@ -25,6 +22,9 @@
         <entry>=</entry>
         <entry encoding="base64">Jg==</entry>
         <entry encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</entry>
+        <entry>did</entry>
+        <entry encoding="base64">XDxuZXRzdWl0ZUJhc2VIb3N0XD4=</entry>
+        <entry encoding="base64">XDxuZXRzdWl0ZUNyZWRlbnRpYWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1woLiovID0+IE5vbmU=</entry>
@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592297112369">
-        <mark key="'" line="128" column="24" />
-        <mark key="[" line="126" column="19" />
-        <mark key="]" line="126" column="19" />
-        <mark key="." line="126" column="19" />
-        <mark key="^" line="75" column="4" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592314856977">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="85" column="36" />
+        <mark key="^" line="85" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-server-env/dist/url.d.ts" timestamp="1592209042455">
         <mark key="'" line="36" column="12" />
@@ -144,8 +144,8 @@
       <file name="internal/async_hooks.js" timestamp="1592295777238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" timestamp="1592213298900">
-        <mark key="'" line="21" column="1" />
+      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" timestamp="1592313746642">
+        <mark key="'" line="136" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/app/middleware.js" timestamp="1592213333640">
         <mark key="'" line="25" column="52" />
@@ -157,12 +157,12 @@
       <file name="internal/inspector_async_hook.js" timestamp="1592295795468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592305463482">
-        <mark key="'" line="44" column="24" />
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592314897369">
+        <mark key="'" line="66" column="67" />
+        <mark key="[" line="63" column="46" />
+        <mark key="]" line="63" column="66" />
+        <mark key="." line="63" column="65" />
+        <mark key="^" line="63" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/test/it/team-requests.js" timestamp="1592218672574">
         <mark key="'" line="45" column="6" />
@@ -194,8 +194,8 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1592209038537">
         <mark key="'" line="155" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/config.js" timestamp="1592297063081">
-        <mark key="'" line="19" column="30" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/config.js" timestamp="1592314104031">
+        <mark key="'" line="18" column="4" />
         <mark key="[" line="19" column="56" />
         <mark key="]" line="19" column="58" />
         <mark key="." line="19" column="57" />
@@ -212,23 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
-      <jump line="65" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
-      <jump line="33" column="14" filename="$USER_HOME$/Projects/SveviaSafetyApp/node_modules/react-native-azurenotificationhub/index.d.ts" />
-      <jump line="131" column="51" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="188" column="35" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" />
-      <jump line="232" column="8" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="47" column="113" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="393" column="44" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="410" column="16" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="415" column="16" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="185" column="32" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="420" column="44" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="421" column="44" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationHubModule.java" />
-      <jump line="35" column="33" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" />
-      <jump line="75" column="23" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeNotificationsHandler.java" />
-      <jump line="75" column="4" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeFirebaseMessagingService.java" />
       <jump line="98" column="44" filename="$USER_HOME$/Projects/react-native-azurenotificationhub/android/src/main/java/com/azure/reactnative/notificationhub/ReactNativeFirebaseMessagingService.java" />
       <jump line="109" column="11" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
@@ -282,15 +265,11 @@
       <jump line="45" column="6" filename="$USER_HOME$/Projects/eqt-requests/test/it/team-requests.js" />
       <jump line="20" column="14" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="18" column="30" filename="$USER_HOME$/Projects/eqt-requests/app/gql/schema.js" />
-      <jump line="34" column="27" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="77" column="25" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="54" column="26" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="29" column="17" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="81" column="15" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="79" column="80" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="25" column="19" filename="$USER_HOME$/Projects/eqt-requests/test/utils/setupAndTeardown.js" />
       <jump line="19" column="18" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="13" column="36" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="363" column="4" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="0" column="6" filename="$USER_HOME$/Projects/eqt-requests/app/api-ms.js" />
       <jump line="29" column="45" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
@@ -312,6 +291,27 @@
       <jump line="88" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
       <jump line="19" column="30" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
       <jump line="43" column="24" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="94" column="16" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="9" column="37" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="139" column="77" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
+      <jump line="136" column="66" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
+      <jump line="34" column="21" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="138" column="32" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="29" column="17" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="87" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="67" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="56" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="45" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="33" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="58" column="27" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="13" column="60" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="64" column="67" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="81" column="36" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="440" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="40" column="9" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,20 +319,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</text>
+        <text encoding="base64">XDxuZXRzdWl0ZUNyZWRlbnRpYWxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCB1cmwgPSBgaHR0cHM6Ly8ke0FQSV9IT1NUfS9hcHAvc2l0ZS9ob3N0aW5nL3Jlc3RsZXQubmw/JHtOU19SRUxFQVNFfSZlbWFpbD0ke3VzZXJFbWFpbH0mdHlwZT1nZXRCaWxsc0ZvckFwcHJvdmFsYAo=</text>
+        <text encoding="base64">ICBuZXRzdWl0ZVJlYWxtLAogIG5ldHN1aXRlQ3JlZGVudGlhbHMsCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -347,13 +347,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFtuZXRzdWl0ZVJlbGVhc2VQYXJhbXNdOiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgTlNfUkVMRUFTRV9QQVJBTVMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKE5TX1JFTEVBU0UpLmVudHJpZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -392,31 +392,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuZXRzdWl0ZVJlbGVhc2VTdHJpbmcgPSAnc2NyaXB0PTEyMjMmZGVwbG95PTEnCg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZUVhY2gK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChncm91cCA9PiBncm91cC5zdWJzdHIoMikgKyAnKicucmVwZWF0KGdyb3VwLmxlbmd0aCAtIDIpKQogICAgICAuam9pbignQCcpCg==</text>
+        <text encoding="base64">ICAgICAgbW9ja2VyeS5yZXNldENhY2hlKCkKICAgICAgbW9ja2VyeS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">ICAgIGxldCBOZXRzdWl0ZUFwaUVuZHBvaW50cwo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXJTcHksCiAgICAgICAgTmV0c3VpdGVBcGlFbmRwb2ludHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGBOZXRzdWl0ZS1BUEk6IEdFVCAke3RoaXMuYmFzZVVSTH0ke0VORFBPSU5UX1BBVEh9YCwgdXJsUGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIDtbTm9kZV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gJycK</text>
+        <text encoding="base64">ICBsZXQgbG9nZ2VyU3B5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -425,9 +425,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxuZXRzdWl0ZUNyZWRlbnRpYWxzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXRzdWl0ZUNyZWRlbnRpYWxzXD4=</last-pattern>
       <last-replace>', '</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
