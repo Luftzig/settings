@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TOKCOM</entry>
-        <entry>TOKPARR</entry>
-        <entry encoding="base64">XDxMZXRFeHBcPg==</entry>
-        <entry encoding="base64">ZnJlZTog</entry>
         <entry>azure</entry>
         <entry>microsoft</entry>
         <entry>allRepo</entry>
@@ -25,11 +21,12 @@
         <entry encoding="base64">XDxQcmVzc3VyZVw+</entry>
         <entry encoding="base64">XDx3aWxsU2VuZFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry>to, from</entry>
+        <entry>=</entry>
+        <entry encoding="base64">Jg==</entry>
+        <entry encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/IsZero/UMin/g</entry>
-        <entry>s/Plus/Lt/g</entry>
-        <entry encoding="base64">JzwsJz5zL1BsdXMvTHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woLiovID0+IE5vbmU=</entry>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -43,9 +40,12 @@
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IE5ldmVyVHlwZQ==</entry>
         <entry encoding="base64">JzwsJz5zL3Rocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4IikvZXJyVW5rbm93bkFTVCh4KQ==</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHRocm93IG5ldyBFeGNlcHRpb24ocyJOb3QgaW1wbGVtZW50ZWQ6ICR4Iik=</entry>
-        <entry encoding="base64">JzwsJz5zL3RvLCBmcm9tL2Zyb20sIHRvLw==</entry>
         <entry>registers</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL3RvLCBmcm9tL2Zyb20sIHRvLw==</entry>
+        <entry encoding="base64">JzwsJz5zLz0vJzogJy9n</entry>
+        <entry>s/=/': '/g</entry>
+        <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592296465300">
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592297112369">
         <mark key="'" line="128" column="24" />
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="59" column="11" />
-        <mark key="." line="59" column="11" />
-        <mark key="^" line="60" column="15" />
+        <mark key="[" line="126" column="19" />
+        <mark key="]" line="126" column="19" />
+        <mark key="." line="126" column="19" />
+        <mark key="^" line="75" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-server-env/dist/url.d.ts" timestamp="1592209042455">
         <mark key="'" line="36" column="12" />
@@ -157,10 +157,11 @@
       <file name="internal/inspector_async_hook.js" timestamp="1592295795468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592294396294">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592297297564">
+        <mark key="[" line="41" column="56" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="46" />
+        <mark key="^" line="42" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/test/it/team-requests.js" timestamp="1592218672574">
         <mark key="'" line="45" column="6" />
@@ -192,11 +193,12 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1592209038537">
         <mark key="'" line="155" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/config.js" timestamp="1592292486773">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/config.js" timestamp="1592297063081">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="19" column="58" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/app/api-client/eqt-dropbox-api.js" timestamp="1592213362122">
         <mark key="'" line="2" column="37" />
@@ -209,12 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="55" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/build.gradle" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" />
-      <jump line="24" column="7" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/AndroidManifest.xml" />
-      <jump line="52" column="40" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
-      <jump line="45" column="25" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
-      <jump line="69" column="31" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="57" column="57" filename="$USER_HOME$/Projects/SveviaSafetyApp/android/app/src/main/java/se/svevia/safetyapp/MainApplication.java" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
       <jump line="65" column="4" filename="$USER_HOME$/Projects/SveviaSafetyApp/src/services/notifications/notification-hub-manager.android.ts" />
@@ -305,10 +301,16 @@
       <jump line="32" column="28" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="14" column="23" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="69" column="52" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="68" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
       <jump line="89" column="7" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="57" column="28" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="128" column="24" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="35" column="19" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="46" column="55" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="57" column="55" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="68" column="55" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="88" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
+      <jump line="19" column="30" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,17 +318,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>emailRegexp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIFtuZXRzdWl0ZVJlbGVhc2VQYXJhbXNdOiAnJywK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>emailRegexp</text>
+        <text>REDACTED</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIGxldCB1cmwgPSBgaHR0cHM6Ly8ke0FQSV9IT1NUfS9hcHAvc2l0ZS9ob3N0aW5nL3Jlc3RsZXQubmw/JHtOU19SRUxFQVNFfSZlbWFpbD0ke3VzZXJFbWFpbH0mdHlwZT1nZXRCaWxsc0ZvckFwcHJvdmFsYAo=</text>
@@ -344,55 +346,76 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFtuZXRzdWl0ZVJlbGVhc2VQYXJhbXNdOiAnJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgTlNfUkVMRUFTRV9QQVJBTVMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKE5TX1JFTEVBU0UpLmVudHJpZXMoKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="91" mods="130" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGBOZXRzdWl0ZS1BUEk6IEdFVCAke3RoaXMuYmFzZVVSTH0ke0VORFBPSU5UX1BBVEh9YCwgdXJsUGFyYW1zKQo=</text>
+        <text encoding="base64">ICBuZXRzdWl0ZVJlbGVhc2VTdHJpbmcgPSAnc2NyaXB0PTEyMjMmZGVwbG95PTEnCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gJycK</text>
+        <text encoding="base64">ICAgICAgLm1hcChncm91cCA9PiBncm91cC5zdWJzdHIoMikgKyAnKicucmVwZWF0KGdyb3VwLmxlbmd0aCAtIDIpKQogICAgICAuam9pbignQCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRVcmwgPSBgaHR0cHM6Ly8ke25ldHN1aXRlQmFzZUhvc3R9L2FwcC9zaXRlL2hvc3RpbmcvcmVzdGxldC5ubD8ke25ldHN1aXRlQmFzZUhvc3R9JmVtYWlsPSR7ZmFrZUVtYWlsfSZ0eXBlPWdldEJpbGxzRm9yQXBwcm92YWxgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZXRzdWl0ZVJlYWxtLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGBOZXRzdWl0ZS1BUEk6IEdFVCAke3RoaXMuYmFzZVVSTH0ke0VORFBPSU5UX1BBVEh9YCwgdXJsUGFyYW1zKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuZXRzdWl0ZUJhc2VIb3N0LAo=</text>
+        <text encoding="base64">ICByZXR1cm4gJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgW05TX1JFTEVBU0VdOiAnJywK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -401,11 +424,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
-      <last-replace>from, to</last-replace>
-      <last-substitute>to, from</last-substitute>
+      <last-pattern encoding="base64">XDxuZXRzdWl0ZVJlbGVhc2VTdHJpbmdcPg==</last-pattern>
+      <last-replace>', '</last-replace>
+      <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
