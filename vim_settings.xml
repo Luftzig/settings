@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onNewIntent</entry>
-        <entry>sendNotification</entry>
-        <entry>NotificationHub</entry>
-        <entry encoding="base64">XDxQcmVzc3VyZVw+</entry>
         <entry encoding="base64">XDx3aWxsU2VuZFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>to, from</entry>
@@ -25,6 +21,10 @@
         <entry>put</entry>
         <entry>Response</entry>
         <entry>\oauth</entry>
+        <entry>authorize</entry>
+        <entry encoding="base64">XDxnZXRCYXNlU3RyaW5nXD4=</entry>
+        <entry encoding="base64">XDxnZXRQYXJhbWV0ZXJTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxnZXRTaWduYXR1cmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1woLiovID0+IE5vbmU=</entry>
@@ -128,11 +128,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592488850629">
-        <mark key="'" line="130" column="69" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592491628679">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="16" />
+        <mark key="^" line="77" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.d.ts" timestamp="1592489246372">
+        <mark key="'" line="29" column="2" />
       </file>
       <file name="/fragment.js" timestamp="1592487415169">
         <mark key="[" line="0" column="0" />
@@ -140,16 +144,22 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/oauth.js" timestamp="1592489642849">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/app/api-ms.js" timestamp="1592291368000">
         <mark key="'" line="0" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1592487176116">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1592491773255">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/helpers/requestHelper.js" timestamp="1592220356938" />
       <file name="internal/inspector_async_hook.js" timestamp="1592295795468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,6 +186,9 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" timestamp="1592491865459">
+        <mark key="'" line="86" column="38" />
+      </file>
       <file name="internal/async_hooks.js" timestamp="1592319814658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,24 +205,18 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/dist/RESTDataSource.d.ts" timestamp="1592470140403">
         <mark key="'" line="21" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592488955020">
+      <file name="/JavaScript Console" timestamp="1592492209789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592488872594">
-        <mark key="[" line="238" column="66" />
-        <mark key="]" line="238" column="63" />
-        <mark key="." line="238" column="62" />
-        <mark key="^" line="238" column="63" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592492461706">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="244" column="44" />
+        <mark key="]" line="244" column="45" />
+        <mark key="." line="244" column="44" />
+        <mark key="^" line="244" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/HTTPCache.ts" timestamp="1592471051953">
         <mark key="'" line="32" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/test/utils/mock.js" timestamp="1592219540286">
-        <mark key="'" line="41" column="15" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1592320355950">
         <mark key="[" line="0" column="0" />
@@ -217,26 +224,8 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/gql/schema.js" timestamp="1592220098477">
-        <mark key="'" line="18" column="30" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="46" column="55" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="57" column="55" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="68" column="55" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="88" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="19" column="30" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="43" column="24" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="94" column="16" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="9" column="37" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="139" column="77" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
-      <jump line="136" column="66" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
-      <jump line="34" column="21" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="87" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="67" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
-      <jump line="56" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
       <jump line="45" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
       <jump line="33" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Projects/eqt-requests/app/config.js" />
@@ -266,7 +255,6 @@
       <jump line="95" column="8" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="97" column="17" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="245" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="29" column="2" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="138" column="9" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="164" column="58" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
@@ -302,7 +290,6 @@
       <jump line="19" column="2" filename="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/HTTPCache.ts" />
       <jump line="32" column="22" filename="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/HTTPCache.ts" />
       <jump line="150" column="29" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="16" column="32" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="157" column="6" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="163" column="26" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="167" column="30" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
@@ -310,7 +297,6 @@
       <jump line="186" column="23" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="203" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="211" column="4" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="209" column="13" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
@@ -322,6 +308,24 @@
       <jump line="66" column="8" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="208" column="18" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="130" column="69" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="238" column="66" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="239" column="81" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="188" column="14" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.d.ts" />
+      <jump line="29" column="2" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.d.ts" />
+      <jump line="172" column="16" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
+      <jump line="33" column="7" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="478" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="12" column="3" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/oauth.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="227" column="12" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="99" column="35" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
+      <jump line="123" column="129" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
+      <jump line="86" column="38" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,19 +334,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\oauth</text>
+        <text encoding="base64">XDxnZXRTaWduYXR1cmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZha2VGZXRjaC5maXJzdENhbGwuZmlyc3RBcmcpCiAgICAgICAgLnRvLmhhdmUubmVzdGVkLnByb3BlcnR5KCdoZWFkZXJzJykK</text>
+      <register name="0" type="4">
+        <text>fakeFetch.firstCall.firstArg.headers.get('Authorization')</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -356,14 +360,21 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVxdWVzdERhdGEgPSB7IHVybDogZXhwZWN0ZWRVcmwudG9TdHJpbmcoKSwgbWV0aG9kOiAnR0VUJyB9Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  &quot;oauth_consumer_key&quot;: &quot;9888e0235b0efb080e6deb902d7ed263f8107621206f00c01d3b97fd4e482b76&quot;,
+  &quot;oauth_nonce&quot;: &quot;iUFBkoLZUVFsU4KwljFtMz2uw6t9gxpm&quot;,
+  &quot;oauth_signature_method&quot;: &quot;HMAC-SHA1&quot;,
+  &quot;oauth_timestamp&quot;: 1592491640,
+  &quot;oauth_version&quot;: &quot;1.0&quot;,
+  &quot;oauth_token&quot;: &quot;add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70&quot;
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMocGFyYW1zKQogICAgcGFyYW1zLnNvcnQoKQo=</text>
+        <text encoding="base64">ICBvYXV0aF9jb25zdW1lcl9rZXk6ICI5ODg4ZTAyMzViMGVmYjA4MGU2ZGViOTAyZDdlZDI2M2Y4MTA3NjIxMjA2ZjAwYzAxZDNiOTdmZDRlNDgyYjc2IiwKICBvYXV0aF9ub25jZTogImlVRkJrb0xaVVZGc1U0S3dsakZ0TXoydXc2dDlneHBtIiwKICBvYXV0aF9zaWduYXR1cmVfbWV0aG9kOiAiSE1BQy1TSEExIiwKICBvYXV0aF90aW1lc3RhbXA6IDE1OTI0OTE2NDAsCiAgb2F1dGhfdmVyc2lvbjogIjEuMCIsCi4uLn0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -402,31 +413,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRBdXRoSGVhZGVyID0gb2F1dGgudG9IZWFkZXIoCiAgICAgICAgb2F1dGguYXV0aG9yaXplKHJlcXVlc3REYXRhLCB0b2tlbikKICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb2F1dGguCg==</text>
+        <text encoding="base64">ewogICJrZXkiOiAiYWRkNjIyYTkzNjg4MzU0NjZhNjI5ODdhYmE2OTM2YjhlZjg5ZDczNGEyMjc0OTg2OTkzYTQyZDFhOTEwMGI3MCIsCiAgInNlY3JldCI6ICJmOTEzZjQyMGY2NmE4YTg3YmVkMGEyOWYzMmQ0MGU5YjAzN2EyMGI2ODI1MjRjM2NjNmNiYzA2N2M3YmZhMGFjIgp9CnsKICAidXJsIjogImh0dHA6Ly9sb2NhbGhvc3Q6MTMzNi9hcHAvc2l0ZS9ob3N0aW5nL3Jlc3RsZXQubmw/ZGVwbG95PTEmZW1haWw9ZmFrZSU0MGZha2VsYW5kLmNvJnNjcmlwdD0xMTkwJnR5cGU9Z2V0QmlsbHNGb3JBcHByb3ZhbCIsCiAgIm1ldGhvZCI6ICJHRVQiCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVybC5zZWFyY2hQYXJhbXMuc29ydCgpCg==</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlIG9hdXRoRGF0YVsnc2lnbmF0dXJlJ10K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGhhdC5zYXRpc2ZpZXModXJsID0+IHsKICAgICAgICAgIGNvbnN0IGVuY29kZWQgPSBuZXcgVVJMKHVybCkKICAgICAgICAgIGVuY29kZWQuc2VhcmNoUGFyYW1zLnNvcnQoKQogICAgICAgICAgcmV0dXJuIGVuY29kZWQudG9TdHJpbmcoKSA9PT0gZXhwZWN0ZWRVcmwudG9TdHJpbmcoKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZha2VGZXRjaC5jYWxsZWQsIGBleHBlY3RlZCBjYWxsYCkudG8uYmUudHJ1ZQogICAgICBleHBlY3QoZmFrZUZldGNoLmZpcnN0Q2FsbC5maXJzdEFyZykudG8uaGF2ZS5uZXN0ZWQucHJvcGVydHkoCiAgICAgICAgJ21ldGhvZCcsCiAgICAgICAgJ0dFVCcKICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXJ0RnJvbVJlY29yZDogZmFrZU9mZnNldCwKICAgICAgICBzdG9wQXRSZWNvcmQ6IGZha2VPZmZzZXQgKyBmYWtlTGltaXQsCg==</text>
+        <text encoding="base64">ICAgIE9BdXRoKHsKICAgICAgY29uc3VtZXI6IHsKICAgICAgICBrZXk6IG5ldHN1aXRlQ3JlZGVudGlhbHMuY29uc3VtZXJfa2V5LAogICAgICAgIHNlY3JldDogbmV0c3VpdGVDcmVkZW50aWFscy5jb25zdW1lcl9zZWNyZXQsCiAgICAgIH0sCiAgICAgIHNpZ25hdHVyZV9tZXRob2Q6ICdITUFDLVNIQTEnLAogICAgICByZWFsbTogbmV0c3VpdGVSZWFsbSwKICAgICAgaGFzaF9mdW5jdGlvbihiYXNlX3N0cmluZywga2V5KSB7CiAgICAgICAgcmV0dXJuIGNyeXB0bwogICAgICAgICAgLmNyZWF0ZUhtYWMoJ3NoYTEnLCBrZXkpCiAgICAgICAgICAudXBkYXRlKGJhc2Vfc3RyaW5nKQogICAgICAgICAgLmRpZ2VzdCgnYmFzZTY0JykKICAgICAgfSwKICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -435,9 +446,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\oauth</last-search>
+      <last-search encoding="base64">XDxnZXRTaWduYXR1cmVcPg==</last-search>
       <last-offset />
-      <last-pattern>\oauth</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTaWduYXR1cmVcPg==</last-pattern>
       <last-replace>', '</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
