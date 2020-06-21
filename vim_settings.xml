@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>to, from</entry>
         <entry>=</entry>
         <entry encoding="base64">Jg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZXRQYXJhbWV0ZXJTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxnZXRTaWduYXR1cmVcPg==</entry>
         <entry encoding="base64">XDxDaGVja2JveFw+</entry>
+        <entry>zeroconf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1woLiovID0+IE5vbmU=</entry>
@@ -151,9 +151,6 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/api-ms.js" timestamp="1592291368000">
-        <mark key="'" line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Study/Somabits.org" timestamp="1592735190646">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="29" />
@@ -201,8 +198,8 @@
       <file name="/JavaScript Console" timestamp="1592492503073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" timestamp="1592742713374">
-        <mark key="'" line="113" column="8" />
+      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" timestamp="1592743139666">
+        <mark key="'" line="394" column="25" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="139" column="85" />
         <mark key="." line="139" column="84" />
@@ -226,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="16" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="277" column="24" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="322" column="22" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="339" column="22" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="354" column="32" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
@@ -326,6 +321,8 @@
       <jump line="199" column="46" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
       <jump line="203" column="62" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
       <jump line="113" column="8" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
+      <jump line="305" column="0" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
+      <jump line="394" column="25" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,7 +340,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaGVja2JveFw+</text>
+        <text>zeroconf</text>
       </register>
       <register name="0" type="4">
         <text>fakeFetch.firstCall.firstArg.headers.get('Authorization')</text>
@@ -446,9 +443,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDaGVja2JveFw+</last-search>
+      <last-search>zeroconf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaGVja2JveFw+</last-pattern>
+      <last-pattern>zeroconf</last-pattern>
       <last-replace>', '</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
