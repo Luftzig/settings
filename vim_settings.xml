@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592836438416">
-        <mark key="'" line="385" column="26" />
-        <mark key="[" line="426" column="8" />
-        <mark key="]" line="426" column="28" />
-        <mark key="." line="77" column="16" />
-        <mark key="^" line="77" column="17" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592837081994">
+        <mark key="'" line="438" column="6" />
+        <mark key="[" line="75" column="5" />
+        <mark key="]" line="76" column="62" />
+        <mark key="." line="76" column="61" />
+        <mark key="^" line="76" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.d.ts" timestamp="1592489246372">
         <mark key="'" line="29" column="2" />
@@ -172,9 +172,6 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" timestamp="1592491865459">
         <mark key="'" line="86" column="38" />
       </file>
-      <file name="internal/async_hooks.js" timestamp="1592319814658">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/json-server/db.json" timestamp="1592464882073">
         <mark key="'" line="901" column="4" />
         <mark key="[" line="8" column="27" />
@@ -192,7 +189,7 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/dist/RESTDataSource.d.ts" timestamp="1592470140403">
         <mark key="'" line="21" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592835986526">
+      <file name="/JavaScript Console" timestamp="1592836632198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" timestamp="1592747385161">
@@ -202,21 +199,24 @@
         <mark key="." line="139" column="84" />
         <mark key="^" line="139" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592836424757">
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592836629255">
         <mark key="'" line="352" column="8" />
-        <mark key="[" line="486" column="65" />
-        <mark key="]" line="487" column="4" />
-        <mark key="." line="487" column="3" />
-        <mark key="^" line="487" column="4" />
+        <mark key="[" line="510" column="9" />
+        <mark key="]" line="511" column="24" />
+        <mark key="." line="511" column="23" />
+        <mark key="^" line="511" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/HTTPCache.ts" timestamp="1592825128588">
         <mark key="'" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592836369108">
+      <file name="/Dummy.txt" timestamp="1592837090427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/netsuite-api.data-source.js" timestamp="1592837025268">
+        <mark key="[" line="75" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SomaMattress.py" timestamp="1592747066058">
         <mark key="'" line="75" column="29" />
@@ -306,7 +306,6 @@
       <jump line="335" column="4" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="162" column="29" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="438" column="26" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="345" column="30" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="271" column="10" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="340" column="19" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
@@ -327,6 +326,7 @@
       <jump line="422" column="12" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="421" column="18" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="352" column="8" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="438" column="6" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,19 +335,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>updateProjectsOnLines</text>
+        <text>]</text>
       </register>
       <register name="*" type="4">
         <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>verify</text>
       </register>
       <register name="0" type="4">
-        <text>updateProjectsOnLines</text>
+        <text>[{ billLineId: 'fakeBillId', newProjectId: fakeProjectId }]</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -407,28 +407,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZmFrZU1lbW8nLAogICAgICAgICdmYWtlTm90ZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZmFrZU1lbW8nLAogICAgICAgICdmYWtlTm90ZScsCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5vdGU6ICdmYWtlTm90ZScsCg==</text>
+        <text encoding="base64">ICAgICAgW10K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdGU6ICdmYWtlTm90ZScsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
