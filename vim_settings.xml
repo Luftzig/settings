@@ -144,8 +144,8 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/oauth.js" timestamp="1592489642849">
-        <mark key="'" line="17" column="3" />
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/oauth.js" timestamp="1592900581631">
+        <mark key="'" line="11" column="9" />
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="7" />
@@ -163,15 +163,21 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/RESTDataSource.ts" timestamp="1592827735663">
         <mark key="'" line="246" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/app/config.js" timestamp="1592901081669">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/secrets/netsuite-credentials/netsuite-credentials.json" timestamp="1592900849771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" timestamp="1592491865459">
         <mark key="'" line="86" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/json-server/db.json" timestamp="1592464882073">
-        <mark key="'" line="901" column="4" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="35" />
-        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/OSC.py" timestamp="1592747808916">
         <mark key="'" line="55" column="35" />
@@ -179,9 +185,6 @@
         <mark key="]" line="55" column="45" />
         <mark key="^" line="55" column="64" />
         <mark key="." line="55" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/dist/RESTDataSource.d.ts" timestamp="1592470140403">
-        <mark key="'" line="21" column="30" />
       </file>
       <file name="/JavaScript Console" timestamp="1592836632198">
         <mark key="[" line="0" column="0" />
@@ -221,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="13" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="206" column="10" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="231" column="26" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="88" column="8" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
@@ -321,6 +323,7 @@
       <jump line="421" column="18" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="352" column="8" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="438" column="6" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/oauth.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,11 +331,11 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBuZXRzdWl0ZUJhc2VIb3N0ID0gJzQ0NjA5NTctc2IyLnJlc3RsZXRzLmFwaS5uZXRzdWl0ZS5jb20nCiAgbmV0c3VpdGVSZWxlYXNlUGFyYW1zID0geyBzY3JpcHQ6IDExOTAsIGRlcGxveTogMSB9CiAgbmV0c3VpdGVSZWFsbSA9ICc0NDYwOTU3X1NCMicK</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;https://github.com/prototypsthlm/react-native-play-sound.git#698fb6d73c33c5ba412df9c449063ed3029b47b7&quot;</text>
+        <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -340,8 +343,8 @@
       <register name="/" type="4">
         <text>verify</text>
       </register>
-      <register name="0" type="4">
-        <text>[{ billLineId: 'fakeBillId', newProjectId: fakeProjectId }]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBuZXRzdWl0ZUJhc2VIb3N0ID0gJzQ0NjA5NTctc2IyLnJlc3RsZXRzLmFwaS5uZXRzdWl0ZS5jb20nCiAgbmV0c3VpdGVSZWxlYXNlUGFyYW1zID0geyBzY3JpcHQ6IDExOTAsIGRlcGxveTogMSB9CiAgbmV0c3VpdGVSZWFsbSA9ICc0NDYwOTU3X1NCMicK</text>
       </register>
       <register name="p" type="4">
         <keys>
