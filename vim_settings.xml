@@ -148,11 +148,8 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1592491773255">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" timestamp="1592922644042">
+        <mark key="'" line="16" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixel/Soma_Pixel1/Soma_Pixel1.ino" timestamp="1592747711343">
         <mark key="'" line="278" column="66" />
@@ -173,8 +170,8 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" timestamp="1592491865459">
-        <mark key="'" line="86" column="38" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/hooks/usePermissions.tsx" timestamp="1592922685469">
+        <mark key="'" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/json-server/db.json" timestamp="1592916393698">
         <mark key="'" line="1298" column="0" />
@@ -216,6 +213,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/client/package.json" timestamp="1592920221651">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="/netsuite-api.data-source.js" timestamp="1592837025268">
         <mark key="[" line="75" column="5" />
       </file>
@@ -228,10 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="34" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
-      <jump line="153" column="31" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
-      <jump line="186" column="21" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
-      <jump line="193" column="21" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
       <jump line="194" column="21" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
       <jump line="195" column="21" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
       <jump line="199" column="46" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
@@ -328,6 +326,10 @@
       <jump line="1297" column="0" filename="$USER_HOME$/Projects/eqt-requests/json-server/db.json" />
       <jump line="84" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="7" column="30" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
+      <jump line="14" column="24" filename="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" />
+      <jump line="16" column="32" filename="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" />
+      <jump line="5" column="44" filename="$USER_HOME$/Projects/eqt-requests/client/src/hooks/usePermissions.tsx" />
+      <jump line="4" column="44" filename="$USER_HOME$/Projects/eqt-requests/client/src/hooks/usePermissions.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +338,7 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIiMgc3VwZXIgdXNlciBhbGwiCg==</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yNi4wLjEiLAo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
@@ -363,13 +365,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIiMgc3VwZXIgdXNlciBhbGwiCg==</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yNi4wLjEiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yNi4wLjEiLAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -407,32 +409,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">fSwK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIiMgc3VwZXIgdXNlciBhbGwiCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5pdAogICAgCiAgICA=</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBTb20K</text>
+      <register name="5" type="4">
+        <text encoding="base64">fSwK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiogKi8K</text>
+        <text encoding="base64">aW5pdAogICAgCiAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLm5ldHN1aXRlUmVsZWFzZVBhcmFtcywK</text>
+        <text encoding="base64">ICAvLyBTb20K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudGhhdC5zYXRpc2ZpZXModXJsID0+IHsKICAgICAgICAgIGNvbnN0IGVuY29kZWQgPSBuZXcgVVJMKHVybCkKICAgICAgICAgIGVuY29kZWQuc2VhcmNoUGFyYW1zLnNvcnQoKQogICAgICAgICAgcmV0dXJuIGVuY29kZWQudG9TdHJpbmcoKSA9PT0gZXhwZWN0ZWRVcmwudG9TdHJpbmcoKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAvKiogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cmwuc2VhcmNoUGFyYW1zLnNvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLm5ldHN1aXRlUmVsZWFzZVBhcmFtcywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
