@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry>get</entry>
         <entry encoding="base64">XDxwdXRcPg==</entry>
         <entry encoding="base64">XDxOU19SRUxFQVNFXD4=</entry>
         <entry>did</entry>
@@ -25,6 +23,8 @@
         <entry>verify</entry>
         <entry>NS_RELEASE</entry>
         <entry>only</entry>
+        <entry>testGet</entry>
+        <entry>OAuth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1woLiovID0+IE5vbmU=</entry>
@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592903594696">
+      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592904988974">
         <mark key="'" line="430" column="65" />
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="39" />
-        <mark key="^" line="81" column="40" />
+        <mark key="[" line="72" column="75" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="18" />
+        <mark key="^" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.d.ts" timestamp="1592489246372">
         <mark key="'" line="29" column="2" />
@@ -196,17 +196,17 @@
         <mark key="." line="139" column="84" />
         <mark key="^" line="139" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592903861761">
-        <mark key="'" line="254" column="26" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="32" />
-        <mark key="." line="34" column="31" />
-        <mark key="^" line="34" column="32" />
+      <file name="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" timestamp="1592904781391">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="0" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="39" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/apollo-datasource-rest/src/HTTPCache.ts" timestamp="1592825128588">
         <mark key="'" line="86" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592837090427">
+      <file name="/Dummy.txt" timestamp="1592905005180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -224,9 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="35" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
-      <jump line="123" column="129" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
-      <jump line="86" column="38" filename="$USER_HOME$/Projects/eqt-requests/node_modules/oauth-1.0a/oauth-1.0a.js" />
       <jump line="244" column="55" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="38" column="53" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
       <jump line="367" column="25" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
@@ -324,6 +321,9 @@
       <jump line="430" column="65" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="501" column="30" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="254" column="26" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="258" column="26" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,17 +331,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1cmwuc2VhcmNoUGFyYW1zLnNvcnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>stable</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>Object.entries(searchParameters || {})</text>
+        <text>stable</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>OAuth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBuZXRzdWl0ZUJhc2VIb3N0ID0gJzQ0NjA5NTctc2IyLnJlc3RsZXRzLmFwaS5uZXRzdWl0ZS5jb20nCiAgbmV0c3VpdGVSZWxlYXNlUGFyYW1zID0geyBzY3JpcHQ6IDExOTAsIGRlcGxveTogMSB9CiAgbmV0c3VpdGVSZWFsbSA9ICc0NDYwOTU3X1NCMicK</text>
@@ -359,13 +359,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1cmwuc2VhcmNoUGFyYW1zLnNvcnQoKQo=</text>
+        <text encoding="base64">ICAvLyBTb20K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLm5ldHN1aXRlUmVsZWFzZVBhcmFtcywK</text>
+        <text encoding="base64">ICAvKiogKi8K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -404,31 +404,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEZvciB0ZXN0aW5nIHdlIG5lZWQgdGhlIHF1ZXJ5IHBhcmFtcyB0byBiZSBwcmVkaWN0YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLm5ldHN1aXRlUmVsZWFzZVBhcmFtcywK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMocGFyYW1zKQogICAgcGFyYW1zLnNvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAudGhhdC5zYXRpc2ZpZXModXJsID0+IHsKICAgICAgICAgIGNvbnN0IGVuY29kZWQgPSBuZXcgVVJMKHVybCkKICAgICAgICAgIGVuY29kZWQuc2VhcmNoUGFyYW1zLnNvcnQoKQogICAgICAgICAgcmV0dXJuIGVuY29kZWQudG9TdHJpbmcoKSA9PT0gZXhwZWN0ZWRVcmwudG9TdHJpbmcoKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5uZXRzdWl0ZVJlbGVhc2VQYXJhbXMsCg==</text>
+        <text encoding="base64">ICB1cmwuc2VhcmNoUGFyYW1zLnNvcnQoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLm5ldHN1aXRlUmVsZWFzZVBhcmFtcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMocGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIC8vIEZvciB0ZXN0aW5nIHdlIG5lZWQgdGhlIHF1ZXJ5IHBhcmFtcyB0byBiZSBwcmVkaWN0YWJsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMocGFyYW1zKQogICAgcGFyYW1zLnNvcnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICAuLi5uZXRzdWl0ZVJlbGVhc2VQYXJhbXMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,9 +437,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>only</last-search>
+      <last-search>OAuth</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>OAuth</last-pattern>
       <last-replace>', '</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
