@@ -142,12 +142,12 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/@types/jest/index.d.ts" timestamp="1592989267096">
         <mark key="'" line="929" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" timestamp="1593006457527">
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" timestamp="1593007384687">
         <mark key="'" line="9" column="37" />
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="45" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" timestamp="1592990877422">
         <mark key="'" line="165" column="15" />
@@ -330,14 +330,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>({data})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ2ludGVybW9jaycK</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>({data})</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmXD4=</text>
@@ -358,13 +358,17 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBmYWtlSW52b2ljZUFwcHJvdmFsID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ2ludGVybW9jaycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dHlwZSBGcm9tUGFydGlhbEdlbmVyYXRvcjxUPiA9IChpbml0PzogUGFydGlhbDxUPikgPT4gR2VuZXJhdG9yPFQ+CnR5cGUgR2VuZXJhdG9yPFQ+ID0gKCkgPT4gVAoKY29uc3QgZ2VuZXJhdGVTdHJpbmc6IChsZW5ndGg6IG51bWJlcikgPT4gR2VuZXJhdG9yPHN0cmluZz4gPSAobGVuZ3RoKSA9PgogICgpID0+CiAgXy5yYW5nZSgwLCBsZW5ndGgpLm1hcCgoKSA9PiBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDUwKVswXSkuam9pbignJykKCmNvbnN0IGdlbmVyYXRlQXJyYXk6IChtYXhMZW5ndGgpCgpjb25zdCBnZW5lcmF0ZUludm9pY2VBcHByb3ZhbDogRnJvbVBhcnRpYWxHZW5lcmF0b3I8SW52b2ljZUFwcHJvdmFsPiA9IGluaXQgPT4gKCkgPT4gKHsKICBkb21haW46IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlY29yZFR5cGU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvck5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvcklkOiBNYXRoLnJhbmRvbSgpLAogIHN0YWdlOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBiaWxsU3RhdHVzPzogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZHVlRGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgbWVtbzogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgbm90ZTogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgY29tcGFueU5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGNvbXBhbnlJZDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdnRySWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGludGVybmFsSWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlZmVyZW5jZU5vOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICByZXF1ZXN0b3I6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlcXVlc3RvcklkOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBwYXltZW50UmVmZXJlbmNlTm86IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGN1cnJlbmN5OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICB0b3RhbEFtb3VudDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdGF4QW1vdW50OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94SWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGRyb3Bib3hQYXRoOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94UmVsYXRpdmVQYXRoOiBnZW5lcmF0ZVN0cmluZygxMiksCiAgcmVjb3JkUGF0aDogZ2VuZXJhdGVTdHJpbmcoMTIpLAogIGJpbGxMaW5lczogW0ludm9pY2VCaWxsTGluZV0KICBhcHByb3ZlcnM6IFtJbnZvaWNlQXBwcm92ZXJdLAogIC4uLmluaXQKfSkK</text>
+      <register name="2" type="4">
+        <text>mock({
+  files: [['../types.ts', 'InvoiceApproval']],
+  interfaces: ['InvoiceApproval'],
+  output: 'object',
+}) as InvoiceApproval</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -403,31 +407,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBmYWtlSW52b2ljZUFwcHJvdmFsID0gCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoaW5pdCkgewogICAgcmV0dXJuIGluaXQKICB9IGVsc2UgewogICAgCiAgfQo=</text>
+        <text encoding="base64">dHlwZSBGcm9tUGFydGlhbEdlbmVyYXRvcjxUPiA9IChpbml0PzogUGFydGlhbDxUPikgPT4gR2VuZXJhdG9yPFQ+CnR5cGUgR2VuZXJhdG9yPFQ+ID0gKCkgPT4gVAoKY29uc3QgZ2VuZXJhdGVTdHJpbmc6IChsZW5ndGg6IG51bWJlcikgPT4gR2VuZXJhdG9yPHN0cmluZz4gPSAobGVuZ3RoKSA9PgogICgpID0+CiAgXy5yYW5nZSgwLCBsZW5ndGgpLm1hcCgoKSA9PiBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDUwKVswXSkuam9pbignJykKCmNvbnN0IGdlbmVyYXRlQXJyYXk6IChtYXhMZW5ndGgpCgpjb25zdCBnZW5lcmF0ZUludm9pY2VBcHByb3ZhbDogRnJvbVBhcnRpYWxHZW5lcmF0b3I8SW52b2ljZUFwcHJvdmFsPiA9IGluaXQgPT4gKCkgPT4gKHsKICBkb21haW46IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlY29yZFR5cGU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvck5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvcklkOiBNYXRoLnJhbmRvbSgpLAogIHN0YWdlOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBiaWxsU3RhdHVzPzogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZHVlRGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgbWVtbzogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgbm90ZTogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgY29tcGFueU5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGNvbXBhbnlJZDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdnRySWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGludGVybmFsSWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlZmVyZW5jZU5vOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICByZXF1ZXN0b3I6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlcXVlc3RvcklkOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBwYXltZW50UmVmZXJlbmNlTm86IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGN1cnJlbmN5OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICB0b3RhbEFtb3VudDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdGF4QW1vdW50OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94SWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGRyb3Bib3hQYXRoOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94UmVsYXRpdmVQYXRoOiBnZW5lcmF0ZVN0cmluZygxMiksCiAgcmVjb3JkUGF0aDogZ2VuZXJhdGVTdHJpbmcoMTIpLAogIGJpbGxMaW5lczogW0ludm9pY2VCaWxsTGluZV0KICBhcHByb3ZlcnM6IFtJbnZvaWNlQXBwcm92ZXJdLAogIC4uLmluaXQKfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1hdGgucmFuZG9tCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBSYW5kb21Tb3VyY2UoKS4K</text>
+        <text encoding="base64">ICBpZiAoaW5pdCkgewogICAgcmV0dXJuIGluaXQKICB9IGVsc2UgewogICAgCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIE1hdGgucmFuZG9tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBSYW5kb21Tb3VyY2UoKS4K</text>
       </register>
       <register name="9" type="2">
-        <text>describe()</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
