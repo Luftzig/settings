@@ -128,26 +128,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" timestamp="1592916643810">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="85" column="41" />
-        <mark key="]" line="85" column="43" />
-        <mark key="." line="85" column="42" />
-        <mark key="^" line="85" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/types.ts" timestamp="1593002339652">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="227" column="30" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/types.ts" timestamp="1593009277725">
+        <mark key="[" line="248" column="31" />
+        <mark key="]" line="249" column="40" />
+        <mark key="." line="249" column="39" />
+        <mark key="^" line="249" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/@types/jest/index.d.ts" timestamp="1592989267096">
         <mark key="'" line="929" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" timestamp="1593007975486">
-        <mark key="'" line="19" column="65" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="15" column="32" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" timestamp="1593009436433">
+        <mark key="[" line="2" column="124" />
+        <mark key="]" line="2" column="125" />
+        <mark key="." line="2" column="124" />
+        <mark key="^" line="2" column="125" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" timestamp="1592990877422">
         <mark key="'" line="165" column="15" />
@@ -157,11 +151,8 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/lang/ts/intermock.ts" timestamp="1593006541639">
         <mark key="'" line="990" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" timestamp="1593006158412">
-        <mark key="'" line="286" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/app/helpers/permissions.js" timestamp="1592923549185">
-        <mark key="'" line="9" column="7" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" timestamp="1593009139154">
+        <mark key="'" line="286" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.test.tsx" timestamp="1593005894186">
         <mark key="'" line="40" column="0" />
@@ -177,6 +168,20 @@
         <mark key="." line="160" column="70" />
         <mark key="^" line="160" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Approver.tsx" timestamp="1593009258907">
+        <mark key="'" line="27" column="54" />
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="69" />
+        <mark key="." line="27" column="68" />
+        <mark key="^" line="27" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/utils/getInvoiceStatusAndApproverStatuses.ts" timestamp="1593009232103">
+        <mark key="'" line="16" column="52" />
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="72" />
+        <mark key="." line="15" column="71" />
+        <mark key="^" line="15" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/react-intl/lib/react-intl.d.ts" timestamp="1592988736913">
         <mark key="'" line="180" column="30" />
       </file>
@@ -185,9 +190,6 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/hooks/usePermissions.tsx" timestamp="1592922685469">
-        <mark key="'" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/json-server/db.json" timestamp="1592923601470">
         <mark key="'" line="1298" column="0" />
@@ -203,32 +205,30 @@
         <mark key="[" line="227" column="2" />
         <mark key="]" line="227" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/package.json" timestamp="1592920221651">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/HistoryInvoiceLine.tsx" timestamp="1593009604913">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/@apollo/react-hooks/lib/useMutation.d.ts" timestamp="1593006055805">
         <mark key="'" line="3" column="167" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/History.tsx" timestamp="1593009601503">
+        <mark key="'" line="71" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/index.ts" timestamp="1593006467956">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593006393548">
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593008757966">
         <mark key="'" line="3" column="21" />
         <mark key="[" line="38" column="37" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="20" />
-        <mark key="^" line="39" column="21" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="81" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="129" column="6" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="216" column="37" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="349" column="18" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="364" column="24" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
-      <jump line="344" column="35" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="317" column="26" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="350" column="26" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="385" column="26" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
@@ -318,11 +318,17 @@
       <jump line="40" column="0" filename="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.test.tsx" />
       <jump line="100" column="33" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="3" column="167" filename="$USER_HOME$/Projects/eqt-requests/client/node_modules/@apollo/react-hooks/lib/useMutation.d.ts" />
-      <jump line="286" column="6" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="3" column="21" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" />
       <jump line="22" column="16" filename="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/index.ts" />
       <jump line="990" column="20" filename="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/lang/ts/intermock.ts" />
       <jump line="9" column="65" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
+      <jump line="25" column="40" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
+      <jump line="15" column="40" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
+      <jump line="286" column="11" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
+      <jump line="16" column="52" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/utils/getInvoiceStatusAndApproverStatuses.ts" />
+      <jump line="29" column="42" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Approver.tsx" />
+      <jump line="27" column="54" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Approver.tsx" />
+      <jump line="71" column="17" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/History.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,13 +337,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>[</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmXD4=</text>
@@ -358,13 +364,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZmFrZXIucmFuZG9tLm51Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ2ludGVybW9jaycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -402,36 +408,36 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgbnVtYmVyCg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ2ludGVybW9jaycK</text>
+      </register>
+      <register name="u" type="4">
+        <text>@:wgUiw</text>
+      </register>
+      <register name="6" type="4">
         <text>mock({
   files: [['../types.ts', 'InvoiceApproval']],
   interfaces: ['InvoiceApproval'],
   output: 'object',
 }) as InvoiceApproval</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCBmYWtlSW52b2ljZUFwcHJvdmFsID0gCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dHlwZSBGcm9tUGFydGlhbEdlbmVyYXRvcjxUPiA9IChpbml0PzogUGFydGlhbDxUPikgPT4gR2VuZXJhdG9yPFQ+CnR5cGUgR2VuZXJhdG9yPFQ+ID0gKCkgPT4gVAoKY29uc3QgZ2VuZXJhdGVTdHJpbmc6IChsZW5ndGg6IG51bWJlcikgPT4gR2VuZXJhdG9yPHN0cmluZz4gPSAobGVuZ3RoKSA9PgogICgpID0+CiAgXy5yYW5nZSgwLCBsZW5ndGgpLm1hcCgoKSA9PiBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDUwKVswXSkuam9pbignJykKCmNvbnN0IGdlbmVyYXRlQXJyYXk6IChtYXhMZW5ndGgpCgpjb25zdCBnZW5lcmF0ZUludm9pY2VBcHByb3ZhbDogRnJvbVBhcnRpYWxHZW5lcmF0b3I8SW52b2ljZUFwcHJvdmFsPiA9IGluaXQgPT4gKCkgPT4gKHsKICBkb21haW46IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlY29yZFR5cGU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvck5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvcklkOiBNYXRoLnJhbmRvbSgpLAogIHN0YWdlOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBiaWxsU3RhdHVzPzogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZHVlRGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgbWVtbzogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgbm90ZTogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgY29tcGFueU5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGNvbXBhbnlJZDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdnRySWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGludGVybmFsSWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlZmVyZW5jZU5vOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICByZXF1ZXN0b3I6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlcXVlc3RvcklkOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBwYXltZW50UmVmZXJlbmNlTm86IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGN1cnJlbmN5OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICB0b3RhbEFtb3VudDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdGF4QW1vdW50OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94SWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGRyb3Bib3hQYXRoOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94UmVsYXRpdmVQYXRoOiBnZW5lcmF0ZVN0cmluZygxMiksCiAgcmVjb3JkUGF0aDogZ2VuZXJhdGVTdHJpbmcoMTIpLAogIGJpbGxMaW5lczogW0ludm9pY2VCaWxsTGluZV0KICBhcHByb3ZlcnM6IFtJbnZvaWNlQXBwcm92ZXJdLAogIC4uLmluaXQKfSkK</text>
       </register>
-      <register name="u" type="4">
-        <text>@:wgUiw</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoaW5pdCkgewogICAgcmV0dXJuIGluaXQKICB9IGVsc2UgewogICAgCiAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hdGgucmFuZG9tCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBSYW5kb21Tb3VyY2UoKS4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
