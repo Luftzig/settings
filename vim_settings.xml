@@ -151,8 +151,8 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/lang/ts/intermock.ts" timestamp="1593006541639">
         <mark key="'" line="990" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" timestamp="1593070152456">
-        <mark key="'" line="306" column="26" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" timestamp="1593071194424">
+        <mark key="'" line="286" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.test.tsx" timestamp="1593005894186">
         <mark key="'" line="40" column="0" />
@@ -222,15 +222,14 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/index.ts" timestamp="1593006467956">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593070229044">
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="30" />
-        <mark key="^" line="57" column="31" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593071290056">
+        <mark key="[" line="60" column="32" />
+        <mark key="]" line="60" column="32" />
+        <mark key="." line="60" column="31" />
+        <mark key="^" line="60" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="46" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="163" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="175" column="33" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
       <jump line="185" column="58" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
@@ -307,7 +306,6 @@
       <jump line="9" column="65" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
       <jump line="25" column="40" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
       <jump line="15" column="40" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
-      <jump line="286" column="11" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="16" column="52" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/utils/getInvoiceStatusAndApproverStatuses.ts" />
       <jump line="29" column="42" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Approver.tsx" />
       <jump line="27" column="54" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Approver.tsx" />
@@ -330,6 +328,8 @@
       <jump line="33" column="29" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="145" column="17" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="306" column="26" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
+      <jump line="286" column="39" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,13 +338,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>container</text>
+        <text encoding="base64">LmZpbHRlcigoKSA9PiAp</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>container</text>
+        <text encoding="base64">LmZpbHRlcigoKSA9PiAp</text>
       </register>
       <register name="/" type="4">
         <text>handleMuta</text>
@@ -365,13 +365,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnZvaWNlKQo=</text>
+        <text encoding="base64">ICAgIGludm9pY2VTdGF0dXM6IGludm9pY2UuYmlsbFN0YXR1cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmFrZXIucmFuZG9tLm51Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -410,35 +410,35 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnZvaWNlKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbnVtYmVyCg==</text>
+        <text encoding="base64">ZmFrZXIucmFuZG9tLm51Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgbnVtYmVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ2ludGVybW9jaycK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>mock({
   files: [['../types.ts', 'InvoiceApproval']],
   interfaces: ['InvoiceApproval'],
   output: 'object',
 }) as InvoiceApproval</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBmYWtlSW52b2ljZUFwcHJvdmFsID0gCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dHlwZSBGcm9tUGFydGlhbEdlbmVyYXRvcjxUPiA9IChpbml0PzogUGFydGlhbDxUPikgPT4gR2VuZXJhdG9yPFQ+CnR5cGUgR2VuZXJhdG9yPFQ+ID0gKCkgPT4gVAoKY29uc3QgZ2VuZXJhdGVTdHJpbmc6IChsZW5ndGg6IG51bWJlcikgPT4gR2VuZXJhdG9yPHN0cmluZz4gPSAobGVuZ3RoKSA9PgogICgpID0+CiAgXy5yYW5nZSgwLCBsZW5ndGgpLm1hcCgoKSA9PiBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDUwKVswXSkuam9pbignJykKCmNvbnN0IGdlbmVyYXRlQXJyYXk6IChtYXhMZW5ndGgpCgpjb25zdCBnZW5lcmF0ZUludm9pY2VBcHByb3ZhbDogRnJvbVBhcnRpYWxHZW5lcmF0b3I8SW52b2ljZUFwcHJvdmFsPiA9IGluaXQgPT4gKCkgPT4gKHsKICBkb21haW46IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlY29yZFR5cGU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvck5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHZlbmRvcklkOiBNYXRoLnJhbmRvbSgpLAogIHN0YWdlOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBiaWxsU3RhdHVzPzogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgZHVlRGF0ZTogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgbWVtbzogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgbm90ZTogZ2VuZXJhdGVTdHJpbmcoMzApKCksCiAgY29tcGFueU5hbWU6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGNvbXBhbnlJZDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdnRySWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGludGVybmFsSWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlZmVyZW5jZU5vOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICByZXF1ZXN0b3I6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIHJlcXVlc3RvcklkOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBwYXltZW50UmVmZXJlbmNlTm86IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGN1cnJlbmN5OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICB0b3RhbEFtb3VudDogZ2VuZXJhdGVTdHJpbmcoMTIpKCksCiAgdGF4QW1vdW50OiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94SWQ6IGdlbmVyYXRlU3RyaW5nKDEyKSgpLAogIGRyb3Bib3hQYXRoOiBnZW5lcmF0ZVN0cmluZygxMikoKSwKICBkcm9wYm94UmVsYXRpdmVQYXRoOiBnZW5lcmF0ZVN0cmluZygxMiksCiAgcmVjb3JkUGF0aDogZ2VuZXJhdGVTdHJpbmcoMTIpLAogIGJpbGxMaW5lczogW0ludm9pY2VCaWxsTGluZV0KICBhcHByb3ZlcnM6IFtJbnZvaWNlQXBwcm92ZXJdLAogIC4uLmluaXQKfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
