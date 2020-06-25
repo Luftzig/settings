@@ -222,11 +222,11 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/index.ts" timestamp="1593006467956">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593071290056">
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="60" column="32" />
-        <mark key="." line="60" column="31" />
-        <mark key="^" line="60" column="32" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593071577838">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="59" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -337,20 +337,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LmZpbHRlcigoKSA9PiAp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmdzKQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmZpbHRlcigoKSA9PiAp</text>
+        <text>Mutation</text>
       </register>
       <register name="/" type="4">
         <text>handleMuta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCdAYXBvbGxvL3JlYWN0LWhvb2tzJywgKCkgPT4gewogIGNvbnN0IG1vY2tEYXRhID0gW10KICByZXR1cm4gewogICAgdXNlUXVlcnk6IGplc3QuZm4oKCkgPT4gKHsKICAgICAgbG9hZGluZzogZmFsc2UsCiAgICAgIGVycm9yOiB1bmRlZmluZWQsCiAgICAgIGRhdGE6IG1vY2tEYXRhLAogICAgICBmZXRjaE1vcmU6ICgpID0+IHt9LAogICAgfSkpLAogIH0KfSkK</text>
+        <text encoding="base64">ICBleHBlY3QoYXJncykudG9IYXZlUHJvcGVydHkoJ2lzSGFuZGxpbmdNdXRhdGlvbicsIGZhbHNlKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -365,13 +365,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludm9pY2VTdGF0dXM6IGludm9pY2UuYmlsbFN0YXR1cwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmdzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlzTXV0YXRpb246IGZhbHNlLAogICAgaXNIYW5kbGluZ0FwcHJvdmVSZWplY3Q6IGZhbHNlLAogICAgYXBwcm92ZXJzOiBpbnZvaWNlLmFwcHJvdmVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -410,35 +410,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnZvaWNlKQo=</text>
+        <text encoding="base64">ICAgIGludm9pY2VTdGF0dXM6IGludm9pY2UuYmlsbFN0YXR1cwo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmFrZXIucmFuZG9tLm51Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnZvaWNlKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbnVtYmVyCg==</text>
+        <text encoding="base64">ZmFrZXIucmFuZG9tLm51Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ2ludGVybW9jaycK</text>
+        <text encoding="base64">Y29uc3QgbnVtYmVyCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>mock({
-  files: [['../types.ts', 'InvoiceApproval']],
-  interfaces: ['InvoiceApproval'],
-  output: 'object',
-}) as InvoiceApproval</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
