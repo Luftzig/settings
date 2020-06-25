@@ -216,11 +216,11 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/node_modules/intermock/src/index.ts" timestamp="1593006467956">
         <mark key="'" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593074498205">
-        <mark key="[" line="117" column="70" />
-        <mark key="]" line="117" column="78" />
-        <mark key="^" line="117" column="78" />
-        <mark key="." line="117" column="77" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" timestamp="1593075176813">
+        <mark key="[" line="141" column="70" />
+        <mark key="]" line="141" column="77" />
+        <mark key="." line="141" column="76" />
+        <mark key="^" line="141" column="77" />
       </file>
     </filemarks>
     <jumps>
@@ -332,19 +332,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Approved</text>
+        <text>Rejected</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>Approved</text>
+        <text>Rejected</text>
       </register>
       <register name="/" type="4">
         <text>handleMuta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVzdCgnSW52b2ljZSBhcHByb3ZhbCBzdGF0dXMgLSBBcHByb3ZlZCcsIGFzeW5jICgpID0+IHsKICBjb25zdCBhcHByb3ZlcnMgPSBmYWtlU2V2ZXJhbCgKICAgIGZha2VBcHByb3Zlcih7IGFwcHJvdmFsU3RhdHVzOiBJbnZvaWNlQXBwcm92YWxzU3RhdHVzLkFwcHJvdmVkIH0pCiAgKSg0LCAxKQogIGNvbnN0IGludm9pY2UgPSBmYWtlSW52b2ljZUFwcHJvdmFsKHsgYXBwcm92ZXJzIH0pCiAgY29uc3QgcmVuZGVyZXIgPSBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uKCgpID0+IDxzcGFuIC8+KQogIGF3YWl0IGFjdChhc3luYyAoKSA9PiB7CiAgICByZW5kZXIoCiAgICAgIDxJbnZvaWNlCiAgICAgICAgaW52b2ljZT17aW52b2ljZX0KICAgICAgICBzb3VyY2VRdWVyeT17e319CiAgICAgICAgZGlzYWJsZWQ9e2ZhbHNlfQogICAgICAgIGludm9pY2VBcHByb3ZhbHNUeXBlPXtJbnZvaWNlQXBwcm92YWxzVHlwZS5Ub2RvfQogICAgICAgIGlzVG9nZ2xlZD17ZmFsc2V9CiAgICAgICAgdG9nZ2xlRGV0YWlscz17ZXZlbnQgPT4gKHt9KX0KICAgICAgICBjbG9zZURldGFpbHM9eygpID0+IHt9fQogICAgICAgIHRvZ2dsZUN1cnJlbnRseUFwcHJvdmluZ09yUmVqZWN0aW5nPXsoKSA9PiB7fX0KICAgICAgICBhY3RpdmVJbnZvaWNlVnRySWQ9eycnfQogICAgICAgIHJlbmRlckludm9pY2U9e3JlbmRlcmVyfQogICAgICAvPiwKICAgICAgY29udGFpbmVyCiAgICApCiAgfSkKICBjb25zdCBhcmdzID0gcmVuZGVyZXIubW9jay5jYWxsc1swXVswXQogIGV4cGVjdChhcmdzKS50b0hhdmVQcm9wZXJ0eSgKICAgICdpbnZvaWNlU3RhdHVzJywKICAgIEludm9pY2VBcHByb3ZhbHNTdGF0dXMuQXBwcm92ZWQKICApCn0pCg==</text>
+        <text encoding="base64">ICBjb25zdCBpbnZvaWNlID0gZmFrZUludm9pY2VBcHByb3ZhbCh7IGFwcHJvdmVycyB9KQogIGNvbnN0IHJlbmRlcmVyID0gamVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiA8c3BhbiAvPikKICBhd2FpdCBhY3QoYXN5bmMgKCkgPT4gewogICAgcmVuZGVyKAogICAgICA8SW52b2ljZQogICAgICAgIGludm9pY2U9e2ludm9pY2V9CiAgICAgICAgc291cmNlUXVlcnk9e3t9fQogICAgICAgIGRpc2FibGVkPXtmYWxzZX0KICAgICAgICBpbnZvaWNlQXBwcm92YWxzVHlwZT17SW52b2ljZUFwcHJvdmFsc1R5cGUuVG9kb30KICAgICAgICBpc1RvZ2dsZWQ9e2ZhbHNlfQogICAgICAgIHRvZ2dsZURldGFpbHM9e2V2ZW50ID0+ICh7fSl9CiAgICAgICAgY2xvc2VEZXRhaWxzPXsoKSA9PiB7fX0KICAgICAgICB0b2dnbGVDdXJyZW50bHlBcHByb3ZpbmdPclJlamVjdGluZz17KCkgPT4ge319CiAgICAgICAgYWN0aXZlSW52b2ljZVZ0cklkPXsnJ30KICAgICAgICByZW5kZXJJbnZvaWNlPXtyZW5kZXJlcn0KICAgICAgLz4sCiAgICAgIGNvbnRhaW5lcgogICAgKQogIH0pCiAgY29uc3QgYXJncyA9IHJlbmRlcmVyLm1vY2suY2FsbHNbMF1bMF0KICBleHBlY3QoYXJncykudG9IYXZlUHJvcGVydHkoJ2ludm9pY2VTdGF0dXMnLCBJbnZvaWNlQXBwcm92YWxzU3RhdHVzLlJlamVjdGVkKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -359,13 +359,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZha2VBcHByb3Zlcih7IGFwcHJvdmFsU3RhdHVzOiBJbnZvaWNlQXBwcm92YWxzU3RhdHVzLkFwcHJvdmVkIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZha2VBcHByb3Zlcih7IGFwcHJvdmFsU3RhdHVzOiBJbnZvaWNlQXBwcm92YWxzU3RhdHVzLkFwcHJvdmVkIH0pCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -410,25 +410,25 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcHByb3ZlcnM6IGdlbmVyYXRlKGZha2VBcHByb3ZlcigpKSgzKSwKICBiaWxsTGluZXM6IFtdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHByb3ZlcnM6IGdlbmVyYXRlKGZha2VBcHByb3ZlcikoMyksCiAgYmlsbExpbmVzOiBbXSwK</text>
+        <text encoding="base64">ICBhcHByb3ZlcnM6IGdlbmVyYXRlKGZha2VBcHByb3ZlcigpKSgzKSwKICBiaWxsTGluZXM6IFtdLAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleHBlY3QoYXJncykK</text>
+        <text encoding="base64">ICBhcHByb3ZlcnM6IGdlbmVyYXRlKGZha2VBcHByb3ZlcikoMyksCiAgYmlsbExpbmVzOiBbXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmdzKQo=</text>
+        <text encoding="base64">ICBleHBlY3QoYXJncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlzTXV0YXRpb246IGZhbHNlLAogICAgaXNIYW5kbGluZ0FwcHJvdmVSZWplY3Q6IGZhbHNlLAogICAgYXBwcm92ZXJzOiBpbnZvaWNlLmFwcHJvdmVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmdzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludm9pY2VTdGF0dXM6IGludm9pY2UuYmlsbFN0YXR1cwo=</text>
+        <text encoding="base64">ICAgIGlzTXV0YXRpb246IGZhbHNlLAogICAgaXNIYW5kbGluZ0FwcHJvdmVSZWplY3Q6IGZhbHNlLAogICAgYXBwcm92ZXJzOiBpbnZvaWNlLmFwcHJvdmVycwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
