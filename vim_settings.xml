@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQYXJhbWV0ZXJTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxnZXRTaWduYXR1cmVcPg==</entry>
         <entry encoding="base64">XDxDaGVja2JveFw+</entry>
         <entry>zeroconf</entry>
         <entry>OSC</entry>
@@ -25,6 +23,8 @@
         <entry>urlencoded</entry>
         <entry>netsuite</entry>
         <entry>server</entry>
+        <entry>application</entry>
+        <entry encoding="base64">XDxTYW1wbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
@@ -45,8 +45,8 @@
         <entry>s/=/': '/g</entry>
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,11 +128,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/WebSocketsClient.kt" timestamp="1594111679006">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="32" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" timestamp="1594114183183">
+        <mark key="'" line="68" column="13" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/shared/src/jvmMain/kotlin/sample/SampleJvm.kt" timestamp="1594114305539">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/ServerMain/kotlin/Application.kt" timestamp="1594110731630">
         <mark key="[" line="27" column="0" />
@@ -145,11 +149,11 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594111608247">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594114566652">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/Responses.kt" timestamp="1594110717314">
         <mark key="[" line="0" column="24" />
@@ -169,45 +173,52 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/ServerMain/server/OscConnection.kt" timestamp="1594110352019">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/ClientMain/client/WebSocketsClient.kt" timestamp="1594110344637">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594111994583">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/common/StringExtensions.kt" timestamp="1594110402607">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" timestamp="1594109069092">
-        <mark key="'" line="61" column="25" />
-        <mark key="[" line="51" column="75" />
-        <mark key="]" line="51" column="76" />
-        <mark key="." line="51" column="75" />
-        <mark key="^" line="51" column="76" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/common/Responses.kt" timestamp="1594110397049">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594114579322">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="127" column="47" />
+        <mark key="]" line="127" column="49" />
+        <mark key="." line="127" column="48" />
+        <mark key="^" line="127" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/Models.kt" timestamp="1594110712051">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/common/Models.kt" timestamp="1594110390678">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/ApplicationTest.kt" timestamp="1594114609241">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/WebSocketsClient.kt" timestamp="1594113546687">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594113667184">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/common/StringExtensions.kt" timestamp="1594110402607">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/common/Responses.kt" timestamp="1594110397049">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594111362968">
         <mark key="[" line="2" column="20" />
@@ -221,11 +232,6 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/common/Models.kt" timestamp="1594110390678">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-      </file>
       <file name="/fragment.java" timestamp="1594110633043">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,20 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="11" filename="$USER_HOME$/Projects/eqt-requests/client/src/test-helpers/data-generators.ts" />
-      <jump line="73" column="23" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" />
-      <jump line="5" column="31" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" />
-      <jump line="66" column="0" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.test.tsx" />
-      <jump line="174" column="4" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/TestDevices/Python3Motors.py" />
-      <jump line="84" column="52" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
-      <jump line="297" column="58" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/SmartImplicitHub.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/TestDevices/Python3Motors.py" />
-      <jump line="131" column="57" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SmartImplicitHub/TestDevices/Python3Motors.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="54" column="77" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="55" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/eqt-requests/app/server.js" />
       <jump line="329" column="28" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="316" column="45" filename="$USER_HOME$/Projects/eqt-requests/test/it/netsuite-api.data-source.tests.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/eqt-requests/create-secrets.sh" />
@@ -336,6 +328,20 @@
       <jump line="10" column="6" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
       <jump line="52" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
+      <jump line="18" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
+      <jump line="118" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="48" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
+      <jump line="9" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/WebSocketsClient.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="110" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="128" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="17" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
+      <jump line="2" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/shared/src/jvmMain/kotlin/sample/SampleJvm.kt" />
+      <jump line="68" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
+      <jump line="11" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/shared/src/jvmMain/kotlin/sample/SampleJvm.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,20 +349,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>testing = true</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>testing = true</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text encoding="base64">XDxTYW1wbGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICdodHRwczovL2tvdGxpbi5iaW50cmF5LmNvbS9rdG9yJyB9Cg==</text>
+        <text encoding="base64">YWN0dWFsIGNsYXNzIFNhbXBsZSB7CiAgICBhY3R1YWwgZnVuIGNoZWNrTWUoKSA9IDQyCn0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -371,13 +377,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tlbmRNYWluSW1wbGVtZW50YXRpb24gImlvLmt0b3I6a3Rvci1zZXJ2ZXItbmV0dHk6JGt0b3JfdmVyc2lvbiIK</text>
+        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKSAvLyBSZWZlcmVuY2VkIGluIGFwcGxpY2F0aW9uLmNvbmYKQGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -416,7 +422,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb3VwID0gImFwcGxpY2F0aW9uIgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -425,36 +431,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0dWFsIGNsYXNzIFNvbWFCaXRzIHsKICAgIGFjdHVhbCBmdW4gY2hlY2tNZSgpID0gNDIKfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">YWN0dWFsIEJhY2tlbmQgewogICAgCn0K</text>
       </register>
-      <register name="7" type="8">
-        <text>client
-client
-client
-client</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="8">
-        <text>server
-server
-server
-server
-server
-server
-server
-server
-server
-server
-      
-server</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1haW4gPSAic2Uua3RoLnNvbWFiaXRzLmJhY2tlbmQuQXBwbGljYXRpb25LdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNlLmt0aC5zb21hYml0cy5Db21tb25NYWluLmtvdGxpbi5TZXJ2aWNlTmFtZQppbXBvcnQgc2Uua3RoLnNvbWFiaXRzLkNvbW1vbk1haW4ua290bGluLlN0YXR1c1Jlc3BvbnNlCmltcG9ydCBzZS5rdGguc29tYWJpdHMuQ29tbW9uTWFpbi5rb3RsaW4ubG9uZ2VzdE1hdGNoaW5nU3Vic3RyaW5nCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3IuYXBwbGljYXRpb24uQXBwbGljYXRpb24KaW1wb3J0IGlvLmt0b3IuYXBwbGljYXRpb24uY2FsbAppbXBvcnQgaW8ua3Rvci5hcHBsaWNhdGlvbi5pbnN0YWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -463,9 +455,9 @@ server</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>server</last-search>
+      <last-search encoding="base64">XDxTYW1wbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern encoding="base64">XDxTYW1wbGVcPg==</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
