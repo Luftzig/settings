@@ -151,12 +151,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/StringExtensions.kt" timestamp="1594110722203">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594126739644">
         <mark key="'" line="71" column="32" />
         <mark key="[" line="96" column="31" />
@@ -164,31 +158,18 @@
         <mark key="." line="96" column="34" />
         <mark key="^" line="96" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/Responses.kt" timestamp="1594110717314">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="30" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/ServicesManager.kt" timestamp="1594130264811">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/ServicesManager.kt" timestamp="1594116117909">
-        <mark key="'" line="28" column="36" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594129418136">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594130836921">
         <mark key="'" line="34" column="81" />
-        <mark key="[" line="82" column="69" />
-        <mark key="]" line="82" column="75" />
-        <mark key="." line="82" column="74" />
-        <mark key="^" line="82" column="75" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/Models.kt" timestamp="1594110712051">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="30" />
+        <mark key="[" line="83" column="77" />
+        <mark key="]" line="83" column="80" />
+        <mark key="." line="83" column="79" />
+        <mark key="^" line="83" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/resources/logback.xml" timestamp="1594115700838">
         <mark key="[" line="11" column="43" />
@@ -196,10 +177,20 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/se/kth/somabits/common/Models.kt" timestamp="1594130236341">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/ApplicationTest.kt" timestamp="1594114609241">
         <mark key="[" line="10" column="37" />
         <mark key="]" line="10" column="37" />
         <mark key="." line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" timestamp="1594130240811">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/WebSocketsClient.kt" timestamp="1594113546687">
         <mark key="'" line="9" column="13" />
@@ -226,16 +217,17 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594129402675">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="8" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594130792911">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594111362968">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594130570230">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1594111620138">
         <mark key="'" line="11" column="6" />
@@ -244,9 +236,11 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="/fragment.java" timestamp="1594130183846">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="63" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
       <jump line="120" column="75" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
       <jump line="52" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
       <jump line="110" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
@@ -346,6 +340,7 @@
       <jump line="108" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="34" column="81" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="14" column="7" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="118" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/ServicesManager.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,20 +348,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>innerHTML = body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>innerHTML = body</text>
+        <text>$kotlinx_version</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJqcy1yZXNwb25zZSIpPy50ZXh0Q29udGVudCA9IG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1odG1sLWpzOiRrb3RsaW54X3ZlcnNpb24iKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -380,16 +375,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>{
-
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICBib290c3RyYXAoImpzLWNvbnRlbnQiKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -428,31 +421,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CkBTdXBwcmVzcygidW51c2VkIikKQEpzTmFtZSgiaGVsbG9Xb3JsZCIpCmZ1biBoZWxsb1dvcmxkKHNhbHV0YXRpb246IFN0cmluZykgewogICAgdmFsIG1lc3NhZ2UgPSAiJHNhbHV0YXRpb24gZnJvbSBLb3RsaW4uSlMiCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgianMtcmVzcG9uc2UiKT8udGV4dENvbnRlbnQgPSBtZXNzYWdlCn0K</text>
+        <text encoding="base64">ICAgICAgICBsYXVuY2gK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkBTdXBwcmVzcygidW51c2VkIikKQEpzTmFtZSgiYm9vdHN0cmFwIikKZnVuIGJvb3RzdHJhcCh0YXJnZXQ6IFN0cmluZykgewogICAgdmFsIGJvZHkgPSBib2R5KCkKICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKHRhcmdldCk/LmNoaQp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNlLmt0aC5zb21hYml0cy5jb21tb24uc2Uua3RoLnNvbWFiaXRzLmNvbW1vbi5CaXRzU2VydmljZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8qKgogKiBSZXByZXNlbnRzIGEgc2luZ2xlIFNvbWEgQml0IGFuZCBpdHMgaW50ZXJmYWNlcy4gQSBTb21hIGJpdCBkZXZpY2UgaXMgYSBzZXJ2aWNlIGF2YWlsYWJsZSBhdCBhIHNwZWNpZmljIG5ldHdvcmsKICogYWRkcmVzcywgd2l0aCBhIGRpc2NvdmVyeSBzdHlsZSBuYW1lIGV0Yy4gJ0JpdCAxLl9vc2MuX3VkcC5sb2NhbC4nLgogKiBAcHJvcGVydHkgaW50ZXJmYWNlcyBpcyBhIGxpc3QgbG9jYWwgc2VydmljZSBhZGRyZXNzIHN1Y2ggYXMgJy9Nb3RvcjEnIGFuZCBpbmZvcm1hdGlvbiByZWdhcmRpbmcgaXQuCiAqLwpkYXRhIGNsYXNzIEJpdHNTZXJ2aWNlKAogICAgdmFsIG5hbWU6IFNlcnZpY2VOYW1lLAogICAgdmFsIGFkZHJlc3M6IFN0cmluZywKICAgIHZhbCBwb3J0OiBJbnQsCiAgICB2YWwgaW50ZXJmYWNlczogTGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4KKSB7CiAgICBjb21wYW5pb24gb2JqZWN0IHt9Cn0=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tcGFuaW9uIG9iamVjdCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBmcm9tKHNlcnZpY2VJbmZvOiBTZXJ2aWNlSW5mbyk6IEJpdHNTZXJ2aWNlID0KICAgICAgICAgICAgQml0c1NlcnZpY2UoCiAgICAgICAgICAgICAgICBTZXJ2aWNlTmFtZShzZXJ2aWNlSW5mby5uYW1lKSwKICAgICAgICAgICAgICAgIHNlcnZpY2VJbmZvLmhvc3RBZGRyZXNzZXMuZmlyc3QoKSwKICAgICAgICAgICAgICAgIHNlcnZpY2VJbmZvLnBvcnQsCiAgICAgICAgICAgICAgICBwYXJzZUludGVyZmFjZXMoCiAgICAgICAgICAgICAgICAgICAgc2VydmljZUluZm8udGV4dEJ5dGVzCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKCiAgICAgICAgcHJpdmF0ZSBmdW4gcGFyc2VJbnRlcmZhY2VzKHRleHRCeXRlczogQnl0ZUFycmF5Pyk6IExpc3Q8UGFpcjxTdHJpbmcsIFN0cmluZz4+ID0KICAgICAgICAgICAgdGV4dEJ5dGVzPy5sZXQgewogICAgICAgICAgICAgICAgcGFyc2VCb25qb3VyVHh0UmVjb3JkKAogICAgICAgICAgICAgICAgICAgIGl0CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIH0ub3JFbXB0eSgpCgogICAgICAgIHByaXZhdGUgZnVuIHBhcnNlQm9uam91clR4dFJlY29yZChieXRlczogQnl0ZUFycmF5KTogTGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4gPQogICAgICAgICAgICBieXRlcy50b0xpc3QoKS5icmVha1dpdGggewogICAgICAgICAgICAgICAgdmFsIGxlbmd0aCA9IGl0LmZpcnN0KCkudG9VU2hvcnQoKS50b0ludCgpCiAgICAgICAgICAgICAgICBQYWlyKGl0LmRyb3AoMSkudGFrZShsZW5ndGgpLCBpdC5kcm9wKGxlbmd0aCArIDEpKQogICAgICAgICAgICB9Lm1hcCB7CiAgICAgICAgICAgICAgICBpdC50b0J5dGVBcnJheSgpLnRvU3RyaW5nKENoYXJzZXRzLlVURl84KQogICAgICAgICAgICB9Lm1hcCB7CiAgICAgICAgICAgICAgICBpdC5zcGxpdCgiPSIpCiAgICAgICAgICAgIH0ubWFwIHsKICAgICAgICAgICAgICAgIFBhaXIoaXQuZmlyc3QoKSwgaXQuZHJvcCgxKS5qb2luVG9TdHJpbmcoIiIpKQogICAgICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuaW50ZXIK</text>
+        <text encoding="base64">ICAgIHZhbCBjbGllbnQgPSBIdHRwQ2xpZW50KEpzKSB7CiAgICAgICAgaW5zdGFsbChXZWJTb2NrZXRzKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
