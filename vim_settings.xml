@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDaGVja2JveFw+</entry>
         <entry>zeroconf</entry>
         <entry>OSC</entry>
         <entry encoding="base64">XDxPU0NNZXNzYWdlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>server</entry>
         <entry>application</entry>
         <entry encoding="base64">XDxTYW1wbGVcPg==</entry>
+        <entry>webpack</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
@@ -128,8 +128,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" timestamp="1594122733273">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" timestamp="1594123740631">
+        <mark key="'" line="26" column="16" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="65" column="1" />
       </file>
@@ -155,12 +155,12 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594123148886">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594123535408">
         <mark key="'" line="70" column="32" />
-        <mark key="[" line="88" column="50" />
-        <mark key="]" line="88" column="59" />
-        <mark key="." line="88" column="58" />
-        <mark key="^" line="88" column="59" />
+        <mark key="[" line="94" column="22" />
+        <mark key="]" line="94" column="22" />
+        <mark key="." line="94" column="22" />
+        <mark key="^" line="94" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/Responses.kt" timestamp="1594110717314">
         <mark key="[" line="0" column="24" />
@@ -175,12 +175,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594122857600">
-        <mark key="'" line="56" column="8" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="36" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594123806503">
+        <mark key="'" line="134" column="22" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/CommonMain/kotlin/Models.kt" timestamp="1594110712051">
         <mark key="[" line="0" column="24" />
@@ -241,9 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/Projects/mentors-backend/views.py" />
-      <jump line="397" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmdns/jmdns/3.5.5/fe279a403cff7629ee44af78680dc423aaeeb9d0/jmdns-3.5.5-sources.jar!/javax/jmdns/impl/JmDNSImpl.java" />
-      <jump line="43" column="58" filename="$USER_HOME$/Projects/SomaBitsServer/src/Discovery.kt" />
       <jump line="42" column="3" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
       <jump line="104" column="20" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
       <jump line="39" column="118" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
@@ -341,6 +338,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
       <jump line="56" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="134" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
+      <jump line="26" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,16 +349,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkZyb250ZW5kIG91dCBwYXRoOiAiICsgZnJvbnRlbmRCcm93c2VyUHJvZHVjdGlvbldlYnBhY2sub3V0cHV0UGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20obmV3IEZpbGUoZnJvbnRlbmRCcm93c2VyV2VicGFjay5uYW1lLCBmcm9udGVuZEJyb3dzZXJXZWJwYWNrLm91dHB1dFBhdGgpKQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>frontend</text>
+        <text>kth-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTYW1wbGVcPg==</text>
+        <text>webpack</text>
       </register>
       <register name="0" type="4">
         <text>frontendBrowserProductionWebpack.outputPath</text>
@@ -376,13 +376,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkZyb250ZW5kIG91dCBwYXRoOiAiICsgZnJvbnRlbmRCcm93c2VyUHJvZHVjdGlvbldlYnBhY2sub3V0cHV0UGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20obmV3IEZpbGUoZnJvbnRlbmRCcm93c2VyV2VicGFjay5uYW1lLCBmcm9udGVuZEJyb3dzZXJXZWJwYWNrLm91dHB1dFBhdGgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNPbihmcm9udGVuZEJyb3dzZXJQcm9kdWN0aW9uV2VicGFjaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -421,28 +421,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIiR7aGVsbG8oKX0gZnJvbSBLdG9yLiBDaGVjayBtZSB2YWx1ZTogJHtTYW1wbGUoKS5jaGVja01lKCl9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGlsYXRpb25zLm1haW4gewogICAgICAgICAgICAgICAgdGFza3MuZ2V0QnlOYW1lKHByb2Nlc3NSZXNvdXJjZXNUYXNrTmFtZSkgewogICAgICAgICAgICAgICAgICAgIGRlcGVuZHNPbihmcm9udGVuZEJyb3dzZXJXZWJwYWNrKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkZyb250ZW5kIG91dCBwYXRoOiAiICsgZnJvbnRlbmRCcm93c2VyUHJvZHVjdGlvbldlYnBhY2sub3V0cHV0UGF0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNPbihmcm9udGVuZEJyb3dzZXJQcm9kdWN0aW9uV2VicGFjaykK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIiR7aGVsbG8oKX0gZnJvbSBLdG9yLiBDaGVjayBtZSB2YWx1ZTogJHtTYW1wbGUoKS5jaGVja01lKCl9Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbGljYXRpb25EZWZhdWx0SnZtQXJncyA9IFsiLURqYXZhLm5ldC5wcmVmZXJJUHY0U3RhY2s9dHJ1ZSJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbkRlZmF1bHRKdm1BcmdzID0gWyItRGphdmEubmV0LnByZWZlcklQdjRTdGFjaz10cnVlIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -454,9 +454,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTYW1wbGVcPg==</last-search>
+      <last-search>webpack</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTYW1wbGVcPg==</last-pattern>
+      <last-pattern>webpack</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
