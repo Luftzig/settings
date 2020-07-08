@@ -218,11 +218,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594202643218">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="52" />
-        <mark key="^" line="24" column="53" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594207602199">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594131313028">
         <mark key="[" line="3" column="21" />
@@ -242,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="2" filename="$USER_HOME$/Projects/somabits/ServerBit/Processing/broadcasterServer/broadcasterServer.pde" />
       <jump line="145" column="20" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
       <jump line="49" column="66" filename="$USER_HOME$/Projects/SomaBitsServer/src/ServicesManager.kt" />
       <jump line="54" column="34" filename="$USER_HOME$/Projects/SomaBitsServer/src/ServicesManager.kt" />
@@ -342,6 +342,7 @@
       <jump line="32" column="35" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="23" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="37" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -350,13 +351,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Res</text>
+        <text encoding="base64">ID0gUmVxdWVzdFN0YXRlLk5vdFN0YXJ0ZWQoKQ==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>Res</text>
+        <text encoding="base64">ID0gUmVxdWVzdFN0YXRlLk5vdFN0YXJ0ZWQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>boot</text>
@@ -376,14 +377,16 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">b2JqZWN0IE5vdFN0YXJ0ZWQgOiBSZXF1ZXN0U3RhdGU8UmVzLCBFcnI+Cg==</text>
+      <register name="1" type="4">
+        <text>(
+    
+)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBOb3RTdGFydGVkOiAgUmVxdWVzdFN0YXRlPCosICo+CiAgICBvYmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -422,31 +425,33 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b2JqZWN0IE5vdFN0YXJ0ZWQgOiAgUmVxdWVzdFN0YXRlCm9iamVjdAo=</text>
+        <text encoding="base64">ICAgIHZhbCBhZGRyZXNzZXM6IFJlcXVlc3RTdGF0ZTxMaXN0PFN0cmluZz4sIFN0cmluZz4K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9iamVjdCBOb3RTdGFydGVkIDogIFJlcXVlc3RTdGF0ZQogICAgb2JqZWN0Cg==</text>
+      <register name="5" type="4">
+        <text>{
+        
+    }</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoMSB7CiAgICAgICAgICAgICsiU29tYWJpdHMgU2VydmVyIgogICAgICAgIH0K</text>
+        <text encoding="base64">b2JqZWN0IE5vdFN0YXJ0ZWQgOiBSZXF1ZXN0U3RhdGU8UmVzLCBFcnI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEFwcFBybwo=</text>
+        <text encoding="base64">ICAgIG9iamVjdCBOb3RTdGFydGVkOiAgUmVxdWVzdFN0YXRlPCosICo+CiAgICBvYmplY3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
