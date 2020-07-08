@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>OSC</entry>
         <entry encoding="base64">XDxPU0NNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxtb3Rvclw+</entry>
         <entry>verify</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTYW1wbGVcPg==</entry>
         <entry>webpack</entry>
         <entry>boot</entry>
+        <entry>List</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
@@ -218,12 +218,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594210072551">
-        <mark key="'" line="99" column="42" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="4" />
-        <mark key="^" line="96" column="4" />
-        <mark key="." line="96" column="3" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594211062081">
+        <mark key="'" line="104" column="43" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="39" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594131313028">
         <mark key="[" line="3" column="21" />
@@ -243,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/ConsoleEchoServer.java" />
-      <jump line="28" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/ConsoleEchoServer.java" />
       <jump line="36" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
       <jump line="1086" column="5" filename="$USER_HOME$/Projects/somabits/ServerBit/Processing/broadcasterServer/broadcasterServer.pde" />
       <jump line="54" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/ConsoleEchoServer.java" />
@@ -342,7 +340,9 @@
       <jump line="26" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="46" column="11" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="76" column="20" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="97" column="42" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="51" column="88" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="97" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="101" column="43" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -350,17 +350,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>Feature</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>boot</text>
+        <text>List</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxleChmbGV4R3JvdyA9IDMuMCkK</text>
@@ -384,7 +384,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGUgewogICAgICAgICAgICAgICAgYWRkcmVzc2VzID0gUmVxdWVzdFN0YXRlLkRvbmUoYWRkcmVzc2VzUmVxdWVzdCkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -423,33 +423,33 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuIEFwcGxpY2F0aW9uLmFjdChhY3Rpb246IEFjdGlvbik6IEFwcFN0YXRlID0KICAgIHdoZW4gKGFjdGlvbikgewogICAgICAgIGVsc2UgLT4gc3RhdGUKICAgIH0K</text>
+      <register name="5" type="4">
+        <text>setState {
+                addresses = RequestState.Done(addressesRequest)
+            }</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIEFwcFN0YXRlLmluaXQoKSB7CiAgICBhZGRyZXNzZXMgPSBSZXF1ZXN0U3RhdGUuV2FpdGluZygpCgogICAgdmFsIG1haW5TY29wZSA9IE1haW5TY29wZSgpCiAgICBtYWluU2NvcGUubGF1bmNoIHsKICAgICAgICB2YWwgYWRkcmVzc2VzUmVxdWVzdCA9IGNsaWVudC5nZXRBZGRyZXNzZXMoKQogICAgICAgIHNldFN0YXRlIHt9CiAgICB9Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzIFJlcXVlc3RTdGF0ZS5GYWlsZWQgLT4gVE9ETygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -458,9 +458,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>boot</last-search>
+      <last-search>List</last-search>
       <last-offset />
-      <last-pattern>boot</last-pattern>
+      <last-pattern>List</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
