@@ -221,12 +221,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594214633184">
-        <mark key="'" line="123" column="12" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="112" column="46" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594214839440">
+        <mark key="'" line="125" column="12" />
+        <mark key="[" line="122" column="20" />
+        <mark key="]" line="122" column="29" />
+        <mark key="." line="122" column="28" />
+        <mark key="^" line="122" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594131313028">
         <mark key="[" line="3" column="21" />
@@ -346,14 +346,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuIFJCdWlsZGVyLnJlbmRlckRldmljZUxpc3QoZGV2aWNlczogTWFwPFN0cmluZywgQml0c1NlcnZpY2U+KSB7CiAgICBjaGlsZChkZXZpY2VMaXN0KSB7CiAgICAgICAgYXR0cnMgewogICAgICAgICAgICBkZXZpY2VzID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>FunctionalComponent</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>(devices = stat)</text>
+        <text>FunctionalComponent</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
@@ -374,13 +374,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIFJCdWlsZGVyLnJlbmRlckRldmljZUxpc3QoZGV2aWNlczogTWFwPFN0cmluZywgQml0c1NlcnZpY2U+KSB7CiAgICBjaGlsZChkZXZpY2VMaXN0KSB7CiAgICAgICAgYXR0cnMgewogICAgICAgICAgICBkZXZpY2VzID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIG92ZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRGV2aWNlTGlzdChzdGF0ZS5kZXZpY2VzKQo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -418,34 +418,34 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>jsObject(devices = devices) {
-        this.devices = devices
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuIFJCdWlsZGVyLnJlbmRlckRldmljZUxpc3QoZGV2aWNlczogTWFwPFN0cmluZywgQml0c1NlcnZpY2U+KSB7CiAgICBjaGlsZChkZXZpY2VMaXN0KSB7CiAgICAgICAgYXR0cnMgewogICAgICAgICAgICBkZXZpY2VzID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRGV2aWNlTGlzdChzdGF0ZS5kZXZpY2VzKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>jsObject(devices = devices) {
+        this.devices = devices
+    }</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigiRXJyb3IgZmV0Y2hpbmcgc2VydmljZXMgJGl0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
