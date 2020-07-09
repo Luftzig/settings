@@ -7,6 +7,7 @@
       <mapping pattern="*-js.php" type="JavaScript" />
       <mapping pattern="business-app-v11.php" type="JavaScript" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="run-flags" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
