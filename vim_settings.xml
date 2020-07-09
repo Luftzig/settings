@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPU0NNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxtb3Rvclw+</entry>
         <entry>verify</entry>
         <entry>NS_RELEASE</entry>
@@ -25,6 +24,7 @@
         <entry>webpack</entry>
         <entry>boot</entry>
         <entry>List</entry>
+        <entry>sails</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
@@ -182,9 +182,6 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmdns/jmdns/3.5.5/fe279a403cff7629ee44af78680dc423aaeeb9d0/jmdns-3.5.5-sources.jar!/javax/jmdns/JmDNS.java" timestamp="1594116120765">
-        <mark key="'" line="98" column="24" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-styled/1.0.0-pre.94-kotlin-1.3.70/d54555d663d9c1623bc6bc6bdaee8c251608e000/kotlin-styled-1.0.0-pre.94-kotlin-1.3.70-sources.jar!/styled/StyledTags.kt" timestamp="1594213362465">
         <mark key="'" line="49" column="54" />
       </file>
@@ -196,6 +193,12 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1594301241353">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/.eslintrc.js" timestamp="1594289699553">
         <mark key="[" line="2" column="67" />
@@ -210,6 +213,11 @@
         <mark key="." line="122" column="28" />
         <mark key="^" line="122" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/api/models/Exercise.js" timestamp="1594301395998">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594131313028">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="4" column="21" />
@@ -221,9 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCMessageEvent.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/config/local.js.template" />
-      <jump line="104" column="21" filename="$USER_HOME$/Projects/megalessons/node_modules/sails-postgresql/node_modules/pg/lib/connection.js" />
       <jump line="73" column="35" filename="$USER_HOME$/Projects/SomaBitsServer/src/ServicesManager.kt" />
       <jump line="7" column="9" filename="$USER_HOME$/Projects/SomaBitsServer/src/ServicesManager.kt" />
       <jump line="62" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
@@ -321,6 +326,9 @@
       <jump line="45" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="119" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="49" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-styled/1.0.0-pre.94-kotlin-1.3.70/d54555d663d9c1623bc6bc6bdaee8c251608e000/kotlin-styled-1.0.0-pre.94-kotlin-1.3.70-sources.jar!/styled/StyledTags.kt" />
+      <jump line="48" column="17" filename="$USER_HOME$/Projects/megalessons/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/package.json" />
+      <jump line="20" column="17" filename="$USER_HOME$/Projects/megalessons/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,17 +336,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[2, &quot;after&quot;]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLCAK</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>[2, &quot;after&quot;]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>List</text>
+        <text>sails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxleChmbGV4R3JvdyA9IDMuMCkK</text>
@@ -356,13 +364,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXIK</text>
+        <text encoding="base64">ICAgICAgLCAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -401,33 +409,33 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIFJCdWlsZGVyLnJlbmRlckRldmljZUxpc3QoZGV2aWNlczogTWFwPFN0cmluZywgQml0c1NlcnZpY2U+KSB7CiAgICBjaGlsZChkZXZpY2VMaXN0KSB7CiAgICAgICAgYXR0cnMgewogICAgICAgICAgICBkZXZpY2VzID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIG92ZXIK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRGV2aWNlTGlzdChzdGF0ZS5kZXZpY2VzKQo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>jsObject(devices = devices) {
-        this.devices = devices
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuIFJCdWlsZGVyLnJlbmRlckRldmljZUxpc3QoZGV2aWNlczogTWFwPFN0cmluZywgQml0c1NlcnZpY2U+KSB7CiAgICBjaGlsZChkZXZpY2VMaXN0KSB7CiAgICAgICAgYXR0cnMgewogICAgICAgICAgICBkZXZpY2VzID0gZGV2aWNlcwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyRGV2aWNlTGlzdChzdGF0ZS5kZXZpY2VzKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>jsObject(devices = devices) {
+        this.devices = devices
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -436,9 +444,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>List</last-search>
+      <last-search>sails</last-search>
       <last-offset />
-      <last-pattern>List</last-pattern>
+      <last-pattern>sails</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
