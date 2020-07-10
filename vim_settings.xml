@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>NS_RELEASE</entry>
-        <entry>only</entry>
-        <entry>testGet</entry>
         <entry>OAuth</entry>
         <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
         <entry encoding="base64">XDxmXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>sails</entry>
         <entry>plugins</entry>
         <entry>apply</entry>
+        <entry>div</entry>
+        <entry>button</entry>
+        <entry>Tag</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
@@ -128,16 +128,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594309782832">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/se/kth/somabits/common/Models.kt" timestamp="1594130236341">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/resources/application.conf" timestamp="1594374785104">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/old.build.gradle" timestamp="1594304218843">
         <mark key="[" line="67" column="0" />
@@ -148,77 +142,18 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594306460427">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="103" column="1" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1594301241353">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" timestamp="1594369752360">
-        <mark key="'" line="54" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/.eslintrc.js" timestamp="1594289699553">
-        <mark key="[" line="2" column="67" />
-        <mark key="]" line="2" column="67" />
-        <mark key="^" line="2" column="67" />
-        <mark key="." line="2" column="67" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594303021126">
-        <mark key="'" line="96" column="9" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594374760398">
+        <mark key="'" line="79" column="16" />
         <mark key="[" line="81" column="30" />
         <mark key="]" line="81" column="34" />
         <mark key="." line="81" column="33" />
         <mark key="^" line="81" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/resources/index.html" timestamp="1594370355115">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1594373209053">
+        <mark key="'" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594370090831">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/models/Exercise.js" timestamp="1594301532973">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/ServicesManager.kt" timestamp="1594130264811">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1594124794033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Models.kt" timestamp="1594202622285">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594305003961">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.3.7/b0832a11658205b88d6496dd7991f65777fb68dd/kotlinx-coroutines-core-js-1.3.7-sources.jar!/commonMain/Annotations.kt" timestamp="1594372138014">
+        <mark key="'" line="39" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-styled/1.0.0-pre.94-kotlin-1.3.70/d54555d663d9c1623bc6bc6bdaee8c251608e000/kotlin-styled-1.0.0-pre.94-kotlin-1.3.70-sources.jar!/styled/StyledTags.kt" timestamp="1594213362465">
         <mark key="'" line="49" column="54" />
@@ -233,28 +168,66 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="36" column="19" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594309782832">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/render.kt" timestamp="1594372678152">
+        <mark key="'" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594375366084">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1594301241353">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" timestamp="1594373367898">
+        <mark key="'" line="17" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/.eslintrc.js" timestamp="1594289699553">
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="2" column="67" />
+        <mark key="^" line="2" column="67" />
+        <mark key="." line="2" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/resources/index.html" timestamp="1594370355115">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594374723871">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="20" column="77" />
+        <mark key="]" line="20" column="78" />
+        <mark key="." line="20" column="77" />
+        <mark key="^" line="20" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/api/models/Exercise.js" timestamp="1594301532973">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594305003961">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="/fragment.java" timestamp="1594304180233">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="28" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="135" column="46" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="143" column="50" filename="$USER_HOME$/Projects/SomaBitsServer/src/Application.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="14" column="86" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="31" column="49" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="23" column="65" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="26" column="20" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="108" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/ServicesManager.kt" />
-      <jump line="106" column="63" filename="$USER_HOME$/Projects/SomaBitsServer/src/se/kth/somabits/server/Application.kt" />
-      <jump line="61" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/WebSocketsClient.kt" />
-      <jump line="40" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="44" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="74" column="49" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="119" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/ServerMain/server/ServicesManager.kt" />
       <jump line="73" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="26" column="50" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
@@ -294,13 +267,9 @@
       <jump line="102" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="34" column="81" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="14" column="7" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="118" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/ServicesManager.kt" />
       <jump line="78" column="56" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="30" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="32" column="35" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="23" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="37" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="26" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
@@ -338,6 +307,27 @@
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/store.kt" />
       <jump line="86" column="55" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/store.kt" />
       <jump line="54" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" />
+      <jump line="35" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="14" column="1" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="39" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.3.7/b0832a11658205b88d6496dd7991f65777fb68dd/kotlinx-coroutines-core-js-1.3.7-sources.jar!/commonMain/Annotations.kt" />
+      <jump line="27" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="25" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" />
+      <jump line="6" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/render.kt" />
+      <jump line="676" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="632" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="982" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="81" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="140" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="40" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="66" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="10" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="23" column="29" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="17" column="73" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" />
+      <jump line="24" column="32" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="32" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="74" column="17" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="79" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,20 +335,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZTZXJ2ZXIgewogICAgICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50QmFzZSA9IFsiJHByb2plY3REaXIvc3JjL21haW4vd2ViIl0KICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>apply</text>
+        <text>Tag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkxvY2FsKCkKICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9rb3RsaW4va290bGluLWVhcCcgfQogICAgICAgIG1hdmVuIHsgdXJsICdodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8nIH0KICAgICAgICBqY2VudGVyKCkKICAgIH0KCiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLWdyYWRsZS1wbHVnaW46JGtvdGxpbl92ZXJzaW9uIgogICAgfQp9CgoKcGx1Z2lucyB7CiAgICBpZCgiZGV2LmZyaXR6Mi5mcml0ejItZ3JhZGxlIikgdmVyc2lvbiAiMC41Igp9CgoKZ3JvdXAgJ3NlLmt0aC5zb21hYml0cycKdmVyc2lvbiAnMC4wLjEnCgpyZXBvc2l0b3JpZXMgewogICAgamNlbnRlcigpCiAgICBtYXZlbkxvY2FsKCkKICAgIG1hdmVuIHsgdXJsICdodHRwczovL2tvdGxpbi5iaW50cmF5LmNvbS9rdG9yJyB9CiAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9rb3RsaW4uYmludHJheS5jb20va290bGlueCcgfQp9Cgprb3RsaW4gewogICAganMoJ2Zyb250ZW5kJykgewogICAgICAgIGJyb3dzZXIgewogICAgICAgIH0KICAgIH0KICAgIGp2bSgnYmFja2VuZCcpIHsKICAgICAgICBjb21waWxhdGlvbnMubWFpbiB7CiAgICAgICAgICAgIHRhc2tzLmdldEJ5TmFtZShwcm9jZXNzUmVzb3VyY2VzVGFza05hbWUpIHsKICAgICAgICAgICAgICAgIGRlcGVuZHNPbihmcm9udGVuZEJyb3dzZXJQcm9kdWN0aW9uV2VicGFjaykKICAgICAgICAgICAgICAgIGZyb20oZnJvbnRlbmRCcm93c2VyUHJvZHVjdGlvbldlYnBhY2sub3V0cHV0UGF0aCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KICAgIHNvdXJjZVNldHMgewogICAgICAgIGNvbW1vbk1haW4gewogICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24ga290bGluKCdzdGRsaWItY29tbW9uJykKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKCJkZXYuZnJpdHoyOmNvcmU6JGZyaXR6X3ZlcnNpb24iKQoKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBjb21tb25UZXN0IHsKICAgICAgICAgICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbigndGVzdC1jb21tb24nKQogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24ga290bGluKCd0ZXN0LWFubm90YXRpb25zLWNvbW1vbicpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYmFja2VuZE1haW4gewogICAgICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24ga290bGluKCdzdGRsaWItamRrOCcpCiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiAiaW8ua3RvcjprdG9yLXNlcnZlci1uZXR0eToka3Rvcl92ZXJzaW9uIgogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gImlvLmt0b3I6a3Rvci1odG1sLWJ1aWxkZXI6JGt0b3JfdmVyc2lvbiIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJjaC5xb3MubG9nYmFjazpsb2diYWNrLWNsYXNzaWM6JGxvZ2JhY2tfdmVyc2lvbiIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazg6JGtvdGxpbl92ZXJzaW9uIgogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gImlvLmt0b3I6a3Rvci1zZXJ2ZXItbmV0dHk6JGt0b3JfdmVyc2lvbiIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJjaC5xb3MubG9nYmFjazpsb2diYWNrLWNsYXNzaWM6JGxvZ2JhY2tfdmVyc2lvbiIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJpby5rdG9yOmt0b3Itc2VydmVyLWNvcmU6JGt0b3JfdmVyc2lvbiIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJpby5rdG9yOmt0b3Itd2Vic29ja2V0czoka3Rvcl92ZXJzaW9uIgogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gImlvLmt0b3I6a3Rvci1uZXR3b3JrOiRrdG9yX3ZlcnNpb24iCiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiAiaW8ua3RvcjprdG9yLXNlcmlhbGl6YXRpb246JGt0b3JfdmVyc2lvbiIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJpby5rdG9yOmt0b3ItZ3Nvbjoka3Rvcl92ZXJzaW9uIgogICAgICAgICAgICAgICAgaW1wbGVtZW50YXRpb24gIm9yZy5qbWRuczpqbWRuczozLjUuNSIKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJjb20uaWxscG9zZWQub3NjOmphdmFvc2MtY29yZTowLjciCiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiAiaW8ua3RvcjprdG9yLWh0bWwtYnVpbGRlcjoka3Rvcl92ZXJzaW9uIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGJhY2tlbmRUZXN0IHsKICAgICAgICAgICAgZGVwZW5kZW5jaWVzIHsKICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbigndGVzdCcpCiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiBrb3RsaW4oJ3Rlc3QtanVuaXQnKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGZyb250ZW5kTWFpbiB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiBrb3RsaW4oJ3N0ZGxpYi1qcycpCiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiAiZGV2LmZyaXR6Mjpjb3JlOiRmcml0el92ZXJzaW9uIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGZyb250ZW5kVGVzdCB7CiAgICAgICAgICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgICAgICAgICBpbXBsZW1lbnRhdGlvbiBrb3RsaW4oJ3Rlc3QtanMnKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGFsbCB7CiAgICAgICAgICAgIGxhbmd1YWdlU2V0dGluZ3MuZW5hYmxlTGFuZ3VhZ2VGZWF0dXJlKCJJbmxpbmVDbGFzc2VzIikKICAgICAgICB9CiAgICB9Cn0KCnRhc2sgcnVuKHR5cGU6IEphdmFFeGVjLCBkZXBlbmRzT246IFtiYWNrZW5kSmFyXSkgewogICAgbWFpbiA9ICJzZS5rdGguc29tYWJpdHMuYmFja2VuZC5BcHBsaWNhdGlvbkt0IgogICAgY2xhc3NwYXRoKGNvbmZpZ3VyYXRpb25zLmJhY2tlbmRSdW50aW1lQ2xhc3NwYXRoLCBiYWNrZW5kSmFyKQogICAgYXJncyA9IFtdCiAgICBqdm1BcmdzID0gWyItRGphdmEubmV0LnByZWZlcklQdjRTdGFjaz10cnVlIl0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc2VzLmdldCgpLm9uRXJyb3JMb2coKS5ib2R5KCkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -373,7 +363,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9odG1sPgo8L2JvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZTZXJ2ZXIgewogICAgICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50QmFzZSA9IFsiJHByb2plY3REaXIvc3JjL21haW4vd2ViIl0KICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -418,31 +408,32 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgIGNvbnRlbnRCYXNlID0gWyIkcHJvamVjdERpci9zcmMvbWFpbi93ZWIiXSwKICAgICAgICAgICAgICAgICAgICBwcm94eSA9IFsnLyonOiAiaHR0cDovL2xvY2FsaG9zdDo4MDgwIl0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGh0bWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0Cg==</text>
+      <register name="5" type="4">
+        <text>.DevServer(
+                )</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLmxvYWRBZGRyZXNzZXMoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcG9ydCA9IDkwMDAsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRCYXNlID0gWyIkcHJvamVjdERpci9zcmMvbWFpbi93ZWIiXSwKICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYnBhY2sK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0IHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiQ2FsbGluZyBBUEkiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -451,9 +442,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>apply</last-search>
+      <last-search>Tag</last-search>
       <last-offset />
-      <last-pattern>apply</last-pattern>
+      <last-pattern>Tag</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
