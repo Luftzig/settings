@@ -177,8 +177,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/render.kt" timestamp="1594372678152">
         <mark key="'" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594375366084">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594375604145">
+        <mark key="'" line="33" column="31" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -204,12 +204,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594374723871">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="20" column="77" />
-        <mark key="]" line="20" column="78" />
-        <mark key="." line="20" column="77" />
-        <mark key="^" line="20" column="78" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594375550963">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/api/models/Exercise.js" timestamp="1594301532973">
         <mark key="[" line="13" column="7" />
@@ -263,7 +263,6 @@
       <jump line="64" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
       <jump line="26" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/shared/build.gradle" />
       <jump line="13" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="33" column="48" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="102" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="34" column="81" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
@@ -328,6 +327,7 @@
       <jump line="32" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="74" column="17" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="79" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="33" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +336,7 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZTZXJ2ZXIgewogICAgICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50QmFzZSA9IFsiJHByb2plY3REaXIvc3JjL21haW4vd2ViIl0KICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
@@ -363,13 +363,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZTZXJ2ZXIgewogICAgICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50QmFzZSA9IFsiJHByb2plY3REaXIvc3JjL21haW4vd2ViIl0KICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZSgidGV4dC13cmFwIikgewogICAgICAgICAgICAgICAgICAgIGNvZGUgewogICAgICAgICAgICAgICAgICAgICAgICBhZGRyZXNzU3RvcmUuZGF0YS5iaW5kKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -408,7 +408,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgIGNvbnRlbnRCYXNlID0gWyIkcHJvamVjdERpci9zcmMvbWFpbi93ZWIiXSwKICAgICAgICAgICAgICAgICAgICBwcm94eSA9IFsnLyonOiAiaHR0cDovL2xvY2FsaG9zdDo4MDgwIl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZTZXJ2ZXIgewogICAgICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50QmFzZSA9IFsiJHByb2plY3REaXIvc3JjL21haW4vd2ViIl0KICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -416,9 +416,8 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.DevServer(
-                )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3J0ID0gOTAwMAogICAgICAgICAgICAgICAgICAgIGNvbnRlbnRCYXNlID0gWyIkcHJvamVjdERpci9zcmMvbWFpbi93ZWIiXSwKICAgICAgICAgICAgICAgICAgICBwcm94eSA9IFsnLyonOiAiaHR0cDovL2xvY2FsaG9zdDo4MDgwIl0K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
@@ -426,14 +425,15 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcG9ydCA9IDkwMDAsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRCYXNlID0gWyIkcHJvamVjdERpci9zcmMvbWFpbi93ZWIiXSwKICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCg==</text>
+      <register name="7" type="4">
+        <text>.DevServer(
+                )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYnBhY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiQ2FsbGluZyBBUEkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcG9ydCA9IDkwMDAsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRCYXNlID0gWyIkcHJvamVjdERpci9zcmMvbWFpbi93ZWIiXSwKICAgICAgICAgICAgICAgICAgICAgICAgcHJveHkgPSBbJy8qJzogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
