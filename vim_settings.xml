@@ -45,8 +45,8 @@
         <entry>s/=/': '/g</entry>
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -194,17 +194,23 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" timestamp="1594373367898">
         <mark key="'" line="17" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/.eslintrc.js" timestamp="1594624721181">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/resources/index.html" timestamp="1594388427709">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1594624212895">
-        <mark key="'" line="96" column="2" />
-        <mark key="[" line="100" column="64" />
-        <mark key="]" line="100" column="63" />
-        <mark key="^" line="100" column="63" />
-        <mark key="." line="100" column="62" />
+      <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1594624286460">
+        <mark key="'" line="102" column="4" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="2" />
+        <mark key="^" line="29" column="2" />
+        <mark key="." line="29" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594462605754">
         <mark key="'" line="28" column="24" />
@@ -212,12 +218,6 @@
         <mark key="]" line="68" column="30" />
         <mark key="." line="68" column="28" />
         <mark key="^" line="68" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/models/Exercise.js" timestamp="1594301532973">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1594381893039">
         <mark key="[" line="6" column="22" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="128" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="17" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="2" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/shared/src/jvmMain/kotlin/sample/SampleJvm.kt" />
@@ -330,6 +329,7 @@
       <jump line="90" column="53" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="123" column="30" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="96" column="2" filename="$USER_HOME$/Projects/megalessons/config/local.js" />
+      <jump line="102" column="4" filename="$USER_HOME$/Projects/megalessons/config/local.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,13 +338,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>function contentful()</text>
+        <text>true</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>function contentful()</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Tag</text>
