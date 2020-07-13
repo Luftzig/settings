@@ -160,11 +160,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1594373209053">
         <mark key="'" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" timestamp="1594631818717">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="27" />
+      <file name="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" timestamp="1594633200905">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/Exercise/showStudent.ejs" timestamp="1594628586671">
         <mark key="[" line="0" column="0" />
@@ -177,9 +177,6 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/render.kt" timestamp="1594372678152">
-        <mark key="'" line="6" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594392220530">
         <mark key="'" line="90" column="53" />
         <mark key="[" line="107" column="0" />
@@ -189,6 +186,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/remote/remote.kt" timestamp="1594391457514">
         <mark key="'" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/index.ejs" timestamp="1594633470092">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" timestamp="1594373367898">
         <mark key="'" line="17" column="73" />
@@ -224,12 +226,12 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/config/routes.js" timestamp="1594628671053">
+      <file name="$USER_HOME$/Projects/megalessons/config/routes.js" timestamp="1594632133776">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="197" column="48" />
-        <mark key="." line="198" column="0" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="196" column="14" />
+        <mark key="^" line="196" column="14" />
+        <mark key="." line="196" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -340,20 +342,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Tag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7IHJvbGU6IHJvbGVzLnRlYWNoZXIsIG9iamVjdDogJ2NsYXNzQ29udHJvbGxlcicsIHR5cGVzOiBbJyonXSB9LAo=</text>
+        <text encoding="base64">ICAgICwgYWxsOiBmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgICAgcmV0dXJuIENvbnRlbnRmdWwuZ2V0RW50cmllcygKICAgICAgICB7J2NvbnRlbnRfdHlwZSc6ICdkeXNsZXhpYV9leGVyY2lzZSd9KS50aGVuKGVudHJpZXMgPT4KICAgICAgICByZXMudmlldygnL2V4ZXJjaXNlL2luZGV4LmVqcycsIHtlbnRyaWVzfSkKICAgICAgKS5jYXRjaChlcnJvciA9PiByZXMuc2VuZCg1MDAsIGVycm9yKSkKICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -368,13 +370,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgPCU9IEpTT04uc3RyaW5naWZ5KGVudHJ5LCBudWxsLCAyKSAlPgo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -413,31 +415,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCUjIGdsb2JhbCBleGVyY2lzZSAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogZ2xvYmFsIGV4ZXJjaXNlICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlcy52aWV3KCcvRXhlcmNpc2UvJyArIGl0ZW1JZCkK</text>
+        <text encoding="base64">PCUjIGdsb2JhbCBleGVyY2lzZSAlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXRlbUlkID0gcmVxLnBhcmFtKCdpZCcpCg==</text>
+        <text encoding="base64">LyogZ2xvYmFsIGV4ZXJjaXNlICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xpZW50Lgo=</text>
+        <text encoding="base64">ICAgIDxoMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
