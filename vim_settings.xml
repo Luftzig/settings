@@ -191,12 +191,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594730466545">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594731146029">
         <mark key="'" line="84" column="76" />
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="6" />
+        <mark key="[" line="176" column="62" />
+        <mark key="]" line="176" column="73" />
+        <mark key="." line="176" column="72" />
+        <mark key="^" line="176" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build/reports/webpack/somabits-frontend/webpack.config.evaluated.js" timestamp="1594715143853">
         <mark key="[" line="42" column="8" />
@@ -342,20 +342,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VVJMIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dChpdCkK</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VVJMIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>remote</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcigiRXJyb3IgaW5pdGlhbGl6aW5nIHdlYnNvY2tldCEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGl2KCJjb2wtbWQtNCIpIHsK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -370,13 +370,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dChpdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYoInJvdyIpIHsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -415,31 +415,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQgPSBXZWJTb2NrZXQoYmFzZVVybCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaDMoImNvbC1tZC0xMiIpIHsgdGV4dCgiQ29ubmVjdGlvbnM6ICIpIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNvY2tldCA6IFdlYlNvY2tldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZW5kZXIgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBzb2NrZXQgPSBXZWJTb2NrZXQoYmFzZVVybCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNvY2tldCA9IFdlYlNvY2tldChiYXNlVXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlc1N0b3JlLmRhdGEKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcCB7IGl0LmVudHJpZXMudG9MaXN0KCkgfQogICAgICAgICAgICAgICAgICAgICAgICAuZWFjaCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAgeyAoYWRkciwgc29ja2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaXYoInJvdyIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGl2KCJjb2wtbWQtMyIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQoYWRkcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfS5iaW5kKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
+      <register name="7" type="4">
+        <text>{
+    val browserUrl = window.location
+    return &quot;ws://${browserUrl.host}:${browserUrl.port}/$path&quot;
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpdigicm93IikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpdigiY29sLW1kLTMiKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQoYWRkcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
