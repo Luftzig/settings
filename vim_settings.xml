@@ -219,7 +219,6 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/bootstrap.css" timestamp="1594648483822" />
       <file name="$USER_HOME$/Projects/megalessons/assets/js/youtube.js" timestamp="1594650022826">
         <mark key="'" line="13" column="0" />
       </file>
@@ -228,6 +227,12 @@
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1594739937303">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1594655512919">
         <mark key="[" line="15" column="0" />
@@ -344,14 +349,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>7000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>7000</text>
+        <text>receiver.startListening()</text>
       </register>
       <register name="/" type="4">
         <text>remote</text>
@@ -372,13 +377,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0dGVybgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlN0YXJ0ZWQgbGlzdGVuaW5nIGZvciBjb25uZWN0aW9ucyBvbiAke3JlY2VpdmVyLmxvY2FsQWRkcmVzc30iKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -417,31 +422,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gR2V0IGNvbm5lY3Rpb24gb3IgdHJ5IHRvIGVzdGFibGlzaCBuZXcgb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kZXIuCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpcyBFaXRoZXIuTGVmdCAtPiB7CiAgICAgICAgICAgIGxvZy53YXJuKCJGYWlsZWQgdG8gcmV0cmlldmUgT1NDIGNvbm5lY3Rpb24gZHVlIHRvOiAkaXQiKQogICAgICAgICAgICBudWxsCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0dGVybgo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIC0+IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gR2V0IGNvbm5lY3Rpb24gb3IgdHJ5IHRvIGVzdGFibGlzaCBuZXcgb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uLmVtcHR5PE9zY0Nvbm5lY3Rpb24+KCkK</text>
+        <text encoding="base64">ICAgICAgICBpcyBFaXRoZXIuTGVmdCAtPiB7CiAgICAgICAgICAgIGxvZy53YXJuKCJGYWlsZWQgdG8gcmV0cmlldmUgT1NDIGNvbm5lY3Rpb24gZHVlIHRvOiAkaXQiKQogICAgICAgICAgICBudWxsCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCB7IG9zY0Nvbm5lY3Rpb25zW3NlcnZpY2VOYW1lXS50b09wdGlvbigpIH0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIC0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIC0+IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
