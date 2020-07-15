@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>server</entry>
-        <entry>application</entry>
         <entry encoding="base64">XDxTYW1wbGVcPg==</entry>
         <entry>webpack</entry>
         <entry>boot</entry>
@@ -25,6 +23,8 @@
         <entry>run</entry>
         <entry>include</entry>
         <entry>;</entry>
+        <entry>makeStats</entry>
+        <entry>stat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1594819770729">
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1594820852736">
         <mark key="'" line="9" column="25" />
         <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="46" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="/a.dummy" timestamp="1594804947810">
         <mark key="[" line="0" column="1" />
@@ -143,9 +143,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="105" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" timestamp="1594742795655">
-        <mark key="'" line="199" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/showInstructions.ejs" timestamp="1594806074578">
         <mark key="[" line="5" column="0" />
@@ -210,6 +207,9 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" timestamp="1594821120140">
+        <mark key="'" line="43" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1594799833520">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="40" column="0" />
@@ -244,9 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
-      <jump line="10" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
-      <jump line="17" column="73" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" />
       <jump line="24" column="32" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="74" column="17" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
@@ -344,6 +341,9 @@
       <jump line="73" column="8" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
       <jump line="13" column="35" filename="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" />
       <jump line="9" column="25" filename="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" />
+      <jump line="56" column="39" filename="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" />
+      <jump line="42" column="8" filename="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" />
+      <jump line="43" column="29" filename="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,17 +351,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1ZGlvID0gZ2V0T3JDcmVhdGVBdWRpb1RhZyhlbGVtZW50KQo=</text>
+      <register name="&quot;" type="4">
+        <text>Exit</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>extracted</text>
+        <text>Exit</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>stat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoYXVkaW8gPT0gbnVsbCkgewogICAgYXVkaW8gPSBnZXRPckNyZWF0ZUF1ZGlvVGFnKGVsZW1lbnQpCiAgfQo=</text>
@@ -457,9 +457,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>;</last-search>
+      <last-search>stat</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>stat</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
