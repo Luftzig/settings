@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>urlencoded</entry>
         <entry>netsuite</entry>
         <entry>server</entry>
         <entry>application</entry>
@@ -25,6 +24,7 @@
         <entry>remote</entry>
         <entry>startListening</entry>
         <entry>run</entry>
+        <entry>include</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
@@ -183,6 +183,12 @@
       <file name="/fragment.kt" timestamp="1594734163731">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/showInstructions.ejs" timestamp="1594798093762">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1594717340483">
         <mark key="'" line="83" column="30" />
         <mark key="[" line="81" column="0" />
@@ -193,11 +199,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/remote/remote.kt" timestamp="1594721324647">
         <mark key="'" line="311" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/index.ejs" timestamp="1594655467003">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="6" column="40" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/index.ejs" timestamp="1594798899669">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="66" />
+        <mark key="." line="6" column="66" />
+        <mark key="^" line="6" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594732363964">
         <mark key="'" line="84" column="76" />
@@ -205,12 +211,6 @@
         <mark key="]" line="142" column="56" />
         <mark key="." line="142" column="55" />
         <mark key="^" line="142" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build/reports/webpack/somabits-frontend/webpack.config.evaluated.js" timestamp="1594715143853">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/webpack.config.d/devServer.js" timestamp="1594732352190">
         <mark key="[" line="12" column="6" />
@@ -347,17 +347,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICwgY3JlYXRlOiBmdW5jdGlvbiAocmVxLCByZXMpIHsKCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>isResilient</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>include</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkNyZWF0ZSB3ZWJzb2NrZXQgY2hhbm5lbCB3aXRoICR7Y2FsbC5wYXJhbWV0ZXJzfSIpCg==</text>
@@ -375,13 +375,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwgY3JlYXRlOiBmdW5jdGlvbiAocmVxLCByZXMpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -420,13 +420,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAKLy8gICAgKAovLyAgICAgICAgSW5ldFNvY2tldEFkZHJlc3MoCi8vICAgICAgICAgICAgbG9jYWxBZGRyZXNzLAovLyAgICAgICAgICAgIGxvY2FsUG9ydAovLyAgICAgICAgKQovLyAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LmFsc28gewogICAgICAgIHdoZW4gKGl0KSB7CiAgICAgICAgICAgIGlzIEVpdGhlci5SaWdodCAtPgogICAgICAgIH0KICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,16 +435,16 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ2lzdGVyU2VydmljZShvc2NDb25uZWN0aW9ucywgYml0c1NlcnZpY2UsIGJlc3RNYXRjaGluZ1NlcnZlckFkZHJlc3MsIHNlcnZlck9zY0xpc3RlbmluZ1BvcnQpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwlIF8uZWFjaChleGVyY2lzZXMsIGZ1bmN0aW9uIChlbnRyeSkgeyAlPgogICAgICAgIAogICAgPCUgfSk7ICU+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlN0YXJ0ZWQgbGlzdGVuaW5nIGZvciBjb25uZWN0aW9ucyBvbiAke3JlY2VpdmVyLmxvY2FsQWRkcmVzc30iKQo=</text>
+        <text encoding="base64">ICAgICAgICA8JS0gcGFydGlhbCgnc2hvd0luc3RydWN0aW9ucy5lanMnLCB7ZW50cnk6IGVudHJ5fSkgJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICA8JS0gaW5jbHVkZSgndXNlci9zaG93Jywge3VzZXI6IHVzZXJ9KTsgJT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -453,9 +453,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>run</last-search>
+      <last-search>include</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>include</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
