@@ -128,12 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1594822471161">
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1594823547268">
         <mark key="'" line="9" column="25" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1594804947810">
         <mark key="[" line="0" column="1" />
@@ -167,11 +167,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1594823068934">
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="92" column="23" />
-        <mark key="." line="92" column="22" />
-        <mark key="^" line="92" column="23" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1594823513125">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="92" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/channel/OSCDatagramChannel.java" timestamp="1594742814246">
         <mark key="'" line="82" column="35" />
@@ -195,11 +195,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1594822756621">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1594823590884">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1594808810393">
         <mark key="[" line="0" column="0" />
@@ -352,14 +352,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mask</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>mask</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -380,13 +380,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbGVtZW50Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvKiBlbGVtZW50OiBIVE1MRWxlbWVudCAqLwogIGVsZW1lbnQuYmVmb3JlKG1hc2spCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -425,31 +425,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbGVtZW50Lgo=</text>
+        <text encoding="base64">ICAgIGVsZW1lbnQuYmVmb3JlKG51bGwpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBtYXNrLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmRyYWdnYWJsZS5leGVyY2lzZS1jYXJkIHsKfQo=</text>
+        <text encoding="base64">ICBjb25zdCBlbGVtZW50ID0gZXZlbnQudGFyZ2V0Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmRyYWdnYWJsZS5kcmFnZ2luZyAuZXhlcmNpc2UtY2FyZCB7CiAgY3Vyc29yOiBncmFiYmluZzsKICBib3gtc2hhZG93OiA1cHggNXB4IDVweCAjMDAxYzIwLCAwIDAgNXB4ICM5ZDlkOWQ7Cn0K</text>
+        <text encoding="base64">ICBjb25zdCBtYXNrID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2JykKICBtYXNrLmNsYXNzTmFtZSA9ICdjYXJkLWRyb3AtbWFzaycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IGdyYWJiaW5nOwogIGJveC1zaGFkb3c6IDVweCA1cHggNXB4ICMwMDFjMjAsIDAgMCA1cHggIzlkOWQ5ZDsK</text>
+        <text encoding="base64">ICBlbGVtZW50Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IGdyYWI7Cg==</text>
+        <text encoding="base64">ICBlbGVtZW50Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
