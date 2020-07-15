@@ -202,12 +202,12 @@
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" timestamp="1594806923943">
-        <mark key="'" line="35" column="22" />
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="21" />
+      <file name="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" timestamp="1594807407200">
+        <mark key="'" line="37" column="43" />
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="36" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1594799833520">
         <mark key="'" line="21" column="17" />
@@ -222,11 +222,11 @@
         <mark key="." line="142" column="55" />
         <mark key="^" line="142" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/showStudent.ejs" timestamp="1594806481925">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/showStudent.ejs" timestamp="1594806944804">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/config/routes.js" timestamp="1594799304649">
         <mark key="'" line="198" column="2" />
@@ -244,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="14" column="1" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="39" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.3.7/b0832a11658205b88d6496dd7991f65777fb68dd/kotlinx-coroutines-core-js-1.3.7-sources.jar!/commonMain/Annotations.kt" />
       <jump line="25" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" />
@@ -344,6 +343,7 @@
       <jump line="198" column="2" filename="$USER_HOME$/Projects/megalessons/config/routes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="37" column="43" filename="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,19 +352,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>entry</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>entry</text>
       </register>
       <register name="/" type="4">
         <text>include</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coIkV4ZXJjaXNlIGRhdGE6IikgCg==</text>
+      <register name="0" type="4">
+        <text>'content_type': 'dyslexia_exercise'</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -379,13 +379,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiIikK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVudHJ5LmZpZWxkcy50YXNrcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiIikK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -424,31 +424,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1cGRhdGVJY29uKFBMQVlfU1RBVFVTLlNUT1BQRUQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIiIpCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHVwZGF0ZUljb24oUExBWV9TVEFUVVMuUExBWUlORykpCg==</text>
+        <text encoding="base64">ICB1cGRhdGVJY29uKFBMQVlfU1RBVFVTLlNUT1BQRUQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBwbGF5QXVkaW8oYXVkaW8pIHsKICAgIHJldHVybiBhdWRpby5wbGF5KCkKICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgY29uc29sZS5sb2coIkF1ZGlvIHBsYXkiKQogICAgICAgICAgZWxlbWVudC5kYXRhc2V0LnN0YXR1cyA9IFBMQVlfU1RBVFVTLlBMQVlJTkcKICAgICAgICAgIGlmIChhdWRpb0NoaWxkcmVuLmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgICBlbGVtZW50LmFwcGVuZENoaWxkKGF1ZGlvKQogICAgICAgICAgfQogICAgICAgICAgYXVkaW8ub25lbmRlZCA9ICgpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coIk9uIGVuZGVkIikKICAgICAgICAgICAgYXVkaW8ubG9hZCgpCiAgICAgICAgICAgIHN0b3BBdWRpbyhhdWRpbykKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICkKICAgICAgLnRoZW4oKCkgPT4gdXBkYXRlSWNvbihQTEFZX1NUQVRVUy5QTEFZSU5HKSkKICB9CgogIGZ1bmN0aW9uIHN0b3BBdWRpbyhhdWRpbykgewogICAgYXVkaW8ucGF1c2UoKQogICAgZWxlbWVudC5kYXRhc2V0LnN0YXR1cyA9IFBMQVlfU1RBVFVTLlNUT1BQRUQKICAgICB1cGRhdGVJY29uKFBMQVlfU1RBVFVTLlNUT1BQRUQpCiAgfQo=</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHVwZGF0ZUljb24oUExBWV9TVEFUVVMuUExBWUlORykpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBwbGF5QXVkaW8oYXVkaW8pIHsKICAgIHJldHVybiBhdWRpby5wbGF5KCkKICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgY29uc29sZS5sb2coIkF1ZGlvIHBsYXkiKQogICAgICAgICAgZWxlbWVudC5kYXRhc2V0LnN0YXR1cyA9IFBMQVlfU1RBVFVTLlBMQVlJTkcKICAgICAgICAgIGlmIChhdWRpb0NoaWxkcmVuLmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgICBlbGVtZW50LmFwcGVuZENoaWxkKGF1ZGlvKQogICAgICAgICAgfQogICAgICAgICAgYXVkaW8ub25lbmRlZCA9ICgpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coIk9uIGVuZGVkIikKICAgICAgICAgICAgYXVkaW8ubG9hZCgpCiAgICAgICAgICAgIHN0b3BBdWRpbyhhdWRpbykKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICkKICAgICAgLnRoZW4oKCkgPT4gdXBkYXRlSWNvbihQTEFZX1NUQVRVUy5QTEFZSU5HKSkKICB9CgogIGZ1bmN0aW9uIHN0b3BBdWRpbyhhdWRpbykgewogICAgYXVkaW8ucGF1c2UoKQogICAgZWxlbWVudC5kYXRhc2V0LnN0YXR1cyA9IFBMQVlfU1RBVFVTLlNUT1BQRUQKICAgICB1cGRhdGVJY29uKFBMQVlfU1RBVFVTLlNUT1BQRUQpCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YXVkaW8gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8YXVkaW8gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
