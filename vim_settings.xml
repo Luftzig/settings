@@ -27,7 +27,6 @@
         <entry>;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyguKi8gPT4gTm9uZQ==</entry>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
         <entry>s/(/(\r\t/g</entry>
         <entry encoding="base64">JzwsJz5zLykvXHJcdCkvZw==</entry>
@@ -45,6 +44,7 @@
         <entry>s/=/': '/g</entry>
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
+        <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -128,21 +128,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1594815664704">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="13" column="56" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1594819770729">
+        <mark key="'" line="9" column="25" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1594804947810">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1594817500507">
-        <mark key="[" line="14" column="45" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="45" />
-        <mark key="^" line="14" column="46" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1594818534696">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="105" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" timestamp="1594742795655">
         <mark key="'" line="199" column="57" />
@@ -165,19 +165,16 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" timestamp="1594817249564">
-        <mark key="'" line="74" column="8" />
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="84" column="18" />
-        <mark key="^" line="71" column="26" />
-        <mark key="." line="84" column="22" />
+      <file name="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" timestamp="1594820083992">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1594806270567">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="50" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="29" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1594820432632">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="9" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/channel/OSCDatagramChannel.java" timestamp="1594742814246">
         <mark key="'" line="82" column="35" />
@@ -201,11 +198,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1594816082896">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1594819620261">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1594808810393">
         <mark key="[" line="0" column="0" />
@@ -247,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="66" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
       <jump line="10" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
       <jump line="17" column="73" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.5/4c6b55961f0314fd0abfdfaf36fd1b177006cad5/core-js-0.5-sources.jar!/jsMain/dev/fritz2/binding/handlers.kt" />
@@ -347,6 +342,8 @@
       <jump line="83" column="36" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
       <jump line="87" column="2" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
       <jump line="73" column="8" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
+      <jump line="13" column="35" filename="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" />
+      <jump line="9" column="25" filename="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,20 +351,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>event</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF1ZGlvID0gZ2V0T3JDcmVhdGVBdWRpb1RhZyhlbGVtZW50KQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>extracted</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBlbGVtZW50ID0gZXZlbnQudGFyZ2V0Cg==</text>
+        <text encoding="base64">ICBpZiAoYXVkaW8gPT0gbnVsbCkgewogICAgYXVkaW8gPSBnZXRPckNyZWF0ZUF1ZGlvVGFnKGVsZW1lbnQpCiAgfQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -382,13 +379,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBldmVudC5wcmV2ZW50RGVmYXVsdCgpCg==</text>
+        <text encoding="base64">ICAgIGF1ZGlvID0gZ2V0T3JDcmVhdGVBdWRpb1RhZyhlbGVtZW50KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBldmVudC5wcmV2ZW50RGVmYXVsdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -427,31 +424,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBldmVudC5wcmV2ZW50RGVmYXVsdCgpCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGNhcmRTdGFydERyYWcoZXZlbnQpIHsKICBjb25zdCBlbGVtZW50ID0gZXZlbnQudGFyZ2V0CiAgY29uc29sZS5sb2coImRyYWcgc3RhcnQiLCBlbGVtZW50LmRhdGFzZXQuY2FyZCkKICBlbGVtZW50LmNsYXNzTGlzdC5hZGQoImRyYWdnaW5nIikKfQoKZnVuY3Rpb24gY2FyZEVuZERyYWcoZXZlbnQgLyo6IERyYWdFdmVudCAqLykgewogIGV2ZW50LnByZXZlbnREZWZhdWx0KCkKICBjb25zdCBlbGVtZW50ID0gZXZlbnQudGFyZ2V0CiAgZXZlbnQuZGF0YVRyYW5zZmVyLmRyb3BFZmZlY3QgPSAibW92ZSIKICBldmVudC5kYXRhVHJhbnNmZXIuc2V0RGF0YSgndGV4dC9wbGFpbicsIGVsZW1lbnQuZGF0YXNldC5jYXJkKQogIGNvbnNvbGUubG9nKCJkcmFnIGVuZCIsIGVsZW1lbnQuZGF0YXNldC5jYXJkKQogIGVsZW1lbnQuY2xhc3NMaXN0LnJlbW92ZSgiZHJhZ2dpbmciKQp9CgpmdW5jdGlvbiBjYXJkRHJhZ0VudGVyKGV2ZW50KSB7CiAgZXZlbnQucHJldmVudERlZmF1bHQoKQogIGNvbnNvbGUubG9nKCJjYXJkIGRyYWcgZW50ZXIiKQogIGNvbnN0IGVsZW1lbnQgPSBldmVudC50YXJnZXQKICBlbGVtZW50LmNsYXNzTGlzdC5hZGQoImRyYWctb3ZlciIpCn0KCmZ1bmN0aW9uIGNhcmREcmFnRXhpdChldmVudCkgewogIGV2ZW50LnByZXZlbnREZWZhdWx0KCkKICBjb25zb2xlLmxvZygiY2FyZCBkcmFnIGV4aXQiKQogIGNvbnN0IGVsZW1lbnQgPSBldmVudC50YXJnZXQKICBlbGVtZW50LmNsYXNzTGlzdC5yZW1vdmUoImRyYWctb3ZlciIpCn0KCmZ1bmN0aW9uIGNhcmREcm9wKGV2ZW50KSB7CiAgZXZlbnQucHJldmVudERlZmF1bHQoKQogIGNvbnN0IGVsZW1lbnQgPSBldmVudC50YXJnZXQKICBjb25zb2xlLmRlYnVnKCJEcm9wIG9uICIsIGVsZW1lbnQuZGF0YXNldC5jYXJkKQp9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBldmVudC5wcmV2ZW50RGVmYXVsdCgpCg==</text>
+        <text encoding="base64">ICAgICBvbmRyYWdleGl0PSJjYXJkRHJhZ0V4aXQoZXZlbnQpIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudC4K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBvbmRyYWdvdmVyPSJjb25zb2xlLmxvZygnZHJhZ292ZXInLCBldmVudCkiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY2FyZERyYWcK</text>
+        <text encoding="base64">PCUKY29uc29sZS5sb2coY2FyZC5maWVsZHMpCiU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
