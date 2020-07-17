@@ -180,11 +180,8 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BitsDeviceManager.kt" timestamp="1594909328533">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="45" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.6/424379de455df02f7c837a5b04e3d34caabf70f3/core-js-0.6-sources.jar!/jsMain/dev/fritz2/remote/remote.kt" timestamp="1594975467935">
+        <mark key="'" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1594913699130">
         <mark key="'" line="122" column="33" />
@@ -193,13 +190,14 @@
         <mark key="^" line="126" column="34" />
         <mark key="." line="126" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594916029805">
+      <file name="/Dummy.txt" timestamp="1594976558712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/rest.kt" timestamp="1594974208718">
+      <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/rest.kt" timestamp="1594975527920">
+        <mark key="'" line="16" column="17" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="12" column="61" />
       </file>
@@ -227,18 +225,15 @@
         <mark key="." line="52" column="4" />
         <mark key="^" line="50" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" timestamp="1594975200718">
-        <mark key="'" line="7" column="26" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" timestamp="1594976556078">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="77" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="32" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="167" column="60" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="208" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="122" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="239" column="18" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="251" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="238" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
@@ -335,6 +330,10 @@
       <jump line="13" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" />
       <jump line="3" column="26" filename="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" />
+      <jump line="35" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.6/424379de455df02f7c837a5b04e3d34caabf70f3/core-js-0.6-sources.jar!/jsMain/dev/fritz2/remote/remote.kt" />
+      <jump line="11" column="26" filename="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" />
+      <jump line="16" column="17" filename="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/rest.kt" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,19 +342,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKCJDcmVhdGluZyBzdG9yZSBmb3IgJGJhc2VVcmwiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>handledBy</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbG9zZShjb2RlOiBTaG9ydCA9IGRlZmluZWRFeHRlcm5hbGx5LCByZWFzb246IFN0cmluZyA9IGRlZmluZWRFeHRlcm5hbGx5KQo=</text>
+        <text encoding="base64">ICAgIGZ1biBzZW5kKGRhdGE6IEFycmF5QnVmZmVyKSA9IHJlbW90ZS5zZW5kKGRhdGEpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -370,13 +369,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKCJDcmVhdGluZyBzdG9yZSBmb3IgJGJhc2VVcmwiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBjbG9zZSgpID0gc29ja2V0LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBsb2FkID0gYXBwbHkgeyAgc2VyaWFsaXplci5yZWFkKGl0KSB9IGFuZFRoZW4gdXBkYXRlCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -415,31 +414,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZW5kKCkK</text>
+        <text encoding="base64">ICAgIHZhbCBzZW5kVGV4dDogKGRhdGE6IFN0cmluZykgLT4gVW5pdCA9IHJlbW90ZS5zZW5kCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">eyBtb2RlbCwgbWVzc2FnZSAtPgogICAgICAgICAgICBzZXJpYWxpemVyKG1lc3NhZ2UpCiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXJpYWxpemVyOiBTZXJpYWxpemVyPFQsIFN0cmluZz4sCiAgICB2YWwgY29udGVudFR5cGU6IFN0cmluZyA9ICJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04IiwKICAgIGlubGluZSB2YWwgc2VyaWFsaXplSWQ6IChJKSAtPiBTdHJpbmcgPSB7IGl0LnRvU3RyaW5nKCkgfQo=</text>
+        <text encoding="base64">ICAgIGlubGluZSB2YWwgc2VyaWFsaXplSWQ6IChJKSAtPiBTdHJpbmcgPSB7IGl0LnRvU3RyaW5nKCkgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWxEYXRhOiBULAogICAgaW5saW5lIHZhbCBpZFByb3ZpZGVyOiBJZFByb3ZpZGVyPFQsIEk+LAo=</text>
+        <text encoding="base64">ICAgIHJlbW90ZS5tZXNzYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBiYXNlVXJsOiBTdHJpbmcgPSAiIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coYCR7X19maWxlbmFtZX06JHtEZXNrdG9wSW52b2ljZURldGFpbHMubmFtZX06YCwgcHJvcHMuZGlzYWJsZWRQcm9qZWN0Q29kZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBlcnJvckhhbmRsZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhEZXNrdG9wQmlsbExpbmUubmFtZSwgYXJncy5kaXNhYmxlZCkK</text>
+        <text encoding="base64">ICAgIGlubGluZSB2YWwgaWRQcm92aWRlcjogSWRQcm92aWRlcjxULCBJPiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
