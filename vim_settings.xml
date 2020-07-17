@@ -147,6 +147,10 @@
         <mark key="." line="24" column="6" />
         <mark key="^" line="24" column="17" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.3.71/b2c1d04048dae91fca36cfc05efee31c2b77eca9/kotlin-stdlib-js-1.3.71-sources.jar!/org.w3c/org.w3c.dom.kt" timestamp="1594974829129">
+        <mark key="[" line="4002" column="0" />
+        <mark key="]" line="4002" column="82" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" timestamp="1594973349129">
         <mark key="'" line="319" column="32" />
         <mark key="[" line="306" column="28" />
@@ -160,16 +164,10 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopInvoice.tsx" timestamp="1594905887205">
-        <mark key="'" line="81" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopBillLines.tsx" timestamp="1594905923020">
-        <mark key="'" line="39" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" timestamp="1594974153822">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="20" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" timestamp="1594974158463">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="20" />
       </file>
@@ -201,6 +199,10 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/rest.kt" timestamp="1594974208718">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="12" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopInvoiceDetails.tsx" timestamp="1594972757206">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -225,13 +227,14 @@
         <mark key="." line="52" column="4" />
         <mark key="^" line="50" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/MobileInvoice.tsx" timestamp="1594905847873">
-        <mark key="'" line="21" column="11" />
+      <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" timestamp="1594975200718">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="170" column="34" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="200" column="32" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="167" column="60" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="208" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
@@ -330,6 +333,8 @@
       <jump line="317" column="25" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="319" column="32" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
       <jump line="13" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" />
+      <jump line="3" column="26" filename="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,20 +342,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKCJDcmVhdGluZyBzdG9yZSBmb3IgJGJhc2VVcmwiKQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF1bmNoIHsKICAgICAgICAgICAgICAgIHJlbW90ZSgiL2RldmljZSIpLmFjY2VwdEpzb24oKS5oZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKICAgICAgICAgICAgICAgICAgICAucG9zdCgiLyR7c2VydmljZX0vY29ubmVjdCIpCiAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoKQogICAgICAgICAgICB9CiAgICAgICAgICAgIG1vZGVsCg==</text>
+        <text encoding="base64">ICAgIGZ1biBjbG9zZShjb2RlOiBTaG9ydCA9IGRlZmluZWRFeHRlcm5hbGx5LCByZWFzb246IFN0cmluZyA9IGRlZmluZWRFeHRlcm5hbGx5KQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -365,13 +370,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coYCR7X19maWxlbmFtZX06JHtEZXNrdG9wSW52b2ljZURldGFpbHMubmFtZX06YCwgcHJvcHMuZGlzYWJsZWRQcm9qZWN0Q29kZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmRlYnVnKCJDcmVhdGluZyBzdG9yZSBmb3IgJGJhc2VVcmwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhEZXNrdG9wQmlsbExpbmUubmFtZSwgYXJncy5kaXNhYmxlZCkK</text>
+        <text encoding="base64">ICAgIGZ1biBjbG9zZSgpID0gc29ja2V0LmNsb3NlKCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -410,31 +415,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhEZXNrdG9wQmlsbExpbmUubmFtZSwgYXJncy5kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBzZW5kKCkK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbC5sb2coIkludm9pY2UgQXBwcm92YWxzOiBCaWxsIExpbmVzIiwgaW52b2ljZUFwcHJvdmFscy5tYXAoKHg6IEludm9pY2VBcHByb3ZhbCkgPT4geC5iaWxsTGluZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZ2V0KCIvY29ubmVjdC97c2VydmljZX0ve3BvcnQ/fSIpIHsKICAgICAgICAgICAgdmFsIHNlcnZpY2VOYW1lID0gY2FsbC5wYXJhbWV0ZXJzWyJzZXJ2aWNlIl0/LmxldCB7IGl0MSAtPgogICAgICAgICAgICAgICAgU2VydmljZU5hbWUoCiAgICAgICAgICAgICAgICAgICAgaXQxCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIH0KICAgICAgICAgICAgdmFsIGhhbmRzaGFrZVBvcnQgPSBjYWxsLnBhcmFtZXRlcnNbInBvcnQiXT8udG9JbnRPck51bGwoKSA/OiBkZWZhdWx0SGFuZHNoYWtlUG9ydCgpCiAgICAgICAgICAgIGNvbm5lY3RUb0RldmljZShzZXJ2aWNlc01hbmFnZXIsIHNlcnZpY2VOYW1lLCBoYW5kc2hha2VQb3J0LCBvc2NDb25uZWN0aW9ucykKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJpYWxpemVyOiBTZXJpYWxpemVyPFQsIFN0cmluZz4sCiAgICB2YWwgY29udGVudFR5cGU6IFN0cmluZyA9ICJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04IiwKICAgIGlubGluZSB2YWwgc2VyaWFsaXplSWQ6IChJKSAtPiBTdHJpbmcgPSB7IGl0LnRvU3RyaW5nKCkgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGluaXRpYWxEYXRhOiBULAogICAgaW5saW5lIHZhbCBpZFByb3ZpZGVyOiBJZFByb3ZpZGVyPFQsIEk+LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBSb290U3RvcmU8TGlzdDxCaXRzRGV2aWNlPj4gewo=</text>
+        <text encoding="base64">ICAgIHZhbCBiYXNlVXJsOiBTdHJpbmcgPSAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coYCR7X19maWxlbmFtZX06JHtEZXNrdG9wSW52b2ljZURldGFpbHMubmFtZX06YCwgcHJvcHMuZGlzYWJsZWRQcm9qZWN0Q29kZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhEZXNrdG9wQmlsbExpbmUubmFtZSwgYXJncy5kaXNhYmxlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
