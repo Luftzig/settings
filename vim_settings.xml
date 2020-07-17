@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>div</entry>
-        <entry>button</entry>
-        <entry>Tag</entry>
-        <entry>lodash</entry>
         <entry>connectToService</entry>
         <entry>\cresult</entry>
         <entry>remote</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxjb25uZWN0VG9TZXJ2aWNlXD4=</entry>
         <entry>remove</entry>
         <entry>Interaction</entry>
+        <entry encoding="base64">XDxpbnRlcmFjdDFcPg==</entry>
+        <entry>setup</entry>
+        <entry encoding="base64">XDxjcmVhdGVXcml0ZXJcPg==</entry>
+        <entry encoding="base64">XDxXcml0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -196,11 +196,11 @@
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopInvoices.tsx" timestamp="1594973016121">
         <mark key="'" line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/ServicesManager.kt" timestamp="1594909346995">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="6" />
-        <mark key="." line="24" column="6" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/Projects/Soma-tech/.gitignore" timestamp="1594986357218">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.3.71/b2c1d04048dae91fca36cfc05efee31c2b77eca9/kotlin-stdlib-js-1.3.71-sources.jar!/org.w3c/org.w3c.dom.kt" timestamp="1594974829129">
         <mark key="[" line="4002" column="0" />
@@ -232,30 +232,15 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="77" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" timestamp="1594985870733">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="221" column="2" />
-        <mark key="]" line="221" column="2" />
-        <mark key="." line="221" column="2" />
-        <mark key="^" line="322" column="11" />
+      <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" timestamp="1594987064940">
+        <mark key="'" line="383" column="58" />
+        <mark key="[" line="452" column="42" />
+        <mark key="]" line="453" column="38" />
+        <mark key="." line="453" column="37" />
+        <mark key="^" line="453" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="212" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="203" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="199" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="82" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/channel/OSCDatagramChannel.java" />
-      <jump line="30" column="34" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="198" column="2" filename="$USER_HOME$/Projects/megalessons/config/routes.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="37" column="43" filename="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/Projects/megalessons/api/controllers/ExerciseController.js" />
-      <jump line="7" column="14" filename="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" />
-      <jump line="88" column="36" filename="$USER_HOME$/Projects/megalessons/views/layout.ejs" />
-      <jump line="11" column="41" filename="$USER_HOME$/Projects/megalessons/views/layout.ejs" />
-      <jump line="20" column="10" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
       <jump line="72" column="39" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
       <jump line="83" column="36" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
       <jump line="87" column="2" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
@@ -341,6 +326,21 @@
       <jump line="934" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="1120" column="27" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="352" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="361" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="343" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="335" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="327" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="42" column="8" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="432" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="434" column="17" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="230" column="20" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="286" column="13" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="280" column="12" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="293" column="35" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="298" column="35" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="379" column="56" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="383" column="58" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,17 +348,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>endFile</text>
       </register>
       <register name="/" type="4">
-        <text>Interaction</text>
+        <text encoding="base64">XDxXcml0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Received OSC message from ${remoteAddress}: $it&quot;</text>
@@ -375,8 +375,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -421,28 +421,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoIWludGVyYWN0MSAmJiByZWNvcmRQcmVzc3VyZSAhPSBudWxsKSB7CiAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoIWludGVyYWN0MSAmJiByZWNvcmRQcmVzc3VyZSAhPSBudWxsKSB7CiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">RmlsZSByZWNvcmRQcmVzc3VyZUZpbGUgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -454,9 +454,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Interaction</last-search>
+      <last-search encoding="base64">XDxXcml0ZVw+</last-search>
       <last-offset />
-      <last-pattern>Interaction</last-pattern>
+      <last-pattern encoding="base64">XDxXcml0ZVw+</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>remove</last-substitute>
       <last-dir>1</last-dir>
