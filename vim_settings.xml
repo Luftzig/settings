@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>plugins</entry>
         <entry>apply</entry>
         <entry>div</entry>
         <entry>button</entry>
@@ -25,6 +24,7 @@
         <entry>renderBi</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxjb25uZWN0VG9TZXJ2aWNlXD4=</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -186,12 +186,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.6/424379de455df02f7c837a5b04e3d34caabf70f3/core-js-0.6-sources.jar!/jsMain/dev/fritz2/remote/remote.kt" timestamp="1594975467935">
         <mark key="'" line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594980655241">
-        <mark key="'" line="152" column="62" />
-        <mark key="[" line="140" column="5" />
-        <mark key="]" line="142" column="26" />
-        <mark key="." line="142" column="25" />
-        <mark key="^" line="142" column="26" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1594982033656">
+        <mark key="'" line="140" column="4" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="180" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopInvoices.tsx" timestamp="1594973016121">
         <mark key="'" line="60" column="16" />
@@ -219,11 +219,11 @@
         <mark key="^" line="126" column="34" />
         <mark key="." line="126" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1594914274630">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
-        <mark key="^" line="50" column="19" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1594982889528">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/webSockets.kt" timestamp="1594976556078">
         <mark key="'" line="74" column="0" />
@@ -292,7 +292,6 @@
       <jump line="117" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="105" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="104" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="140" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="131" column="41" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="102" column="61" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="107" column="42" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
@@ -334,6 +333,7 @@
       <jump line="169" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="237" column="36" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="258" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="140" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,20 +341,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3NjUG9ydCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWNlaXZlci5kaXNwYXRjaGVyLmFkZExpc3RlbmVyKAogICAgICAgICAgICBvYmplY3QgOiBNZXNzYWdlU2VsZWN0b3IgewogICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGlzSW5mb1JlcXVpcmVkKCk6IEJvb2xlYW4gPSBmYWxzZQoKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBtYXRjaGVzKG1lc3NhZ2VFdmVudDogT1NDTWVzc2FnZUV2ZW50Pyk6IEJvb2xlYW4gPSB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIE9TQ01lc3NhZ2VMaXN0ZW5lciB7IGxvZy5pbmZvKCJSZWNlaXZlZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpIH0KICAgICAgICApCiAgICAgICAgcmVjZWl2ZXIuZGlzcGF0Y2hlci5hZGRCYWREYXRhTGlzdGVuZXIgeyAKICAgICAgICAgICAgbG9nLndhcm4oIlJlY2VpdmVkIEJhZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3NjUG9ydCwg</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0VG9TZXJ2aWNlXD4=</text>
+        <text>remove</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZW5kKGRhdGE6IEFycmF5QnVmZmVyKSA9IHJlbW90ZS5zZW5kKGRhdGEpCg==</text>
+      <register name="0" type="4">
+        <text>&quot;Received OSC message from ${remoteAddress}: $it&quot;</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -369,13 +369,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcnZlckxpc3RlbmluZ1BvcnQ6IEludAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNlaXZlci5kaXNwYXRjaGVyLmFkZExpc3RlbmVyKAogICAgICAgICAgICBvYmplY3QgOiBNZXNzYWdlU2VsZWN0b3IgewogICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGlzSW5mb1JlcXVpcmVkKCk6IEJvb2xlYW4gPSBmYWxzZQoKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBtYXRjaGVzKG1lc3NhZ2VFdmVudDogT1NDTWVzc2FnZUV2ZW50Pyk6IEJvb2xlYW4gPSB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIE9TQ01lc3NhZ2VMaXN0ZW5lciB7IGxvZy5pbmZvKCJSZWNlaXZlZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpIH0KICAgICAgICApCiAgICAgICAgcmVjZWl2ZXIuZGlzcGF0Y2hlci5hZGRCYWREYXRhTGlzdGVuZXIgeyAKICAgICAgICAgICAgbG9nLndhcm4oIlJlY2VpdmVkIEJhZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZlck9zY0xpc3RlbmluZ1BvcnQ6IEludCwK</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -413,29 +413,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{
+                    TODO(&quot;Not yet implemented&quot;)
+                }</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2FkID0gYXBwbHkgeyAgc2VyaWFsaXplci5yZWFkKGl0KSB9IGFuZFRoZW4gdXBkYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZVNlbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZW5kVGV4dDogKGRhdGE6IFN0cmluZykgLT4gVW5pdCA9IHJlbW90ZS5zZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tzLm1hcCB7IGRldmljZS5uYW1lIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vbkVhY2ggeyBtZXNzYWdlc1N0b3JlLnJlbW92ZVByZWZpeCB9IGhhbmRsZWRCeSBkZXZpY2VTdG9yZS5kaXNjb25uZWN0RnJvbURldmljZQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">eyBtb2RlbCwgbWVzc2FnZSAtPgogICAgICAgICAgICBzZXJpYWxpemVyKG1lc3NhZ2UpCiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tzLm1hcCB7IGRldmljZS5uYW1lLm5hbWUgfSBoYW5kbGVkQnkgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlubGluZSB2YWwgc2VyaWFsaXplSWQ6IChJKSAtPiBTdHJpbmcgPSB7IGl0LnRvU3RyaW5nKCkgfQo=</text>
+        <text encoding="base64">ICAgIHNlcnZlckxpc3RlbmluZ1BvcnQ6IEludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZS5tZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgIHNlcnZlck9zY0xpc3RlbmluZ1BvcnQ6IEludCwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -447,9 +449,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0VG9TZXJ2aWNlXD4=</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0VG9TZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>server</last-substitute>
       <last-dir>1</last-dir>
