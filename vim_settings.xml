@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>connectToService</entry>
-        <entry>\cresult</entry>
         <entry>remote</entry>
         <entry>startListening</entry>
         <entry>run</entry>
@@ -25,6 +23,8 @@
         <entry>setup</entry>
         <entry encoding="base64">XDxjcmVhdGVXcml0ZXJcPg==</entry>
         <entry encoding="base64">XDxXcml0ZVw+</entry>
+        <entry>Format</entry>
+        <entry encoding="base64">XDxzZW5zb3JJbnB1dHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -232,34 +232,15 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="77" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" timestamp="1594987064940">
-        <mark key="'" line="383" column="58" />
-        <mark key="[" line="452" column="42" />
-        <mark key="]" line="453" column="38" />
-        <mark key="." line="453" column="37" />
-        <mark key="^" line="453" column="38" />
+      <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" timestamp="1594988904649">
+        <mark key="'" line="416" column="24" />
+        <mark key="[" line="465" column="31" />
+        <mark key="]" line="466" column="31" />
+        <mark key="." line="466" column="30" />
+        <mark key="^" line="466" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="39" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
-      <jump line="83" column="36" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
-      <jump line="87" column="2" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
-      <jump line="73" column="8" filename="$USER_HOME$/Projects/megalessons/.tmp/public/js/exercise.js" />
-      <jump line="13" column="35" filename="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" />
-      <jump line="9" column="25" filename="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" />
-      <jump line="56" column="39" filename="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" />
-      <jump line="43" column="29" filename="$USER_HOME$/Projects/megalessons/node_modules/grunt-sync/tasks/sync.js" />
-      <jump line="146" column="22" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="142" column="16" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="87" column="17" filename="$USER_HOME$/Projects/eqt-requests/app/data-sources/netsuite-api.data-source.js" />
-      <jump line="1219" column="35" filename="$USER_HOME$/Projects/eqt-requests/client/src/schema.js" />
-      <jump line="184" column="19" filename="$USER_HOME$/Projects/eqt-requests/client/src/screens/InvoiceApprovalsScreen.tsx" />
-      <jump line="205" column="8" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" />
-      <jump line="50" column="22" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" />
-      <jump line="160" column="4" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" />
-      <jump line="170" column="33" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" />
-      <jump line="175" column="11" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" />
       <jump line="251" column="9" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" />
       <jump line="38" column="12" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/MobileInvoices.tsx" />
       <jump line="287" column="8" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" />
@@ -318,7 +299,6 @@
       <jump line="258" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="140" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="287" column="12" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
-      <jump line="416" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="741" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="725" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="740" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
@@ -341,6 +321,26 @@
       <jump line="298" column="35" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="379" column="56" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="383" column="58" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="447" column="26" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="384" column="7" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="376" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="139" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="283" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="292" column="23" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="378" column="23" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="380" column="19" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="389" column="7" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="406" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="407" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="409" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="410" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="412" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="413" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="415" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="470" column="27" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="469" column="27" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="416" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,20 +348,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>endFile</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXcml0ZVw+</text>
+        <text encoding="base64">XDxzZW5zb3JJbnB1dHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Received OSC message from ${remoteAddress}: $it&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpZiAoc2Vuc29ySW5wdXRzLmdldCgiMS9wcmVzc3VyZSIpICE9IG51bGwpIHsKICAgIHByZXNzdXJlMSA9IChGbG9hdCkgc2Vuc29ySW5wdXRzLmdldCgiMS9wcmVzc3VyZSIpWzBdOwogIH0KICBpZiAoc2Vuc29ySW5wdXRzLmdldCgiMi9wcmVzc3VyZSIpICE9IG51bGwpIHsKICAgIHByZXNzdXJlMiA9IChGbG9hdCkgc2Vuc29ySW5wdXRzLmdldCgiMi9wcmVzc3VyZSIpWzBdOwogIH0KICBpZiAoc2Vuc29ySW5wdXRzLmdldCgiMy9wcmVzc3VyZSIpICE9IG51bGwpIHsKICAgIHByZXNzdXJlMyA9IChGbG9hdCkgc2Vuc29ySW5wdXRzLmdldCgiMy9wcmVzc3VyZSIpWzBdOwogIH0KICBpZiAoc2Vuc29ySW5wdXRzLmdldCgiNC9wcmVzc3VyZSIpICE9IG51bGwpIHsKICAgIHByZXNzdXJlNCA9IChGbG9hdCkgc2Vuc29ySW5wdXRzLmdldCgiNC9wcmVzc3VyZSIpWzBdOwogIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -376,13 +376,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50W10gcmVhZElucHV0cygpIHsKICBpbnRbXSByZXN1bHQgPSBuZXcgQXJyYXkoNCk7Cn0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -421,31 +421,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoIWludGVyYWN0MSAmJiByZWNvcmRQcmVzc3VyZSAhPSBudWxsKSB7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoIWludGVyYWN0MSAmJiByZWNvcmRQcmVzc3VyZSAhPSBudWxsKSB7CiAgfQoK</text>
+        <text encoding="base64">ICBwcmludGxuKCJQYXZlbCdzIGZpcnN0IGludGVyYWN0aW9uIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmbG9hdCBwcmVzc3VyZTEgPSAwOwogIGZsb2F0IHByZXNzdXJlMiA9IDA7CiAgZmxvYXQgcHJlc3N1cmUzID0gMDsKICBmbG9hdCBwcmVzc3VyZTQgPSAwOwoKCiAgaWYgKHNlbnNvcklucHV0cy5nZXQoIjEvcHJlc3N1cmUiKSAhPSBudWxsKSB7CiAgICAvL2Zsb2F0IHlvZmZzZXQgPSBtYXAobW91c2VZLCAwLCBoZWlnaHQsIDAsIDEpOwogICAgcHJlc3N1cmUxID0gKEZsb2F0KSBzZW5zb3JJbnB1dHMuZ2V0KCIxL3ByZXNzdXJlIilbMF07CiAgICBwcmludCgiUHJlc3N1cmUgMTogIik7CiAgICBwcmludGxuKHByZXNzdXJlMSk7CiAgfQogIGlmIChzZW5zb3JJbnB1dHMuZ2V0KCIyL3ByZXNzdXJlIikgIT0gbnVsbCkgewogICAgLy9mbG9hdCB5b2Zmc2V0ID0gbWFwKG1vdXNlWSwgMCwgaGVpZ2h0LCAwLCAxKTsKICAgIHByZXNzdXJlMiA9IChGbG9hdCkgc2Vuc29ySW5wdXRzLmdldCgiMi9wcmVzc3VyZSIpWzBdOwogICAgcHJpbnQoIlByZXNzdXJlIDI6ICIpOwogICAgcHJpbnRsbihwcmVzc3VyZTIpOwoKICB9CiAgaWYgKHNlbnNvcklucHV0cy5nZXQoIjMvcHJlc3N1cmUiKSAhPSBudWxsKSB7CiAgICAvL2Zsb2F0IHlvZmZzZXQgPSBtYXAobW91c2VZLCAwLCBoZWlnaHQsIDAsIDEpOwogICAgcHJlc3N1cmUzID0gKEZsb2F0KSBzZW5zb3JJbnB1dHMuZ2V0KCIzL3ByZXNzdXJlIilbMF07CiAgICBwcmludCgiUHJlc3N1cmUgMzogIik7CiAgICBwcmludGxuKHByZXNzdXJlMyk7CiAgfQogIGlmIChzZW5zb3JJbnB1dHMuZ2V0KCI0L3ByZXNzdXJlIikgIT0gbnVsbCkgewogICAgLy9mbG9hdCB5b2Zmc2V0ID0gbWFwKG1vdXNlWSwgMCwgaGVpZ2h0LCAwLCAxKTsKICAgIHByZXNzdXJlNCA9IChGbG9hdCkgc2Vuc29ySW5wdXRzLmdldCgiNC9wcmVzc3VyZSIpWzBdOwogICAgcHJpbnQoIlByZXNzdXJlIDQ6ICIpOwogICAgcHJpbnRsbihwcmVzc3VyZTQpOwogIH0K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RmlsZSByZWNvcmRQcmVzc3VyZUZpbGUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoIWludGVyYWN0MSAmJiByZWNvcmRQcmVzc3VyZSAhPSBudWxsKSB7CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -454,9 +454,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxXcml0ZVw+</last-search>
+      <last-search encoding="base64">XDxzZW5zb3JJbnB1dHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXcml0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5zb3JJbnB1dHNcPg==</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>remove</last-substitute>
       <last-dir>1</last-dir>
