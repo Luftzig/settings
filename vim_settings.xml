@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>apply</entry>
         <entry>div</entry>
         <entry>button</entry>
         <entry>Tag</entry>
@@ -25,6 +24,7 @@
         <entry>render</entry>
         <entry encoding="base64">XDxjb25uZWN0VG9TZXJ2aWNlXD4=</entry>
         <entry>remove</entry>
+        <entry>Interaction</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -232,17 +232,15 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="77" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" timestamp="1594985870733">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="221" column="2" />
+        <mark key="]" line="221" column="2" />
+        <mark key="." line="221" column="2" />
+        <mark key="^" line="322" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="88" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="116" column="61" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="112" column="54" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="253" column="20" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="215" column="33" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="17" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
-      <jump line="188" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="343" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
       <jump line="223" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="212" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
       <jump line="203" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
@@ -334,6 +332,15 @@
       <jump line="237" column="36" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="258" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="140" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="287" column="12" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="416" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="741" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="725" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="740" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="325" column="12" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="934" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="1120" column="27" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,17 +348,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlci5kaXNwYXRjaGVyLmFkZExpc3RlbmVyKAogICAgICAgICAgICBvYmplY3QgOiBNZXNzYWdlU2VsZWN0b3IgewogICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGlzSW5mb1JlcXVpcmVkKCk6IEJvb2xlYW4gPSBmYWxzZQoKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBtYXRjaGVzKG1lc3NhZ2VFdmVudDogT1NDTWVzc2FnZUV2ZW50Pyk6IEJvb2xlYW4gPSB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIE9TQ01lc3NhZ2VMaXN0ZW5lciB7IGxvZy5pbmZvKCJSZWNlaXZlZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpIH0KICAgICAgICApCiAgICAgICAgcmVjZWl2ZXIuZGlzcGF0Y2hlci5hZGRCYWREYXRhTGlzdGVuZXIgeyAKICAgICAgICAgICAgbG9nLndhcm4oIlJlY2VpdmVkIEJhZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>Interaction</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Received OSC message from ${remoteAddress}: $it&quot;</text>
@@ -368,14 +375,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlci5kaXNwYXRjaGVyLmFkZExpc3RlbmVyKAogICAgICAgICAgICBvYmplY3QgOiBNZXNzYWdlU2VsZWN0b3IgewogICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGlzSW5mb1JlcXVpcmVkKCk6IEJvb2xlYW4gPSBmYWxzZQoKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBtYXRjaGVzKG1lc3NhZ2VFdmVudDogT1NDTWVzc2FnZUV2ZW50Pyk6IEJvb2xlYW4gPSB0cnVlCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIE9TQ01lc3NhZ2VMaXN0ZW5lciB7IGxvZy5pbmZvKCJSZWNlaXZlZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpIH0KICAgICAgICApCiAgICAgICAgcmVjZWl2ZXIuZGlzcGF0Y2hlci5hZGRCYWREYXRhTGlzdGVuZXIgeyAKICAgICAgICAgICAgbG9nLndhcm4oIlJlY2VpdmVkIEJhZCBPU0MgbWVzc2FnZSBmcm9tICR7cmVtb3RlQWRkcmVzc306ICRpdCIpCiAgICAgICAgfQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -413,34 +420,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>{
-                    TODO(&quot;Not yet implemented&quot;)
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZVNlbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tzLm1hcCB7IGRldmljZS5uYW1lIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vbkVhY2ggeyBtZXNzYWdlc1N0b3JlLnJlbW92ZVByZWZpeCB9IGhhbmRsZWRCeSBkZXZpY2VTdG9yZS5kaXNjb25uZWN0RnJvbURldmljZQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tzLm1hcCB7IGRldmljZS5uYW1lLm5hbWUgfSBoYW5kbGVkQnkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZlckxpc3RlbmluZ1BvcnQ6IEludAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZlck9zY0xpc3RlbmluZ1BvcnQ6IEludCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -449,11 +454,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remove</last-search>
+      <last-search>Interaction</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>Interaction</last-pattern>
       <last-replace>backend</last-replace>
-      <last-substitute>server</last-substitute>
+      <last-substitute>remove</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
