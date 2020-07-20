@@ -131,7 +131,7 @@
       <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/measure-breathing-pressure-2020-07-17.csv" timestamp="1595227499027">
         <mark key="'" line="13802" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595000076278">
+      <file name="/Dummy.txt" timestamp="1595229783955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -154,12 +154,11 @@
       <file name="/a.dummy" timestamp="1594993691113">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/MobileBillLine.tsx" timestamp="1595229687956">
+        <mark key="'" line="44" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoice.tsx" timestamp="1594973349129">
-        <mark key="'" line="319" column="32" />
-        <mark key="[" line="306" column="28" />
-        <mark key="]" line="306" column="53" />
-        <mark key="^" line="306" column="53" />
-        <mark key="." line="306" column="52" />
+        <mark key="'" line="317" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/fritz2-stores/src/jsMain/kotlin/dev/fritz2/binding/rest.kt" timestamp="1594975527920">
         <mark key="'" line="16" column="17" />
@@ -171,11 +170,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopBillLine.tsx" timestamp="1594972466693">
-        <mark key="'" line="26" column="20" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopBillLine.tsx" timestamp="1595229214888">
+        <mark key="'" line="19" column="45" />
+        <mark key="[" line="48" column="51" />
+        <mark key="]" line="48" column="51" />
+        <mark key="." line="48" column="51" />
+        <mark key="^" line="48" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1594993392583">
         <mark key="'" line="260" column="4" />
@@ -204,12 +204,6 @@
         <mark key="[" line="4002" column="0" />
         <mark key="]" line="4002" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/Invoices.tsx" timestamp="1594972254089">
-        <mark key="'" line="250" column="9" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1594994250636">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="58" column="33" />
@@ -232,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="741" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
-      <jump line="725" column="24" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="740" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="325" column="12" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="934" column="4" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
@@ -332,6 +324,8 @@
       <jump line="420" column="5" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="1522" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/measure-breathing-pressure-2020-07-17T17:12:46.0621.csv" />
       <jump line="13802" column="29" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/measure-breathing-pressure-2020-07-17.csv" />
+      <jump line="19" column="45" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/desktop/DesktopBillLine.tsx" />
+      <jump line="44" column="28" filename="$USER_HOME$/Projects/eqt-requests/client/src/components/invoice-approvals/mobile/MobileBillLine.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,13 +334,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>T17:12:46.0621</text>
+        <text>}</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>T17:12:46.0621</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Capture</text>
