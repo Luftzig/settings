@@ -128,11 +128,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1595246212563">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1595247143561">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
         <mark key="^" line="1" column="16" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1594993691113">
         <mark key="[" line="0" column="0" />
@@ -143,11 +143,12 @@
       <file name="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" timestamp="1595231409570">
         <mark key="'" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1595245899120">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1595247549391">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1594994250636">
         <mark key="'" line="84" column="0" />
@@ -165,12 +166,11 @@
         <mark key="^" line="62" column="56" />
         <mark key="." line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1595246168396">
-        <mark key="'" line="1" column="20" />
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="12" />
-        <mark key="^" line="46" column="13" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1595247927790">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1595229783955">
         <mark key="[" line="0" column="0" />
@@ -222,18 +222,15 @@
       <file name="$USER_HOME$/Projects/eqt-requests/package.json" timestamp="1595231311914">
         <mark key="'" line="59" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1595246615252">
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1595247610957">
         <mark key="'" line="63" column="6" />
-        <mark key="[" line="105" column="28" />
-        <mark key="]" line="105" column="33" />
-        <mark key="." line="105" column="32" />
-        <mark key="^" line="105" column="33" />
+        <mark key="[" line="85" column="92" />
+        <mark key="]" line="85" column="93" />
+        <mark key="." line="85" column="92" />
+        <mark key="^" line="85" column="93" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
-      <jump line="139" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
-      <jump line="283" column="6" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="292" column="23" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="378" column="23" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="380" column="19" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
@@ -331,6 +328,9 @@
       <jump line="57" column="22" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="62" column="6" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="6" column="39" filename="$USER_HOME$/Projects/megalessons/views/exercise/showStudent.ejs" />
+      <jump line="7" column="3" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,14 +338,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>hidden</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -366,13 +366,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmV4ZXJjaXNlLXN0dWRlbnQgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -411,7 +411,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGxheVN1Y2Nlc3NTb3VuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -420,22 +420,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJPbiBlbmRlZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiQXVkaW8gcGxheSIpCg==</text>
+        <text encoding="base64">ICAuZXhlcmNpc2UtY2FyZCB7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBpbWcgewogICAgICBtYXgtaGVpZ2h0OiAxNDRweDsKICAgIH0KICAgIGJveC1zaGFkb3c6IDJweCAycHggNXB4ICMwMDFjMjA7CiAgICBjdXJzb3I6IHBvaW50ZXI7CgogIH0KCiAgLmRyYWdnYWJsZS1jYXJkLXdyYXBwZXIgewogICAgYm94LXNoYWRvdzogaW5zZXQgMCAwIDEwcHggIzJlNmRhNDsKICAgIGN1cnNvcjogZ3JhYjsKICB9CgogIC5kcmFnZ2FibGUtY2FyZC13cmFwcGVyLmRyYWdnaW5nIHsKICAgIGN1cnNvcjogZ3JhYmJpbmc7CiAgICBib3gtc2hhZG93OiA1cHggNXB4IDVweCAjMDAxYzIwLCAwIDAgNXB4ICM5ZDlkOWQ7CiAgfQoKICAuY2FyZC1kcmFnLW1hc2sgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAwOwogICAgbGVmdDogMDsKICAgIGhlaWdodDogMTAwJTsKICAgIHdpZHRoOiAxMDAlOwogICAgZGlzcGxheTogbm9uZTsKICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMC41LCAwLjUsIDEsIDAuMik7CiAgICB6LWluZGV4OiAxMDA7CgogICAgJi5hY3RpdmUgewogICAgICBkaXNwbGF5OiBibG9jazsKICAgIH0KICB9CgogIC5leGVyY2lzZS1mZWVkYmFjayB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB3aWR0aDogMTAwJTsKICAgIGhlaWdodDogMTAwJTsKICAgIGxlZnQ6IDA7CiAgICByaWdodDogMDsKCiAgICAmLmhpZGRlbiB7CiAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgIGJvdHRvbTogMTAwJTsKICAgIH0KCiAgICAmLnNob3duIHsKICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIGJvdHRvbTogMDsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAmLmRyYWdnYWJsZSB7CiAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGN1cnNvcjogZ3JhYjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICYuZHJhZy1vdmVyIHsKICAgICAgYm94LXNoYWRvdzogaW5zZXQgMCAwIDEwcHggIzJlNmRhNDsKICAgIH0KCiAgICAmLmRyYWdnYWJsZSB7CiAgICAgIGN1cnNvcjogZ3JhYjsKICAgIH0KCiAgICAmLmRyYWdnYWJsZS5kcmFnZ2luZyB7CiAgICAgIGN1cnNvcjogZ3JhYmJpbmc7CiAgICAgIGJveC1zaGFkb3c6IDVweCA1cHggNXB4ICMwMDFjMjAsIDAgMCA1cHggIzlkOWQ5ZDsKICAgIH0KCiAgICBkaXYuY2FyZC1kcmFnLW1hc2sgewogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHRvcDogMDsKICAgICAgbGVmdDogMDsKICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICB3aWR0aDogMTAwJTsKICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLjUsIDAuNSwgMSwgMC4yKTsKICAgICAgei1pbmRleDogMTAwOwoKICAgICAgJi5hY3RpdmUgewogICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
