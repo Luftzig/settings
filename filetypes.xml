@@ -4,35 +4,35 @@
     <extensionMap>
       <mapping ext="ino" type="C++" />
       <mapping pattern="gradlew" type="Groovy" />
-      <mapping ext="pde" type="JAVA" />
       <mapping pattern="*-js.php" type="JavaScript" />
       <mapping pattern="business-app-v11.php" type="JavaScript" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="run-flags" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="COPYING" type="PLAIN_TEXT" />
-      <mapping ext="pbxproj" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="rst" type="PLAIN_TEXT" />
-      <mapping ext="0-ha0o9ihkl0s52na9fbvlqx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="run-flags" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="sint" type="PLAIN_TEXT" />
+      <mapping ext="rst" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="fix" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="enu" type="PLAIN_TEXT" />
+      <mapping ext="pho" type="PLAIN_TEXT" />
+      <mapping ext="0-ha0o9ihkl0s52na9fbvlqx" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="pbxproj" type="PLAIN_TEXT" />
       <mapping ext="xcscheme" type="PLAIN_TEXT" />
       <mapping ext="step" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="pho" type="PLAIN_TEXT" />
-      <mapping ext="fix" type="PLAIN_TEXT" />
-      <mapping ext="enu" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <mapping ext="rss" type="XML" />
       <removed_mapping ext="xib" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pde" approved="true" type="JAVA" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
