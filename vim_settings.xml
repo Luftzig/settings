@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>instruction</entry>
         <entry>remove</entry>
         <entry>myText</entry>
         <entry>addToSensor</entry>
@@ -25,6 +24,7 @@
         <entry>card</entry>
         <entry>interactionOne</entry>
         <entry>interaction_One</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLygvKFxyXHQvZw==</entry>
@@ -45,8 +45,8 @@
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,12 +140,11 @@
         <mark key="^" line="76" column="40" />
         <mark key="." line="76" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1595253622057">
+      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1595407701114">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="81" column="5" />
-        <mark key="]" line="85" column="23" />
-        <mark key="^" line="85" column="23" />
-        <mark key="." line="85" column="22" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1595348410812">
         <mark key="[" line="0" column="0" />
@@ -159,17 +158,14 @@
         <mark key="^" line="7" column="76" />
         <mark key="." line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/showInstructions.ejs" timestamp="1595246344749">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/showTask.ejs" timestamp="1595253911382">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="29" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1595406777987">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/flowInteraction.pde" timestamp="1595337457054">
         <mark key="'" line="39" column="0" />
@@ -219,24 +215,22 @@
         <mark key="." line="199" column="61" />
         <mark key="^" line="199" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" timestamp="1595403782599">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="37" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" timestamp="1595407141593">
+        <mark key="'" line="7" column="29" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1595250865634">
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1595407561213">
         <mark key="'" line="91" column="50" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="107" column="37" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="109" column="42" />
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="41" />
+        <mark key="." line="82" column="40" />
+        <mark key="^" line="82" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="12" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
-      <jump line="174" column="5" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
-      <jump line="175" column="2" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="176" column="2" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="177" column="2" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
       <jump line="194" column="17" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
@@ -334,6 +328,9 @@
       <jump line="2" column="2" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/flowInteraction.pde" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/flowInteraction.pde" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/flowInteraction.pde" />
+      <jump line="47" column="20" filename="$USER_HOME$/Projects/megalessons/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/package.json" />
+      <jump line="7" column="29" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,17 +338,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>matchCard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGxheQo=</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>matchCard</text>
+        <text>card</text>
       </register>
       <register name="/" type="4">
-        <text>interaction_One</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRyYWdnYWJsZS1jYXJkLXdyYXBwZXIiCiAgICAgICAgICAgICAgICAgICAgIGRhdGEtY2FyZD0iPCUtIG1hdGNoQ2FyZC5maWVsZHMuY29udGVudCAlPiIKICAgICAgICAgICAgICAgICAgICAgb25kcmFnc3RhcnQ9ImNhcmRTdGFydERyYWcoZXZlbnQpIgogICAgICAgICAgICAgICAgICAgICBvbmRyYWdlbmQ9ImNhcmRFbmREcmFnKGV2ZW50KSIKICAgICAgICAgICAgICAgICAgICAgZHJhZ2dhYmxlPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICA8JS0gcGFydGlhbCgnY2FyZC5lanMnLCB7Y2FyZDogbWF0Y2hDYXJkfSkgJT4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
@@ -369,13 +366,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -414,7 +411,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3I6IGdyYWJiaW5nOwogICAgICAgIGJveC1zaGFkb3c6IDVweCA1cHggNXB4ICMwMDFjMjAsIDAgMCA1cHggIzlkOWQ5ZDsK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -423,22 +420,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnAuCg==</text>
+        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogaW5zZXQgMCAwIDEwcHggIzJlNmRhNDsKICAgICAgY3Vyc29yOiBncmFiOwo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAuZHJhZ2dhYmxlLWNhcmQtd3JhcHBlci5kcmFnZ2luZyB7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMlJQoKCgojJSUKCgoKIyUlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY3Vyc29yOiBncmFiYmluZzsKICAgICAgYm94LXNoYWRvdzogNXB4IDVweCA1cHggIzAwMWMyMCwgMCAwIDVweCAjOWQ5ZDlkOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW51bSBGb2xsb3dpbmdTdGF0ZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -447,9 +444,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>interaction_One</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern>interaction_One</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-replace>backend</last-replace>
       <last-substitute>remove</last-substitute>
       <last-dir>1</last-dir>
