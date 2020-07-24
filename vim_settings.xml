@@ -128,8 +128,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1595322834987">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixelTemplate/SomaPixelTemplate.ino" timestamp="1595578788375">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1595408131046">
         <mark key="'" line="6" column="16" />
@@ -148,13 +149,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="94" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/interationOne.pde" timestamp="1595321363877">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="70" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" timestamp="1595422105098">
         <mark key="'" line="23" column="38" />
@@ -182,6 +176,12 @@
       <file name="/Dummy.txt" timestamp="1595519291723">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/arduino_secrets.h" timestamp="1595578855342">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1595406777987">
         <mark key="'" line="0" column="0" />
       </file>
@@ -191,11 +191,10 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Soma-tech/.gitignore" timestamp="1595323715910">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="4" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1595578903412">
+        <mark key="[" line="47" column="2" />
+        <mark key="]" line="47" column="2" />
+        <mark key="." line="47" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1595424454668">
         <mark key="'" line="90" column="0" />
@@ -313,19 +312,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>mdns_</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>mdns_</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgID0gQ3JlbwogICAgfCBJbnRlbGlnbwogICAgfCBNdXRvCiAgICB8IFBlcmRvCiAgICB8IFJlZ28KCgp0eXBlIEZvcm0KICAgID0gQW5pbWFsCiAgICB8IEFxdWFtCiAgICB8IEF1cmFtCiAgICB8IENvcnB1cwogICAgfCBIZXJiYW0KICAgIHwgSWduZXMKICAgIHwgSW1hZ2luZW0KICAgIHwgTWVudGFtCiAgICB8IFRlcnJhbQogICAgfCBWaW0K</text>
+      <register name="0" type="4">
+        <text>ARDUINO_SECRETS_H</text>
       </register>
       <register name="p" type="4">
         <keys>
