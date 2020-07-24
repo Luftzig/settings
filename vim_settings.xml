@@ -128,9 +128,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixelTemplate/SomaPixelTemplate.ino" timestamp="1595578788375">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="24" />
+      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixelTemplate/SomaPixelTemplate.ino" timestamp="1595580597788">
+        <mark key="'" line="58" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1595408131046">
         <mark key="'" line="6" column="16" />
@@ -191,10 +193,11 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1595578903412">
-        <mark key="[" line="47" column="2" />
-        <mark key="]" line="47" column="2" />
-        <mark key="." line="47" column="2" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1595580870013">
+        <mark key="[" line="68" column="2" />
+        <mark key="]" line="68" column="2" />
+        <mark key="." line="68" column="2" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1595424454668">
         <mark key="'" line="90" column="0" />
@@ -204,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="94" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="127" column="46" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="232" column="2" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/broadcasterServer_pk_yoav_staticip.pde" />
@@ -304,6 +306,7 @@
       <jump line="112" column="4" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
       <jump line="76" column="6" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
       <jump line="12" column="20" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
+      <jump line="60" column="15" filename="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixelTemplate/SomaPixelTemplate.ino" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,19 +315,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mdns_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>mdns_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
       </register>
-      <register name="0" type="4">
-        <text>ARDUINO_SECRETS_H</text>
+      <register name="0" type="2">
+        <text encoding="base64">V2lGaVVEUCBVZHA7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -339,7 +342,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -383,7 +386,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="8">
         <text>|
 |
 |
@@ -401,35 +410,23 @@
 |
 |</text>
       </register>
-      <register name="s" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dHlwZSBGb3JtCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgaGVpZ2h0OiBTdHJpbmcKICAgICwgd2VpZ2h0OiAK</text>
+        <text encoding="base64">dHlwZSBGb3JtCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSAK</text>
+        <text encoding="base64">ICAgICwgaGVpZ2h0OiBTdHJpbmcKICAgICwgd2VpZ2h0OiAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">dHlwZSAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CnR5cGUgVGVjaG5pcXVlT3JGb3JtCiAgICA9IFRlY2huaXF1ZQogICAgfCBGb3JtCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
-      </register>
       <register name="9" type="8">
-        <text>|
-|
-|
-|
-|
-|
-|</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
