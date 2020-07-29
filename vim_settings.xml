@@ -45,8 +45,8 @@
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,18 +128,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Smart-Implicit-Hub/SomaPixelTemplate/SomaPixelTemplate.ino" timestamp="1595580597788">
-        <mark key="'" line="58" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/card.ejs" timestamp="1595856815387">
         <mark key="'" line="6" column="16" />
-        <mark key="[" line="11" column="0" />
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="10" />
         <mark key="^" line="7" column="76" />
-        <mark key="." line="11" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/resources/application.conf" timestamp="1595606258205">
         <mark key="[" line="6" column="38" />
@@ -170,10 +164,9 @@
         <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1595861689347">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="11" column="29" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1595607885966">
         <mark key="'" line="26" column="6" />
@@ -189,12 +182,11 @@
         <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1595862342628">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595844348380">
+      <file name="/Dummy.txt" timestamp="1596009036992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1595594515579">
@@ -209,11 +201,10 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/arduino_secrets.h" timestamp="1595578855342">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1596008963643">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="102" column="5" />
+        <mark key="." line="99" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1595598290768">
         <mark key="'" line="192" column="8" />
@@ -228,6 +219,13 @@
         <mark key="." line="52" column="58" />
         <mark key="^" line="52" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/config/local.js.template" timestamp="1596009027531">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="101" column="29" />
+        <mark key="]" line="101" column="29" />
+        <mark key="." line="101" column="29" />
+        <mark key="^" line="100" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596008475769">
         <mark key="'" line="79" column="27" />
         <mark key="[" line="95" column="8" />
@@ -240,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
       <jump line="15" column="12" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
       <jump line="38" column="11" filename="$USER_HOME$/Projects/eqt-requests/node_modules/@eqtpartners/eqt-logger/lib/logger.js" />
       <jump line="11" column="41" filename="$USER_HOME$/Projects/megalessons/views/layout.ejs" />
@@ -340,6 +337,7 @@
       <jump line="7521" column="1" filename="$USER_HOME$/Projects/megalessons/assets/js/dependencies/draggable.bundle.js" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="79" column="27" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/megalessons/config/local.js.template" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,20 +345,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdHJpY3Rpb246ICdwYXJlbnQnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>AvFIC7juAwNT8jvMUC5FeVZ2QJMMk-011zaZ0r6MFCU</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>AvFIC7juAwNT8jvMUC5FeVZ2QJMMk-011zaZ0r6MFCU</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAsIGNvbnRlbnRmdWw6CiAgICB7IHNwYWNlOiAndTFoazdxZDdjNTFnJwogICAgICAsIGFjY2Vzc1Rva2VuOiAnNTZjbUo5cWFzUFFDOWg5RWZhNTlnSW5EQWZnRlF0RElYcjJiNXlqdDZ4cycKICAgICAgLCBwcmV2aWV3QWNjZXNzVG9rZW46ICdBdkZJQzdqdUF3TlQ4anZNVUM1RmVWWjJRSk1Nay0wMTF6YVowcjZNRkNVJwogICAgfQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
