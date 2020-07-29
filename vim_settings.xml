@@ -163,11 +163,11 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1596027050322">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="10" column="41" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1596029754129">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1595607885966">
         <mark key="'" line="26" column="6" />
@@ -182,10 +182,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="38" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1595862342628">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1596028875047">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1596009036992">
         <mark key="[" line="0" column="0" />
@@ -221,20 +222,17 @@
         <mark key="." line="101" column="29" />
         <mark key="^" line="100" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596027203021">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596030760041">
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1595599877425">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="1" column="20" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="100" column="23" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
@@ -333,6 +331,8 @@
       <jump line="47" column="35" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="61" column="2" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="67" column="2" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,19 +341,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>card == solutionCard</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>card == solutionCard</text>
       </register>
       <register name="/" type="4">
         <text>this.task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzb2x1dGlvblBhaXIgPSBfLmZpcnN0KHRoaXMudGFzay5maWVsZHMuc29sdXRpb24pLnNwbGl0KCI6IikKICAgICAgICByZXR1cm4gXy5maW5kKHRoaXMudGFzay5maWVsZHMuaXRlbXMsIChpdGVtKSA9PiBpdGVtLmZpZWxkcy5jb250ZW50ID09PSBzb2x1dGlvblBhaXJbMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNhcmQgdi1mb3I9ImNhcmQgaW4gY2hvaWNlQ2FyZHMiCiAgICAgICAgICAgICAgICAgIDprZXk9ImNhcmQuZmllbGRzLmNvbnRlbnQiCiAgICAgICAgICAgICAgOmNhcmQ9ImNhcmQiPjwvY2FyZD4K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -368,13 +368,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRhc2suZmllbGRzLml0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICwgY2hvaWNlQ2FyZHM6IFtdCiAgICAsIHNvbHV0aW9uQ2FyZDogbnVsbAogICAgLCBtYXRjaENhcmQ6IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1bGw6IGZhbHNlCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -413,31 +413,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAsIHdhdGNoOiB7CiAgICB0YXNrKHZhbCkgewogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gXy5maW5kKHRoaXMudGFzay5maWVsZHMuaXRlbXMsIChpdGVtKSA9PiBpdGVtLmZpZWxkcy5jb250ZW50ID09PSBzb2x1dGlvblBhaXJbMV0pCg==</text>
+        <text encoding="base64">ICAgICAgYWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzdENhcmRzID0gXy5maWx0ZXIodmFsLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+ICFfLmluY2x1ZGVzKHNvbHV0aW9uUGFpciwgaXRlbS5maWVsZHMuY29udGVudCkpCiAgICAgIHRoaXMuY2hvaWNlQ2FyZHMgPSBfLnNodWZmbGUocmVzdENhcmRzLmNvbmNhdCh0aGlzLnRhcmdldENhcmQpKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC0zIj4KICAgICAgPGgzPkRyYWdnYWJsZSAxPC9oMz4KICAgICAgPGRyYWdnYWJsZSBjbGFzcz0ibGlzdC1ncm91cCIgOmxpc3Q9Imxpc3QxIiBncm91cD0icGVvcGxlIiBAY2hhbmdlPSJsb2ciPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0iCiAgICAgICAgICB2LWZvcj0iKGVsZW1lbnQsIGluZGV4KSBpbiBsaXN0MSIKICAgICAgICAgIDprZXk9ImVsZW1lbnQubmFtZSIKICAgICAgICA+CiAgICAgICAgICB7eyBlbGVtZW50Lm5hbWUgfX0ge3sgaW5kZXggfX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kcmFnZ2FibGU+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IGNsYXNzPSJjb2wtMyI+CiAgICAgIDxoMz5EcmFnZ2FibGUgMjwvaDM+CiAgICAgIDxkcmFnZ2FibGUgY2xhc3M9Imxpc3QtZ3JvdXAiIDpsaXN0PSJsaXN0MiIgZ3JvdXA9InBlb3BsZSIgQGNoYW5nZT0ibG9nIj4KICAgICAgICA8ZGl2CiAgICAgICAgICBjbGFzcz0ibGlzdC1ncm91cC1pdGVtIgogICAgICAgICAgdi1mb3I9IihlbGVtZW50LCBpbmRleCkgaW4gbGlzdDIiCiAgICAgICAgICA6a2V5PSJlbGVtZW50Lm5hbWUiCiAgICAgICAgPgogICAgICAgICAge3sgZWxlbWVudC5uYW1lIH19IHt7IGluZGV4IH19CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZHJhZ2dhYmxlPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAsbGlzdDE6IFsKICAgICAgICAgIHsgbmFtZTogIkpvaG4iLCBpZDogMSB9LAogICAgICAgICAgeyBuYW1lOiAiSm9hbyIsIGlkOiAyIH0sCiAgICAgICAgICB7IG5hbWU6ICJKZWFuIiwgaWQ6IDMgfSwKICAgICAgICAgIHsgbmFtZTogIkdlcmFyZCIsIGlkOiA0IH0KICAgICAgICBdLAogICAgICAgIGxpc3QyOiBbCiAgICAgICAgICB7IG5hbWU6ICJKdWFuIiwgaWQ6IDUgfSwKICAgICAgICAgIHsgbmFtZTogIkVkZ2FyZCIsIGlkOiA2IH0sCiAgICAgICAgICB7IG5hbWU6ICJKb2huc29uIiwgaWQ6IDcgfQogICAgICAgIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2x1dGlvbkNhcmQgPSBfLmZpbmQodmFsLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+IGl0ZW0uZmllbGRzLmNvbnRlbnQgPT09IHNvbHV0aW9uUGFpclsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNhcmQgdi1pZj0ibWF0Y2hDYXJkICE9IG51bGwiIDpjYXJkPSJtYXRjaENhcmQiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgZGF0YS10ZXN0PSI8JT0gSlNPTi5zdHJpbmdpZnkodGFzaykgJT4iPjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
