@@ -43,8 +43,8 @@
         <entry>s/=/': '/g</entry>
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMudGFzay92YWwvZw==</entry>
+        <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -188,7 +188,7 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596009036992">
+      <file name="/Dummy.txt" timestamp="1596034942621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/showTask.ejs" timestamp="1595839481537">
@@ -222,18 +222,17 @@
         <mark key="." line="101" column="29" />
         <mark key="^" line="100" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596030760041">
-        <mark key="[" line="71" column="30" />
-        <mark key="]" line="71" column="36" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="71" column="36" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596034937300">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="76" column="32" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1595599877425">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="1" column="20" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="100" column="23" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
@@ -276,9 +275,7 @@
       <jump line="3" column="23" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
       <jump line="44" column="24" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
-      <jump line="82" column="40" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="23" column="38" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
-      <jump line="71" column="48" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="90" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="75" column="4" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
       <jump line="81" column="11" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
@@ -333,6 +330,9 @@
       <jump line="67" column="2" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" />
+      <jump line="71" column="47" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="49" column="30" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="82" column="7" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,20 +340,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>card == solutionCard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InJlc2V0U29sdXRpb24iPlJlc2V0PC9idXR0b24+Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>card == solutionCard</text>
+        <text>this.matchCard</text>
       </register>
       <register name="/" type="4">
         <text>this.task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNhcmQgdi1mb3I9ImNhcmQgaW4gY2hvaWNlQ2FyZHMiCiAgICAgICAgICAgICAgICAgIDprZXk9ImNhcmQuZmllbGRzLmNvbnRlbnQiCiAgICAgICAgICAgICAgOmNhcmQ9ImNhcmQiPjwvY2FyZD4K</text>
+        <text encoding="base64">ICAgICAgIGxvZyhldnQpIHsKICAgICAgICBjb25zb2xlLmxvZyhldnQpCiAgICAgIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -368,13 +368,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InJlc2V0U29sdXRpb24iPlJlc2V0PC9idXR0b24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1bGw6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZW1pdCgnd3JvbmcnKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -413,31 +413,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzZXQgU29sdXRpb24iLCBpZ25vcmUsIHdyb25nKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAod3JvbmcubGVuZ3RoKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC0zIj4KICAgICAgPGgzPkRyYWdnYWJsZSAxPC9oMz4KICAgICAgPGRyYWdnYWJsZSBjbGFzcz0ibGlzdC1ncm91cCIgOmxpc3Q9Imxpc3QxIiBncm91cD0icGVvcGxlIiBAY2hhbmdlPSJsb2ciPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0iCiAgICAgICAgICB2LWZvcj0iKGVsZW1lbnQsIGluZGV4KSBpbiBsaXN0MSIKICAgICAgICAgIDprZXk9ImVsZW1lbnQubmFtZSIKICAgICAgICA+CiAgICAgICAgICB7eyBlbGVtZW50Lm5hbWUgfX0ge3sgaW5kZXggfX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kcmFnZ2FibGU+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IGNsYXNzPSJjb2wtMyI+CiAgICAgIDxoMz5EcmFnZ2FibGUgMjwvaDM+CiAgICAgIDxkcmFnZ2FibGUgY2xhc3M9Imxpc3QtZ3JvdXAiIDpsaXN0PSJsaXN0MiIgZ3JvdXA9InBlb3BsZSIgQGNoYW5nZT0ibG9nIj4KICAgICAgICA8ZGl2CiAgICAgICAgICBjbGFzcz0ibGlzdC1ncm91cC1pdGVtIgogICAgICAgICAgdi1mb3I9IihlbGVtZW50LCBpbmRleCkgaW4gbGlzdDIiCiAgICAgICAgICA6a2V5PSJlbGVtZW50Lm5hbWUiCiAgICAgICAgPgogICAgICAgICAge3sgZWxlbWVudC5uYW1lIH19IHt7IGluZGV4IH19CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZHJhZ2dhYmxlPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAsbGlzdDE6IFsKICAgICAgICAgIHsgbmFtZTogIkpvaG4iLCBpZDogMSB9LAogICAgICAgICAgeyBuYW1lOiAiSm9hbyIsIGlkOiAyIH0sCiAgICAgICAgICB7IG5hbWU6ICJKZWFuIiwgaWQ6IDMgfSwKICAgICAgICAgIHsgbmFtZTogIkdlcmFyZCIsIGlkOiA0IH0KICAgICAgICBdLAogICAgICAgIGxpc3QyOiBbCiAgICAgICAgICB7IG5hbWU6ICJKdWFuIiwgaWQ6IDUgfSwKICAgICAgICAgIHsgbmFtZTogIkVkZ2FyZCIsIGlkOiA2IH0sCiAgICAgICAgICB7IG5hbWU6ICJKb2huc29uIiwgaWQ6IDcgfQogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNob2ljZUNhcmRzLnB1c2god3JvbmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNhcmQgdi1pZj0ibWF0Y2hDYXJkICE9IG51bGwiIDpjYXJkPSJtYXRjaENhcmQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgZGF0YS10ZXN0PSI8JT0gSlNPTi5zdHJpbmdpZnkodGFzaykgJT4iPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzZXQgU29sdXRpb24iLCBpZ25vcmUsIHdyb25nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
