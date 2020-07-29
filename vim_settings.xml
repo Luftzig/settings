@@ -44,8 +44,8 @@
         <entry encoding="base64">cy8mLycsICcv</entry>
         <entry>s/server/backend/g</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMudGFzay92YWwvZw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -163,10 +163,10 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1596025874786">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1596027050322">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
         <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1595607885966">
@@ -221,12 +221,12 @@
         <mark key="." line="101" column="29" />
         <mark key="^" line="100" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596026301201">
-        <mark key="'" line="61" column="2" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="59" column="44" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596027203021">
+        <mark key="'" line="62" column="2" />
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1595599877425">
         <mark key="[" line="0" column="0" />
@@ -340,14 +340,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICwgY2hvaWNlQ2FyZHM6IFtdCiAgICAsIHNvbHV0aW9uQ2FyZDogbnVsbAogICAgLCBtYXRjaENhcmQ6IG51bGwK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>this.task</text>
@@ -368,13 +368,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwgY2hvaWNlQ2FyZHM6IFtdCiAgICAsIHNvbHV0aW9uQ2FyZDogbnVsbAogICAgLCBtYXRjaENhcmQ6IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRhc2suZmllbGRzLml0ZW1zKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIHdhdGNoOiB7CiAgICB0YXNrKHZhbCkgewogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICwgY2hvaWNlQ2FyZHM6IFtdCiAgICAsIHNvbHV0aW9uQ2FyZDogbnVsbAogICAgLCBtYXRjaENhcmQ6IG51bGwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -413,31 +413,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gXy5maW5kKHRoaXMudGFzay5maWVsZHMuaXRlbXMsIChpdGVtKSA9PiBpdGVtLmZpZWxkcy5jb250ZW50ID09PSBzb2x1dGlvblBhaXJbMV0pCg==</text>
+        <text encoding="base64">ICAsIHdhdGNoOiB7CiAgICB0YXNrKHZhbCkgewogICAgfQogIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gXy5maW5kKHRoaXMudGFzay5maWVsZHMuaXRlbXMsIChpdGVtKSA9PiBpdGVtLmZpZWxkcy5jb250ZW50ID09PSBzb2x1dGlvblBhaXJbMV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzdENhcmRzID0gXy5maWx0ZXIodmFsLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+ICFfLmluY2x1ZGVzKHNvbHV0aW9uUGFpciwgaXRlbS5maWVsZHMuY29udGVudCkpCiAgICAgIHRoaXMuY2hvaWNlQ2FyZHMgPSBfLnNodWZmbGUocmVzdENhcmRzLmNvbmNhdCh0aGlzLnRhcmdldENhcmQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVzdENhcmRzID0gXy5maWx0ZXIodmFsLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+ICFfLmluY2x1ZGVzKHNvbHV0aW9uUGFpciwgaXRlbS5maWVsZHMuY29udGVudCkpCiAgICAgIHRoaXMuY2hvaWNlQ2FyZHMgPSBfLnNodWZmbGUocmVzdENhcmRzLmNvbmNhdCh0aGlzLnRhcmdldENhcmQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zb2x1dGlvbkNhcmQgPSBfLmZpbmQodmFsLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+IGl0ZW0uZmllbGRzLmNvbnRlbnQgPT09IHNvbHV0aW9uUGFpclsxXSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zb2x1dGlvbkNhcmQgPSBfLmZpbmQodmFsLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+IGl0ZW0uZmllbGRzLmNvbnRlbnQgPT09IHNvbHV0aW9uUGFpclsxXSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc29sdXRpb25QYWlyID0gXy5maXJzdCh0aGlzLnRhc2suZmllbGRzLnNvbHV0aW9uKS5zcGxpdCgiOiIpCiAgICAgIHJldHVybiBfLmZpbmQodGhpcy50YXNrLmZpZWxkcy5pdGVtcywgKGl0ZW0pID0+IGl0ZW0uZmllbGRzLmNvbnRlbnQgPT09IHNvbHV0aW9uUGFpclswXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
