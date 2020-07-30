@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>myText</entry>
         <entry>addToSensor</entry>
         <entry>addSensor</entry>
         <entry>sensorInputs</entry>
@@ -25,6 +24,7 @@
         <entry>interaction_One</entry>
         <entry>lodash</entry>
         <entry>this.task</entry>
+        <entry>isSet</entry>
       </history-search>
       <history-cmd>
         <entry>s/(/(\r\t/g</entry>
@@ -150,12 +150,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1595607868370">
-        <mark key="'" line="54" column="23" />
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="12" />
-        <mark key="^" line="56" column="62" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1596097740139">
+        <mark key="'" line="124" column="80" />
+        <mark key="[" line="124" column="81" />
+        <mark key="]" line="124" column="105" />
+        <mark key="." line="124" column="104" />
+        <mark key="^" line="124" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/findSyllableTask.ejs" timestamp="1595843574147">
         <mark key="[" line="6" column="20" />
@@ -202,17 +202,19 @@
         <mark key="]" line="102" column="5" />
         <mark key="." line="99" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1596096690401">
-        <mark key="[" line="259" column="14" />
-        <mark key="]" line="275" column="40" />
-        <mark key="." line="275" column="39" />
-        <mark key="^" line="275" column="40" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1596096880390">
+        <mark key="'" line="241" column="2" />
+        <mark key="[" line="275" column="42" />
+        <mark key="]" line="275" column="43" />
+        <mark key="." line="275" column="42" />
+        <mark key="^" line="275" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1595595076669">
-        <mark key="[" line="52" column="57" />
-        <mark key="]" line="52" column="59" />
-        <mark key="." line="52" column="58" />
-        <mark key="^" line="52" column="59" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1596097974885">
+        <mark key="'" line="102" column="12" />
+        <mark key="[" line="61" column="1" />
+        <mark key="]" line="62" column="4" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/config/local.js.template" timestamp="1596009027531">
         <mark key="'" line="2" column="0" />
@@ -232,12 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="20" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
-      <jump line="100" column="23" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="31" column="23" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="50" column="27" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="59" column="20" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="57" column="22" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="62" column="6" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
@@ -332,6 +328,12 @@
       <jump line="71" column="47" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="49" column="30" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="82" column="7" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="241" column="2" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" />
+      <jump line="125" column="60" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="228" column="36" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="124" column="80" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="51" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
+      <jump line="57" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,20 +341,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>this.matchCard</text>
+        <text encoding="base64">YWJzdHJhY3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>this.task</text>
+        <text>isSet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGxvZyhldnQpIHsKICAgICAgICBjb25zb2xlLmxvZyhldnQpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvY2FsQWRkcmVzczogSW5ldEFkZHJlc3MsCiAgICB2YWwgbG9jYWxQb3J0OiBJbnQsCiAgICB2YWwgcmVtb3RlQWRkcmVzczogSW5ldEFkZHJlc3MsCiAgICB2YWwgcmVtb3RlUG9ydDogSW50Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -366,14 +368,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InJlc2V0U29sdXRpb24iPlJlc2V0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -412,31 +414,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZW1pdCgnd3JvbmcnKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBsb2NhbEFkZHJlc3M6IEluZXRBZGRyZXNzCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVzZXQgU29sdXRpb24iLCBpZ25vcmUsIHdyb25nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod3JvbmcubGVuZ3RoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0eXBlOiBCaXRzSW50ZXJmYWNlVHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRldgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNob2ljZUNhcmRzLnB1c2god3JvbmcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -445,9 +447,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>this.task</last-search>
+      <last-search>isSet</last-search>
       <last-offset />
-      <last-pattern>this.task</last-pattern>
+      <last-pattern>isSet</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>this.task</last-substitute>
       <last-dir>1</last-dir>
