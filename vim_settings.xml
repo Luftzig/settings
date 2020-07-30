@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>addSensor</entry>
-        <entry>sensorInputs</entry>
-        <entry encoding="base64">XDxhZGRTZW5zb3JWYWx1ZXRvSGFzaE1hcFw+</entry>
         <entry>myTe</entry>
         <entry encoding="base64">XDxteVRleHRhcmVhMlw+</entry>
         <entry encoding="base64">XDxteVRleHRhcmVhMVw+</entry>
@@ -25,6 +22,9 @@
         <entry>this.task</entry>
         <entry>isSet</entry>
         <entry>InetAddress</entry>
+        <entry>buildWs</entry>
+        <entry>build</entry>
+        <entry encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/(/(\r\t/g</entry>
@@ -141,15 +141,18 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCPacketEvent.java" timestamp="1596106375840">
         <mark key="'" line="20" column="18" />
       </file>
+      <file name="/a.dummy" timestamp="1596120358012">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCPacketListener.java" timestamp="1596106363266">
         <mark key="'" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1596107355805">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1596120441666">
         <mark key="'" line="159" column="35" />
-        <mark key="[" line="157" column="41" />
-        <mark key="]" line="157" column="46" />
-        <mark key="." line="157" column="45" />
-        <mark key="^" line="157" column="46" />
+        <mark key="[" line="152" column="74" />
+        <mark key="]" line="152" column="100" />
+        <mark key="." line="152" column="99" />
+        <mark key="^" line="152" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/rhymingTask.ejs" timestamp="1596029754129">
         <mark key="[" line="1" column="26" />
@@ -160,18 +163,17 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCMessageEvent.java" timestamp="1596106411301">
         <mark key="'" line="54" column="19" />
       </file>
+      <file name="/fragment.kt" timestamp="1596120852547">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596116526631">
         <mark key="'" line="93" column="49" />
         <mark key="[" line="15" column="46" />
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/config/local.js.template" timestamp="1596009027531">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="101" column="29" />
-        <mark key="]" line="101" column="29" />
-        <mark key="." line="101" column="29" />
-        <mark key="^" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596034937300">
         <mark key="[" line="40" column="0" />
@@ -188,6 +190,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCMessage.java" timestamp="1596106490765">
         <mark key="'" line="125" column="30" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.6/424379de455df02f7c837a5b04e3d34caabf70f3/core-js-0.6-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1596118422331">
+        <mark key="'" line="742" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1596028875047">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="13" />
@@ -197,17 +202,12 @@
       <file name="/Dummy.txt" timestamp="1596107742893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1596008963643">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="102" column="5" />
-        <mark key="." line="99" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1596117203481">
-        <mark key="'" line="80" column="33" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="80" column="59" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1596120223781">
+        <mark key="'" line="171" column="12" />
+        <mark key="[" line="66" column="112" />
+        <mark key="]" line="66" column="113" />
+        <mark key="." line="66" column="112" />
+        <mark key="^" line="66" column="113" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1596107820995">
         <mark key="[" line="110" column="57" />
@@ -229,15 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="24" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
-      <jump line="23" column="38" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
-      <jump line="90" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="75" column="4" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
-      <jump line="81" column="11" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
-      <jump line="104" column="20" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
-      <jump line="6" column="26" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
       <jump line="20" column="6" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
       <jump line="89" column="4" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
       <jump line="112" column="4" filename="$USER_HOME$/Projects/ars-parma/src/Character.elm" />
@@ -329,6 +320,15 @@
       <jump line="165" column="41" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="93" column="49" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="80" column="33" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="118" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="154" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="235" column="40" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="742" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.6/424379de455df02f7c837a5b04e3d34caabf70f3/core-js-0.6-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="101" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="174" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="28" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="66" column="67" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="171" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,20 +336,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBkZXZpY2UsIGlvID0gcGFpcgovLyAgICAgICAgdmFsIGNvbm5lY3Rpb24gPSBXZWJTb2NrZXRDb25uZWN0aW9uKGJ1aWxkV2Vic29ja2V0VXJsKGRldmljZS5uYW1lKSwgaW8pCg==</text>
+      <register name="&quot;" type="4">
+        <text>frame.readText()</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>frame.readText()</text>
       </register>
       <register name="/" type="4">
-        <text>InetAddress</text>
+        <text encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TWFwPFBhaXI8U2VydmljZU5hbWUsIEJpdHNJbnRlcmZhY2U+LCBXZWJTb2NrZXRDb25uZWN0aW9uPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW4gPSBjb25zdChiaXRzSW8ucmFuZ2UuZmlyc3QpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -364,13 +364,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBkZXZpY2UsIGlvID0gcGFpcgovLyAgICAgICAgdmFsIGNvbm5lY3Rpb24gPSBXZWJTb2NrZXRDb25uZWN0aW9uKGJ1aWxkV2Vic29ja2V0VXJsKGRldmljZS5uYW1lKSwgaW8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZWFsaWFzIENvbm5lY3Rpb25JZCA9IFBhaXI8U2VydmljZU5hbWUsIEJpdHNJbnRlcmZhY2U+Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25uZWN0VG9EZXZpY2UgPSBoYW5kbGUgeyBtb2RlbDogTGlzdDxCaXRzRGV2aWNlPiwgc2VydmljZTogU2VydmljZU5hbWUgLT4KICAgICAgICBsYXVuY2ggewogICAgICAgICAgICByZW1vdGUoIi9kZXZpY2UiKS5hY2NlcHRKc29uKCkuaGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCiAgICAgICAgICAgICAgICAucG9zdCgiLyR7c2VydmljZS5uYW1lfS9jb25uZWN0IikKICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkKICAgICAgICB9CiAgICAgICAgbW9kZWwKICAgIH0KCiAgICB2YWwgZGlzY29ubmVjdEZyb21EZXZpY2UgPSBoYW5kbGUgeyBtb2RlbCwgZGV2aWNlOiBTZXJ2aWNlTmFtZSAtPgogICAgICAgIGxhdW5jaCB7CiAgICAgICAgICAgIHJlbW90ZSgiL2RldmljZSIpLmFjY2VwdEpzb24oKS5oZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKICAgICAgICAgICAgICAgIC5kZWxldGUoIi8ke2RldmljZS5uYW1lfS9jb25uZWN0IikKICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkKICAgICAgICB9CiAgICAgICAgbW9kZWwKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -409,31 +409,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBhZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwYW4oYmFzZUNsYXNzID0gImdseXBoaWNvbiIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc0xpc3QgPSBjb25zdCh3aGVuIChpby50eXBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdHNJbnRlcmZhY2VUeXBlLlVua25vd24gLT4gZW1wdHlMaXN0PFN0cmluZz4oKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaXRzSW50ZXJmYWNlVHlwZS5TZW5zb3IgLT4gbGlzdE9mKCIiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaXRzSW50ZXJmYWNlVHlwZS5BY3R1YXRvciAtPiAiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnNlYWxlZCBjbGFzcyBNZXNzYWdlCm9iamVjdCBHZXRBZGRyZXNzZXM6IE1lc3NhZ2UoKQpvYmplY3QgR2V0RGV2aWNlTGlzdDogTWVzc2FnZSgpCmRhdGEgY2xhc3MgQ29ubmVjdFRvKHZhbCBkZXZpY2VOYW1lOiBTZXJ2aWNlTmFtZSwgdmFsIGJpdHNJbnRlcmZhY2U6IEJpdHNJbnRlcmZhY2UpOiBNZXNzYWdlKCkKZGF0YSBjbGFzcyBEaXNjb25uZWN0RnJvbSh2YWwgZGV2aWNlTmFtZTogU2VydmljZU5hbWUsIHZhbCBiaXRzSW50ZXJmYWNlOiBCaXRzSW50ZXJmYWNlKTogTWVzc2FnZSgpCgpkYXRhIGNsYXNzIE1vZGVsKAogICAgdmFsIHNlcnZlckFkZHJlc3NlczogTGlzdDxTdHJpbmc+LAogICAgdmFsIGRldmljZXM6IExpc3Q8Qml0c0RldmljZT4sCiAgICB2YWwgY29ubmVjdGlvbnM6IE1hcDxQYWlyPFNlcnZpY2VOYW1lLCBTdHJpbmc+LCBXZWJTb2NrZXRDb25uZWN0aW9uPgopIHsKICAgIHZhbCB1cGRhdGUgOiBTaW1wbGVIYW5kbGVyPE1lc3NhZ2U+Cn0KCmNsYXNzIFN0b3JlIDogUm9vdFN0b3JlPE1vZGVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQml0c0ludGVyZmFjZVR5cGUuVW5rbm93biAtPiBUT0RPKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -442,9 +442,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>InetAddress</last-search>
+      <last-search encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</last-search>
       <last-offset />
-      <last-pattern>InetAddress</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>this.task</last-substitute>
       <last-dir>1</last-dir>
