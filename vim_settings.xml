@@ -128,10 +128,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1596213785101">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/.gitignore" timestamp="1596442131358">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/BonjourServicesManagerSpek.kt" timestamp="1596186009942">
         <mark key="'" line="17" column="28" />
@@ -139,12 +140,6 @@
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="39" />
         <mark key="^" line="22" column="40" />
-      </file>
-      <file name="/fragment.kt" timestamp="1596185405796">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1596185681044">
         <mark key="[" line="0" column="0" />
@@ -156,18 +151,57 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596183542686">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1596188266650">
         <mark key="'" line="159" column="35" />
         <mark key="[" line="140" column="81" />
         <mark key="]" line="140" column="89" />
         <mark key="." line="140" column="88" />
         <mark key="^" line="140" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/arduino_secrets.h" timestamp="1596442287218">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonTest/kotlin/ListExtensions.kt" timestamp="1596184993567">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/breathing.ipynb" timestamp="1596213826332">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1596186194294">
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="110" column="33" />
+        <mark key="]" line="110" column="34" />
+        <mark key="." line="110" column="33" />
+        <mark key="^" line="110" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/ReMasterOfMagic/src/Map.elm" timestamp="1596440764739">
+        <mark key="'" line="82" column="20" />
+        <mark key="[" line="49" column="71" />
+        <mark key="]" line="49" column="71" />
+        <mark key="." line="49" column="71" />
+        <mark key="^" line="49" column="70" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1596213785101">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1596185405796">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596183542686">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/flowExtensions.kt" timestamp="1596190605729">
         <mark key="[" line="17" column="8" />
@@ -182,41 +216,16 @@
         <mark key="." line="230" column="113" />
         <mark key="^" line="230" column="114" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonTest/kotlin/ListExtensions.kt" timestamp="1596184993567">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.6/424379de455df02f7c837a5b04e3d34caabf70f3/core-js-0.6-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1596118422331">
-        <mark key="'" line="742" column="70" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Model.kt" timestamp="1596189389821">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="21" column="37" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr/pabluino_mdns_mkr.ino" timestamp="1596107820995">
-        <mark key="[" line="110" column="57" />
-        <mark key="]" line="110" column="59" />
-        <mark key="." line="110" column="58" />
-        <mark key="^" line="110" column="59" />
-      </file>
-      <file name="/breathing.ipynb" timestamp="1596213826332">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" timestamp="1596186194294">
-        <mark key="'" line="96" column="28" />
-        <mark key="[" line="110" column="33" />
-        <mark key="]" line="110" column="34" />
-        <mark key="." line="110" column="33" />
-        <mark key="^" line="110" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1596182639625">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/arduino_secrets.h" timestamp="1596442268677">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/resources/logback.xml" timestamp="1596191439296">
         <mark key="[" line="12" column="65" />
@@ -226,13 +235,6 @@
       </file>
       <file name="/fragment.java" timestamp="1596183759324">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ReMasterOfMagic/src/Map.elm" timestamp="1596440764739">
-        <mark key="'" line="82" column="20" />
-        <mark key="[" line="49" column="71" />
-        <mark key="]" line="49" column="71" />
-        <mark key="." line="49" column="71" />
-        <mark key="^" line="49" column="70" />
       </file>
     </filemarks>
     <jumps>
@@ -343,20 +345,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>values</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2RlZmluZSBUQ1BfTElTVEVOSU5HX1BPUlQgMTIwMDAKI2RlZmluZSBERVZJQ0VfTkFNRSAiUGFibHVpbm8tMS1tb3RvciIKI2RlZmluZSBTRVJWRVJfSVAgIjE5Mi4xNjguMC4xODYiCg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>Pabluino-1-motor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;${deviceName.name}-${bitsIo.type}-${bitsIo.id}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2RlZmluZSBTRUNSRVRfU1NJRCAiTWlkZGxhMl80R2h6IgojZGVmaW5lIFNFQ1JFVF9QQVNTICJtaWRkbGExMzEyIgojZGVmaW5lIFRDUF9MSVNURU5JTkdfUE9SVCAxMjAwMAojZGVmaW5lIERFVklDRV9OQU1FICJQYWJsdWluby0xLW1vdG9yIgojZGVmaW5lIFNFUlZFUl9JUCAiMTkyLjE2OC4wLjE4NiIK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -371,13 +373,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2RlZmluZSBUQ1BfTElTVEVOSU5HX1BPUlQgMTIwMDAKI2RlZmluZSBERVZJQ0VfTkFNRSAiUGFibHVpbm8tMS1tb3RvciIKI2RlZmluZSBTRVJWRVJfSVAgIjE5Mi4xNjguMC4xODYiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICwgaXNIb3ZlcmVkIDogQm9vbAogICAgLCBpc1NlbGVjdGVkIDogQm9vbAo=</text>
+        <text encoding="base64">I2RlZmluZSBTRUNSRVRfU1NJRCAic2VydjIiCiNkZWZpbmUgU0VDUkVUX1BBU1MgInNvbWFzZXJ2Igo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -416,31 +418,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RlZmluZSBTRVJWRVJfSVAgIjEwLjAuMS41Igo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">I2RlZmluZSBTRUNSRVRfU1NJRCAiNzcwICIKI2RlZmluZSBTRUNSRVRfUEFTUyAiMTk0ODE5NDgiCi8vICNkZWZpbmUgU0VDUkVUX1NTSUQgIk1pZGRsYTJfNEdoeiIKLy8gI2RlZmluZSBTRUNSRVRfUEFTUyAibWlkZGxhMTMxMiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB2YWx1ZXM6IEZsb3c8RG91YmxlPiA9IGVtcHR5RmxvdygpCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdmFsdWVTdG9yZSA9IFJvb3RTdG9yZSgwLjApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNvbQo=</text>
+        <text encoding="base64">ICAgICwgaXNIb3ZlcmVkIDogQm9vbAogICAgLCBpc1NlbGVjdGVkIDogQm9vbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVzLnNlbmQoaXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
