@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>myTe</entry>
-        <entry encoding="base64">XDxteVRleHRhcmVhMlw+</entry>
-        <entry encoding="base64">XDxteVRleHRhcmVhMVw+</entry>
-        <entry>Int</entry>
-        <entry>capture</entry>
         <entry>Capture</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
@@ -25,6 +20,11 @@
         <entry>buildWs</entry>
         <entry>build</entry>
         <entry encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJJcFw+</entry>
+        <entry encoding="base64">XDxjb25uZWN0VG9TZXJ2ZXJcPg==</entry>
+        <entry>setupM</entry>
+        <entry encoding="base64">XDxzZW5kT1NDQnV0dG9uXD4=</entry>
+        <entry encoding="base64">XDxkaWdpdGFsUmVhZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/(/(\r\t/g</entry>
@@ -158,16 +158,16 @@
         <mark key="." line="140" column="88" />
         <mark key="^" line="140" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/arduino_secrets.h" timestamp="1596442287218">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/arduino_secrets.template.h" timestamp="1596442369083">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="29" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonTest/kotlin/ListExtensions.kt" timestamp="1596184993567">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/arduino_secrets.h" timestamp="1596443127335">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="/breathing.ipynb" timestamp="1596213826332">
         <mark key="[" line="0" column="0" />
@@ -197,12 +197,6 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596183542686">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/flowExtensions.kt" timestamp="1596190605729">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="23" />
@@ -227,30 +221,19 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/pabluino_mdns_mkr_mini.ino" timestamp="1596443156050">
+        <mark key="'" line="100" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/resources/logback.xml" timestamp="1596191439296">
         <mark key="[" line="12" column="65" />
         <mark key="]" line="12" column="67" />
         <mark key="^" line="12" column="67" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="/fragment.java" timestamp="1596183759324">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="20" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="58" column="35" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="301" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="41" column="33" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="57" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="54" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="37" column="44" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="46" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="26" column="6" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="134" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="38" column="47" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
-      <jump line="58" column="5" filename="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" />
       <jump line="132" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="122" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="139" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
@@ -338,6 +321,19 @@
       <jump line="230" column="55" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="65" column="20" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Map.elm" />
+      <jump line="107" column="17" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/pabluino_mdns_mkr_mini.ino" />
+      <jump line="41" column="10" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/pabluino_mdns_mkr_mini.ino" />
+      <jump line="77" column="2" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="75" column="2" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="85" column="10" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="248" column="2" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/pabluino_mdns_mkr_mini.ino" />
+      <jump line="186" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/pabluino_mdns_mkr_mini.ino" />
+      <jump line="154" column="5" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="116" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="115" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="114" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/mkr_button_for_yoav.ino" />
+      <jump line="100" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/arduino/pabluino_mdns_mkr_mini/pabluino_mdns_mkr_mini.ino" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,19 +342,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2RlZmluZSBUQ1BfTElTVEVOSU5HX1BPUlQgMTIwMDAKI2RlZmluZSBERVZJQ0VfTkFNRSAiUGFibHVpbm8tMS1tb3RvciIKI2RlZmluZSBTRVJWRVJfSVAgIjE5Mi4xNjguMC4xODYiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPEFyZHVpbm9NRE5TLmg+Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>Pabluino-1-motor</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</text>
+        <text encoding="base64">XDxkaWdpdGFsUmVhZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2RlZmluZSBTRUNSRVRfU1NJRCAiTWlkZGxhMl80R2h6IgojZGVmaW5lIFNFQ1JFVF9QQVNTICJtaWRkbGExMzEyIgojZGVmaW5lIFRDUF9MSVNURU5JTkdfUE9SVCAxMjAwMAojZGVmaW5lIERFVklDRV9OQU1FICJQYWJsdWluby0xLW1vdG9yIgojZGVmaW5lIFNFUlZFUl9JUCAiMTkyLjE2OC4wLjE4NiIK</text>
+        <text encoding="base64">I2luY2x1ZGUgPEFyZHVpbm9NRE5TLmg+Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -373,13 +369,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2RlZmluZSBUQ1BfTElTVEVOSU5HX1BPUlQgMTIwMDAKI2RlZmluZSBERVZJQ0VfTkFNRSAiUGFibHVpbm8tMS1tb3RvciIKI2RlZmluZSBTRVJWRVJfSVAgIjE5Mi4xNjguMC4xODYiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlZmluZSBTRUNSRVRfU1NJRCAic2VydjIiCiNkZWZpbmUgU0VDUkVUX1BBU1MgInNvbWFzZXJ2Igo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -418,31 +414,33 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RlZmluZSBTRVJWRVJfSVAgIjEwLjAuMS41Igo=</text>
+        <text encoding="base64">ICBzZXR1cE1ETlMoKTsK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2RlZmluZSBTRUNSRVRfU1NJRCAiNzcwICIKI2RlZmluZSBTRUNSRVRfUEFTUyAiMTk0ODE5NDgiCi8vICNkZWZpbmUgU0VDUkVUX1NTSUQgIk1pZGRsYTJfNEdoeiIKLy8gI2RlZmluZSBTRUNSRVRfUEFTUyAibWlkZGxhMTMxMiIK</text>
+        <text encoding="base64">CgoKCiAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+      <register name="5" type="4">
+        <text>{&quot;sensor1=/sensor/pressure:0%2000:hPa&quot;,
+                           &quot;actuator1=/actuator/inflate:-100%100&quot;
+                          }</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwgaXNIb3ZlcmVkIDogQm9vbAogICAgLCBpc1NlbGVjdGVkIDogQm9vbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -451,9 +449,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</last-search>
+      <last-search encoding="base64">XDxkaWdpdGFsUmVhZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkaWdpdGFsUmVhZFw+</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>this.task</last-substitute>
       <last-dir>1</last-dir>
