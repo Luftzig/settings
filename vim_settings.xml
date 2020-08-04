@@ -144,9 +144,6 @@
       <file name="/breathing.ipynb" timestamp="1596458557475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" timestamp="1596449153928">
-        <mark key="'" line="195" column="44" />
-      </file>
       <file name="/Dummy.txt" timestamp="1596530757825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -154,6 +151,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/messageselector/OSCPatternAddressMessageSelector.java" timestamp="1596450478557">
         <mark key="'" line="64" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/showTask.ejs" timestamp="1596532798418">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" timestamp="1596456801017">
         <mark key="'" line="218" column="54" />
@@ -191,10 +193,15 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596532816192">
+        <mark key="'" line="143" column="12" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="117" column="6" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="95" column="2" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
-      <jump line="131" column="28" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="69" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="134" column="32" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="22" column="30" filename="/Application.kt" />
@@ -293,6 +300,8 @@
       <jump line="199" column="14" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" />
       <jump line="23" column="17" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/OSCPacket.java" />
       <jump line="200" column="54" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" />
+      <jump line="143" column="12" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="0" column="36" filename="$USER_HOME$/Projects/megalessons/views/exercise/showTask.ejs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,20 +309,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sender</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0ianVtYm90cm9uIiBpZD0idGFzay1jb250YWluZXIiPgogICAgPCUgc3dpdGNoICh0YXNrLmZpZWxkcy50YXNrVHlwZSkgewogICAgICAgIGNhc2UgInJoeW1pbmciOiAlPgogICAgICAgIDwlLSBwYXJ0aWFsKCdyaHltaW5nVGFzay5lanMnLCB7dGFzazogdGFza30pICU+CiAgICAgICAgPCUgYnJlYWsKICAgICAgICBjYXNlICJzb3J0LWxvbmctc2hvcnQiOiAlPgogICAgICAgIDwlLSBwYXJ0aWFsKCdzb3J0TG9uZ1Nob3J0VGFzay5lanMnLCB7dGFzazogdGFza30pICU+CiAgICAgICAgPCUgYnJlYWsKICAgICAgICBjYXNlICJmaW5kLXN5bGxhYmxlIjogJT4KICAgICAgICA8JS0gcGFydGlhbCgnZmluZFN5bGxhYmxlVGFzay5lanMnLCB7dGFzazogdGFza30pICU+CiAgICAgICAgPCUgYnJlYWsKICAgICAgICBkZWZhdWx0OiAlPgogICAgICAgIDxzcGFuIGNsYXNzPSJ3YXJuaW5nIj5UYXNrIHR5cGUgdW5rbm93bjwvc3Bhbj4KICAgIDwlIH0gJT4KICAgIDxkaXYgY2xhc3M9ImV4ZXJjaXNlLWZlZWRiYWNrIGhpZGRlbiIKICAgICAgICAgZGF0YS1hdWRpby1zdGF0dXM9InN0b3BwZWQiCiAgICAgICAgIGRhdGEtYXVkaW8tc3JjPSIvYXVkaW8vc3VjY2Vzcy53YXYiCiAgICAgICAgIGRhdGEtYXVkaW8tdHlwZT0iYXBwbGljYXRpb24veC13YXZlIgogICAgPgogICAgICAgIDxoMSBjbGFzcz0iY29ycmVjdC1tZXNzYWdlIj5ZYXkhPC9oMT4KICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1sZyBidG4tc3VjY2VzcyIgaHJlZj0iPCUtIG5leHRUYXNrICU+Ij5Db250aW51ZTwvYT4KICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>sender</text>
+        <text>rhymingExercise</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWdpdGFsUmVhZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgT1NDUG9ydEluU291cmNlKE9TQ1BvcnRJbiBwb3J0LCBJbmV0U29ja2V0QWRkcmVzcyBzZW5kZXIpIHsK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ianVtYm90cm9uIiBpZD0idGFzay1jb250YWluZXIiPgogICAgPCUgc3dpdGNoICh0YXNrLmZpZWxkcy50YXNrVHlwZSkgewogICAgICAgIGNhc2UgInJoeW1pbmciOiAlPgogICAgICAgIDwlLSBwYXJ0aWFsKCdyaHltaW5nVGFzay5lanMnLCB7dGFzazogdGFza30pICU+CiAgICAgICAgPCUgYnJlYWsKICAgICAgICBjYXNlICJzb3J0LWxvbmctc2hvcnQiOiAlPgogICAgICAgIDwlLSBwYXJ0aWFsKCdzb3J0TG9uZ1Nob3J0VGFzay5lanMnLCB7dGFzazogdGFza30pICU+CiAgICAgICAgPCUgYnJlYWsKICAgICAgICBjYXNlICJmaW5kLXN5bGxhYmxlIjogJT4KICAgICAgICA8JS0gcGFydGlhbCgnZmluZFN5bGxhYmxlVGFzay5lanMnLCB7dGFzazogdGFza30pICU+CiAgICAgICAgPCUgYnJlYWsKICAgICAgICBkZWZhdWx0OiAlPgogICAgICAgIDxzcGFuIGNsYXNzPSJ3YXJuaW5nIj5UYXNrIHR5cGUgdW5rbm93bjwvc3Bhbj4KICAgIDwlIH0gJT4KICAgIDxkaXYgY2xhc3M9ImV4ZXJjaXNlLWZlZWRiYWNrIGhpZGRlbiIKICAgICAgICAgZGF0YS1hdWRpby1zdGF0dXM9InN0b3BwZWQiCiAgICAgICAgIGRhdGEtYXVkaW8tc3JjPSIvYXVkaW8vc3VjY2Vzcy53YXYiCiAgICAgICAgIGRhdGEtYXVkaW8tdHlwZT0iYXBwbGljYXRpb24veC13YXZlIgogICAgPgogICAgICAgIDxoMSBjbGFzcz0iY29ycmVjdC1tZXNzYWdlIj5ZYXkhPC9oMT4KICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1sZyBidG4tc3VjY2VzcyIgaHJlZj0iPCUtIG5leHRUYXNrICU+Ij5Db250aW51ZTwvYT4KICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -328,13 +337,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -379,21 +388,19 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCW5ldyBPYmplY3QoKQo=</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCW5ldyBPYmplY3QoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1566,11 +1573,13 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+      <register name="8" type="4">
+        <text>{
+        
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
