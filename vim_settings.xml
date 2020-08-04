@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Capture</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
         <entry encoding="base64">XDxjbG91ZExvZ1w+</entry>
         <entry>status</entry>
         <entry>card</entry>
@@ -25,10 +22,11 @@
         <entry>setupM</entry>
         <entry encoding="base64">XDxzZW5kT1NDQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxkaWdpdGFsUmVhZFw+</entry>
+        <entry>short</entry>
+        <entry encoding="base64">ID0=</entry>
+        <entry>space</entry>
       </history-search>
       <history-cmd>
-        <entry>s/(/(\r\t/g</entry>
-        <entry encoding="base64">JzwsJz5zLykvXHJcdCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
         <entry encoding="base64">JzwsJz5zLykuKi8pID0+IHMiIg==</entry>
@@ -46,6 +44,8 @@
         <entry encoding="base64">JzwsJz5zL3RoaXMudGFzay92YWwvZw==</entry>
         <entry>e</entry>
         <entry>W</entry>
+        <entry>s/short/long/g</entry>
+        <entry encoding="base64">JzwsJz5zLyA9Lzov</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -128,27 +128,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCMessageEvent.java" timestamp="1596455437817">
-        <mark key="'" line="23" column="18" />
-      </file>
       <file name="/breathing.ipynb" timestamp="1596458557475">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" timestamp="1596542187518">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="14" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1596543548928">
-        <mark key="'" line="57" column="22" />
-        <mark key="[" line="66" column="24" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="19" />
-        <mark key="^" line="69" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596541925868">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/views/exercise/showInstructions.ejs" timestamp="1596540601761">
         <mark key="'" line="0" column="0" />
@@ -162,19 +143,46 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" timestamp="1596456801017">
-        <mark key="'" line="218" column="54" />
-        <mark key="[" line="223" column="56" />
-        <mark key="]" line="223" column="60" />
-        <mark key="." line="223" column="59" />
-        <mark key="^" line="223" column="60" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596457357174">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="84" column="26" />
         <mark key="]" line="84" column="27" />
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596550965704">
+        <mark key="'" line="113" column="6" />
+        <mark key="[" line="131" column="89" />
+        <mark key="]" line="132" column="29" />
+        <mark key="." line="132" column="28" />
+        <mark key="^" line="132" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/findSyllableTask.ejs" timestamp="1596549301759">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" timestamp="1596542187518">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="14" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" timestamp="1596550701003">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1596541925868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" timestamp="1596456801017">
+        <mark key="'" line="218" column="54" />
+        <mark key="[" line="223" column="56" />
+        <mark key="]" line="223" column="60" />
+        <mark key="." line="223" column="59" />
+        <mark key="^" line="223" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/messageselector/OSCPatternAddressAndIPSelector.java" timestamp="1596457118695">
         <mark key="[" line="11" column="40" />
@@ -204,19 +212,8 @@
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596543993944">
-        <mark key="'" line="9" column="65" />
-        <mark key="[" line="57" column="68" />
-        <mark key="]" line="57" column="69" />
-        <mark key="." line="57" column="68" />
-        <mark key="^" line="57" column="69" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="35" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="77" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
-      <jump line="154" column="43" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="85" column="46" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="60" column="35" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
       <jump line="27" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCPacketListener.java" />
       <jump line="20" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/OSCPacketEvent.java" />
@@ -313,6 +310,10 @@
       <jump line="60" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="67" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="58" column="22" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
+      <jump line="94" column="82" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="113" column="6" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="78" column="15" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,20 +321,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QGNoYW5nZT0iY2hlY2tDb21wbGV0ZWQiIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNXB4IDEwcHg7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">MTBweCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWdpdGFsUmVhZFw+</text>
+        <text>space</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QGNoYW5nZT0iY2hlY2tDb21wbGV0ZWQiIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcGFkZGluZzogNXB4IDEwcHg7Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -348,7 +349,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMz5VbnNvcnRlZDwvaDM+Cg==</text>
+        <text encoding="base64">ICAgIC5jaG9pY2VzIHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -393,22 +394,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aDogNTAlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLCBub25Tb2x1dGlvbnM6IF8uZGlmZmVyZW5jZShfLm1hcChjYXJkcywgKGMpID0+IGMuZmllbGRzLmNvbnRlbnQpLCBzb2x1dGlvbnMpCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
+        <text encoding="base64">ICAgIDxkcmFnZ2EK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1584,11 +1585,11 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAudGFzayB7CiAgICB9CgogICAgLnNvcnRlZCB7CiAgICAgIC5kcm9wLXRhcmdldCB7CiAgICAgICAgbWluLWhlaWdodDogMTQ0cHg7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">Y29uc3QgCmNvbnN0IApjb25zdCAKY29uc3Qg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC51bnNvcnRlZC1jYXJkcyB7CiAgICAgIGRpdiB7CiAgICAgICAgLmRyYWdnYWJsZS1jYXJkLXdyYXBwZXIgewogICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgd2lkdGg6IGNhbGMoNTAlIC0gMzBweCk7CiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1597,11 +1598,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkaWdpdGFsUmVhZFw+</last-search>
+      <last-search>space</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWdpdGFsUmVhZFw+</last-pattern>
-      <last-replace>val</last-replace>
-      <last-substitute>this.task</last-substitute>
+      <last-pattern>space</last-pattern>
+      <last-replace>:</last-replace>
+      <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
