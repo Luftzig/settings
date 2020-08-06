@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>interactionOne</entry>
         <entry>interaction_One</entry>
         <entry>lodash</entry>
         <entry>this.task</entry>
@@ -25,6 +24,7 @@
         <entry>character-card</entry>
         <entry>update</entry>
         <entry>findIndex</entry>
+        <entry>exercise</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -157,12 +157,12 @@
         <mark key="." line="85" column="73" />
         <mark key="^" line="85" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596555253912">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="238" column="19" />
-        <mark key="]" line="238" column="53" />
-        <mark key="." line="237" column="49" />
-        <mark key="^" line="238" column="53" />
+      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1596730676650">
+        <mark key="'" line="229" column="15" />
+        <mark key="[" line="233" column="67" />
+        <mark key="]" line="233" column="67" />
+        <mark key="." line="233" column="67" />
+        <mark key="^" line="233" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" timestamp="1596610997512">
         <mark key="'" line="33" column="0" />
@@ -179,7 +179,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596555310239">
+      <file name="/Dummy.txt" timestamp="1596730462533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -192,10 +192,10 @@
         <mark key="." line="114" column="123" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/.eslintrc.js" timestamp="1596528257482">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="30" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1596610977827">
         <mark key="'" line="229" column="51" />
@@ -217,16 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="174" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="28" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="66" column="67" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="171" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="91" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="34" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="85" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="14" column="26" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/BonjourServicesManagerSpek.kt" />
-      <jump line="22" column="47" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/BonjourServicesManagerSpek.kt" />
       <jump line="96" column="28" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
       <jump line="17" column="28" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/BonjourServicesManagerSpek.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" />
@@ -317,6 +307,16 @@
       <jump line="44" column="17" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="84" column="45" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
+      <jump line="270" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="55" column="4" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="61" column="113" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="104" column="109" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="108" column="106" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="205" column="10" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="213" column="19" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="217" column="15" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="223" column="33" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
+      <jump line="229" column="15" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,16 +325,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0x</text>
+        <text>/exercise</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0x</text>
+        <text>/exercise</text>
       </register>
       <register name="/" type="4">
-        <text>findIndex</text>
+        <text>exercise</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBpbmNvbWluZ0Zyb20ocmVtb3RlQWRkcmVzczogU3RyaW5nLCBsaXN0ZW5pbmdQb3J0OiBJbnQsIHBhdHRlcm46IFN0cmluZywgc2NvcGU6IENvcm91dGluZVNjb3BlID0gTWFpblNjb3BlKCkpOiBSZWNlaXZlQ2hhbm5lbDxPU0NNZXNzYWdlRXZlbnQ+ID0K</text>
@@ -1601,9 +1601,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>findIndex</last-search>
+      <last-search>exercise</last-search>
       <last-offset />
-      <last-pattern>findIndex</last-pattern>
+      <last-pattern>exercise</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
