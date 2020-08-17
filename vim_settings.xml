@@ -138,6 +138,12 @@
       <file name="/breathing.ipynb" timestamp="1596615787660">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/api/models/Playlist.js" timestamp="1597673751332">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="40" column="2" />
+        <mark key="." line="40" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596609649487">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="85" column="65" />
@@ -152,11 +158,11 @@
         <mark key="^" line="144" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1597653191373">
-        <mark key="'" line="229" column="15" />
-        <mark key="[" line="268" column="7" />
-        <mark key="]" line="268" column="7" />
-        <mark key="." line="268" column="6" />
-        <mark key="^" line="268" column="7" />
+        <mark key="'" line="332" column="15" />
+        <mark key="[" line="371" column="7" />
+        <mark key="]" line="371" column="7" />
+        <mark key="." line="371" column="6" />
+        <mark key="^" line="371" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" timestamp="1596610997512">
         <mark key="'" line="33" column="0" />
@@ -174,21 +180,20 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/sortLongShortTask.ejs" timestamp="1596542187518">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="14" column="74" />
+      <file name="/PlaylistController.js" timestamp="1597674004309">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="143" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597672813790">
+      <file name="/Dummy.txt" timestamp="1597673637643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" timestamp="1597672767444">
-        <mark key="'" line="99" column="19" />
-        <mark key="[" line="127" column="16" />
-        <mark key="]" line="127" column="29" />
-        <mark key="." line="127" column="28" />
-        <mark key="^" line="127" column="29" />
+      <file name="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" timestamp="1597673890976">
+        <mark key="[" line="96" column="2" />
+        <mark key="]" line="96" column="2" />
+        <mark key="." line="96" column="2" />
+        <mark key="^" line="95" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1597668002871">
         <mark key="[" line="100" column="22" />
@@ -205,13 +210,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/megalessons/config/routes.js" timestamp="1597656704355">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="163" column="5" />
-        <mark key="]" line="163" column="9" />
-        <mark key="." line="163" column="8" />
-        <mark key="^" line="163" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1596615772722">
         <mark key="'" line="37" column="40" />
@@ -340,8 +338,8 @@
       <register name="/" type="4">
         <text>copy</text>
       </register>
-      <register name="0" type="4">
-        <text>u1hk7qd7c51g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAsIHNob3dQdWJsaWM6IGFzeW5jIChyZXEsIHJlcykgPT4gewogICBjb25zdCBpZCA9IHJlcS5wYXJhbSgiaWQiKTsKICAgdHJ5IHsKICAgICBjb25zdCBwbGF5bGlzdCA9IGF3YWl0IFBsYXlsaXN0LmZpbmRPbmUoeyBpZDogaWQgfSkucG9wdWxhdGUoJ2ZsaXBzJykKICAgICBpZiAoIXBsYXlsaXN0LmNvcHlhYmxlKSByZXR1cm4gcmVzLmZvcmJpZGRlbigpOwogICAgIENvbnRlbnRmdWwuZ2V0RW50cmllcyh7CiAgICAgICAnY29udGVudF90eXBlJzogJ2R5c2xleGlhX2V4ZXJjaXNlJwogICAgIH0pCiAgICAgICAudGhlbih4ID0+IHguaXRlbXMpCiAgICAgICAudGhlbih4ID0+IHgubWFwKGl0ZW0gPT4gKHsKICAgICAgICAgLi4uaXRlbQogICAgICAgICAsIGNoZWNrZWQ6IHBsYXlsaXN0LmV4ZXJjaXNlcy5maW5kSW5kZXgoZXhlcmNpc2UgPT4gZXhlcmNpc2UgPT09IGl0ZW0uZmllbGRzLmlkZW50aWZpZXIpICE9PSAtMQogICAgICAgfSkpKQogICAgICAgLnRoZW4oaXRlbXMgPT4KICAgICAgICAgcmVzLnZpZXcoInBsYXlsaXN0L3Nob3dQdWJsaWMiLCB7CiAgICAgICAgICAgcGxheWxpc3Q6IHBsYXlsaXN0CiAgICAgICAgICAgLCBleGVyY2lzZXM6IGl0ZW1zCiAgICAgICAgICAgLCBpc093bmVyOiBwbGF5bGlzdC5vd25lciA9PT0gcmVxLnVzZXIuaWQKICAgICAgICAgfSkpCiAgIH0gY2F0Y2ggKGVycikgewogICAgIHJldHVybiByZXMuc2VuZCg1MDAsIGVycik7CiAgIH0KICB9CgogICwgY29weVB1YmxpYzogYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCBpZCA9IHJlcS5wYXJhbSgiaWQiKTsKICAgIC8vIFdlIHJlcXVpcmUgdGhlIGNvcGllZCBwbGF5bGlzdCB0byBiZSAxLiBwdWJsaWMgb3IgMi4gdG8gYmUgb3duZWQgYnkgdXMKICAgIHRyeSB7CiAgICAgIGNvbnN0IHBsYXlsaXN0ID0gYXdhaXQgUGxheWxpc3QuZmluZE9uZSh7IGlkOiBpZCB9KS5wb3B1bGF0ZSgnZmxpcHMnKQogICAgICBpZiAoIXBsYXlsaXN0LmNvcHlhYmxlKSByZXR1cm4gcmVzLmZvcmJpZGRlbigpOwoKICAgICAgY29uc3QgbmV3UGxheWxpc3QgPSBhd2FpdCBQbGF5bGlzdC5jcmVhdGUoCiAgICAgICAgeyBuYW1lOiAnQ29weSBvZiAnICsgcGxheWxpc3QubmFtZQogICAgICAgICwgZGVzY3JpcHRpb246IHBsYXlsaXN0LmRlc2NyaXB0aW9uCiAgICAgICAgLCBzdWJqZWN0OiBwbGF5bGlzdC5zdWJqZWN0CiAgICAgICAgLCBwcmV2aWV3SW1nVXJsOiBwbGF5bGlzdC5wcmV2aWV3SW1nVXJsCiAgICAgICAgLCBleGVyY2lzZXM6IHBsYXlsaXN0LmV4ZXJjaXNlcwogICAgICAgICwgb3duZXI6IHJlcS51c2VyLmlkCiAgICAgICAgfSkKCiAgICAgIGF3YWl0IG5ld1BsYXlsaXN0LmZsaXBzLmFkZChwbGF5bGlzdC5mbGlwcykKICAgICAgYXdhaXQgbmV3UGxheWxpc3Quc2F2ZSgpCiAgICAgIHJldHVybiByZXMucmVkaXJlY3QoMzAyLCAnL3BsYXlsaXN0LycgKyBuZXdQbGF5bGlzdC5pZCkKICAgIH0gY2F0Y2ggKGVycikgewogICAgICBjb25zb2xlLmxvZyhlcnIpCiAgICAgIHJldHVybiByZXMuc2VuZCg1MDAsIGVycik7CiAgICB9CiAgfQoK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -356,13 +354,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogQ29weSBmbGlwcwogICAgICBjb25zb2xlLmxvZygnbmV3UGxheWxpc3QnLCBuZXdQbGF5bGlzdCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NvcGllZCBwbGF5bGlzdCcsIG5ld1BsYXlsaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCBjaGVja2VkOiBwbGF5bGlzdC5leGVyY2lzZXMuZmluZEluZGV4KGV4ZXJjaXNlID0+IGV4ZXJjaXNlID09PSBpdGVtLmZpZWxkcy5pZGVudGlmaWVyKSAhPT0gLTEK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -401,25 +399,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogQ29weSBmbGlwcwogICAgICBjb25zb2xlLmxvZygnbmV3UGxheWxpc3QnLCBuZXdQbGF5bGlzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIm5ld1BsYXlsaXN0IiwgbmV3UGxheWxpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NvcGllZCBwbGF5bGlzdCcsIG5ld1BsYXlsaXN0KQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICBpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAsICdQVVQgL3RlYWNoZXIvcHVibGljLXBsYXlsaXN0cy86aWQnOiB7CiAgICBjb250cm9sbGVyOiAnUGxheWxpc3RDb250cm9sbGVyJwogICAgLCBhY3Rpb246ICdjb3B5UHVibGljJwogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1593,10 +1591,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coImlzT3duZXIiLCBwbGF5bGlzdC5vd25lciwgcmVxLnVzZXIuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIm5ld1BsYXlsaXN0IiwgbmV3UGxheWxpc3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48L3A+CiAgICAgICAgPHA+PC9wPgogICAgICAgIDxwPjwvcD4KICAgICAgICA8cD48L3A+CiAgICAgICAgPHA+PC9wPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
