@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>this.task</entry>
         <entry>isSet</entry>
         <entry>InetAddress</entry>
         <entry>buildWs</entry>
@@ -25,6 +24,7 @@
         <entry>exercise</entry>
         <entry>showPublic</entry>
         <entry>playlist</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -178,15 +178,17 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597665534717">
+      <file name="/Dummy.txt" timestamp="1597672813790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" timestamp="1597671230192">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" timestamp="1597672767444">
+        <mark key="'" line="99" column="19" />
+        <mark key="[" line="127" column="16" />
+        <mark key="]" line="127" column="29" />
+        <mark key="." line="127" column="28" />
+        <mark key="^" line="127" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1597668002871">
         <mark key="[" line="100" column="22" />
@@ -219,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="58" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="227" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="229" column="94" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="230" column="55" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="65" column="20" filename="$USER_HOME$/Projects/ReMasterOfMagic/src/Map.elm" />
@@ -319,6 +318,9 @@
       <jump line="37" column="5" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="109" column="43" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="95" column="0" filename="$USER_HOME$/Projects/megalessons/config/routes.js" />
+      <jump line="83" column="45" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
+      <jump line="86" column="24" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
+      <jump line="99" column="19" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,17 +328,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogQ29weSBmbGlwcwogICAgICBjb25zb2xlLmxvZygnbmV3UGxheWxpc3QnLCBuZXdQbGF5bGlzdCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>56cmJ9qasPQC9h9Efa59gInDAfgFQtDIXr2b5yjt6xs</text>
       </register>
       <register name="-" type="4">
-        <text>updateForm</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>playlist</text>
+        <text>copy</text>
       </register>
       <register name="0" type="4">
         <text>u1hk7qd7c51g</text>
@@ -1603,9 +1605,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>playlist</last-search>
+      <last-search>copy</last-search>
       <last-offset />
-      <last-pattern>playlist</last-pattern>
+      <last-pattern>copy</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
