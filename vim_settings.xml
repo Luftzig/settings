@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lodash</entry>
         <entry>this.task</entry>
         <entry>isSet</entry>
         <entry>InetAddress</entry>
@@ -25,6 +24,7 @@
         <entry>findIndex</entry>
         <entry>exercise</entry>
         <entry>showPublic</entry>
+        <entry>playlist</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -143,13 +143,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/exercise/showTask.ejs" timestamp="1596534621442">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="1" column="55" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="57" />
-        <mark key="^" line="1" column="58" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1596609649487">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="85" column="65" />
@@ -163,11 +156,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/playlist/showPublic.ejs" timestamp="1597655244685">
-        <mark key="[" line="145" column="78" />
-        <mark key="]" line="145" column="79" />
-        <mark key="." line="144" column="96" />
-        <mark key="^" line="145" column="79" />
+      <file name="$USER_HOME$/Projects/megalessons/views/playlist/showPublic.ejs" timestamp="1597658515702">
+        <mark key="[" line="144" column="18" />
+        <mark key="]" line="144" column="22" />
+        <mark key="." line="144" column="21" />
+        <mark key="^" line="144" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1597653191373">
         <mark key="'" line="229" column="15" />
@@ -204,12 +197,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" timestamp="1597655107758">
-        <mark key="'" line="109" column="43" />
-        <mark key="[" line="112" column="17" />
-        <mark key="]" line="112" column="52" />
-        <mark key="." line="112" column="51" />
-        <mark key="^" line="112" column="52" />
+      <file name="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" timestamp="1597658628893">
+        <mark key="[" line="131" column="38" />
+        <mark key="]" line="131" column="39" />
+        <mark key="." line="131" column="38" />
+        <mark key="^" line="131" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1596610977827">
         <mark key="'" line="229" column="51" />
@@ -223,6 +215,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/config/routes.js" timestamp="1597656704355">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="163" column="5" />
+        <mark key="]" line="163" column="9" />
+        <mark key="." line="163" column="8" />
+        <mark key="^" line="163" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1596615772722">
         <mark key="'" line="37" column="40" />
         <mark key="[" line="76" column="0" />
@@ -231,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="26" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="69" column="58" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="227" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="229" column="94" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
@@ -331,6 +329,7 @@
       <jump line="86" column="0" filename="$USER_HOME$/Projects/megalessons/views/layout.ejs" />
       <jump line="37" column="5" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="109" column="43" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/Projects/megalessons/config/routes.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,16 +338,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGlzYWJsZWQ9IjwlPSBpc093bmVyICU+Ig==</text>
+        <text>updateForm</text>
       </register>
       <register name="*" type="4">
         <text>add622a9368835466a62987aba6936b8ef89d734a2274986993a42d1a9100b70</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlzYWJsZWQ9IjwlPSBpc093bmVyICU+Ig==</text>
+        <text>updateForm</text>
       </register>
       <register name="/" type="4">
-        <text>showPublic</text>
+        <text>playlist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBpbmNvbWluZ0Zyb20ocmVtb3RlQWRkcmVzczogU3RyaW5nLCBsaXN0ZW5pbmdQb3J0OiBJbnQsIHBhdHRlcm46IFN0cmluZywgc2NvcGU6IENvcm91dGluZVNjb3BlID0gTWFpblNjb3BlKCkpOiBSZWNlaXZlQ2hhbm5lbDxPU0NNZXNzYWdlRXZlbnQ+ID0K</text>
@@ -366,13 +365,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48L3A+CiAgICAgICAgPHA+PC9wPgogICAgICAgIDxwPjwvcD4KICAgICAgICA8cD48L3A+CiAgICAgICAgPHA+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NvcGllZCBwbGF5bGlzdCcsIG5ld1BsYXlsaXN0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAsIG93bgo=</text>
+        <text encoding="base64">ICAgICBpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -417,19 +416,19 @@
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlPSBwbGlzdC5vd25lci5uYW1lICU+CiAgICAgICAgICAgICAgICAgICAgPC9oND4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIm5ld1BsYXlsaXN0IiwgbmV3UGxheWxpc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZih0ZWFjaGVycy5sZW5ndGggLSAxICE9PSBpKSB7ICU+CiAgICAgICAgICAgIDxocj4KICAgICAgICA8JSB9ICU+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAsICdQVVQgL3RlYWNoZXIvcHVibGljLXBsYXlsaXN0cy86aWQnOiB7CiAgICBjb250cm9sbGVyOiAnUGxheWxpc3RDb250cm9sbGVyJwogICAgLCBhY3Rpb246ICdjb3B5UHVibGljJwogIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCUgfSkgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgY29uc29sZS5sb2coImlzT3duZXIiLCBwbGF5bGlzdC5vd25lciwgcmVxLnVzZXIuaWQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1603,10 +1602,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlIF8uZWFjaCh0ZWFjaGVycywgZnVuY3Rpb24gKHRlYWNoZXIsIGkpIHsgJT4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPjxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1kZWZhdWx0IHRlYWNoZXItcHVibGljLXBsYXlsaXN0c19fbGFiZWwiPjwlPSB0ZWFjaGVyLmVtYWlsICU+PC9zcGFuPjwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InJvdyBwbGlzdHMiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8cD48L3A+CiAgICAgICAgPHA+PC9wPgogICAgICAgIDxwPjwvcD4KICAgICAgICA8cD48L3A+CiAgICAgICAgPHA+PC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRlYWNoZXJzID0gYXdhaXQgVXNlci5maW5kKHtyb2xlczogJ3RlYWNoZXInfSkucG9wdWxhdGUoJ3BsYXlsaXN0cycpCiAgICB0ZWFjaGVycyA9IHRlYWNoZXJzCiAgICAgIC5maWx0ZXIoeCA9PiB4LmlkICE9PSByZXEudXNlci5pZCkKICAgICAgLm1hcCh4ID0+ICh7CiAgICAgICAgLi4ueAogICAgICAgICwgcGxheWxpc3RzOiB4LnBsYXlsaXN0cy5maWx0ZXIocGxheWxpc3QgPT4gcGxheWxpc3QuY29weWFibGUpCiAgICAgIH0pKQogICAgICAuZmlsdGVyKHggPT4geC5wbGF5bGlzdHMubGVuZ3RoID4gMCkKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAsIG93bgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1615,9 +1614,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>showPublic</last-search>
+      <last-search>playlist</last-search>
       <last-offset />
-      <last-pattern>showPublic</last-pattern>
+      <last-pattern>playlist</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
