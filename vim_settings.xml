@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>buildWs</entry>
         <entry>build</entry>
         <entry encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</entry>
         <entry encoding="base64">XDxzZXJ2ZXJJcFw+</entry>
@@ -25,6 +24,7 @@
         <entry>copy</entry>
         <entry>sender</entry>
         <entry>Sender</entry>
+        <entry>configuration</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -141,15 +141,12 @@
         <mark key="." line="94" column="51" />
         <mark key="^" line="94" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1597744300117">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1597762092694">
         <mark key="'" line="71" column="53" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="131" column="124" />
-      </file>
-      <file name="/breathing.ipynb" timestamp="1596615787660">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="142" column="81" />
+        <mark key="]" line="142" column="87" />
+        <mark key="." line="142" column="86" />
+        <mark key="^" line="142" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/api/models/Playlist.js" timestamp="1597673751332">
         <mark key="[" line="40" column="0" />
@@ -157,25 +154,27 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="40" column="7" />
       </file>
+      <file name="/fragment.kt" timestamp="1597762757214">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1597761736291">
+        <mark key="'" line="129" column="14" />
+        <mark key="[" line="85" column="75" />
+        <mark key="]" line="85" column="75" />
+        <mark key="." line="85" column="74" />
+        <mark key="^" line="85" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/megalessons/views/playlist/showPublic.ejs" timestamp="1597658515702">
         <mark key="[" line="144" column="18" />
         <mark key="]" line="144" column="22" />
         <mark key="." line="144" column="21" />
         <mark key="^" line="144" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" timestamp="1597653191373">
-        <mark key="'" line="332" column="15" />
-        <mark key="[" line="371" column="7" />
-        <mark key="]" line="371" column="7" />
-        <mark key="." line="371" column="6" />
-        <mark key="^" line="371" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" timestamp="1596610997512">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Luftzig.JavaOSC/javaosc-core/master-SNAPSHOT/44251d204cda7d0fd12808e9e471a4dbbbe4c9b4/javaosc-core-master-SNAPSHOT.jar!/com/illposed/osc/transport/udp/OSCPortIn.class" timestamp="1597761842412">
+        <mark key="'" line="99" column="61" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/DatagramChannel.java" timestamp="1597744708026">
         <mark key="'" line="392" column="36" />
@@ -214,20 +213,18 @@
         <mark key="[" line="100" column="22" />
         <mark key="]" line="100" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1597745159278">
-        <mark key="'" line="42" column="9" />
-        <mark key="[" line="27" column="68" />
-        <mark key="]" line="28" column="8" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1597762196459">
+        <mark key="'" line="67" column="25" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
         <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="7" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1597762130221">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="195" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPortIn.java" />
-      <jump line="147" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/transport/udp/OSCPort.java" />
-      <jump line="134" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
-      <jump line="145" column="41" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="80" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
       <jump line="392" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/messageselector/OSCPatternAddressMessageSelector.java" />
       <jump line="64" column="57" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.illposed.osc/javaosc-core/0.7/d0a29b1ed75ef0b82781c6a29456ec2619baedc6/javaosc-core-0.7-sources.jar!/com/illposed/osc/messageselector/OSCPatternAddressMessageSelector.java" />
@@ -323,6 +320,11 @@
       <jump line="76" column="6" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/channel/OSCDatagramChannel.java" />
       <jump line="61" column="12" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/channel/OSCDatagramChannel.java" />
       <jump line="223" column="60" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" />
+      <jump line="85" column="66" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="129" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="68" column="25" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
+      <jump line="99" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Luftzig.JavaOSC/javaosc-core/master-SNAPSHOT/44251d204cda7d0fd12808e9e471a4dbbbe4c9b4/javaosc-core-master-SNAPSHOT.jar!/com/illposed/osc/transport/udp/OSCPortIn.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,17 +332,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>channel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoIlJlY2VpdmVkIG1lc3NhZ2Ugb24gbGlzdGVuZXIiKQo=</text>
       </register>
       <register name="*" type="4">
         <text>56cmJ9qasPQC9h9Efa59gInDAfgFQtDIXr2b5yjt6xs</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text encoding="base64">IHsgY2hhbmdpbmcgPSB0cnVlIH0=</text>
       </register>
       <register name="/" type="4">
-        <text>Sender</text>
+        <text>configuration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcnQuZGlzcGF0Y2hlci5yZW1vdmVMaXN0ZW5lcihzZWxlY3RvciwgbGlzdGVuZXIpCg==</text>
@@ -358,13 +360,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoIlJlY2VpdmVkIG1lc3NhZ2Ugb24gbGlzdGVuZXIiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9TQ1BvcnRJblNvdXJjZShPU0NQb3J0SW4gcG9ydCwgU29ja2V0QWRkcmVzcyBzb3VyY2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgIHRoaXMocG9ydCwgY2hhbm5lbC5nZXRSZW1vdGVBZGRyZXNzKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -403,25 +405,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBPYmplY3QgY2xvbmUoKSB0aHJvd3MgQ2xvbmVOb3RTdXBwb3J0ZWRFeGNlcHRpb24gewogICAgICByZXR1cm4gbmV3IE9TQ1BhY2tldFdpdGhTb3VyY2UocGFja2V0LCBzb3VyY2UpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvbnMuYWxsIHsKICAgICAgICAgICAgICAgIHJlc29sdXRpb25TdHJhdGVneS5jYWNoZUR5bmFtaWNWZXJzaW9uc0ZvciAxMCwgIk1pbnV0ZXMiCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgIHJldHVybiBzdXBlci50b1N0cmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgIHJldHVybiBzdXBlci5oYXNoQ29kZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x1dGlvblN0cmF0ZWd5LmNhY2hlRHluYW1pY1ZlcnNpb25zRm9yIDEwLCAiTWludXRlcyIK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKHVuZGVybHlpbmdDaGFubmVsLmlzQ29ubmVjdGVkKCkpIHsKCQkJCXVuZGVybHlpbmdDaGFubmVsLnJlYWQoYnVmZmVyKTsKCQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgIE9TQ1BvcnRJblNvdXJjZShPU0NQb3J0SW4gcG9ydCwgU29ja2V0QWRkcmVzcyBzb3VyY2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgIHRoaXMocG9ydCwgY2hhbm5lbC5nZXRSZW1vdGVBZGRyZXNzKCkpOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1595,10 +1597,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBPYmplY3QgY2xvbmUoKSB0aHJvd3MgQ2xvbmVOb3RTdXBwb3J0ZWRFeGNlcHRpb24gewogICAgICByZXR1cm4gbmV3IE9TQ1BhY2tldFdpdGhTb3VyY2UocGFja2V0LCBzb3VyY2UpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgUGFpcgo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgIHJldHVybiBzdXBlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1607,9 +1609,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Sender</last-search>
+      <last-search>configuration</last-search>
       <last-offset />
-      <last-pattern>Sender</last-pattern>
+      <last-pattern>configuration</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
