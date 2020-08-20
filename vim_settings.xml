@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>build</entry>
         <entry encoding="base64">XDxidWlsZFdlYnNvY2tldFVybFw+</entry>
         <entry encoding="base64">XDxzZXJ2ZXJJcFw+</entry>
         <entry encoding="base64">XDxjb25uZWN0VG9TZXJ2ZXJcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>sender</entry>
         <entry>Sender</entry>
         <entry>configuration</entry>
+        <entry>uglify</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -167,12 +167,6 @@
         <mark key="." line="93" column="60" />
         <mark key="^" line="93" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/views/playlist/showPublic.ejs" timestamp="1597658515702">
-        <mark key="[" line="144" column="18" />
-        <mark key="]" line="144" column="22" />
-        <mark key="." line="144" column="21" />
-        <mark key="^" line="144" column="22" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Luftzig.JavaOSC/javaosc-core/master-SNAPSHOT/44251d204cda7d0fd12808e9e471a4dbbbe4c9b4/javaosc-core-master-SNAPSHOT.jar!/com/illposed/osc/transport/udp/OSCPortIn.class" timestamp="1597761842412">
         <mark key="'" line="99" column="61" />
       </file>
@@ -189,11 +183,17 @@
         <mark key="." line="146" column="55" />
         <mark key="^" line="146" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/megalessons/tasks/config/uglify.js" timestamp="1597915029573">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="45" />
+        <mark key="^" line="20" column="45" />
+        <mark key="." line="20" column="44" />
+      </file>
       <file name="/PlaylistController.js" timestamp="1597674004309">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="143" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597823935491">
+      <file name="/Dummy.txt" timestamp="1597915094046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -211,11 +211,10 @@
         <mark key="." line="220" column="109" />
         <mark key="^" line="220" column="110" />
       </file>
-      <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1597914777705">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1597914975362">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/config/local.js" timestamp="1597668002871">
         <mark key="[" line="100" column="22" />
@@ -346,8 +345,8 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>~4.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJncnVudC1jb250cmliLXVnbGlmeSI6ICJ+NS4wLjAiLAo=</text>
       </register>
       <register name="*" type="4">
         <text>56cmJ9qasPQC9h9Efa59gInDAfgFQtDIXr2b5yjt6xs</text>
@@ -356,7 +355,7 @@
         <text>~4.0.1</text>
       </register>
       <register name="/" type="4">
-        <text>configuration</text>
+        <text>uglify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIE5vdGljZTogU2luY2Ugb3V0Z29pbmcgY29ubmVjdGlvbnMgYXJlIGZvcmdldGZ1bCwgdGhlcmUncyBubyBuZWVkIHRvIGNsZWFuIHRoZW0sIHRoZSBzYW1lIHBvcnQgY2FuIGJlIGFsd2F5cwogICAgICogcmV1c2VkLgo=</text>
@@ -374,13 +373,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICJncnVudC1jb250cmliLXVnbGlmeSI6ICJ+NS4wLjAiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -419,25 +418,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5sYXVuY2ggewogICAgICAgICAgICAgICAgICAgICAgICBjaGFubmVsLnNlbmQoaXQpCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5kZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5sYXVuY2ggewogICAgICAgICAgICAgICAgICAgICAgICBjaGFubmVsLnNlbmQoaXQpCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZS5kZAo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gV2UgdXNlIHRoZSBtYWluIHNjb3BlIGJlY2F1c2UgdGhpcyBzY29wZSBtaWdodCBnbyBvdXQgd2l0aG91dCBjbGVhcmluZyB0aGUgbGlzdGVuZXJzCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFdoaWNoIHdpbGwgdGhlbiBiZSByZXVzZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gV2UgdXNlIHRoZSBtYWluIHNjb3BlIGJlY2F1c2UgdGhpcyBzY29wZSBtaWdodCBnbyBvdXQgd2l0aG91dCBjbGVhcmluZyB0aGUgbGlzdGVuZXJzCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIFdoaWNoIHdpbGwgdGhlbiBiZSByZXVzZWQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1611,10 +1610,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbGVhbkNvbm5lY3Rpb25zOiBTaW1wbGVIYW5kbGVyPExpc3Q8Qml0c0RldmljZT4+ID0gaGFuZGxlIHsgbW9kZWwsIGxpdmVEZXZpY2VzIC0+CiAgICAgICAgdmFsIGRldmljZU5hbWVzID0gbGl2ZURldmljZXMKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBjbGVhbkNvbm5lY3Rpb25zOiBTaW1wbGVIYW5kbGVyPExpc3Q8Qml0c0RldmljZT4+ID0gaGFuZGxlIHsgbW9kZWwsIGxpdmVEZXZpY2VzIC0+CiAgICAgICAgdmFsIGRldmljZU5hbWVzID0gbGl2ZURldmljZXMKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1623,9 +1622,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>configuration</last-search>
+      <last-search>uglify</last-search>
       <last-offset />
-      <last-pattern>configuration</last-pattern>
+      <last-pattern>uglify</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
