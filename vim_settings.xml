@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2ZXJJcFw+</entry>
-        <entry encoding="base64">XDxjb25uZWN0VG9TZXJ2ZXJcPg==</entry>
         <entry>setupM</entry>
         <entry encoding="base64">XDxzZW5kT1NDQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxkaWdpdGFsUmVhZFw+</entry>
@@ -25,6 +23,8 @@
         <entry>configuration</entry>
         <entry>uglify</entry>
         <entry>body</entry>
+        <entry>style</entry>
+        <entry>\cstyle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -142,21 +142,14 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1597821932858">
-        <mark key="'" line="145" column="24" />
-        <mark key="[" line="143" column="95" />
-        <mark key="]" line="143" column="95" />
-        <mark key="." line="143" column="95" />
-        <mark key="^" line="143" column="112" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/arduino/mkr_button_for_yoav/arduino_secrets.h" timestamp="1598361608520">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1598365495847">
-        <mark key="'" line="86" column="69" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1598426477481">
+        <mark key="'" line="719" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/tasks/config/uglify.js" timestamp="1597915029573">
         <mark key="[" line="20" column="42" />
@@ -175,12 +168,11 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1598282711813">
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1598426638023">
         <mark key="'" line="134" column="14" />
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="16" />
-        <mark key="." line="69" column="15" />
-        <mark key="^" line="69" column="16" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/package.json" timestamp="1597914975362">
         <mark key="[" line="20" column="0" />
@@ -196,12 +188,17 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598374294956">
-        <mark key="'" line="207" column="38" />
-        <mark key="[" line="246" column="33" />
-        <mark key="]" line="246" column="45" />
-        <mark key="." line="246" column="44" />
-        <mark key="^" line="246" column="45" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/resources/index.html" timestamp="1598426144418">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598426564096">
+        <mark key="'" line="109" column="8" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="108" column="38" />
+        <mark key="." line="108" column="37" />
+        <mark key="^" line="108" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/flowExtensions.kt" timestamp="1598279052243">
         <mark key="[" line="20" column="0" />
@@ -220,12 +217,11 @@
         <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.3.7/b0832a11658205b88d6496dd7991f65777fb68dd/kotlinx-coroutines-core-js-1.3.7-sources.jar!/commonMain/flow/operators/Delay.kt" timestamp="1598369186278" />
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" timestamp="1597823934181">
-        <mark key="'" line="90" column="25" />
-        <mark key="[" line="133" column="70" />
-        <mark key="]" line="134" column="7" />
-        <mark key="^" line="134" column="7" />
-        <mark key="." line="134" column="6" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/style.kt" timestamp="1598426608928">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" timestamp="1598283404484">
         <mark key="'" line="30" column="16" />
@@ -239,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
-      <jump line="58" column="22" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
-      <jump line="94" column="82" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="113" column="6" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="78" column="15" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
@@ -339,6 +332,9 @@
       <jump line="291" column="42" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="235" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="205" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="280" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="108" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="719" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,17 +342,17 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tY3NzIgo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgICBkZXZpY2VFbmRwb2ludC5nZXQoKQogICAgICAgICAgICAuZ2V0Qm9keSgpCiAgICAgICAgICAgIC5sZXQgeyB2YWx1ZSAtPgogICAgICAgICAgICAgICAgdmFsIHBhcnNlZCA9IEpzb24ucGFyc2UoTWFwU2VyaWFsaXplcihTdHJpbmcuc2VyaWFsaXplcigpLCBCaXRzRGV2aWNlOjpjbGFzcy5zZXJpYWxpemVyKCkpLCB2YWx1ZSkKICAgICAgICAgICAgICAgIHBhcnNlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICAgICAgfSBhcz8gTGlzdDxCaXRzRGV2aWNlPiA/OiBtb2RlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>\cstyle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyKCJkaXNwbGF5IiwgIndpZHRoOiAxMDAlOyIpCg==</text>
@@ -374,13 +370,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tY3NzIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvbU5vZGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -419,25 +415,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyLDlyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlja3MubWFwIHsgY29ubmVjdGlvbklkIH0gaGFuZGxlZEJ5IG1lc3NhZ2VzU3RvcmUucmVtb3ZlSW50ZXJmYWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGUgPSAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGl2KCJjb2wtbWQtMyIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICsiJHtkZXZpY2VOYW1lLm5hbWV9ICR7Yml0c0lvLm9zY1BhdHRlcm59IgogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGRpdigiY29sLW1kLTUiKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaXRzSW50ZXJmYWNlKGJpdHNJbywgc29ja2V0LCBkZXZpY2VOYW1lKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGRpdigiY29sLW1kLTMiKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb2NrZXQuZXJyb3JzLm1hcCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS53YXJuKCJFcnJvciBmcm9tIHdlYnNvY2tldCIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS53YXJuKGl0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlciB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNwYW4geyB0ZXh0KGl0LnRvU3RyaW5nKCkpIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LmJpbmQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnV0dG9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIsOXIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsaWNrcy5tYXAgeyBjb25uZWN0aW9uSWQgfSBoYW5kbGVkQnkgbWVzc2FnZXNTdG9yZS5yZW1vdmVJbnRlcmZhY2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZVNoZWV0IHt9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PHN0eWxlLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYoInJvdyIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1611,10 +1607,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBoZWlnaHRQeCA9IDU2LjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvbU5vZGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1623,9 +1619,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>body</last-search>
+      <last-search>\cstyle</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>\cstyle</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
