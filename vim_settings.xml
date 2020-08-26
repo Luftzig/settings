@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setupM</entry>
         <entry encoding="base64">XDxzZW5kT1NDQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxkaWdpdGFsUmVhZFw+</entry>
         <entry>short</entry>
@@ -25,6 +24,7 @@
         <entry>body</entry>
         <entry>style</entry>
         <entry>\cstyle</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsXHQvZw==</entry>
@@ -194,12 +194,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598427796974">
-        <mark key="'" line="108" column="12" />
-        <mark key="[" line="108" column="26" />
-        <mark key="]" line="108" column="26" />
-        <mark key="." line="108" column="25" />
-        <mark key="^" line="108" column="26" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598430406876">
+        <mark key="'" line="226" column="0" />
+        <mark key="[" line="109" column="50" />
+        <mark key="]" line="109" column="62" />
+        <mark key="." line="109" column="61" />
+        <mark key="^" line="109" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/flowExtensions.kt" timestamp="1598279052243">
         <mark key="[" line="20" column="0" />
@@ -236,13 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="59" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="156" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
-      <jump line="219" column="6" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
-      <jump line="181" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="41" column="40" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/OscConnection.kt" />
-      <jump line="174" column="3" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="71" column="5" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="45" column="9" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
       <jump line="204" column="8" filename="$USER_HOME$/Projects/megalessons/api/controllers/PlaylistController.js" />
@@ -336,6 +329,13 @@
       <jump line="114" column="50" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="108" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="667" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
+      <jump line="117" column="34" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="270" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="142" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="311" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="298" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="269" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="226" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,19 +344,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w.render()</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgICBkZXZpY2VFbmRwb2ludC5nZXQoKQogICAgICAgICAgICAuZ2V0Qm9keSgpCiAgICAgICAgICAgIC5sZXQgeyB2YWx1ZSAtPgogICAgICAgICAgICAgICAgdmFsIHBhcnNlZCA9IEpzb24ucGFyc2UoTWFwU2VyaWFsaXplcihTdHJpbmcuc2VyaWFsaXplcigpLCBCaXRzRGV2aWNlOjpjbGFzcy5zZXJpYWxpemVyKCkpLCB2YWx1ZSkKICAgICAgICAgICAgICAgIHBhcnNlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICAgICAgfSBhcz8gTGlzdDxCaXRzRGV2aWNlPiA/OiBtb2RlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w.render()</text>
       </register>
       <register name="/" type="4">
-        <text>\cstyle</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyKCJkaXNwbGF5IiwgIndpZHRoOiAxMDAlOyIpCg==</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW4gcmVuZGVyRGV2aWNlKG1lc3NhZ2VzU3RvcmU6IENvbm5lY3Rpb25zU3RvcmUsIGRldmljZVN0b3JlOiBEZXZpY2VzU3RvcmUpOiAoQml0c0RldmljZSkgLT4gVGFnPEVsZW1lbnQ+ID0KICAgIHsgZGV2aWNlOiBCaXRzRGV2aWNlIC0+CiAgICAgICAgcmVuZGVyIHsKICAgICAgICAgICAgdHIgewogICAgICAgICAgICAgICAgdGQgeyB0ZXh0KGRldmljZS5uYW1lLm5hbWUpIH0KICAgICAgICAgICAgICAgIHRkIHsgdGV4dCgiJHtkZXZpY2UuYWRkcmVzc306JHtkZXZpY2UucG9ydH0iKSB9CiAgICAgICAgICAgICAgICB0ZCB7CiAgICAgICAgICAgICAgICAgICAgZGV2aWNlLmludGVyZmFjZXMubWFwIHsgaW8gLT4KICAgICAgICAgICAgICAgICAgICAgICAgYnV0dG9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsaWNrcy5tYXAgeyBkZXZpY2UubmFtZSB0byBpbyB9IGhhbmRsZWRCeSBtZXNzYWdlc1N0b3JlLmFkZEludGVyZmFjZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKyhpby5vc2NQYXR0ZXJuKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgK3doZW4gKGlvLnR5cGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaXRzSW50ZXJmYWNlVHlwZS5TZW5zb3IgLT4gIuKHpSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaXRzSW50ZXJmYWNlVHlwZS5BY3R1YXRvciAtPiAi4qSHIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdHNJbnRlcmZhY2VUeXBlLlVua25vd24gLT4gIiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICtpZiAoaW8udW5pdHMgIT0gIlVua25vd24iKSAiICR7aW8udW5pdHN9IiBlbHNlICIiCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0ZCB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgpwcml2YXRlIGZ1biBidWlsZFdlYnNvY2tldFVybCgKICAgIGRldmljZU5hbWU6IFNlcnZpY2VOYW1lLAogICAgcGF0dGVybjogU3RyaW5nCik6IFN0cmluZyA9ICJ3cy8ke2RldmljZU5hbWUubmFtZX0vY29ubmVjdC8ke3BhdHRlcm4uZHJvcFdoaWxlIHsgaXQgPT0gJy8nIH19IgoKcHJpdmF0ZSBmdW4gSHRtbEVsZW1lbnRzLmhlYWRlcihhZGRyZXNzU3RvcmU6IFJvb3RTdG9yZTxMaXN0PFN0cmluZz4+KSB7CiAgICBkaXYoInJvdyIpIHsKICAgICAgICBoMSgiY29sLW1kLTgiKSB7IHRleHQoIlNvbWFiaXRzIFNlcnZlciIpIH0KICAgICAgICBkaXYoImNvbC1tZC00IikgewogICAgICAgICAgICBkaXYoInJvdyIpIHsKICAgICAgICAgICAgICAgIGg0IHsgdGV4dCgic2VydmVyIElQKHMpIikgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGRpdigicm93IikgewogICAgICAgICAgICAgICAgYWRkcmVzc1N0b3JlLmRhdGEuZWFjaCgpLm1hcCB7IGFkZHIgLT4KICAgICAgICAgICAgICAgICAgICByZW5kZXIgeyBjb2RlKCJjb2wtc20tNiIpIHsgdGV4dChhZGRyKSB9IH0KICAgICAgICAgICAgICAgIH0uYmluZCgpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCnByaXZhdGUgZnVuIEh0bWxFbGVtZW50cy5tZXNzYWdlcyhtZXNzYWdlc1N0b3JlOiBDb25uZWN0aW9uc1N0b3JlKTogRGl2ID0KICAgIGRpdigicm93IikgewogICAgICAgIGgzKCJjb2wtbWQtMTIiKSB7IHRleHQoIkNvbm5lY3Rpb25zOiAiKSB9CiAgICAgICAgZGl2KCJjb2wtbWQtMTIiKSB7CiAgICAgICAgICAgIGRpdigicm93IikgewogICAgICAgICAgICAgICAgbWVzc2FnZXNTdG9yZS5kYXRhCiAgICAgICAgICAgICAgICAgICAgLm1hcCB7IGl0LmVudHJpZXMudG9MaXN0KCkgfQogICAgICAgICAgICAgICAgICAgIC5lYWNoKCkKICAgICAgICAgICAgICAgICAgICAucmVuZGVyIHsgKGNvbm5lY3Rpb25JZCwgc29ja2V0KSAtPgogICAgICAgICAgICAgICAgICAgICAgICB2YWwgKGRldmljZU5hbWUsIGJpdHNJbykgPSBjb25uZWN0aW9uSWQKICAgICAgICAgICAgICAgICAgICAgICAgZGl2KCJjb2wtbWQtNiIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpdigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyKCJzdHlsZSIsICJ3aWR0aDogMTAwJTsiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsiJHtkZXZpY2VOYW1lLm5hbWV9ICR7Yml0c0lvLm9zY1BhdHRlcm59IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbigicHVsbC1yaWdodCIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKyLDlyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2tzLm1hcCB7IGNvbm5lY3Rpb25JZCB9IGhhbmRsZWRCeSBtZXNzYWdlc1N0b3JlLnJlbW92ZUludGVyZmFjZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpdigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyKCJzdHlsZSIsICJ3aWR0aDogMTAwJTsiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpdHNJbnRlcmZhY2UoYml0c0lvLCBzb2NrZXQsIGRldmljZU5hbWUsIDUxMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpdigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb2NrZXQuZXJyb3JzLm1hcCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUud2FybigiRXJyb3IgZnJvbSB3ZWJzb2NrZXQiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLndhcm4oaXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbmRlciB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcGFuIHsgdGV4dChpdC50b1N0cmluZygpKSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LmJpbmQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfS5iaW5kKCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCgpARmxvd1ByZXZpZXcKQEV4cGVyaW1lbnRhbENvcm91dGluZXNBcGkKcHJpdmF0ZSBmdW4gSHRtbEVsZW1lbnRzLmJpdHNJbnRlcmZhY2UoCiAgICBiaXRzSW86IEJpdHNJbnRlcmZhY2UsCiAgICBzb2NrZXQ6IFdlYlNvY2tldENvbm5lY3Rpb24sCiAgICBkZXZpY2VOYW1lOiBTZXJ2aWNlTmFtZSwKICAgIGNvbnRhaW5lcldpZHRoOiBJbnQKKTogVGFnPCo+ID0KICAgIHdoZW4gKGJpdHNJby50eXBlKSB7CiAgICAgICAgQml0c0ludGVyZmFjZVR5cGUuVW5rbm93biAtPiBzcGFuIHsgKyJVbmtub3duIiB9CiAgICAgICAgQml0c0ludGVyZmFjZVR5cGUuU2Vuc29yIC0+IHsKICAgICAgICAgICAgLy8gVGFrZSBsYXN0IDMwMCBzYW1wbGVzLCBlbWl0IGF0IG1vc3Qgb25jZSBpbiAxMDBtcwogICAgICAgICAgICB2YWwgcG9pbnRzID0gc29ja2V0Lm1lc3NhZ2VzLndpbmRvd2VkKDMwMCkuc2FtcGxlKDEwMCkubWFwIHsKICAgICAgICAgICAgICAgIGl0Lm1hcE5vdE51bGwgeyBldmVudCAtPiBldmVudC5kYXRhLnRvU3RyaW5nKCkudG9Eb3VibGVPck51bGwoKSB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVhZGluZ3NQbG90KHBvaW50cywgYml0c0lvLnJhbmdlLCB3aWR0aFB4ID0gY29udGFpbmVyV2lkdGgudG9Eb3VibGUoKSkKICAgICAgICB9CiAgICAgICAgQml0c0ludGVyZmFjZVR5cGUuQWN0dWF0b3IgLT4gewogICAgICAgICAgICB2YWwgaW5wdXROYW1lID0gIiR7ZGV2aWNlTmFtZS5uYW1lfS0ke2JpdHNJby50eXBlfS0ke2JpdHNJby5pZH0iCiAgICAgICAgICAgIHZhbCB2YWx1ZVN0b3JlID0gc3RvcmVPZigwLjApCiAgICAgICAgICAgIGlucHV0KGlkID0gaW5wdXROYW1lKSB7CiAgICAgICAgICAgICAgICBhdHRyKCJzdHlsZSIsICJ3aWR0aDogMTAwJTsiKQogICAgICAgICAgICAgICAgdHlwZSA9IGNvbnN0KCJyYW5nZSIpCiAgICAgICAgICAgICAgICBuYW1lID0gY29uc3QoaW5wdXROYW1lKQogICAgICAgICAgICAgICAgYml0c0lvLnJhbmdlPy5sZXQgewogICAgICAgICAgICAgICAgICAgIG1pbiA9IGNvbnN0KGJpdHNJby5yYW5nZS5maXJzdC50b1N0cmluZygpKQogICAgICAgICAgICAgICAgICAgIG1heCA9IGNvbnN0KGJpdHNJby5yYW5nZS5zZWNvbmQudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZSA9IGZsb3dPZigiMCIpCiAgICAgICAgICAgICAgICBjaGFuZ2VzLnZhbHVlc0FzTnVtYmVyKCkKICAgICAgICAgICAgICAgICAgICAucmVwZWF0RXZlcnkoNTApCiAgICAgICAgICAgICAgICAgICAgLm9uRWFjaCB7IHNvY2tldC5zZW5kKGl0LnRvU3RyaW5nKCkpIH0gaGFuZGxlZEJ5IHZhbHVlU3RvcmUudXBkYXRlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgc3BhbiB7CiAgICAgICAgICAgICAgICB2YWx1ZVN0b3JlLmRhdGEucmVuZGVyIHsKICAgICAgICAgICAgICAgICAgICBsYWJlbChgZm9yYCA9IGlucHV0TmFtZSkgewogICAgICAgICAgICAgICAgICAgICAgICAraXQudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0uYmluZCgpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgpwcml2YXRlIGZ1biBIdG1sRWxlbWVudHMucmVhZGluZ3NQbG90KAogICAgcG9pbnRzOiBGbG93PExpc3Q8RG91YmxlPj4sCiAgICByYW5nZTogUGFpcjxJbnQsIEludD4/LAogICAgd2lkdGhQeDogRG91YmxlID0gMzAwLjAsCiAgICBoZWlnaHRQeDogRG91YmxlID0gMjI0LjAKKTogQ2FudmFzIHsKICAgIHZhbCBndXR0ZXJQeCA9IDMyLjAKICAgIHZhbCBjYW52YXMgPSBjYW52YXMgewogICAgICAgIHdpZHRoID0gZmxvd09mKCh3aWR0aFB4ICsgZ3V0dGVyUHgpLnRvSW50KCkpCiAgICAgICAgaGVpZ2h0ID0gZmxvd09mKGhlaWdodFB4LnRvSW50KCkpCiAgICB9CiAgICBHbG9iYWxTY29wZS5sYXVuY2ggewogICAgICAgIHBvaW50cy5jb2xsZWN0IHsgcG9pbnRzIC0+CiAgICAgICAgICAgIHZhbCBjdHggPSBjYW52YXMuZG9tTm9kZS5nZXRDb250ZXh0KCIyZCIpIGFzIENhbnZhc1JlbmRlcmluZ0NvbnRleHQyRAogICAgICAgICAgICB2YWwgZGlzcGxheWFibGVEYXRhID0gcG9pbnRzLnRha2Uod2lkdGhQeC50b0ludCgpKQogICAgICAgICAgICBmdW4geVBvc2l0aW9uKHY6IERvdWJsZSk6IERvdWJsZSA9CiAgICAgICAgICAgICAgICBoZWlnaHRQeCAtICgoaGVpZ2h0UHggLyAocmFuZ2U/LnNlY29uZCA/OiAxKSkgKiAwLjkgKiB2ICsgKDAuMSAqIGhlaWdodFB4KSkKICAgICAgICAgICAgY3R4LmNsZWFyUmVjdCgwLjAsIDAuMCwgd2lkdGhQeCArIGd1dHRlclB4LCBoZWlnaHRQeCkKICAgICAgICAgICAgY3R4LmJlZ2luUGF0aCgpCiAgICAgICAgICAgIGN0eC5saW5lV2lkdGggPSAxLjAKICAgICAgICAgICAgZGlzcGxheWFibGVEYXRhLmZpcnN0T3JOdWxsKCk/LmxldCB7CiAgICAgICAgICAgICAgICBjdHgubW92ZVRvKDAuMCwgeVBvc2l0aW9uKGl0KSkKICAgICAgICAgICAgfQogICAgICAgICAgICBkaXNwbGF5YWJsZURhdGEuZm9yRWFjaEluZGV4ZWQgeyBpZHgsIHYgLT4KICAgICAgICAgICAgICAgIGN0eC5saW5lVG8oaWR4LnRvRG91YmxlKCksIHlQb3NpdGlvbih2KSkKICAgICAgICAgICAgfQogICAgICAgICAgICBjdHguc3Ryb2tlU3R5bGUgPSAicmdiKDAsIDAsIDApIgogICAgICAgICAgICBjdHguc3Ryb2tlKCkKCiAgICAgICAgICAgIHZhbCBmb250U2l6ZSA9IDkKICAgICAgICAgICAgY3R4LmZvbnQgPSAiJHtmb250U2l6ZX1weCIKICAgICAgICAgICAgY3R4LmZpbGxUZXh0KChyYW5nZT8uZmlyc3QgPzogMCkudG9TdHJpbmcoKSwgd2lkdGhQeCArIDQuMCwgaGVpZ2h0UHgpCiAgICAgICAgICAgIGN0eC5maWxsVGV4dCgocmFuZ2U/LnNlY29uZCA/OiAxKS50b1N0cmluZygpLCB3aWR0aFB4ICsgNC4wLCBmb250U2l6ZS50b0RvdWJsZSgpKQogICAgICAgICAgICBkaXNwbGF5YWJsZURhdGEubGFzdE9yTnVsbCgpPy5sZXQgewogICAgICAgICAgICAgICAgdmFsIHBvcyA9IHlQb3NpdGlvbihpdCkKICAgICAgICAgICAgICAgIGlmIChwb3MgPiBmb250U2l6ZSAqIDIgJiYgcG9zIDwgaGVpZ2h0UHggLSAoZm9udFNpemUpKSB7CiAgICAgICAgICAgICAgICAgICAgY3R4LmZpbGxUZXh0KGl0LnRvU3RyaW5nKCksIHdpZHRoUHggKyA0LjAsIHBvcykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KICAgIHJldHVybiBjYW52YXMKfQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -371,13 +371,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbSgic3R5bGUiKSB7IGNzcy5yZW5kZXIoKSB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF6YWRldi4qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -416,25 +416,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgp9</text>
+        <text encoding="base64">aW1wb3J0IGF6YWRldi4qCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIHZhbCBzdHlsZVNoZWV0OiBTdHlsZVNoZWV0ID0gU3R5bGVTaGVldCB7Cg==</text>
+        <text encoding="base64">Cgp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIHZhbCBzdHlsZVNoZWV0OiBTdHlsZVNoZWV0ID0gU3R5bGVTaGVldCB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJhemFkZXYua290bGluOmF6YS1rb3RsaW4tY3NzOjEuMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGF6YWRldi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJhemFkZXYua290bGluOmF6YS1rb3RsaW4tY3NzOjEuMCIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1608,10 +1608,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF6YWRldi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLmNzcy5TdHlsZVNoZWV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1620,9 +1620,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\cstyle</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>\cstyle</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
