@@ -135,11 +135,12 @@
         <mark key="^" line="49" column="41" />
         <mark key="." line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" timestamp="1598443393340">
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="40" column="53" />
-        <mark key="^" line="40" column="53" />
-        <mark key="." line="40" column="52" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" timestamp="1598455948853">
+        <mark key="'" line="73" column="23" />
+        <mark key="[" line="66" column="102" />
+        <mark key="]" line="66" column="150" />
+        <mark key="." line="66" column="102" />
+        <mark key="^" line="62" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.3.7/7a7ad44e83e95b4e96de9d33e551c7c3282eeca0/kotlinx-coroutines-core-common-1.3.7-sources.jar!/commonMain/flow/operators/Merge.kt" timestamp="1598453704941">
         <mark key="'" line="163" column="26" />
@@ -234,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="77" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Luftzig.JavaOSC/javaosc-core/master-SNAPSHOT/544ee03bd0076be8386cec25b883f8d561309ed5/javaosc-core-master-SNAPSHOT.jar!/com/illposed/osc/transport/udp/OSCPortIn.class" />
-      <jump line="245" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Luftzig.JavaOSC/javaosc-core/master-SNAPSHOT/544ee03bd0076be8386cec25b883f8d561309ed5/javaosc-core-master-SNAPSHOT.jar!/com/illposed/osc/transport/udp/OSCPortIn.class" />
       <jump line="327" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/DatagramChannel.java" />
       <jump line="392" column="36" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/DatagramChannel.java" />
       <jump line="218" column="46" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/transport/udp/OSCPortIn.java" />
@@ -334,6 +333,8 @@
       <jump line="10" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/FlowExtensions.kt" />
       <jump line="163" column="37" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="162" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" />
+      <jump line="61" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,20 +342,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;${device.name.name}:${bitsInterface.oscName()}&quot;</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgICBkZXZpY2VFbmRwb2ludC5nZXQoKQogICAgICAgICAgICAuZ2V0Qm9keSgpCiAgICAgICAgICAgIC5sZXQgeyB2YWx1ZSAtPgogICAgICAgICAgICAgICAgdmFsIHBhcnNlZCA9IEpzb24ucGFyc2UoTWFwU2VyaWFsaXplcihTdHJpbmcuc2VyaWFsaXplcigpLCBCaXRzRGV2aWNlOjpjbGFzcy5zZXJpYWxpemVyKCkpLCB2YWx1ZSkKICAgICAgICAgICAgICAgIHBhcnNlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICAgICAgfSBhcz8gTGlzdDxCaXRzRGV2aWNlPiA/OiBtb2RlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>log.debug(&quot;Stopped due to $it&quot;)</text>
+        <text>fun data()</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmZ1biA8VD4gZmxvd0V2ZXJ5KHZhbHVlOiBULCBldmVyTWlsbGlTZWNvbmRzOiBMb25nKTogRmxvdzxUPiA9CiAgICBmbG93IHsKICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBlbWl0KHZhbHVlKQogICAgICAgICAgICBkZWxheShldmVyTWlsbGlTZWNvbmRzKQogICAgICAgIH0KICAgIH0uY2FuY2VsbGFibGUoKQoKQEV4cGVyaW1lbnRhbENvcm91dGluZXNBcGkKZnVuIDxUPiBGbG93PFQ+LnJlcGVhdEV2ZXJ5KG1TZWM6IExvbmcpOiBGbG93PFQ+ID0KICAgIHRoaXMuZmxhdE1hcExhdGVzdCB7CiAgICAgICAgc2Uua3RoLnNvbWFiaXRzLmNvbW1vbi5mbG93RXZlcnkoaXQsIG1TZWMpCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;${device.name.name}:${bitsInterface.oscName()}&quot;</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -369,13 +370,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoImluY29taW5nIGNoYW5uZWwgY29tcGxldGVkIikK</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhOiBGbG93PERvdWJsZT4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -414,7 +415,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -423,16 +424,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbG9zZUV4Y2VwdGlvbmFsbHkoRXhjZXB0aW9uKCJUZXN0aW5nIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoImluY29taW5nIGNoYW5uZWwgY29tcGxldGVkIikK</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzQHdlYlNvY2tldC5jb3JvdXRpbmVDb250ZXh0LmNhbmNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1606,10 +1607,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbG9zZUV4Y2VwdGlvbmFsbHkoRXhjZXB0aW9uKCJUZXN0aW5nIikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZva2VPbkNsb3NlIHsgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
