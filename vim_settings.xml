@@ -148,8 +148,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="16" column="57" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1598426477481">
-        <mark key="'" line="719" column="8" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1598427800444">
+        <mark key="'" line="667" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/megalessons/tasks/config/uglify.js" timestamp="1597915029573">
         <mark key="[" line="20" column="42" />
@@ -194,12 +194,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598427545718">
-        <mark key="'" line="107" column="11" />
-        <mark key="[" line="108" column="23" />
-        <mark key="]" line="108" column="38" />
-        <mark key="." line="108" column="37" />
-        <mark key="^" line="108" column="38" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598427796974">
+        <mark key="'" line="108" column="12" />
+        <mark key="[" line="108" column="26" />
+        <mark key="]" line="108" column="26" />
+        <mark key="." line="108" column="25" />
+        <mark key="^" line="108" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/flowExtensions.kt" timestamp="1598279052243">
         <mark key="[" line="20" column="0" />
@@ -218,11 +218,11 @@
         <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.3.7/b0832a11658205b88d6496dd7991f65777fb68dd/kotlinx-coroutines-core-js-1.3.7-sources.jar!/commonMain/flow/operators/Delay.kt" timestamp="1598369186278" />
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/style.kt" timestamp="1598427609947">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-        <mark key="^" line="2" column="8" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/style.kt" timestamp="1598427714856">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" timestamp="1598283404484">
         <mark key="'" line="30" column="16" />
@@ -236,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="201" column="59" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
       <jump line="156" column="0" filename="$USER_HOME$/Projects/megalessons/assets/styles/scss/exercise.scss" />
       <jump line="219" column="6" filename="$USER_HOME$/Projects/megalessons/assets/js/exercise.js" />
@@ -332,10 +331,11 @@
       <jump line="235" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="205" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="280" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="108" column="8" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="719" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
       <jump line="107" column="11" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="114" column="50" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="108" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="667" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,13 +344,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgICBkZXZpY2VFbmRwb2ludC5nZXQoKQogICAgICAgICAgICAuZ2V0Qm9keSgpCiAgICAgICAgICAgIC5sZXQgeyB2YWx1ZSAtPgogICAgICAgICAgICAgICAgdmFsIHBhcnNlZCA9IEpzb24ucGFyc2UoTWFwU2VyaWFsaXplcihTdHJpbmcuc2VyaWFsaXplcigpLCBCaXRzRGV2aWNlOjpjbGFzcy5zZXJpYWxpemVyKCkpLCB2YWx1ZSkKICAgICAgICAgICAgICAgIHBhcnNlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICAgICAgfSBhcz8gTGlzdDxCaXRzRGV2aWNlPiA/OiBtb2RlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\cstyle</text>
@@ -371,13 +371,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGF6YWRldi4qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgp9</text>
+        <text encoding="base64">aW1wb3J0IGF6YWRldi4qCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -416,25 +416,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIHZhbCBzdHlsZVNoZWV0OiBTdHlsZVNoZWV0ID0gU3R5bGVTaGVldCB7Cg==</text>
+        <text encoding="base64">Cgp9</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIHZhbCBzdHlsZVNoZWV0OiBTdHlsZVNoZWV0ID0gU3R5bGVTaGVldCB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJhemFkZXYua290bGluOmF6YS1rb3RsaW4tY3NzOjEuMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGF6YWRldi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJhemFkZXYua290bGluOmF6YS1rb3RsaW4tY3NzOjEuMCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF6YWRldi4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1608,10 +1608,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLmNzcy5TdHlsZVNoZWV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLmNzcy5TdHlsZVNoZWV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
