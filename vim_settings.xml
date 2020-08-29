@@ -140,6 +140,12 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/testKotlinProject/build.gradle" timestamp="1598713445795">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/webSocket.kt" timestamp="1598452217791">
         <mark key="[" line="49" column="42" />
         <mark key="]" line="49" column="42" />
@@ -163,11 +169,12 @@
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/EchoApp.kt" timestamp="1598706042116">
         <mark key="'" line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1598711237980">
-        <mark key="'" line="25" column="12" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1598713388290">
+        <mark key="'" line="126" column="4" />
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="114" column="83" />
+        <mark key="^" line="88" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.3.7/7a7ad44e83e95b4e96de9d33e551c7c3282eeca0/kotlinx-coroutines-core-common-1.3.7-sources.jar!/commonMain/flow/operators/Merge.kt" timestamp="1598453704941">
         <mark key="'" line="163" column="26" />
@@ -193,21 +200,17 @@
         <mark key="." line="363" column="29" />
         <mark key="^" line="363" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/mappingSpek.kt" timestamp="1598439745233">
-        <mark key="'" line="8" column="66" />
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="44" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="24" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.ws.kts" timestamp="1598708556070">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="58" />
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" timestamp="1598442301886">
-        <mark key="'" line="703" column="8" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/settings.gradle" timestamp="1598712451704">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="3" column="20" />
@@ -245,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Luftzig.JavaOSC/javaosc-core/master-SNAPSHOT/44251d204cda7d0fd12808e9e471a4dbbbe4c9b4/javaosc-core-master-SNAPSHOT.jar!/com/illposed/osc/transport/udp/OSCPortIn.class" />
       <jump line="398" column="90" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/OSCPacketDispatcher.java" />
       <jump line="43" column="47" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/OSCPacketDispatcher.java" />
       <jump line="145" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
@@ -345,6 +347,7 @@
       <jump line="101" column="44" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="9" column="62" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="24" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
+      <jump line="126" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,20 +355,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1.4.0</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgICBkZXZpY2VFbmRwb2ludC5nZXQoKQogICAgICAgICAgICAuZ2V0Qm9keSgpCiAgICAgICAgICAgIC5sZXQgeyB2YWx1ZSAtPgogICAgICAgICAgICAgICAgdmFsIHBhcnNlZCA9IEpzb24ucGFyc2UoTWFwU2VyaWFsaXplcihTdHJpbmcuc2VyaWFsaXplcigpLCBCaXRzRGV2aWNlOjpjbGFzcy5zZXJpYWxpemVyKCkpLCB2YWx1ZSkKICAgICAgICAgICAgICAgIHBhcnNlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICAgICAgfSBhcz8gTGlzdDxCaXRzRGV2aWNlPiA/OiBtb2RlbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>fritz_version.toString()</text>
+        <text>1.4.0</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc2NyaXB0LXV0aWw6JGtvdGxpbl92ZXJzaW9uIikK</text>
+        <text encoding="base64">ICAgIGlkKCJkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUiKSB2ZXJzaW9uICIwLjciCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -386,7 +389,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIktvdGxpbiB2ZXJzaW9uICIgKyBleHQua290bGluX3ZlcnNpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbignc3RkbGliLWpzJykK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -425,25 +428,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93LmZsb3cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazg6JGtvdGxpbl92ZXJzaW9uIgo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93Lm1hcE5vdE51bGwKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93Lm9uQ29tcGxldGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbignc3RkbGliLWpkazgnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93LmNhdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbignc3RkbGliLWpkazgnKQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc2NyaXB0LXJ1bnRpbWU6MS4zLjcyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbigndGVzdC1hbm5vdGF0aW9ucy1jb21tb24nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbigndGVzdC1jb21tb24nKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1617,10 +1620,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uIGtvdGxpbignc3RkbGliLWNvbW1vbicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmUtY29tbW9uOiRrb3RsaW54X3ZlcnNpb24iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
