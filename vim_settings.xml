@@ -182,12 +182,12 @@
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" timestamp="1598709630885">
         <mark key="'" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598452195499">
-        <mark key="'" line="63" column="26" />
-        <mark key="[" line="363" column="15" />
-        <mark key="]" line="363" column="30" />
-        <mark key="." line="363" column="29" />
-        <mark key="^" line="363" column="30" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598880220260">
+        <mark key="'" line="348" column="0" />
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="39" />
+        <mark key="^" line="81" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.ws.kts" timestamp="1598708556070">
         <mark key="[" line="7" column="43" />
@@ -234,10 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="47" filename="$USER_HOME$/Projects/JavaOSC/modules/core/src/main/java/com/illposed/osc/OSCPacketDispatcher.java" />
-      <jump line="145" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="77" column="6" filename="$USER_HOME$/Projects/megalessons/views/layout.ejs" />
-      <jump line="991" column="0" filename="$USER_HOME$/Projects/Soma-tech/Server/broadcasterServer_pk_yoav_staticip/src/main/java/com/processing/sketch/Broadcasterserver_pk_yoav_staticip.java" />
       <jump line="61" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="59" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="23" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" />
@@ -259,7 +255,6 @@
       <jump line="265" column="45" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="274" column="92" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="290" column="41" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="291" column="42" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="235" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="205" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="280" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
@@ -334,6 +329,11 @@
       <jump line="24" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="126" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
       <jump line="5" column="47" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.kt" />
+      <jump line="291" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="203" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="201" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="297" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="343" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,14 +341,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Details</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -369,13 +369,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWd1cmF0aW9uID0gY3JlYXRlQ29tcGlsYXRpb25Db25maWd1cmF0aW9uRnJvbVRlbXBsYXRlKCkgeyBqdm0ge30KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkBLb3RsaW5TY3JpcHQoZmlsZUV4dGVuc2lvbiA9ICJzaW1wbGVzY3JpcHQua3RzIikKYWJzdHJhY3QgY2xhc3MgU2ltcGxlU2NyaXB0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGl2IHt9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -414,25 +414,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5zY3JpcHQuZXhwZXJpbWVudGFsLmhvc3QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc2NyaXB0LXJ1bnRpbWU6JGtvdGxpbl92ZXJzaW9uIikKICAgICAgICAgICAgICAgIHJ1bnRpbWVPbmx5KCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc2NyaXB0aW5nLWpzcjIyMzoka290bGluX3ZlcnNpb24iKQogICAgICAgICAgICAgICAgcnVudGltZU9ubHkoIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zY3JpcHQtdXRpbDoka290bGluX3ZlcnNpb24iKQogICAgICAgICAgICAgICAgcnVudGltZU9ubHkoIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1tYWluLWt0czoka290bGluX3ZlcnNpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGl2IHsgKyIke2lvLnJhbmdlPy5maXJzdH0iIH0KICAgICAgICAgICAgZGl2KCJpbnB1dC13cmFwcGVyIikgewogICAgICAgICAgICAgICAgaW5wdXQoYmFzZUNsYXNzID0gImlucHV0IiwgaWQgPSBpbnB1dE5hbWUpIHsKICAgICAgICAgICAgICAgICAgICB0eXBlID0gY29uc3QoInJhbmdlIikKICAgICAgICAgICAgICAgICAgICBuYW1lID0gY29uc3QoaW5wdXROYW1lKQogICAgICAgICAgICAgICAgICAgIGlvLnJhbmdlPy5sZXQgewogICAgICAgICAgICAgICAgICAgICAgICBtaW4gPSBjb25zdChpby5yYW5nZS5maXJzdC50b1N0cmluZygpKQogICAgICAgICAgICAgICAgICAgICAgICBtYXggPSBjb25zdChpby5yYW5nZS5zZWNvbmQudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB2YWx1ZVN0b3JlLmRhdGEubWFwIHsgaXQudG9TdHJpbmcoKSB9CiAgICAgICAgICAgICAgICAgICAgY2hhbmdlcy52YWx1ZXNBc051bWJlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5vbkVhY2ggeyBjb25uZWN0aW9uLnNlbmQoaXQudG9TdHJpbmcoKSkgfSBoYW5kbGVkQnkgdmFsdWVTdG9yZS51cGRhdGUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHNwYW4gewogICAgICAgICAgICAgICAgICAgIHZhbHVlU3RvcmUuZGF0YS5yZW5kZXIgewogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbChgZm9yYCA9IGlucHV0TmFtZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgK2l0LnRvU3RyaW5nKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0uYmluZCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGl2IHsgKyIke2lvLnJhbmdlPy5zZWNvbmR9IiB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcGxlbWVudGF0aW9uKCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc2NyaXB0aW5nLWNvbXBpbGVyOiRrb3RsaW5fdmVyc2lvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGl2IHsgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5jbGkuY29tbW9uLnJlcGwuS290bGluSnNyMjIzSnZtU2NyaXB0RW5naW5lRmFjdG9yeUJhc2UK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bnRpbWVPbmx5KCJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc2NyaXB0aW5nLWpzcjIyMy1lbWJlZGRhYmxlOiRrb3RsaW5fdmVyc2lvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1606,7 +1606,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmZpbHRlcktleXMgeyAoXywgaW8pIC0+IGlvLnR5cGUgPT0gQml0c0ludGVyZmFjZVR5cGUuQWN0dWF0b3IgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
