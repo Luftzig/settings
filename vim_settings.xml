@@ -191,12 +191,19 @@
         <mark key="'" line="14" column="16" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" timestamp="1598884324470">
-        <mark key="'" line="45" column="31" />
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="48" column="28" />
-        <mark key="^" line="48" column="28" />
-        <mark key="." line="48" column="27" />
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1598887120738">
+        <mark key="'" line="148" column="45" />
+        <mark key="[" line="238" column="87" />
+        <mark key="]" line="238" column="87" />
+        <mark key="." line="238" column="86" />
+        <mark key="^" line="238" column="87" />
+      </file>
+      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" timestamp="1598886598006">
+        <mark key="'" line="102" column="80" />
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="75" column="49" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.ws.kts" timestamp="1598708556070">
         <mark key="[" line="7" column="43" />
@@ -222,12 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" />
-      <jump line="27" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" />
-      <jump line="238" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="44" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="89" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="129" column="29" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="115" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="74" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/events.kt" />
       <jump line="262" column="9" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
@@ -322,6 +323,12 @@
       <jump line="343" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="57" column="45" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="45" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
+      <jump line="92" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
+      <jump line="81" column="11" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
+      <jump line="102" column="80" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
+      <jump line="138" column="21" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
+      <jump line="149" column="45" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,19 +337,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>deviceName: ServiceName, bitsInterface: BitsInterface</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>deviceName: ServiceName, bitsInterface: BitsInterface</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
-      <register name="0" type="4">
-        <text>WebSocketConnection(websocketPathToFullUrl(buildWebsocketUrl(device, bitsIo.oscPattern)))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkaXYoImNvbnRyb2xsZXItd3JhcHBlciIsIGNvbnRlbnQ9ZGV0YWlsc0NvbnRlbnQpCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -363,7 +370,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGl2IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGV0YWlsc0NvbnRlbnQ6IFRleHRFbGVtZW50LigpIC0+IFVuaXQgPSB7CiAgICAgICAgICAgIHN1bW1hcnkgCiAgICAgICAgfQogICAgICAgIGRpdigiY29udHJvbGxlci13cmFwcGVyIiwgY29udGVudD1kZXRhaWxzQ29udGVudCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -402,25 +409,48 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB2YWx1ZVN0b3JlID0gc3RvcmVPZigwLjApCg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGl2IHsgKyIke2lvLnJhbmdlPy5maXJzdH0iIH0KICAgICAgICAgICAgZGl2KCJpbnB1dC13cmFwcGVyIikgewogICAgICAgICAgICAgICAgaW5wdXQoYmFzZUNsYXNzID0gImlucHV0IiwgaWQgPSBpbnB1dE5hbWUpIHsKICAgICAgICAgICAgICAgICAgICB0eXBlID0gY29uc3QoInJhbmdlIikKICAgICAgICAgICAgICAgICAgICBuYW1lID0gY29uc3QoaW5wdXROYW1lKQogICAgICAgICAgICAgICAgICAgIGlvLnJhbmdlPy5sZXQgewogICAgICAgICAgICAgICAgICAgICAgICBtaW4gPSBjb25zdChpby5yYW5nZS5maXJzdC50b1N0cmluZygpKQogICAgICAgICAgICAgICAgICAgICAgICBtYXggPSBjb25zdChpby5yYW5nZS5zZWNvbmQudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSB2YWx1ZVN0b3JlLmRhdGEubWFwIHsgaXQudG9TdHJpbmcoKSB9CiAgICAgICAgICAgICAgICAgICAgY2hhbmdlcy52YWx1ZXNBc051bWJlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5vbkVhY2ggeyBjb25uZWN0aW9uLnNlbmQoaXQudG9TdHJpbmcoKSkgfSBoYW5kbGVkQnkgdmFsdWVTdG9yZS51cGRhdGUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHNwYW4gewogICAgICAgICAgICAgICAgICAgIHZhbHVlU3RvcmUuZGF0YS5yZW5kZXIgewogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbChgZm9yYCA9IGlucHV0TmFtZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgK2l0LnRvU3RyaW5nKCkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0uYmluZCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGl2IHsgKyIke2lvLnJhbmdlPy5zZWNvbmR9IiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWVTdG9yZSA9IHN0b3JlT2YoMC4wKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGl2IHsgfQo=</text>
+      <register name="5" type="4">
+        <text>{
+                div { +&quot;${io.range?.first}&quot; }
+                div(&quot;input-wrapper&quot;) {
+                    input(baseClass = &quot;input&quot;, id = inputName) {
+                        type = const(&quot;range&quot;)
+                        name = const(inputName)
+                        io.range?.let {
+                            min = const(io.range.first.toString())
+                            max = const(io.range.second.toString())
+                        }
+                        value = valueStore.data.map { it.toString() }
+                        changes.valuesAsNumber()
+                            .onEach { connection.webSocket.send(it.toString()) } handledBy valueStore.update
+                    }
+                    span {
+                        valueStore.data.render {
+                            label(`for` = inputName) {
+                                +it.toString()
+                            }
+                        }.bind()
+                    }
+                }
+                div { +&quot;${io.range?.second}&quot; }
+            }</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9ucwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1594,10 +1624,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmZpbHRlcktleXMgeyAoXywgaW8pIC0+IGlvLnR5cGUgPT0gQml0c0ludGVyZmFjZVR5cGUuQWN0dWF0b3IgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5maWx0ZXJOb3QgewogICAgICAgICAgICBpdC5maXJzdCAhaW4gc2VydmljZU5hbWVzCiAgICAgICAgfS50b1NldCgpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">KG5hbWUgdG8gYml0c0lvKSB0byB3aGVuIChiaXRzSW8udHlwZSkgewogICAgICAgICAgICBCaXRzSW50ZXJmYWNlVHlwZS5TZW5zb3IgLT4gU2Vuc29yQ29ubmVjdGlvbihuYW1lLCBiaXRzSW8pCiAgICAgICAgICAgIEJpdHNJbnRlcmZhY2VUeXBlLkFjdHVhdG9yIC0+IEFjdHVhdG9yQ29ubmVjdGlvbihuYW1lLCBiaXRzSW8sIENvbnRyb2xsZXJDb3VwbGluZykKICAgICAgICAgICAgQml0c0ludGVyZmFjZVR5cGUuVW5rbm93biAtPiB0aHJvdyBFeGNlcHRpb24oIlVua25vd24gaW50ZXJmYWNlIikKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
