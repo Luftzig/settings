@@ -336,8 +336,8 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
@@ -364,13 +364,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb25JZDogUGFpcjxTZXJ2aWNlTmFtZSwgQml0c0ludGVyZmFjZT4sCg==</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb25JZDogUGFpcjxTZXJ2aWNlTmFtZSwgQml0c0ludGVyZmFjZT4sCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -409,21 +409,24 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGV0YWlsc0NvbnRlbnQ6IFRleHRFbGVtZW50LigpIC0+IFVuaXQgPSB7CiAgICAgICAgICAgIHN1bW1hcnkgCiAgICAgICAgfQogICAgICAgIGRpdigiY29udHJvbGxlci13cmFwcGVyIiwgY29udGVudD1kZXRhaWxzQ29udGVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB2YWx1ZVN0b3JlID0gc3RvcmVPZigwLjApCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGV0YWlsc0NvbnRlbnQ6IFRleHRFbGVtZW50LigpIC0+IFVuaXQgPSB7CiAgICAgICAgICAgIHN1bW1hcnkgCiAgICAgICAgfQogICAgICAgIGRpdigiY29udHJvbGxlci13cmFwcGVyIiwgY29udGVudD1kZXRhaWxzQ29udGVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWVTdG9yZSA9IHN0b3JlT2YoMC4wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB2YWx1ZVN0b3JlID0gc3RvcmVPZigwLjApCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdmFsdWVTdG9yZSA9IHN0b3JlT2YoMC4wKQo=</text>
+      </register>
+      <register name="7" type="4">
         <text>{
                 div { +&quot;${io.range?.first}&quot; }
                 div(&quot;input-wrapper&quot;) {
@@ -448,9 +451,6 @@
                 }
                 div { +&quot;${io.range?.second}&quot; }
             }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1624,10 +1624,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5maWx0ZXJOb3QgewogICAgICAgICAgICBpdC5maXJzdCAhaW4gc2VydmljZU5hbWVzCiAgICAgICAgfS50b1NldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
