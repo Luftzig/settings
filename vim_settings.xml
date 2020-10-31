@@ -45,8 +45,8 @@
         <entry>s/short/long/g</entry>
         <entry encoding="base64">JzwsJz5zLyA9Lzov</entry>
         <entry>ww</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -214,12 +214,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604160524026">
-        <mark key="'" line="169" column="47" />
-        <mark key="[" line="146" column="50" />
-        <mark key="]" line="146" column="63" />
-        <mark key="." line="146" column="62" />
-        <mark key="^" line="146" column="63" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604161459761">
+        <mark key="'" line="185" column="47" />
+        <mark key="[" line="166" column="14" />
+        <mark key="]" line="166" column="31" />
+        <mark key="." line="166" column="30" />
+        <mark key="^" line="166" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -346,14 +346,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudC5lbAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -374,13 +374,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudC5lbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">d2lkdGggPHwgZmlsbFBvcnRpb24gOAogICAgICAgICAgICAsIEJvcmRlci5jb2xvciBtYWhvZ2FueQogICAgICAgICAgICAsIEJvcmRlci53aWR0aEVhY2ggc2lkZXNQYW5lbAogICAgICAgICAgICAsIHBhZGRpbmcgNg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudC5lbAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -418,26 +418,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">d2lkdGggPHwgZmlsbFBvcnRpb24gOAogICAgICAgICAgICAsIEJvcmRlci5jb2xvciBtYWhvZ2FueQogICAgICAgICAgICAsIEJvcmRlci53aWR0aEVhY2ggc2lkZXNQYW5lbAogICAgICAgICAgICAsIHBhZGRpbmcgNg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCBCb3JkZXIuIG1haG9nYW55Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1kZ3JpZmZpdGgvc3R5bGUtZWxlbWVudHMiOiAiNS4wLjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCBCb3JkZXIuIG1haG9nYW55Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEVsZW1lbnQuQXR0cmlidXRlcyBleHBvc2luZyAoaGVpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1kZ3JpZmZpdGgvc3R5bGUtZWxlbWVudHMiOiAiNS4wLjIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiBbIHdpZHRoIDx8IF0K</text>
+        <text encoding="base64">aW1wb3J0IEVsZW1lbnQuQXR0cmlidXRlcyBleHBvc2luZyAoaGVpZ2h0KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1611,10 +1611,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbiBbIHdpZHRoIDx8IF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbG9yIGV4cG9zaW5nIChyZ2IyNTUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
