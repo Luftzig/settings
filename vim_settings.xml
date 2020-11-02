@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>short</entry>
-        <entry encoding="base64">ID0=</entry>
         <entry>space</entry>
         <entry>character-card</entry>
         <entry>update</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxzXD4=</entry>
         <entry>message</entry>
+        <entry>image</entry>
+        <entry>frontImage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -202,11 +202,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604326891611">
-        <mark key="'" line="369" column="12" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604330248224">
+        <mark key="'" line="375" column="4" />
+        <mark key="[" line="483" column="13" />
+        <mark key="]" line="483" column="25" />
+        <mark key="." line="483" column="24" />
+        <mark key="^" line="483" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -226,11 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="29" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="228" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="239" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="204" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="227" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="217" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="263" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="371" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
@@ -326,6 +322,11 @@
       <jump line="319" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="139" column="31" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="369" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="337" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="339" column="8" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="368" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="287" column="37" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="375" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,20 +334,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>.page</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>frontImage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXJsLkJ1aWxkZXIuYWJzb2x1dGUgWyJibG9nIl0gW10K</text>
+        <text encoding="base64">ICAgIHJvdyBbIHdpZHRoIGZpbGwsIHNwYWNpbmcgMTAsIHBhZGRpbmdFYWNoIHsgdG9wID0gMTAsIGxlZnQgPSAwLCByaWdodCA9IDAsIGJvdHRvbSA9IDEwIH0gXQogICAgICAgIFsgZmlsbGVyIDIKICAgICAgICAsIG1lbnUgbW9kZWwKICAgICAgICAsIGZyb250SW1hZ2UKICAgICAgICAsIGZpbGxlciAyCiAgICAgICAgXQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -361,13 +362,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAsIGZpbGxlciAyCiAgICAgICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAsIAo=</text>
+        <text encoding="base64">ICAgIHJvdyBbIHdpZHRoIGZpbGwsIHNwYWNpbmcgMTAsIHBhZGRpbmdFYWNoIHsgdG9wID0gMTAsIGxlZnQgPSAwLCByaWdodCA9IDAsIGJvdHRvbSA9IDEwIH0gXQogICAgICAgIFsgZmlsbGVyIDIKICAgICAgICAsIG1lbnUgbW9kZWwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -406,13 +407,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgpmcm9udFBhZ2UgbW9kZWwgPQogICAgbWFpbkxheW91dCBtb2RlbCBmcm9udENvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICAsIGNvbnRlbnQgbW9kZWwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -421,10 +422,10 @@
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnR5cGUgSGVhZGVyTGF5b3V0CiAgICA9IExhcmdlCiAgICB8IFNtYWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudC5saW5rIFtBbmltYXRvci4gYW5pbWF0aW9uQXR0cl0KICAgICAgICAgICAgICAgIHsgdXJsID0gcGFnZVRvVXJsIEZyb250CiAgICAgICAgICAgICAgICAsIGxhYmVsID0KICAgICAgICAgICAgICAgICAgICBpbWFnZQogICAgICAgICAgICAgICAgICAgICAgICBbIGhlaWdodCA8fCBweCAzNiwgYWxpZ25MZWZ0IF0KICAgICAgICAgICAgICAgICAgICAgICAgeyBzcmMgPSAicmVzb3VyY2VzL25hbWUucG5nIiwgZGVzY3JpcHRpb24gPSAiWW9hdiBMdWZ0IiB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1598,10 +1599,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgpmcm9udFBhZ2UgbW9kZWwgPQogICAgbWFpbkxheW91dCBtb2RlbCBmcm9udENvbnRlbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExhcmdlIC0+CiAgICAgICAgICAgICAgICAgICAgaW1hZ2UKICAgICAgICAgICAgICAgICAgICAgICAgWyBoZWlnaHQgPHwgcHggMTY0LCBjZW50ZXJYIF0KICAgICAgICAgICAgICAgICAgICAgICAgeyBzcmMgPSAicmVzb3VyY2VzL25hbWUucG5nIiwgZGVzY3JpcHRpb24gPSAiWW9hdiBMdWZ0IiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1610,9 +1611,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>message</last-search>
+      <last-search>frontImage</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>frontImage</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
