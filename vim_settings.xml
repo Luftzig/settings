@@ -45,8 +45,8 @@
         <entry>s/short/long/g</entry>
         <entry encoding="base64">JzwsJz5zLyA9Lzov</entry>
         <entry>ww</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,8 +128,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1598694469798">
-        <mark key="[" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1604257163103">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
@@ -202,17 +202,8 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/elm.json" timestamp="1604160039390">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604257017951">
-        <mark key="'" line="310" column="64" />
-        <mark key="[" line="309" column="114" />
-        <mark key="]" line="309" column="127" />
-        <mark key="^" line="309" column="127" />
-        <mark key="." line="309" column="126" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604311071237">
+        <mark key="'" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -232,19 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="43" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="221" column="22" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="101" column="21" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="100" column="27" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/BonjourServicesManager.kt" />
-      <jump line="210" column="76" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="5" column="26" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/mapping.kt" />
-      <jump line="7" column="77" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/mapping.kt" />
-      <jump line="36" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonTest/kotlin/FlowExtentionsSpek.kt" />
-      <jump line="0" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonTest/kotlin/FlowExtentionsSpek.kt" />
-      <jump line="232" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="8" column="66" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/mappingSpek.kt" />
-      <jump line="230" column="13" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="229" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="233" column="9" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="876" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
       <jump line="119" column="93" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.fritz2/core-js/0.7/851e67f420f4d5997f05ba08635dafa2d63c1228/core-js-0.7-sources.jar!/jsMain/dev/fritz2/dom/html/elements.kt" />
@@ -332,6 +310,19 @@
       <jump line="271" column="71" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="313" column="21" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="308" column="64" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="309" column="126" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="180" column="13" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="48" column="7" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="181" column="45" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="190" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="302" column="68" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="19" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="43" column="52" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="51" column="3" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="399" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="184" column="22" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="22" column="18" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="354" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,20 +330,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>22</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU21hbGwgLT4KICAgICAgICAgICAgICAgIFsgZmlsbGVyIDEKICAgICAgICAgICAgICAgICwgRWxlbWVudC5lbAogICAgICAgICAgICAgICAgICAgIFsgd2lkdGggPHwgZmlsbFBvcnRpb24gOAogICAgICAgICAgICAgICAgICAgICwgQm9yZGVyLmNvbG9yIG1haG9nYW55CiAgICAgICAgICAgICAgICAgICAgLCBCb3JkZXIud2lkdGhFYWNoIHNpZGVzUGFuZWwKICAgICAgICAgICAgICAgICAgICAsIGh0bWxBdHRyaWJ1dGUgPHwgYm9yZGVySW1hZ2Ugd29vZEhvcml6b250YWwKICAgICAgICAgICAgICAgICAgICAsIHBhZGRpbmcgMTIKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIDx8CiAgICAgICAgICAgICAgICAsIGZpbGxlciAxCiAgICAgICAgICAgICAgICBdCiAgICAgICAgKQo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text encoding="base64">bm9DbWQgPHwg</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3JleSA9CiAgICByZ2IyNTUgMjM5IDIzOSAyMzkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXJsLkJ1aWxkZXIuYWJzb2x1dGUgWyJibG9nIl0gW10K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -367,13 +358,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCBlbXB0eVBhbmUgRmFsc2UgNgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU21hbGwgLT4KICAgICAgICAgICAgICAgIFsgZmlsbGVyIDEKICAgICAgICAgICAgICAgICwgRWxlbWVudC5lbAogICAgICAgICAgICAgICAgICAgIFsgd2lkdGggPHwgZmlsbFBvcnRpb24gOAogICAgICAgICAgICAgICAgICAgICwgQm9yZGVyLmNvbG9yIG1haG9nYW55CiAgICAgICAgICAgICAgICAgICAgLCBCb3JkZXIud2lkdGhFYWNoIHNpZGVzUGFuZWwKICAgICAgICAgICAgICAgICAgICAsIGh0bWxBdHRyaWJ1dGUgPHwgYm9yZGVySW1hZ2Ugd29vZEhvcml6b250YWwKICAgICAgICAgICAgICAgICAgICAsIHBhZGRpbmcgMTIKICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIDx8CiAgICAgICAgICAgICAgICAsIGZpbGxlciAxCiAgICAgICAgICAgICAgICBdCiAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAsIHBhbmVsUm93IEZhbHNlIFtdCiAgICAgICAgLCBwYW5lbFJvdyBGYWxzZSBbXQogICAgICAgICwgcGFuZWxSb3cgRmFsc2UgW10KICAgICAgICAsIHBhbmVsUm93IEZhbHNlIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -412,25 +403,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCBlbXB0eVBhbmUgRmFsc2UgMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZQogICAgICAgICAgICAgICAgICAgICAgICBbIGhlaWdodCA8fCBweCAzNgogICAgICAgICAgICAgICAgICAgICAgICAsIGFsaWduTGVmdAogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgIHsgc3JjID0gInJlc291cmNlcy9uYW1lLnBuZyIKICAgICAgICAgICAgICAgICAgICAgICAgLCBkZXNjcmlwdGlvbiA9ICJZb2F2IEx1ZnQiCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCAKICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAoY2FzZSBsYXlvdXQgb2YKICAgICAgICAgICAgTGFyZ2UgLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyBlbXB0eVBhbmUgRmFsc2UgMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZQogICAgICAgICAgICAgICAgICAgICAgICBbIGhlaWdodCA8fCBweCAxNjQKICAgICAgICAgICAgICAgICAgICAgICAgLCBjZW50ZXJYCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgeyBzcmMgPSAicmVzb3VyY2VzL25hbWUucG5nIgogICAgICAgICAgICAgICAgICAgICAgICAsIGRlc2NyaXB0aW9uID0gIllvYXYgTHVmdCIKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAsIHBhbmVsUm93IEZhbHNlCiAgICAgICAgICAgIFsgZW1wdHlQYW5lIEZhbHNlIDIKICAgICAgICAgICAgLCBlbXB0eVBhbmUgRmFsc2UgMQogICAgICAgICAgICAsIHBhbmVCdXR0b24geyBpc0xhc3QgPSBGYWxzZSwgcG9ydGlvbiA9IDMsIG1zZyA9IENoYW5nZVRvIFNvbWFEZXNpZ24sIGxhYmVsID0gdGV4dCAiU29tYSBEZXNpZ24iIH0KICAgICAgICAgICAgLCBlbXB0eVBhbmUgVHJ1ZSAyCiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1604,10 +1595,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCBwYW5lIEZhbHNlIDIgPHwgYnV0dG9uIFsgcGFkZGluZyA2LCBjZW50ZXJYLCBjZW50ZXJZIF0geyBvblByZXNzID0gSnVzdCA8fCBDaGFuZ2VUbyBHYW1lcywgbGFiZWwgPSB0ZXh0ICJHYW1lcyIgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
