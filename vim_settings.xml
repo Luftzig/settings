@@ -5,18 +5,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>character-card</entry>
-        <entry>update</entry>
-        <entry>findIndex</entry>
-        <entry>exercise</entry>
-        <entry>showPublic</entry>
-        <entry>playlist</entry>
-        <entry>copy</entry>
         <entry>sender</entry>
         <entry>Sender</entry>
         <entry>configuration</entry>
         <entry>uglify</entry>
-        <entry>body</entry>
         <entry>style</entry>
         <entry>\cstyle</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
@@ -25,6 +17,14 @@
         <entry>image</entry>
         <entry>frontImage</entry>
         <entry>animateIn</entry>
+        <entry>slowly</entry>
+        <entry>speed</entry>
+        <entry>Msg</entry>
+        <entry>Model</entry>
+        <entry>350</entry>
+        <entry>menu</entry>
+        <entry>body</entry>
+        <entry>innerLi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -128,7 +128,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1604345976582">
+      <file name="/Dummy.txt" timestamp="1604507839787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="16" />
@@ -202,12 +202,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604497063178">
-        <mark key="'" line="220" column="0" />
-        <mark key="[" line="261" column="12" />
-        <mark key="]" line="261" column="43" />
-        <mark key="." line="261" column="42" />
-        <mark key="^" line="261" column="43" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604508191542">
+        <mark key="'" line="464" column="51" />
+        <mark key="[" line="692" column="47" />
+        <mark key="]" line="692" column="54" />
+        <mark key="." line="692" column="53" />
+        <mark key="^" line="692" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -227,39 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="39" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="363" column="29" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="41" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="96" column="24" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="159" column="42" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="63" column="26" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="17" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/FlowExtensions.kt" />
-      <jump line="189" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.3.7/7a7ad44e83e95b4e96de9d33e551c7c3282eeca0/kotlinx-coroutines-core-common-1.3.7-sources.jar!/commonMain/flow/operators/Merge.kt" />
-      <jump line="163" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.3.7/7a7ad44e83e95b4e96de9d33e551c7c3282eeca0/kotlinx-coroutines-core-common-1.3.7-sources.jar!/commonMain/flow/operators/Merge.kt" />
-      <jump line="10" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/FlowExtensions.kt" />
-      <jump line="163" column="37" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="162" column="38" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" />
-      <jump line="61" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/Models.kt" />
-      <jump line="65" column="15" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" />
-      <jump line="1" column="7" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendTest/kotlin/FlowExtentionsSpek.kt" />
-      <jump line="29" column="17" filename="$USER_HOME$/Projects/SomaBitsServer/src/EchoApp.kt" />
-      <jump line="84" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/EchoApp.kt" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="138" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="2" column="37" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.kt" />
-      <jump line="23" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
-      <jump line="14" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/commonMain/kotlin/FlowExtensions.kt" />
-      <jump line="101" column="44" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="9" column="62" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="24" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="126" column="4" filename="$USER_HOME$/Projects/SomaBitsServer/build.gradle" />
-      <jump line="5" column="47" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.kt" />
-      <jump line="291" column="23" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="203" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="201" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="297" column="12" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="343" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="57" column="45" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="45" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
       <jump line="92" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
@@ -275,7 +242,6 @@
       <jump line="35" column="3" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
       <jump line="13" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="17" column="10" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="96" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="50" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -297,27 +263,21 @@
       <jump line="271" column="71" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="313" column="21" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="308" column="64" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="309" column="126" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="180" column="13" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="48" column="7" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="181" column="45" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="190" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="302" column="68" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="19" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="43" column="52" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="51" column="3" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="399" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="184" column="22" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="22" column="18" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="354" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="39" column="17" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="165" column="101" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="319" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="139" column="31" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="369" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="337" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="339" column="8" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="368" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="287" column="37" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="375" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="136" column="110" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -327,6 +287,46 @@
       <jump line="36" column="34" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="157" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="220" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="331" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="553" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="552" column="28" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="292" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="295" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="291" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="43" column="8" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="171" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="32" column="39" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="94" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="33" column="40" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="97" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="164" column="8" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="165" column="33" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="45" column="26" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="239" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="309" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="339" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="340" column="17" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="336" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="323" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="354" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="455" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="488" column="2" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="338" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="368" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="361" column="10" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="424" column="9" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="418" column="5" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="373" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="322" column="72" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="365" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="503" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="534" column="109" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="465" column="37" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="464" column="51" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,19 +335,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>Blog</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Blog</text>
       </register>
       <register name="/" type="4">
-        <text>animateIn</text>
+        <text>innerLi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYXRlSW4gPQogICAgICAgICAgICBFbGVtZW50Lmh0bWxBdHRyaWJ1dGUgPHwKICAgICAgICAgICAgICAgIEFuaW1hdG9yLklubGluZS54eSBtb2RlbC5wYWdlCiAgICAgICAgICAgICAgICAgICAgKFxzdGF0ZSAtPgogICAgICAgICAgICAgICAgICAgICAgICBpZiBzdGF0ZSA9PSBuZXh0Q29udGVudCB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHggPSBBbmltYXRvci5hdCAwLCB5ID0gQW5pbWF0b3IuYXQgMCB9CgogICAgICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHggPSBBbmltYXRvci5hdCAzNTAsIHkgPSBBbmltYXRvci5hdCAwIH0KICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHBhZ2VXcmFwcGVyIG1vZGVsIChcXyAtPiAgIFsgRWxlbWVudC50ZXh0ICJCbG9nIiBdICkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -362,13 +362,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuaW1hdG9yLklubGluZS5vcGFjaXR5IAo=</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQ29udGFjdCIgXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQmxvZyIgXQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -407,25 +407,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiVGVjaG5vbG9neSIgXQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudC5lbCBbIGFuaW1hdGUsIHdpZHRoIGZpbGwgXSA8fAo=</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiV29yayIgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQ29tbXVuaXR5IiBdCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0Q29udGVudCA9IEFuaW1hdG9yLmN1cnJlbnQgbW9kZWwucGFnZQo=</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiR2FtZXMiIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldAogICAgICAgIGJvZHkgPQogICAgaW4K</text>
+        <text encoding="base64">ICAgICAgICA8fAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1599,10 +1599,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBbmltYXRvci5jdXJyZW50IG1vZGVsLnBhZ2Ugb2YKICAgICAgICAgICAgICAgIEZyb250IC0+CiAgICAgICAgICAgICAgICAgICAgZnJvbnRDb250ZW50CgogICAgICAgICAgICAgICAgU29tYURlc2lnbiAtPgogICAgICAgICAgICAgICAgICAgIHNvbWFEZXNpZ24KCiAgICAgICAgICAgICAgICBNYXJ0aWFsQXJ0cyAtPgogICAgICAgICAgICAgICAgICAgIG1hcnRpYWxBcnRzCgogICAgICAgICAgICAgICAgR2FtZXMgLT4KICAgICAgICAgICAgICAgICAgICBnYW1lcwoKICAgICAgICAgICAgICAgIENvbW11bml0eSAtPgogICAgICAgICAgICAgICAgICAgIGNvbW11bml0eQoKICAgICAgICAgICAgICAgIFdvcmsgLT4KICAgICAgICAgICAgICAgICAgICB3b3JrCgogICAgICAgICAgICAgICAgVGVjaCAtPgogICAgICAgICAgICAgICAgICAgIHRlY2gKCiAgICAgICAgICAgICAgICBCbG9nIC0+CiAgICAgICAgICAgICAgICAgICAgYmxvZwoKICAgICAgICAgICAgICAgIENvbnRhY3QgLT4KICAgICAgICAgICAgICAgICAgICBjb250YWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAsIGZpbGxlciAyCiAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVsZW1lbnQuZWwKICAgICAgICAgICAgICAgICAgICBbIHdpZHRoIDx8IGZpbGxQb3J0aW9uIDEKICAgICAgICAgICAgICAgICAgICAsIGhlaWdodCBmaWxsCiAgICAgICAgICAgICAgICAgICAgLCBCb3JkZXIud2lkdGggMAogICAgICAgICAgICAgICAgICAgICwgQm9yZGVyLmNvbG9yIGRhcmtHcmV5CiAgICAgICAgICAgICAgICAgICAgLCBpbm5lckdlbnRsZVNoYWRvdwogICAgICAgICAgICAgICAgICAgICwgRWxlbWVudC5tb3ZlVXAgMS41CiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgPHwKICAgICAgICAgICAgICAgICAgICBFbGVtZW50Lm5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1611,9 +1611,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>animateIn</last-search>
+      <last-search>innerLi</last-search>
       <last-offset />
-      <last-pattern>animateIn</last-pattern>
+      <last-pattern>innerLi</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
