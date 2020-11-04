@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sender</entry>
-        <entry>Sender</entry>
         <entry>configuration</entry>
         <entry>uglify</entry>
         <entry>style</entry>
@@ -15,7 +13,6 @@
         <entry encoding="base64">XDxkZXRhaWxzXD4=</entry>
         <entry>message</entry>
         <entry>image</entry>
-        <entry>frontImage</entry>
         <entry>animateIn</entry>
         <entry>slowly</entry>
         <entry>speed</entry>
@@ -25,6 +22,9 @@
         <entry>menu</entry>
         <entry>body</entry>
         <entry>innerLi</entry>
+        <entry>link</entry>
+        <entry>twitter</entry>
+        <entry>frontImage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -202,12 +202,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604508902228">
-        <mark key="'" line="666" column="0" />
-        <mark key="[" line="712" column="52" />
-        <mark key="]" line="712" column="59" />
-        <mark key="." line="712" column="58" />
-        <mark key="^" line="712" column="59" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604515510560">
+        <mark key="'" line="404" column="22" />
+        <mark key="[" line="785" column="52" />
+        <mark key="]" line="785" column="120" />
+        <mark key="." line="785" column="119" />
+        <mark key="^" line="785" column="120" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -227,22 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="92" column="14" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="81" column="11" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="102" column="80" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="138" column="21" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="149" column="45" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="241" column="19" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
-      <jump line="42" column="54" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="75" column="43" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/stores.kt" />
-      <jump line="12" column="17" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="35" column="3" filename="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" />
-      <jump line="13" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="17" column="10" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="96" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="50" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="116" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="53" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -323,10 +307,26 @@
       <jump line="365" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="503" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="534" column="109" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="465" column="37" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="464" column="51" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="666" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="713" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="440" column="89" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="214" column="9" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="480" column="96" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="698" column="31" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="693" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="717" column="81" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="724" column="81" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="725" column="25" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="734" column="25" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="766" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="482" column="58" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="763" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="403" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="591" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="404" column="22" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,19 +335,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Linkedin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>Linkedin</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>innerLi</text>
+        <text>frontImage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwgbGluayBbXSB7IHVybCA9ICIiLCBsYWJlbCA9IHRleHQgIkxpbmtlZGluIiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgRWxlbWVudC5pbWFnZSBbIGFsaWduUmlnaHQsIHdpZHRoIDx8IHB4IDI2OCBdIHsgc3JjID0gInJlc291cmNlcy96ZW5faW1nLnBuZyIsIGRlc2NyaXB0aW9uID0gIlplbiBHYXJkZW4iIH0K</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -362,13 +362,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAsIGhlaWdodCBmaWxsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -407,25 +407,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQ29udGFjdCIgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgRWxlbWVudC5pbWFnZSBbIGFsaWduUmlnaHQsIHdpZHRoIDx8IHB4IDI2OCBdIHsgc3JjID0gInJlc291cmNlcy96ZW5faW1nLnBuZyIsIGRlc2NyaXB0aW9uID0gIlplbiBHYXJkZW4iIH0K</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQmxvZyIgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiVGVjaG5vbG9neSIgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgdGV4dFBhcmFncmFwaAogICAgICAgICAgICAgICAgICAgIFsgdGV4dCAiIiJVbmZvcnR1bmV0YWx5LCB3ZSBoYXZlbid0IG1haW50YWluZWQgWmVuIEdhcmRlbiBzbyBpdCB3YXMgdGFrZW4gb2ZmIHRoZSBhcHAgc3RvcmVzLiBZb3UKICAgICBjYW4gc3RpbGwgZmluZCBjb250ZW50IG9uIGl0cyAiIiIKICAgICAgICAgICAgICAgICAgICAsIGxpbmsgW10geyB1cmwgPSAiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1plbktpdHR5R2FtZXMvIiwgbGFiZWwgPSB0ZXh0ICJGYWNlYm9vayBwYWdlIiB9CiAgICAgICAgICAgICAgICAgICAgLCB0ZXh0ICIuIgogICAgICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiV29yayIgXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQ29tbXVuaXR5IiBdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1599,10 +1599,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiR2FtZXMiIF0K</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQ29udGFjdCIgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8fAo=</text>
+        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQmxvZyIgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1611,9 +1611,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>innerLi</last-search>
+      <last-search>frontImage</last-search>
       <last-offset />
-      <last-pattern>innerLi</last-pattern>
+      <last-pattern>frontImage</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
