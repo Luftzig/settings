@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>space</entry>
         <entry>character-card</entry>
         <entry>update</entry>
         <entry>findIndex</entry>
@@ -25,6 +24,7 @@
         <entry>message</entry>
         <entry>image</entry>
         <entry>frontImage</entry>
+        <entry>animateIn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -202,8 +202,8 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604494956037">
-        <mark key="'" line="157" column="12" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604497063178">
+        <mark key="'" line="220" column="0" />
         <mark key="[" line="261" column="12" />
         <mark key="]" line="261" column="43" />
         <mark key="." line="261" column="42" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="32" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/style.kt" />
       <jump line="158" column="39" filename="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Application.kt" />
       <jump line="363" column="29" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
       <jump line="41" column="16" filename="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" />
@@ -327,6 +326,7 @@
       <jump line="141" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="36" column="34" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="157" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="220" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +344,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>frontImage</text>
+        <text>animateIn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmltYXRlSW4gPQogICAgICAgICAgICBFbGVtZW50Lmh0bWxBdHRyaWJ1dGUgPHwKICAgICAgICAgICAgICAgIEFuaW1hdG9yLklubGluZS54eSBtb2RlbC5wYWdlCiAgICAgICAgICAgICAgICAgICAgKFxzdGF0ZSAtPgogICAgICAgICAgICAgICAgICAgICAgICBpZiBzdGF0ZSA9PSBuZXh0Q29udGVudCB0aGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHggPSBBbmltYXRvci5hdCAwLCB5ID0gQW5pbWF0b3IuYXQgMCB9CgogICAgICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IHggPSBBbmltYXRvci5hdCAzNTAsIHkgPSBBbmltYXRvci5hdCAwIH0KICAgICAgICAgICAgICAgICAgICApCg==</text>
@@ -1611,9 +1611,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>frontImage</last-search>
+      <last-search>animateIn</last-search>
       <last-offset />
-      <last-pattern>frontImage</last-pattern>
+      <last-pattern>animateIn</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
