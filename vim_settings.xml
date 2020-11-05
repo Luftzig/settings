@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>configuration</entry>
         <entry>uglify</entry>
         <entry>style</entry>
         <entry>\cstyle</entry>
@@ -25,6 +24,7 @@
         <entry>link</entry>
         <entry>twitter</entry>
         <entry>frontImage</entry>
+        <entry>Background.color</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -128,7 +128,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1604507839787">
+      <file name="/Dummy.txt" timestamp="1604568680604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="16" />
@@ -202,12 +202,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604515584409">
-        <mark key="'" line="404" column="22" />
-        <mark key="[" line="770" column="18" />
-        <mark key="]" line="770" column="47" />
-        <mark key="." line="770" column="46" />
-        <mark key="^" line="770" column="47" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604569232690">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="154" column="31" />
+        <mark key="]" line="154" column="51" />
+        <mark key="." line="154" column="50" />
+        <mark key="^" line="154" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -227,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="116" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="53" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="76" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="78" column="62" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -321,12 +319,14 @@
       <jump line="725" column="25" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="734" column="25" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="766" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="482" column="58" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="763" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="403" column="16" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="591" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="404" column="22" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="776" column="58" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="41" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,19 +335,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Royal Technological College</text>
+        <text>color grey</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>Royal Technological College</text>
+        <text>color grey</text>
       </register>
       <register name="/" type="4">
-        <text>frontImage</text>
+        <text>Background.color</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwgRWxlbWVudC5pbWFnZSBbIGFsaWduUmlnaHQsIHdpZHRoIDx8IHB4IDI2OCBdIHsgc3JjID0gInJlc291cmNlcy96ZW5faW1nLnBuZyIsIGRlc2NyaXB0aW9uID0gIlplbiBHYXJkZW4iIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCBCYWNrZ3JvdW5kLmNvbG9yIGdyZXkK</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -1611,9 +1611,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>frontImage</last-search>
+      <last-search>Background.color</last-search>
       <last-offset />
-      <last-pattern>frontImage</last-pattern>
+      <last-pattern>Background.color</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
