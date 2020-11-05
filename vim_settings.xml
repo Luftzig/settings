@@ -202,12 +202,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604569232690">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="154" column="31" />
-        <mark key="]" line="154" column="51" />
-        <mark key="." line="154" column="50" />
-        <mark key="^" line="154" column="51" />
+      <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604572899643">
+        <mark key="'" line="153" column="34" />
+        <mark key="[" line="721" column="29" />
+        <mark key="]" line="722" column="28" />
+        <mark key="." line="722" column="27" />
+        <mark key="^" line="722" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/gradle.properties" timestamp="1598709989314">
         <mark key="[" line="2" column="20" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="76" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="78" column="62" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -327,6 +326,7 @@
       <jump line="776" column="58" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="41" column="20" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
+      <jump line="153" column="34" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,19 +335,19 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>color grey</text>
+        <text>fill</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>color grey</text>
+        <text>fill</text>
       </register>
       <register name="/" type="4">
         <text>Background.color</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCBCYWNrZ3JvdW5kLmNvbG9yIGdyZXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVsZW1lbnQuZWwKICAgICAgICAgICAgICAgICAgICBbIHBhZGRpbmcgMzIKICAgICAgICAgICAgICAgICAgICAsIEJhY2tncm91bmQuY29sb3IgYmVpZ2UKICAgICAgICAgICAgICAgICAgICAsIEJhY2tncm91bmQudGlsZWQgInJlc291cmNlcy9maXNobmV0LXBhdHRlcm4ucG5nIgogICAgICAgICAgICAgICAgICAgICwgQm9yZGVyLmNvbG9yIGRhcmtHcmV5CiAgICAgICAgICAgICAgICAgICAgLCBCb3JkZXIud2lkdGggMQogICAgICAgICAgICAgICAgICAgICwgRWxlbWVudC53aWR0aCBmaWxsCiAgICAgICAgICAgICAgICAgICAgLCBCb3JkZXIuc2hhZG93IHsgb2Zmc2V0ID0gKCAwLCAyLjUgKSwgc2l6ZSA9IDEsIGJsdXIgPSAyLCBjb2xvciA9IHJnYmEgMCAwIDAgMC41IH0KICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -362,13 +362,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsIGhlaWdodCBmaWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAsIHBhZGRpbmcgMTIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAsIEVsZW1lbnQuYmVoaW5kQ29udGVudCBmcmFtZQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -407,25 +407,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwgRWxlbWVudC5pbWFnZSBbIGFsaWduUmlnaHQsIHdpZHRoIDx8IHB4IDI2OCBdIHsgc3JjID0gInJlc291cmNlcy96ZW5faW1nLnBuZyIsIGRlc2NyaXB0aW9uID0gIlplbiBHYXJkZW4iIH0K</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZSA9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwgCg==</text>
+        <text encoding="base64">ICAgIGxldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwgdGV4dFBhcmFncmFwaAogICAgICAgICAgICAgICAgICAgIFsgdGV4dCAiIiJVbmZvcnR1bmV0YWx5LCB3ZSBoYXZlbid0IG1haW50YWluZWQgWmVuIEdhcmRlbiBzbyBpdCB3YXMgdGFrZW4gb2ZmIHRoZSBhcHAgc3RvcmVzLiBZb3UKICAgICBjYW4gc3RpbGwgZmluZCBjb250ZW50IG9uIGl0cyAiIiIKICAgICAgICAgICAgICAgICAgICAsIGxpbmsgW10geyB1cmwgPSAiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1plbktpdHR5R2FtZXMvIiwgbGFiZWwgPSB0ZXh0ICJGYWNlYm9vayBwYWdlIiB9CiAgICAgICAgICAgICAgICAgICAgLCB0ZXh0ICIuIgogICAgICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVsZW1lbnQubm9uZQogICAgaW4K</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1599,10 +1599,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQ29udGFjdCIgXQo=</text>
+        <text encoding="base64">ICAgIDx8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVsZW1lbnQudGV4dENvbHVtbiBbXSBbIEVsZW1lbnQudGV4dCAiQmxvZyIgXQo=</text>
+        <text encoding="base64">ICAgICAgICAsIEVsZW1lbnQud2lkdGggZmlsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
