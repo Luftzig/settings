@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\cstyle</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxzXD4=</entry>
         <entry>message</entry>
@@ -25,6 +24,7 @@
         <entry>menu</entry>
         <entry>nin</entry>
         <entry>Marti</entry>
+        <entry encoding="base64">XDx5ZXNOb1N0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -147,15 +147,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" timestamp="1605534467571">
+        <mark key="'" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1604155924106">
         <mark key="'" line="35" column="3" />
         <mark key="[" line="44" column="95" />
         <mark key="]" line="44" column="95" />
         <mark key="^" line="18" column="8" />
         <mark key="." line="44" column="95" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/settings.gradle" timestamp="1598712451704">
-        <mark key="[" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604943666051">
         <mark key="'" line="646" column="108" />
@@ -216,8 +216,8 @@
         <mark key="." line="75" column="48" />
         <mark key="^" line="75" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1605534395472">
-        <mark key="'" line="77" column="88" />
+      <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1605534425884">
+        <mark key="'" line="100" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/general.kt" timestamp="1605449980739">
         <mark key="'" line="33" column="15" />
@@ -231,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="19" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="302" column="68" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="19" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="51" column="3" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="399" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -331,6 +329,8 @@
       <jump line="49" column="0" filename="$USER_HOME$/Projects/dafnas-website/src/components/Main.js" />
       <jump line="33" column="15" filename="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/general.kt" />
       <jump line="77" column="88" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="100" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,7 +348,7 @@
         <text>(listB)</text>
       </register>
       <register name="/" type="4">
-        <text>Marti</text>
+        <text encoding="base64">XDx5ZXNOb1N0YXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICtpZiAoaXQudGV4dC5zcGxpdCgiICIpLmNvdW50KCkgPCAzKSB7CiAgICAgICAgICAgICAgICAgICAgIk5vICR7aXQudGV4dH0gaGVyZSEgT25seSBmcnVpdHMhIgogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAiSWYgeW91IGFyZW4ndCBidXlpbmcgZ2V0IG91dCBvZiB0aGUgbGluZSIKICAgICAgICAgICAgICAgIH0K</text>
@@ -1615,9 +1615,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Marti</last-search>
+      <last-search encoding="base64">XDx5ZXNOb1N0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>Marti</last-pattern>
+      <last-pattern encoding="base64">XDx5ZXNOb1N0YXRlXD4=</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
