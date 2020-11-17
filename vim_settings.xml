@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxzXD4=</entry>
         <entry>message</entry>
         <entry>image</entry>
@@ -25,6 +24,7 @@
         <entry>nin</entry>
         <entry>Marti</entry>
         <entry encoding="base64">XDx5ZXNOb1N0YXRlXD4=</entry>
+        <entry>setText</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykuKi8gPT4gcyIi</entry>
@@ -135,13 +135,6 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/backendMain/kotlin/Evaluation.kt" timestamp="1598877478127">
-        <mark key="'" line="5" column="47" />
-        <mark key="[" line="16" column="121" />
-        <mark key="]" line="17" column="148" />
-        <mark key="^" line="17" column="148" />
-        <mark key="." line="17" column="147" />
-      </file>
       <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/interaction.kt" timestamp="1605534243592">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -164,6 +157,13 @@
         <mark key="." line="793" column="33" />
         <mark key="^" line="793" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view1.java" timestamp="1605602372151">
+        <mark key="'" line="41" column="55" />
+        <mark key="[" line="50" column="78" />
+        <mark key="]" line="50" column="79" />
+        <mark key="." line="50" column="78" />
+        <mark key="^" line="50" column="79" />
+      </file>
       <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/main.kt" timestamp="1605448639458">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -181,6 +181,12 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/res/values/strings.xml" timestamp="1605602285534">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="47" />
+      </file>
       <file name="/Dummy.txt" timestamp="1604944944045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -192,16 +198,6 @@
         <mark key="]" line="30" column="276" />
         <mark key="." line="30" column="275" />
         <mark key="^" line="30" column="276" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/models.kt" timestamp="1598883923013">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/build.gradle" timestamp="1598876687945">
-        <mark key="'" line="125" column="4" />
-        <mark key="^" line="93" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1600776401639">
         <mark key="'" line="241" column="19" />
@@ -227,13 +223,17 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/build.gradle" timestamp="1605601782049">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="55" />
+      </file>
       <file name="/fragment.java" timestamp="1598883960384">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="24" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="51" column="3" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="399" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="184" column="22" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="22" column="18" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -332,6 +332,8 @@
       <jump line="77" column="88" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="100" column="13" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" />
       <jump line="10" column="4" filename="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" />
+      <jump line="27" column="19" filename="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view1.java" />
+      <jump line="41" column="55" filename="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view1.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,16 +342,16 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4.1</text>
+        <text>:</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>4.1</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5ZXNOb1N0YXRlXD4=</text>
+        <text>setText</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFsIHZvaWNlID0gVm9pY2UobGFuZ3VhZ2UgPSBMYW5ndWFnZS5FTkdMSVNIX0dCLCBnZW5kZXIgPSBHZW5kZXIuTUFMRSwgcmF0ZT0xLjEsIHBpdGNoPSJ4LWxvdyIsIHZvbHVtZSA9ICJsb3VkIikK</text>
@@ -367,7 +369,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVGhpcyBmdW5jdGlvbiBpcyBjYWxsZWQgd2hlbmV2ZXIgdGhlIHNsaWRlciBpcyBtb3ZlZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -412,25 +414,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgeyBJbnRlcmFjdGlvbiB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsiIgo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgeyBJbnRlcmFjdGlvbiB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsiIgo=</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9uUmVzcG9uc2VGYWlsZWQgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1604,10 +1606,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uUmVzcG9uc2VGYWlsZWQgewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdXJoYXQuc2F5IHsKICAgICAgICAgICAgcmFuZG9tIHsKICAgICAgICAgICAgICAgICsiRGlkbid0IGdldCB0aGF0ISIKICAgICAgICAgICAgICAgICsiU2F5IGFnYWluPyEiCiAgICAgICAgICAgICAgICArIkFyZSB5b3Ugc2hvcHBpbmcgb3IganVzdCBsb29raW5nPyIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBmdXJoYXQubGlzdGVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1616,9 +1618,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx5ZXNOb1N0YXRlXD4=</last-search>
+      <last-search>setText</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5ZXNOb1N0YXRlXD4=</last-pattern>
+      <last-pattern>setText</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
