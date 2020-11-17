@@ -135,12 +135,12 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view2.java" timestamp="1605603230809">
+      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view2.java" timestamp="1605603493536">
         <mark key="'" line="60" column="21" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="41" />
-        <mark key="^" line="60" column="42" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/interaction.kt" timestamp="1605534243592">
         <mark key="[" line="6" column="0" />
@@ -149,13 +149,6 @@
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" timestamp="1605534467571">
         <mark key="'" line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/luftzig.com/front/src/View.elm" timestamp="1604155924106">
-        <mark key="'" line="35" column="3" />
-        <mark key="[" line="44" column="95" />
-        <mark key="]" line="44" column="95" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="44" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" timestamp="1604943666051">
         <mark key="'" line="646" column="108" />
@@ -194,6 +187,13 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view4.java" timestamp="1605605685419">
+        <mark key="'" line="101" column="30" />
+        <mark key="[" line="101" column="42" />
+        <mark key="]" line="101" column="46" />
+        <mark key="." line="101" column="45" />
+        <mark key="^" line="101" column="46" />
+      </file>
       <file name="/Dummy.txt" timestamp="1604944944045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
@@ -206,12 +206,11 @@
         <mark key="." line="30" column="275" />
         <mark key="^" line="30" column="276" />
       </file>
-      <file name="$USER_HOME$/Projects/SomaBitsServer/src/frontendMain/kotlin/Frontend.kt" timestamp="1600776401639">
-        <mark key="'" line="241" column="19" />
-        <mark key="[" line="262" column="8" />
-        <mark key="]" line="262" column="8" />
-        <mark key="." line="262" column="7" />
-        <mark key="^" line="262" column="8" />
+      <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view3.java" timestamp="1605604747868">
+        <mark key="[" line="79" column="85" />
+        <mark key="]" line="79" column="85" />
+        <mark key="." line="79" column="86" />
+        <mark key="^" line="79" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/introduction/introduction.kt" timestamp="1605534425884">
         <mark key="'" line="100" column="13" />
@@ -231,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="22" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="22" column="18" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="39" column="17" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="319" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -331,6 +329,7 @@
       <jump line="27" column="19" filename="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view1.java" />
       <jump line="41" column="55" filename="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view1.java" />
       <jump line="60" column="21" filename="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view2.java" />
+      <jump line="92" column="30" filename="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view4.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,20 +337,20 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVGhpcyBmdW5jdGlvbiB3aWxsIGJlIGNhbGxlZCB3aGVuZXZlciB0aGUgc2xpZGVyIGlzIG1vdmVkIHRvIGEgbmV3IHZhbHVlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>hapticSignal.stream().mapToLong(Long::longValue).toArray(), -1</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>hapticSignal.stream().mapToLong(Long::longValue).toArray(), -1</text>
       </register>
       <register name="/" type="4">
         <text>setText</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsIHZvaWNlID0gVm9pY2UobGFuZ3VhZ2UgPSBMYW5ndWFnZS5FTkdMSVNIX0dCLCBnZW5kZXIgPSBHZW5kZXIuTUFMRSwgcmF0ZT0xLjEsIHBpdGNoPSJ4LWxvdyIsIHZvbHVtZSA9ICJsb3VkIikK</text>
+        <text encoding="base64">ICAgICAgICB2aWJyLnZpYnJhdGUobmV3IGxvbmdbXXswLCAzMDAsIDEwMCwgMzAwLCAxMDAsIDMwMCwgMTAwLCAxMDAsIDEwMCwgMTAwLCAxMDAsIDEwMCwgMTAwLCAzMDAsIDEwMCwgMzAwLCAxMDAsIDMwMCwgMTAwfSwgLTEpOwo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -366,13 +365,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVGhpcyBmdW5jdGlvbiB3aWxsIGJlIGNhbGxlZCB3aGVuZXZlciB0aGUgc2xpZGVyIGlzIG1vdmVkIHRvIGEgbmV3IHZhbHVlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -411,7 +410,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWJyLnZpYnJhdGUoaGFwdGljU2lnbmFsLCAtMSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
@@ -420,16 +419,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVGhpcyBjb2RlIHJ1bnMgd2hlbiB0aGUgYnV0dG9uIGlzIGNsaWNrZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVGhpcyBmdW5jdGlvbiBpcyBjYWxsZWQgd2hlbmV2ZXIgdGhlIHNsaWRlciBpcyBtb3ZlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1603,10 +1602,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vUmVzZXQgc2F2ZWQgaGFwdGljIHNpZ25hbCBoZXJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgeyBJbnRlcmFjdGlvbiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
