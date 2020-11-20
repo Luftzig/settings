@@ -230,16 +230,14 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/routes/training.js" timestamp="1605868456961">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="46" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="46" />
+      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/routes/training.js" timestamp="1605869399999">
+        <mark key="'" line="56" column="13" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="32" column="39" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="94" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -339,6 +337,7 @@
       <jump line="33" column="17" filename="$USER_HOME$/Projects/user-eval-keyboards/src/routes/tasks.js" />
       <jump line="162" column="1" filename="$USER_HOME$/Projects/user-eval-keyboards/src/routes/training.js" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/user-eval-keyboards/src/routes/training.js" />
+      <jump line="55" column="13" filename="$USER_HOME$/Projects/user-eval-keyboards/src/routes/training.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,14 +345,14 @@
       <register name="a" type="4">
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>training</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>training</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>setText</text>
@@ -374,13 +373,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGNvdW50RG93bkhhbmRsZXIsIDYwICogMTAwMCkK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -419,25 +418,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogIH0sIFtdKQo=</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBba2V5Ym9hcmRUeXBlLCBzZXRLZXlib2FyZFR5cGVdID0gdXNlU3RhdGUoJycpCg==</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoY291bnREb3duSGFuZGxlciwgNjAgKiAxMDAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbCBodG1sRm9yPSdkZWZhdWx0LWtleWJvYXJkJz4KICAgICAgPGlucHV0IHR5cGU9J3JhZGlvJyBvbkNoYW5nZT17ZSA9PiBzZXRLZXlib2FyZFR5cGUoZS50YXJnZXQudmFsdWUpfSBuYW1lPSdrZXlib2FyZCcgdmFsdWU9J2RlZmF1bHQnCiAgICAgICAgICAgICBpZD0nZGVmYXVsdC1rZXlib2FyZCcvPgogICAgICBEZWZhdWx0IEtleWJvYXJkCiAgICA8L2xhYmVsPgogICAgPGxhYmVsIGh0bWxGb3I9J25ldy1rZXlib2FyZCc+CiAgICAgIDxpbnB1dCB0eXBlPSdyYWRpbycgb25DaGFuZ2U9e2UgPT4gc2V0S2V5Ym9hcmRUeXBlKGUudGFyZ2V0LnZhbHVlKX0gbmFtZT0na2V5Ym9hcmQnIHZhbHVlPSduZXcnCiAgICAgICAgICAgICBpZD0nbmV3LWtleWJvYXJkJy8+CiAgICAgIE5ldyBLZXlib2FyZAogICAgPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDogcGhhc2UgPT09ICd0YXNrMicgPwogICAgICAgICAgICA8VGFzayB0ZXh0PXtzZW50ZW5jZXNbNV19IGhhbmRsZVN1Ym1pdD17aGFuZGxlU3VibWl0fSBoYW5kbGVVc2VyRGF0YT17aGFuZGxlVXNlckRhdGF9CiAgICAgICAgICAgICAgICAgIHRleHRBcmVhVmFsdWU9e3RleHRBcmVhVmFsdWV9Lz4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvdW50RG93bkhhbmRsZXIgPSAoKSA9PiB7CiAgICAgIGlmICh0aW1lTGVmdE1pbnV0ZXMgPiAwKSB7CiAgICAgICAgc2V0VGltZUxlZnQodGltZUxlZnRNaW51dGVzIC0gMSkKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIDA6IHtzZW50ZW5jZTogc2VudGVuY2VzWzRdLCBjaGFuZ2VzOiBbXX0sCiAgICAgICAgMToge3NlbnRlbmNlOiBzZW50ZW5jZXNbNV0sIGNoYW5nZXM6IFtdfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRUCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1611,10 +1610,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2V0UGhhc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
