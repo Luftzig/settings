@@ -45,8 +45,8 @@
         <entry>s/short/long/g</entry>
         <entry encoding="base64">JzwsJz5zLyA9Lzov</entry>
         <entry>ww</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,6 +146,11 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/download.js" timestamp="1607939526941">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/flow/interaction.kt" timestamp="1605534243592">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -154,11 +159,12 @@
       <file name="$USER_HOME$/Projects/merckprototyp/src/main/kotlin/furhatos/app/merck/flow/yourmd/yesNoState.kt" timestamp="1605534467571">
         <mark key="'" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/backend.js" timestamp="1605868303870">
-        <mark key="'" line="36" column="28" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/backend.js" timestamp="1607939881507">
+        <mark key="'" line="57" column="3" />
+        <mark key="[" line="74" column="6" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="18" />
+        <mark key="^" line="75" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Study/TactileLabTemplate/app/src/main/java/com/labtemplate/tactiles/tactilelabtemplate/view3.java" timestamp="1605604747868">
         <mark key="[" line="79" column="85" />
@@ -196,19 +202,18 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/main.kt" timestamp="1605448639458">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Study/FruitSeller/src/main/kotlin/furhatos/app/fruitseller/nlu/nlu.kt" timestamp="1605532032134">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="4" column="66" />
         <mark key="^" line="4" column="66" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/App.js" timestamp="1606814410836">
-        <mark key="[" line="11" column="28" />
+      <file name="$USER_HOME$/Projects/user-eval-keyboards/src/App.js" timestamp="1607939768534">
+        <mark key="'" line="13" column="35" />
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="12" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/user-eval-keyboards/src/routes/training.js" timestamp="1606381113929">
         <mark key="[" line="5" column="43" />
@@ -241,9 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="14" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="340" column="17" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
-      <jump line="336" column="29" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="323" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="354" column="12" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
       <jump line="455" column="4" filename="$USER_HOME$/Projects/luftzig.com/front/src/Main.elm" />
@@ -341,6 +343,9 @@
       <jump line="18" column="34" filename="$USER_HOME$/Projects/user-eval-keyboards/src/App.js" />
       <jump line="37" column="33" filename="$USER_HOME$/Projects/user-eval-keyboards/src/routes/data.js" />
       <jump line="23" column="14" filename="$USER_HOME$/Projects/tf-examples/lite/examples/posenet/android/app/build.gradle" />
+      <jump line="57" column="3" filename="$USER_HOME$/Projects/user-eval-keyboards/src/backend.js" />
+      <jump line="25" column="39" filename="$USER_HOME$/Projects/user-eval-keyboards/src/App.js" />
+      <jump line="13" column="35" filename="$USER_HOME$/Projects/user-eval-keyboards/src/App.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,13 +354,13 @@
         <text>lazy { &quot;${petraVoice.pause()}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>console.log(doc.id, doc.data())</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgIGlkICdkZXYuZnJpdHoyLmZyaXR6Mi1ncmFkbGUnIHZlcnNpb24gJzAuNycK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>console.log(doc.id, doc.data())</text>
       </register>
       <register name="/" type="4">
         <text>ndk</text>
@@ -376,13 +381,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text>No version of NDK matched the requested version 21.0.6113669. Versions available locally: 21.3.6528147</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHFzKQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -421,25 +426,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnVGFza3MnLCB0YXNrcykK</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGUgZXhhY3QgcGF0aD17Jy9nZXQtZGF0YS8nfSA+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3ByaW50TWVhc3VyZW1lbnRzfSAvPgogICAgICAgIDwvUm91dGU+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwIHN0eWxlPXtpbnN0cnVjdGlvbnNTdHlsZX0+VHlwZSB0aGUgdGV4dCBiZWxvdyBpbnRvIHRoZSB0ZXh0IGJveDwvcD4K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHByaW50TWVhc3VyZW1lbnRzID0gKCkgPT4KICBkYi5jb2xsZWN0aW9uKCdtZWFzdXJlbWVudHMnKS5nZXQoKS50aGVuKChxcykgPT4gewogICAgY29uc29sZS5sb2cocXMpCiAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IHNlbnRlbmNlcyA9IFsKICAiVGhlIGZpdmUgYm94aW5nIHdpemFyZHMganVtcCBxdWlja2x5LiIsCiAgIkhvdyBFbmdsYW5kJ3MgdGVzdC1hbmQtdHJhY2Ugc3lzdGVtIGdvbmUgd3JvbmcuIiwKICAiUXVlZW4gYW5kIFBoaWxpcCBtYXJrIGFubml2ZXJzYXJ5IHdpdGggbmV3IHBob3RvIiwKICAiSW5kaWFuIGJhbGxldCBwcm9kaWd5IGZpbmRzIGZlZXQgaW4gTG9uZG9uLiIsCiAgIlBhcmRvbiBtZS4gRG8geW91IGtub3cgd2hhdCB0aW1lIHRoaXMgcGxhY2UgY2xvc2VzPyIsCiAgIkkgcmVhbGx5IGxpa2UgeW91ciBzaG9lcy4gRGlkIHlvdSBnZXQgdGhlbSBuZWFyIGhlcmU/IiwKXQo=</text>
+        <text>No version of NDK matched the requested version 21.0.6113669. Versions available locally: 21.3.6528147</text>
       </register>
       <register name="u" type="4">
         <text>@:wgUiw</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFdlIHNob3VsZCBjbGVhciBldmVyeXRoaW5nIGFuZCBzaG93IGEgdGhhbmsgeW91IG1lc3NhZ2UgSSB0aGluawo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnVGFza3MnLCB0YXNrcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1613,10 +1618,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIDxwIHN0eWxlPXtpbnN0cnVjdGlvbnNTdHlsZX0+VHlwZSB0aGUgdGV4dCBiZWxvdyBpbnRvIHRoZSB0ZXh0IGJveDwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VFZmZlY3QoKCkgPT4gewo=</text>
+        <text encoding="base64">CmNvbnN0IHNlbnRlbmNlcyA9IFsKICAiVGhlIGZpdmUgYm94aW5nIHdpemFyZHMganVtcCBxdWlja2x5LiIsCiAgIkhvdyBFbmdsYW5kJ3MgdGVzdC1hbmQtdHJhY2Ugc3lzdGVtIGdvbmUgd3JvbmcuIiwKICAiUXVlZW4gYW5kIFBoaWxpcCBtYXJrIGFubml2ZXJzYXJ5IHdpdGggbmV3IHBob3RvIiwKICAiSW5kaWFuIGJhbGxldCBwcm9kaWd5IGZpbmRzIGZlZXQgaW4gTG9uZG9uLiIsCiAgIlBhcmRvbiBtZS4gRG8geW91IGtub3cgd2hhdCB0aW1lIHRoaXMgcGxhY2UgY2xvc2VzPyIsCiAgIkkgcmVhbGx5IGxpa2UgeW91ciBzaG9lcy4gRGlkIHlvdSBnZXQgdGhlbSBuZWFyIGhlcmU/IiwKXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
