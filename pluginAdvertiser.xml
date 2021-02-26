@@ -29,6 +29,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.adoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.aidl">
           <value>
             <plugin>
@@ -92,6 +108,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.asciidoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ats">
           <value>
             <plugin>
@@ -144,6 +168,46 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.boringignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.bzrignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cabal">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.haskell" />
+              <option name="myPluginName" value="IntelliJ-Haskell" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cfignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.chefignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -185,6 +249,14 @@
             <plugin>
               <option name="myPluginId" value="nl.rubensten.texifyidea" />
               <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cmt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -242,6 +314,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cvsignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dbx">
           <value>
             <plugin>
@@ -273,7 +353,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -331,6 +410,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.dockerignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.docx">
           <value>
             <plugin>
@@ -367,12 +454,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ebignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.egg">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ejs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.lang.ejs" />
+              <option name="myPluginName" value="EJS" />
             </plugin>
           </value>
         </entry>
@@ -412,12 +515,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.eslintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.feature">
           <value>
             <plugin>
               <option name="myPluginId" value="gherkin" />
               <option name="myPluginName" value="Gherkin" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.flooignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -493,6 +612,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gcloudignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gdbcommandsfiletypeextension">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.nativeDebug" />
+              <option name="myPluginName" value="Native Debugging Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gdsl">
           <value>
             <plugin>
@@ -517,6 +652,14 @@
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.glstex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
             </plugin>
           </value>
         </entry>
@@ -583,6 +726,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.helmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.hgignore">
           <value>
             <plugin>
@@ -598,6 +749,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.haskell" />
+              <option name="myPluginName" value="IntelliJ-Haskell" />
             </plugin>
           </value>
         </entry>
@@ -658,9 +817,16 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ignore-glob">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -688,6 +854,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ipynb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
             </plugin>
           </value>
         </entry>
@@ -745,6 +919,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jinja2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jnlp">
           <value>
             <plugin>
@@ -769,6 +951,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jpmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -853,6 +1043,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jshintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jshintrc">
           <value>
             <plugin>
@@ -921,7 +1119,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -939,7 +1136,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -948,7 +1144,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -957,7 +1152,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -966,7 +1160,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -975,7 +1168,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -984,7 +1176,6 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1012,6 +1203,22 @@
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.lldbcommandsfiletypeextension">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.nativeDebug" />
+              <option name="myPluginName" value="Native Debugging Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mako">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
             </plugin>
           </value>
         </entry>
@@ -1060,6 +1267,54 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ml4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mlg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mli">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mll">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mly">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mod">
           <value>
             <plugin>
@@ -1069,12 +1324,44 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mtn-ignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ng">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nodemonignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.npmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nuxtignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1093,6 +1380,14 @@
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.p4ignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1204,6 +1499,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prettierignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pro">
           <value>
             <plugin>
@@ -1239,12 +1542,109 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pxd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pxi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.py">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pyx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.qrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.re">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rei">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.res">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.resi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -1284,12 +1684,19 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.routes">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rs">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="org.rust.lang" />
+              <option name="myPluginName" value="Rust" />
             </plugin>
           </value>
         </entry>
@@ -1308,6 +1715,46 @@
               <option name="myPluginId" value="org.jetbrains.plugins.sass" />
               <option name="myPluginName" value="Sass" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sbt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sbts">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.scala">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.scala.html">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1356,6 +1803,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.smali">
           <value>
             <plugin>
@@ -1392,6 +1847,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ssp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sty">
           <value>
             <plugin>
@@ -1409,12 +1872,36 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.stylelintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.stylintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.svg">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.swagger-codegen-ignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1462,11 +1949,27 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tasty">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tex">
           <value>
             <plugin>
               <option name="myPluginId" value="nl.rubensten.texifyidea" />
               <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tfignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1511,6 +2014,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -1568,12 +2079,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ui">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.uml">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.diagram" />
               <option name="myPluginName" value="UML" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.upignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1631,6 +2158,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.web2py">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.webp">
           <value>
             <plugin>
@@ -1655,6 +2190,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.x">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="intellij.haskell" />
+              <option name="myPluginName" value="IntelliJ-Haskell" />
             </plugin>
           </value>
         </entry>
@@ -1802,6 +2345,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".asciidoctorconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1901,6 +2452,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".prettierrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".project">
           <value>
             <plugin>
@@ -1943,6 +2503,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -1991,6 +2559,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="biblatex.cfg">
           <value>
             <plugin>
@@ -2005,6 +2589,38 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="buildout.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="dune">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="dune-project">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -2023,6 +2639,14 @@
               <option name="myPluginId" value="com.jetbrains.restClient" />
               <option name="myPluginName" value="HTTP Client" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="jbuild">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" value="ReasonML" />
             </plugin>
           </value>
         </entry>
@@ -2104,6 +2728,14 @@
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="routes">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -2245,14 +2877,29 @@
                       <FeaturePluginData displayName="BibTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
+                  <entry key="BSP_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="Buck test">
                     <value>
                       <FeaturePluginData displayName="Buck test" pluginName="Buck for IDEA" pluginId="intellij.buck.plugin" />
                     </value>
                   </entry>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="Codeforces">
+                    <value>
+                      <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -2270,6 +2917,21 @@
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
+                  <entry key="DjangoTestsConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="ELM_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Elm Test" pluginName="Elm" pluginId="org.elm.klazuka" />
+                    </value>
+                  </entry>
+                  <entry key="EXTERNAL_TOOL_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="External LaTeX Tool" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -2278,6 +2940,11 @@
                   <entry key="GlassfishConfiguration">
                     <value>
                       <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" />
+                    </value>
+                  </entry>
+                  <entry key="GradleKonanAppRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Kotlin/Native Application" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -2293,6 +2960,11 @@
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
+                    </value>
+                  </entry>
+                  <entry key="HaskellStackConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Haskell Stack" pluginName="IntelliJ-Haskell" pluginId="intellij.haskell" />
                     </value>
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
@@ -2375,6 +3047,11 @@
                       <FeaturePluginData displayName="Makeindex" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
+                  <entry key="MUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
@@ -2400,6 +3077,51 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
                     </value>
                   </entry>
+                  <entry key="OCAML_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="OCaml REPL" pluginName="reasonml" pluginId="reasonml" />
+                    </value>
+                  </entry>
+                  <entry key="Play2FrameworkRunConfigurations">
+                    <value>
+                      <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="PyBehaveRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="PyRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python Debug Server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.AppEngineServer">
+                    <value>
+                      <FeaturePluginData displayName="App Engine server" pluginName="Pythonid" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.DjangoServer">
+                    <value>
+                      <FeaturePluginData displayName="Django Server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.FlaskServer">
+                    <value>
+                      <FeaturePluginData displayName="Flask server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="Python.PyramidServer">
+                    <value>
+                      <FeaturePluginData displayName="Pyramid server" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="PythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
                   <entry key="QuarkusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
@@ -2415,9 +3137,34 @@
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
+                  <entry key="SbtRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="sbt Task" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaAmmoniteRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ammonite" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaScriptConsoleRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Scala REPL" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="ScalaTest" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="Specs2RunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="SpringBootApplicationConfigurationType">
@@ -2445,9 +3192,19 @@
                       <FeaturePluginData displayName="TomEE Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
                     </value>
                   </entry>
+                  <entry key="Tox">
+                    <value>
+                      <FeaturePluginData displayName="tox" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="WebLogic Instance">
@@ -2463,6 +3220,11 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="ccruntests">
+                    <value>
+                      <FeaturePluginData displayName="Run Study Tests" pluginName="com.jetbrains.edu" pluginId="com.jetbrains.edu" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
@@ -2495,6 +3257,21 @@
                       <FeaturePluginData displayName="Processing" pluginName="Processing IDEA" pluginId="org.idea.processing.plugin" />
                     </value>
                   </entry>
+                  <entry key="org.spekframework.spek2-jvm">
+                    <value>
+                      <FeaturePluginData displayName="Spek 2 - JVM" pluginName="Spek Framework" pluginId="org.spekframework" />
+                    </value>
+                  </entry>
+                  <entry key="tests">
+                    <value>
+                      <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="uTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -2508,6 +3285,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="Python">
+                    <value>
+                      <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -2535,9 +3317,24 @@
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
+                  <entry key="buildout-python">
+                    <value>
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
+                  <entry key="django">
+                    <value>
+                      <FeaturePluginData displayName="Django" pluginName="Python" pluginId="Pythonid" />
+                    </value>
+                  </entry>
                   <entry key="ejb">
                     <value>
                       <FeaturePluginData displayName="EJB" pluginName="Java EE: Enterprise Java Beans (EJB)" pluginId="com.intellij.javaee.ejb" />
+                    </value>
+                  </entry>
+                  <entry key="google-appengine-python">
+                    <value>
+                      <FeaturePluginData displayName="Google App Engine (Python)" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="hibernate">
@@ -2568,6 +3365,11 @@
                   <entry key="native-android-gradle">
                     <value>
                       <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="ocaml-dune">
+                    <value>
+                      <FeaturePluginData displayName="Dune" pluginName="reasonml" pluginId="reasonml" />
                     </value>
                   </entry>
                   <entry key="web">
