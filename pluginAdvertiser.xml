@@ -2745,6 +2745,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="poetry.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="proguard-*.txt">
           <value>
             <plugin>
@@ -3212,6 +3220,11 @@
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
                     </value>
                   </entry>
                   <entry key="TestNG">
