@@ -2922,6 +2922,16 @@
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="BlazeCommandRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Bazel Command" pluginName="Bazel" pluginId="com.google.idea.bazel.ijwb" />
+                    </value>
+                  </entry>
+                  <entry key="BlazeIntellijPluginConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Bazel IntelliJ Plugin" pluginName="com.google.idea.bazel.ijwb" pluginId="com.google.idea.bazel.ijwb" />
+                    </value>
+                  </entry>
                   <entry key="Buck test">
                     <value>
                       <FeaturePluginData displayName="Buck test" pluginName="Buck for IDEA" pluginId="intellij.buck.plugin" />
