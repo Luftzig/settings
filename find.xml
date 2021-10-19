@@ -1,15 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'demo_tflite_gpu'" />
-    <option name="defaultScopeName" value="Project 'demo_tflite_gpu'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
-    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'demo_tflite_gpu'" />
-    <option name="FILE_MASK" value="*.ejs" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,5 +21,7 @@
     <mask>*.ts?</mask>
     <mask>*.js</mask>
     <mask>*.ejs</mask>
+    <mask>*.ts</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
