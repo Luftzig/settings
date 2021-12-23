@@ -5,7 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.elm" />
+    <option name="FILE_MASK" value="*.ts*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +20,7 @@
     <mask>*.js</mask>
     <mask>*.ejs</mask>
     <mask>*.ts</mask>
-    <mask>*.ts*</mask>
     <mask>*.elm</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
