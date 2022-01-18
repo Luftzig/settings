@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="ino" type="C++" />
       <mapping pattern="gradlew" type="Groovy" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="*-js.php" type="JavaScript" />
       <mapping pattern="business-app-v11.php" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
