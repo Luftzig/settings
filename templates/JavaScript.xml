@@ -1,0 +1,11 @@
+<templateSet group="JavaScript">
+  <template name="_file" value="&quot;$fileName$:$lineNumber$:$methodName$&quot;" description="Insert file name and scope string" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="lineNumber" expression="lineNumber()" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_DOT_PROPERTY_ACCESS" value="false" />
+    </context>
+  </template>
+</templateSet>
