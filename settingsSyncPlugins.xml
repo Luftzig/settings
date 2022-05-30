@@ -200,6 +200,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="dev.mayankmkh.intellij.linear">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.tasks" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="hunspell">
           <value>
             <PluginData>
@@ -263,7 +275,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
