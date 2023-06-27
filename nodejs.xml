@@ -1,19 +1,22 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="/opt/homebrew/bin/node">
+      <version-cache last-modified="1685522199510" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="18.10.0" last-modified="1664467798009" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/18.10.0/bin/node">
-      <version-cache version="18.10.0" last-modified="1664467798009" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/17.9.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nodenv/shims/node">
+      <version-cache version="16.17.1" last-modified="1685532163456" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nodenv/versions/16.10.0/bin/node">
       <version-cache version="16.10.0" last-modified="1636634415927" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nodenv/shims/node">
-      <version-cache version="16.4.1" last-modified="1626514232162" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/16.4.1/bin/node">
       <version-cache last-modified="0" />
